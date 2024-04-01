@@ -1,6 +1,6 @@
 # 互联网黑话词汇 Chinese Internet Slang
 
-词汇来源：[互联网黑话词汇表](https://github.com/justjavac/ali-words)
+词汇来源: [互联网黑话词汇表](https://github.com/justjavac/ali-words)
 词汇解释: [ChatGPT 4](https://chat.openai.com/)
 
 ## 二字词汇列表
