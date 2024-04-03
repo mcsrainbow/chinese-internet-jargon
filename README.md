@@ -817,7 +817,7 @@ All in - 全力以赴，投入所有资源和精力
 ```markdown
 赋能 - Empower
 抓手 - Leverage point / Handle
-中台 - Middleware / Back-end platform
+中台 - Middleware / Middle-end platform
 闭环 - Closed loop
 落地 - Implement / Land (a project)
 漏斗 - Funnel
