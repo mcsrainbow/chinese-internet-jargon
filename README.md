@@ -812,7 +812,7 @@ All in - 全力以赴，投入所有资源和精力
 向下传递寒气 - 指上层的不利情况或压力被传递给下层，影响整体氛围或表现
 ```
 
-# 二次词汇翻译
+## 二次词汇翻译
 
 ```markdown
 赋能 - Empower
@@ -1170,7 +1170,7 @@ All in - 全力以赴，投入所有资源和精力
 银弹 - Silver bullet
 ```
 
-# 三字词汇翻译
+## 三字词汇翻译
 
 ```markdown
 对一下 - Check / Align
@@ -1295,7 +1295,7 @@ All in - 全力以赴，投入所有资源和精力
 软夺权 - Soft power grab
 ```
 
-# 四字词汇翻译
+## 四字词汇翻译
 
 ```markdown
 支棱起来 - Brace up / Stand ready
@@ -1488,7 +1488,7 @@ All in - 全力以赴，投入所有资源和精力
 活跃度高 - High activity level
 ```
 
-# 五字词汇翻译
+## 五字词汇翻译
 
 ```markdown
 精神SPA - Mental SPA / Psychological comfort
@@ -1530,7 +1530,7 @@ All in - 全力以赴，投入所有资源和精力
 方言化认知 - Dialectal cognition
 ```
 
-# 六字词汇翻译
+## 六字词汇翻译
 
 ```markdown
 All in - All in
