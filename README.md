@@ -104,7 +104,7 @@ All in, 不跟风要造风, 多维矩阵闭环, 打开销售通路, 向下传递
 ```markdown
 PR稿, A/B测试,
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接, 接棒, 继承, 联调, 监测, 复现, 重现, 提议, 提案, 对等, 进展,
-预算, 路演, 人设, 定位,
+预算, 路演, 人设, 定位, 权重, 共振, 连爆, 瞬爆, 切片, 起号, 养号, 算法, 限流, 断流, 达人
 交学费, 智商税, 阶段性, 有深度, 原动力, 三板斧, 利益点,
 社区团购, 图灵完备, 输送人才, 自我价值, 消费升级, 消费降级, 借假修真, 信息屏障, 虚拟现实, 增强现实,
 天时地利人和, 品牌记忆系统, 心智切割利器
@@ -875,6 +875,17 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 路演 - 为推广项目或筹资而进行的一系列演讲或展示
 人设 - 公众人物塑造的公众形象或角色
 定位 - 确定产品或品牌的市场位置和目标受众
+权重 - 某个因素或指标的重要性或影响力
+共振 - 与大量用户的兴趣或情感产生强烈共鸣，导致迅速流行
+连爆 - 连续发布多个作品，每个都快速获得大量关注
+瞬爆 - 作品在发布后极短时间内获得巨大关注和传播
+切片 - 将一段长内容拆分成多个短视频，以适应平台的内容消费习惯
+起号 - 在平台上注册新账号开始发布内容
+养号 - 通过定期发布高质量作品和互动，提高账号的粉丝量和活跃度
+算法 - 完成特定任务的计算方法和步骤
+限流 - 对曝光量进行限制
+断流 - 暂时或永久停止其曝光
+达人 - 拥有大量粉丝或高度影响力的用户，通常在特定领域内具有专业知识或特别技能
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
 阶段性 - 分阶段进行，每个阶段有特定目标或结果
@@ -991,7 +1002,7 @@ DPU - Data Processing Unit，数据处理器
 CVR - Conversion Rate，转化率
 PCU - Peak Concurrent Users，最高并发用户
 GPM - GMV Per Mille，千次交易总额 / Gallons Per Minute，加仑每分钟
-SKU - Stock Keeping Unit，存货单位(产品)
+SKU - Stock Keeping Unit，库存单位(产品)
 DSR - Detail Seller Rating，卖家服务评级 / Daily Sales Report，日销售报告
 VCR - Video Cassette Recorder，录像机(视频片断)
 ```
@@ -1750,6 +1761,17 @@ A/B测试 - A/B testing
 路演 - Roadshow
 人设 - Persona / Public image
 定位 - Positioning
+权重 - Weight
+共振 - Resonance
+连爆 - Serial Virality
+瞬爆 - Instant Virality
+切片 - Segmentation
+起号 - Account Creation
+养号 - Account Nurturing
+算法 - Algorithm
+限流 - Rate Limiting
+断流 - Throttling
+达人 - Influencer
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
 阶段性 - Phase-based / Stage-by-stage
