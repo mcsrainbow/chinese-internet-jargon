@@ -1703,7 +1703,7 @@ All in - All in
 ## 补充词汇翻译
 
 ```markdown
-PR稿 - Press release
+PR稿 - Press release / Public relations
 A/B测试 - A/B testing
 熵减 - Entropy reduction
 熵增 - Entropy increase
