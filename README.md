@@ -26,8 +26,8 @@
 环节, 困局, 话术, 文案, 议程, 公关, 配称, 力场, 魔方, 触点, 势能, 流量, 资源, 排期, 延期, 弹窗, 浮层,
 引导, 蒙层, 幕帘, 遮罩, 埋点, 坑位, 楼层, 按钮, 推送, 红包, 峰值, 漏洞, 风险, 瓶颈, 策略, 价值, 成本,
 复利, 人性, 利器, 深度, 玩家, 小白, 韭菜, 羊毛, 福利, 套路, 情怀, 标准, 规范, 报备, 社群, 产业, 载体,
-服务, 粘性, 属性, 地域, 终端, 版本, 口碑, 指标, 年框, 试点, 母体, 空白, 银弹 
-``` 
+服务, 粘性, 属性, 地域, 终端, 版本, 口碑, 指标, 年框, 试点, 母体, 空白, 银弹
+```
 
 ## 三字词汇列表
 
@@ -82,6 +82,37 @@
 
 ```markdown
 All in, 不跟风要造风, 多维矩阵闭环, 打开销售通路, 向下传递寒气
+```
+
+## 补充词汇列表
+
+```markdown
+PR稿, A/B测试,
+熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接, 接棒, 继承, 联调, 监测, 复现, 重现, 提议, 提案, 对等, 进展,
+预算, 路演, 人设, 定位,
+交学费, 智商税, 阶段性, 有深度, 原动力, 三板斧, 利益点,
+社区团购, 图灵完备, 输送人才, 自我价值, 消费升级, 消费降级, 借假修真, 信息屏障, 虚拟现实, 增强现实,
+天时地利人和, 品牌记忆系统, 心智切割利器
+```
+
+## 英文缩写列表
+
+```markdown
+HR, HRBP, HRM, HRD, PM, PMO, OD, OA, CRM, ERP, CEO, COO, CFO, CTO, CIO, CSO, CDO, VP, SVP, AVP,
+GM, MD, AD, CMS, SCM, OU, BU, BG, VC, BP, IP, MCN, UGC, PGC, OGC, CPC, CPM, CTR, KPI, OKR, ROI,
+DAU, MAU, PV, UV, ARPU, GMV, CLV, KOC, KOL, B2C, C2C, B2B, O2O, P2P, IaaS, PaaS, SaaS, OTA, SEM,
+SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG, IoT
+```
+
+## 补充词汇列表
+
+```markdown
+PR稿, A/B测试
+熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接, 接棒, 继承, 联调, 监测, 复现, 重现, 提议, 提案, 对等,
+进展, 预算, 路演, 人设, 定位
+交学费, 智商税, 阶段性, 有深度, 原动力, 三板斧, 利益点
+社区团购, 图灵完备, 输送人才, 自我价值, 消费升级, 消费降级, 借假修真, 信息屏障, 虚拟现实, 增强现实
+天时地利人和, 品牌记忆系统, 心智切割利器
 ```
 
 ## 二字词汇解释
@@ -812,6 +843,130 @@ All in - 全力以赴，投入所有资源和精力
 向下传递寒气 - 指上层的不利情况或压力被传递给下层，影响整体氛围或表现
 ```
 
+## 补充词汇解释
+
+```markdown
+PR稿 - 用于向公众传播信息的新闻稿或通讯稿
+A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
+熵减 - 系统从混乱向有序转变，常用来形容项目优化
+熵增 - 系统从有序向混乱转变，通常表示情况恶化
+毕业 - 完成某个阶段或任务，准备进入下一阶段
+极高 - 指数值或水平达到非常高的程度
+奇高 - 异常高的水平或数值，超出常规
+新高 - 达到新的最高水平或记录
+交接 - 工作或任务从一个人或团队传递给另一个
+接棒 - 继承前人的任务或责任，继续前进
+继承 - 接受并承担之前的职责或资源
+联调 - 不同模块或系统协同测试，确保整体运作
+监测 - 跟踪和记录系统或项目的运行状态
+复现 - 重现问题或现象，以便分析和解决
+重现 - 使之前的情况或问题再次出现
+提议 - 提出建议或方案供考虑
+提案 - 正式提交的建议或计划
+对等 - 在地位、数量、质量等方面相等或相匹配
+进展 - 项目或工作向前发展的情况
+预算 - 计划内的财务支出和收入
+路演 - 为推广项目或筹资而进行的一系列演讲或展示
+人设 - 公众人物塑造的公众形象或角色
+定位 - 确定产品或品牌的市场位置和目标受众
+交学费 - 通过失败或错误学到教训，付出代价学习
+智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
+阶段性 - 分阶段进行，每个阶段有特定目标或结果
+有深度 - 内容或讨论具有深刻的意义和价值
+原动力 - 推动事物发展或人前进的内在动力
+三板斧 - 形容解决问题的三种有效方法或策略
+利益点 - 个人或集体关注的核心利益或优势
+社区团购 - 社区居民集体在线购买商品，以低价批发的方式
+图灵完备 - 能够实现任何计算任务的系统或语言
+输送人才 - 培养并提供人才给需要的组织或领域
+自我价值 - 个人对自己能力和贡献的认识和评价
+消费升级 - 消费者追求更高质量和服务的趋势
+消费降级 - 面对经济压力，消费者选择更低成本的商品或服务
+借假修真 - 在休息或放松的外表下，秘密地提升自己的能力
+信息屏障 - 阻碍信息自由流通的障碍
+虚拟现实 - 通过计算机技术创造的模拟环境
+增强现实 - 将虚拟信息叠加到真实世界上，增强现实体验
+天时地利人和 - 形容成功需要时机、地点和人的和谐配合
+品牌记忆系统 - 建立品牌形象和信息在消费者心中的记忆机制
+心智切割利器 - 高效影响或改变人们思考方式的方法或工具
+```
+
+## 英文缩写解释
+
+```markdown
+HR - Human Resources，人力资源
+HRBP - Human Resources Business Partner，人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
+HRM - Human Resource Manager，人力资源经理
+HRD - Human Resource Director，人力资源总监
+PM - Project Manager，项目经理 / Product Manager，产品经理 / Production Manager，生产经理
+PMO - Project Management Office，项目管理办公室，专门负责组织和协调项目管理活动的团队
+OD - Outsourcing Dispacth，外包派遣
+OA - Office Automation，办公自动化
+CRM - Customer Relationship Management，客户关系管理
+ERP - Enterprise Resource Planning，企业资源计划，整合企业流程的营运管理软件
+CEO - Chief Executive Officer，首席执行官
+COO - Chief Operated Officer，首席运营官
+CFO - Chief Finacial Officer，首席财务官
+CTO - Chief Technology Officer，首席技术官
+CIO - Chief Information Officer，首席信息官
+CSO - Chief Security Officer，首席安全官 / Chief Strategy Officer，首席战略官
+CDO - Chief Data Officer，首席数据官 / Chief Digital Officer，首席数字官
+VP - Vice President，副总裁
+SVP - Senior Vice President，高级副总裁
+AVP - Assistant Vice President，副总裁助理
+GM - General Manager，总经理
+MD - Marketing Director，市场总监 / Managing Director，董事总经理(投行)
+AD - Assistant Director，助理总监 / Active Directory，活动目录(Windows Server)
+CMS - Content Management System，内容管理系统
+SCM - Supply Chain Management，供应链管理
+OU - Organizational Unit，组织单位
+BU - Business Unit，业务单元
+BG - Business Group，业务集团
+VC - Venture Capital，风险投资
+BP - Business Plan，商业计划书
+IP - Intellectual Property，知识产权 / Internet Protocol，互联网协议
+MCN - Multi-Channel Network，多频道网络(网红经纪公司)
+UGC - User Generated Content，用户生成内容
+PGC - Professionally Generated Content，专业生成内容
+OGC - Officially Generated Content，官方生成内容
+CPC - Cost Per Click，单次点击成本
+CPM - Cost Per Mille，千次展示成本
+CTR - Click Through Rate，点击率
+KPI - Key Performance Indicator，关键绩效指标
+OKR - Objectives and Key Results，目标与关键结果
+ROI - Return on Investment，投资回报率
+DAU - Daily Active Users，日活跃用户
+MAU - Monthly Active Users，月活跃用户
+PV - Page Views，页面浏览量
+UV - Unique Visitors，独立访客数
+ARPU - Average Revenue Per User，每用户平均收入
+GMV - Gross Merchandise Value，商品总价值
+CLV - Customer Lifetime Value，客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
+KOC - Key Opinion Consumer，关键意见消费者
+KOL - Key Opinion Leader，关键意见领袖
+B2C - Business to Consumer，企业对消费者，如京东
+C2C - Consumer to Consumer，消费者对消费者，如淘宝
+B2B - Business to Business，企业对企业，如阿里巴巴
+O2O - Online to Offline，线上到线下,如美团
+P2P - Person to Person，个人对个人(互联网金融借贷平台) / Peer-to-Peer，点对点(网络技术架构)
+IaaS - Infrastructure as a Service，基础设施即服务
+PaaS - Platform as a Service，平台即服务
+SaaS - Software as a Service，软件即服务
+OTA - Over The Air 远程(升级) / Online Travel Agency 在线旅游机构
+SEM - Search Engine Marketing，搜索引擎营销
+SEO - Search Engine Optimization，搜索引擎优化
+ASO - App Store Optimization，应用商店优化
+VR - Virtual Reality，虚拟现实
+AR - Augmented Reality，增强现实
+MR - Mixed Reality，混合现实，虚拟现实与增强现实的结合 / Market Research，市场研究
+LBS - Location Based Service，基于位置的服务
+SOHO - Small Office Home Office，家居办公
+SNS - Social Networking Services 社会性网络服务
+TMT - Technology，Media，Telecom，科技，媒体，电信的新媒体形式
+ACG - Animation，Comic，Game，动画，漫画，游戏的总称
+IoT - Internet of Things，物联网
+```
+
 ## 二字词汇翻译
 
 ```markdown
@@ -1538,4 +1693,52 @@ All in - All in
 多维矩阵闭环 - Multidimensional matrix closed-loop
 打开销售通路 - Open sales channels
 向下传递寒气 - Send chills down the hierarchy (often implying top management’s displeasure or tough measures affecting the entire organization)
+```
+
+## 补充词汇翻译
+
+```markdown
+PR稿 - Press release
+A/B测试 - A/B testing
+熵减 - Entropy reduction
+熵增 - Entropy increase
+毕业 - Graduation (often metaphorical, indicating moving on from a platform or level)
+极高 - Extremely high
+奇高 - Uncommonly high
+新高 - New high
+交接 - Handover
+接棒 - Passing the baton / Taking over
+继承 - Inheritance
+联调 - Joint debugging / Integration testing
+监测 - Monitoring
+复现 - Reproduction (of a bug, issue, etc.)
+重现 - Replication / Recurrence
+提议 - Suggestion
+提案 - Proposal
+对等 - Equivalent
+进展 - Progress
+预算 - Budget
+路演 - Roadshow
+人设 - Persona / Public image
+定位 - Positioning
+交学费 - Paying tuition (figuratively, learning from a costly mistake)
+智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
+阶段性 - Phase-based / Stage-by-stage
+有深度 - In-depth
+原动力 - Driving force
+三板斧 - Three main strategies or techniques
+利益点 - Point of interest / Benefit point
+社区团购 - Community group buying
+图灵完备 - Turing complete
+输送人才 - Talent delivery / Cultivation and transfer of talent
+自我价值 - Self-worth
+消费升级 - Consumption upgrade
+消费降级 - Consumption downgrade
+借假修真 - Fake it till you make it / Improving oneself under disguise
+信息屏障 - Information barrier
+虚拟现实 - Virtual reality (VR)
+增强现实 - Augmented reality (AR)
+天时地利人和 - Favorable timing, geographical convenience, and human harmony
+品牌记忆系统 - Brand memory system
+心智切割利器 - Mental model segmentation tool
 ```
