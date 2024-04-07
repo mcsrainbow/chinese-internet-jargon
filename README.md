@@ -3,6 +3,22 @@
 词汇来源: [互联网黑话词汇表](https://github.com/justjavac/ali-words)  
 解释翻译: [ChatGPT 4](https://chat.openai.com/)  
 
+
+解释提示词:
+
+```
+请通过15至35个字简要地逐个依次解释以下互联网黑话词汇, 这些词汇通常用于商业, 技术和营销领域, 反映了互
+联网行业的特定语境和文化
+```
+
+翻译提示词:
+
+```
+请简要地逐个依次将以下中文互联网黑话词汇翻译为能表达其中文含义的英文词汇, 这些词汇包含了很多与互联网
+行业和现代企业文化特别相关的词汇, 尽量为每一个提供一个贴切的英文翻译或等效表达, 注意某些词汇可能没有
+直接对应的英文表达, 请提供最接近的解释或者是行业内常用的表述
+```
+
 ## 二字词汇列表
 
 ```markdown
@@ -102,17 +118,6 @@ HR, HRBP, HRM, HRD, PM, PMO, OD, OA, CRM, ERP, CEO, COO, CFO, CTO, CIO, CSO, CDO
 SVP, AVP, GM, MD, AD, CMS, SCM, OU, BU, BG, VC, BP, IP, MCN, UGC, PGC, OGC, CPC, CPM,
 CTR, KPI, OKR, ROI, DAU, MAU, PV, UV, ARPU, GMV, CLV, KOC, KOL, B2C, C2C, B2B, O2O,
 P2P, IaaS, PaaS, SaaS, OTA, SEM, SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG, IoT
-```
-
-## 补充词汇列表
-
-```markdown
-PR稿, A/B测试
-熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接, 接棒, 继承, 联调, 监测, 复现, 重现, 提议, 提案, 对等,
-进展, 预算, 路演, 人设, 定位
-交学费, 智商税, 阶段性, 有深度, 原动力, 三板斧, 利益点
-社区团购, 图灵完备, 输送人才, 自我价值, 消费升级, 消费降级, 借假修真, 信息屏障, 虚拟现实, 增强现实
-天时地利人和, 品牌记忆系统, 心智切割利器
 ```
 
 ## 二字词汇解释
