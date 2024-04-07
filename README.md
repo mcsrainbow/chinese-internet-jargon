@@ -930,7 +930,7 @@ CSO - Chief Security Officer，首席安全官 / Chief Strategy Officer，首席
 CDO - Chief Data Officer，首席数据官 / Chief Digital Officer，首席数字官
 VP - Vice President，副总裁
 SVP - Senior Vice President，高级副总裁
-AVP - Assistant Vice President，副总裁助理
+AVP - Assistant Vice President，助理副总裁
 GM - General Manager，总经理
 MD - Marketing Director，市场总监 / Managing Director，董事总经理(投行)
 AD - Assistant Director，助理总监 / Active Directory，活动目录(Windows Server)
