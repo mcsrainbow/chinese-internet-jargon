@@ -3,11 +3,10 @@
 词汇来源: [互联网黑话词汇表](https://github.com/justjavac/ali-words)  
 解释翻译: [ChatGPT 4](https://chat.openai.com/)  
 
-
 解释提示词:
 
 ```
-请通过15至35个字简要地逐个依次解释以下互联网黑话词汇，这些词汇通常用于商业，技术和营销领域，反映了互联网
+请通过15个字左右简要地逐个依次解释以下互联网黑话词汇，这些词汇通常用于商业，技术和营销领域，反映了互联网
 行业的特定语境和文化
 ```
 
@@ -117,7 +116,9 @@ PR稿, A/B测试,
 HR, HRBP, HRM, HRD, PM, PMO, OD, OA, CRM, ERP, CEO, COO, CFO, CTO, CIO, CSO, CDO, VP,
 SVP, AVP, GM, MD, AD, CMS, SCM, OU, BU, BG, VC, BP, IP, MCN, UGC, PGC, OGC, CPC, CPM,
 CTR, KPI, OKR, ROI, DAU, MAU, PV, UV, ARPU, GMV, CLV, KOC, KOL, B2C, C2C, B2B, O2O,
-P2P, IaaS, PaaS, SaaS, OTA, SEM, SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG, IoT
+P2P, IaaS, PaaS, SaaS, OTA, SEM, SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG, IoT,
+BI, BE, BA, AI, AIGC, AGI, LLM, GPT, NLP, NN, CV, DM, DL, ML, CPU, GPU, DPU, CVR, PCU,
+GPM, SKU, DSR, VCR
 ```
 
 ## 二字词汇解释
@@ -271,7 +272,7 @@ P2P, IaaS, PaaS, SaaS, OTA, SEM, SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG,
 摸鱼 - 工作时偷懒或消遣
 划水 - 做事敷衍了事或不负责任
 众筹 - 通过大众投资支持项目或创意
-收割 - 收获或获得（通常指利润）
+收割 - 收获或获得(通常指利润)
 共享 - 多方使用同一资源
 重组 - 调整结构或组织
 收口 - 结束讨论或项目阶段
@@ -957,7 +958,7 @@ P2P - Person to Person，个人对个人(互联网金融借贷平台) / Peer-to-
 IaaS - Infrastructure as a Service，基础设施即服务
 PaaS - Platform as a Service，平台即服务
 SaaS - Software as a Service，软件即服务
-OTA - Over The Air 远程(升级) / Online Travel Agency 在线旅游机构
+OTA - Over The Air，远程(升级) / Online Travel Agency，在线旅游机构
 SEM - Search Engine Marketing，搜索引擎营销
 SEO - Search Engine Optimization，搜索引擎优化
 ASO - App Store Optimization，应用商店优化
@@ -970,12 +971,35 @@ SNS - Social Networking Services 社会性网络服务
 TMT - Technology，Media，Telecom，科技、媒体、电信的新媒体形式
 ACG - Animation，Comic，Game，动画、漫画、游戏的总称
 IoT - Internet of Things，物联网
+BI - Business Intelligence，商业智能
+BE - Business Enablement，商业赋能
+BA - Business Analyst，商业分析师 / Business Analysis，商业分析(围绕业务) / Business Analytics，商业分析(围绕数据)
+AI - Artificial Intelligence，人工智能
+AIGC - AI Generated Content，AI生成内容
+AGI - Artificial General Intelligence，通用人工智能
+LLM - Large Language Model，大型语言模型
+GPT - Generative Pre-trained Transformer，基于Transformer的生成式预训练模型
+NLP - Natural Language Processing，自然语言处理
+NN - Neural Network，神经网络
+CV - Computer Vision，计算机视觉 / Curriculum and Vitae，个人履历
+DM - Data Mining，数据挖掘 / Direct Message，直接消息
+DL - Deep Learning，深度学习
+ML - Machine Learning，机器学习
+CPU - Central Processing Unit，中央处理器
+GPU - Graphics Processing Unit，图形处理器
+DPU - Data Processing Unit，数据处理器
+CVR - Conversion Rate，转化率
+PCU - Peak Concurrent Users，最高并发用户
+GPM - GMV Per Mille，千次交易总额 / Gallons Per Minute，加仑每分钟
+SKU - Stock Keeping Unit，存货单位(产品)
+DSR - Detail Seller Rating，卖家服务评级 / Daily Sales Report，日销售报告
+VCR - Video Cassette Recorder，录像机(视频片断)
 ```
 
 ## 二字词汇翻译
 
 ```markdown
-赋能 - Empower
+赋能 - Empower / Enablement
 抓手 - Leverage point / Handle
 中台 - Middleware / Middle-end platform
 闭环 - Closed loop
