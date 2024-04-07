@@ -967,8 +967,8 @@ MR - Mixed Reality，混合现实，虚拟现实与增强现实的结合 / Marke
 LBS - Location Based Service，基于位置的服务
 SOHO - Small Office Home Office，家居办公
 SNS - Social Networking Services 社会性网络服务
-TMT - Technology，Media，Telecom，科技，媒体，电信的新媒体形式
-ACG - Animation，Comic，Game，动画，漫画，游戏的总称
+TMT - Technology，Media，Telecom，科技、媒体、电信的新媒体形式
+ACG - Animation，Comic，Game，动画、漫画、游戏的总称
 IoT - Internet of Things，物联网
 ```
 
