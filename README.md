@@ -952,7 +952,7 @@ KOL - Key Opinion Leader，关键意见领袖
 B2C - Business to Consumer，企业对消费者，如京东
 C2C - Consumer to Consumer，消费者对消费者，如淘宝
 B2B - Business to Business，企业对企业，如阿里巴巴
-O2O - Online to Offline，线上到线下,如美团
+O2O - Online to Offline，线上到线下，如美团
 P2P - Person to Person，个人对个人(互联网金融借贷平台) / Peer-to-Peer，点对点(网络技术架构)
 IaaS - Infrastructure as a Service，基础设施即服务
 PaaS - Platform as a Service，平台即服务
