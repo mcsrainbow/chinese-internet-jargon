@@ -1,16 +1,16 @@
 # Chinese Internet Slang 互联网黑话词汇及解释翻译
 
-词汇来源: [互联网黑话词汇表](https://github.com/justjavac/ali-words)  
-解释翻译: [ChatGPT 4](https://chat.openai.com/)  
+**词汇来源:** [互联网黑话词汇表](https://github.com/justjavac/ali-words)  
+**解释翻译:** [ChatGPT 4](https://chat.openai.com/)  
 
-解释提示词:
+**解释提示词:**
 
 ```
 请通过15个字左右简要地逐个依次解释以下互联网黑话词汇，这些词汇通常用于商业，技术和营销领域，反映了互联网
 行业的特定语境和文化
 ```
 
-翻译提示词:
+**翻译提示词:**
 
 ```
 请简要地逐个依次将以下中文互联网黑话词汇翻译为能表达其中文含义的英文词汇，这些词汇包含了很多与互联网行业
@@ -18,7 +18,9 @@
 的英文表达，请提供最接近的解释或者是行业内常用的表述
 ```
 
-## 二字词汇列表
+## 词汇列表
+
+### 二字词汇列表
 
 ```markdown
 赋能, 抓手, 中台, 闭环, 落地, 漏斗, 沉淀, 给到, 平台, 响应, 同步, 对齐, 对标, 迭代, 优化, 跟进, 升级,
@@ -44,7 +46,7 @@
 服务, 粘性, 属性, 地域, 终端, 版本, 口碑, 指标, 年框, 试点, 母体, 空白, 银弹
 ```
 
-## 三字词汇列表
+### 三字词汇列表
 
 ```markdown
 对一下, 碰一下, 过一下, 抢品类, 卡认知, 占场景, 观行业, 明竞争, 洞自身, 开场子, 提调子, 冷启动, 秀肌肉,
@@ -59,7 +61,7 @@
 向心力, 元无知, 软夺权
 ```
 
-## 四字词汇列表
+### 四字词汇列表
 
 ```markdown
 支棱起来, 快速响应, 小步快跑, 价值转化, 强化认知, 资源置换, 资源倾斜, 资源配置, 完善逻辑, 去中心化,
@@ -83,7 +85,7 @@
 回到母体, 无边棋盘, 飞轮效应, 合成真实, 逆火效应, 打开率高, 留存率高, 活跃度高
 ```
 
-## 五字词汇列表
+### 五字词汇列表
 
 ```markdown
 精神SPA, 大数据分析, 大数据杀熟, 延迟满足感, 地毯式轰炸, 饱和式攻击, 四两拨千斤, 开辟新路径,
@@ -93,13 +95,13 @@
 共识性发展, 横向标准化, 符号私有化, 非理性异动, 方言化认知
 ```
 
-## 六字词汇列表
+### 六字词汇列表
 
 ```markdown
 All in, 不跟风要造风, 多维矩阵闭环, 打开销售通路, 向下传递寒气
 ```
 
-## 补充词汇列表
+### 补充词汇列表
 
 ```markdown
 PR稿, A/B测试,
@@ -110,7 +112,7 @@ PR稿, A/B测试,
 天时地利人和, 品牌记忆系统, 心智切割利器
 ```
 
-## 英文缩写列表
+### 英文缩写列表
 
 ```markdown
 HR, HRBP, HRM, HRD, PM, PMO, OD, OA, CRM, ERP, CEO, COO, CFO, CTO, CIO, CSO, CDO, VP,
@@ -121,7 +123,9 @@ BI, BE, BA, AI, AIGC, AGI, LLM, GPT, NLP, NN, CV, DM, DL, ML, CPU, GPU, DPU, CVR
 GPM, SKU, DSR, VCR
 ```
 
-## 二字词汇解释
+## 词汇解释
+
+### 二字词汇解释
 
 ```markdown
 赋能 - 提供必要资源或能力以增强效能
@@ -479,7 +483,7 @@ GPM, SKU, DSR, VCR
 银弹 - 简单直接解决复杂问题的方法
 ```
 
-## 三字词汇解释
+### 三字词汇解释
 
 ```markdown
 对一下 - 检查或比对信息以确认一致性
@@ -604,7 +608,7 @@ GPM, SKU, DSR, VCR
 软夺权 - 通过非强制的方式获得控制权或影响力
 ```
 
-## 四字词汇解释
+### 四字词汇解释
 
 ```markdown
 支棱起来 - 做好准备，积极应对
@@ -797,7 +801,7 @@ GPM, SKU, DSR, VCR
 活跃度高 - 用户在产品或服务中的活跃程度较高
 ```
 
-## 五字词汇解释
+### 五字词汇解释
 
 ```markdown
 精神SPA - 指通过某些活动或体验来放松心灵、减轻精神压力
@@ -839,7 +843,7 @@ GPM, SKU, DSR, VCR
 方言化认知 - 通过地方特色或文化背景影响的认知方式
 ```
 
-## 六字词汇解释
+### 六字词汇解释
 
 ```markdown
 All in - 全力以赴，投入所有资源和精力
@@ -849,7 +853,7 @@ All in - 全力以赴，投入所有资源和精力
 向下传递寒气 - 指上层的不利情况或压力被传递给下层，影响整体氛围或表现
 ```
 
-## 补充词汇解释
+### 补充词汇解释
 
 ```markdown
 PR稿 - 用于向公众传播信息的新闻稿或通讯稿
@@ -908,7 +912,7 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 心智切割利器 - 高效影响或改变人们思考方式的方法或工具
 ```
 
-## 英文缩写解释
+### 英文缩写解释
 
 ```markdown
 HR - Human Resources，人力资源
@@ -1007,7 +1011,9 @@ DSR - Detail Seller Rating，卖家服务评级 / Daily Sales Report，日销售
 VCR - Video Cassette Recorder，录像机(视频片断)
 ```
 
-## 二字词汇翻译
+## 词汇翻译
+
+### 二字词汇翻译
 
 ```markdown
 赋能 - Empower / Enablement
@@ -1365,7 +1371,7 @@ VCR - Video Cassette Recorder，录像机(视频片断)
 银弹 - Silver bullet
 ```
 
-## 三字词汇翻译
+### 三字词汇翻译
 
 ```markdown
 对一下 - Check / Align
@@ -1490,7 +1496,7 @@ VCR - Video Cassette Recorder，录像机(视频片断)
 软夺权 - Soft power grab
 ```
 
-## 四字词汇翻译
+### 四字词汇翻译
 
 ```markdown
 支棱起来 - Brace up / Stand ready
@@ -1683,7 +1689,7 @@ VCR - Video Cassette Recorder，录像机(视频片断)
 活跃度高 - High activity level
 ```
 
-## 五字词汇翻译
+### 五字词汇翻译
 
 ```markdown
 精神SPA - Mental SPA / Psychological comfort
@@ -1725,7 +1731,7 @@ VCR - Video Cassette Recorder，录像机(视频片断)
 方言化认知 - Dialectal cognition
 ```
 
-## 六字词汇翻译
+### 六字词汇翻译
 
 ```markdown
 All in - All in
@@ -1735,7 +1741,7 @@ All in - All in
 向下传递寒气 - Send chills down the hierarchy (often implying top management’s displeasure or tough measures affecting the entire organization)
 ```
 
-## 补充词汇翻译
+### 补充词汇翻译
 
 ```markdown
 PR稿 - Press release / Public relations
