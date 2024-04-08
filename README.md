@@ -1730,7 +1730,7 @@ VCR - Video Cassette Recorder，录像机(视频片断)
 符号私有化 - Symbol privatization
 非理性异动 - Irrational movement
 方言化认知 - Dialectal cognition
-第一性原理 - First Principles
+第一性原理 - First principles
 ```
 
 ### 六字词汇翻译
