@@ -1,4 +1,4 @@
-# Chinese Internet Slang 互联网黑话词汇及解释翻译
+# Chinese Internet Argot 互联网黑话词汇及解释翻译
 
 **词汇来源:** [互联网黑话词汇表](https://github.com/justjavac/ali-words)  
 **解释翻译:** [ChatGPT 4](https://chat.openai.com/)  
