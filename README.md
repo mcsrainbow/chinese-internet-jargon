@@ -1000,7 +1000,7 @@ LLM - Large Language Model，大型语言模型
 GPT - Generative Pre-trained Transformer，基于Transformer的生成式预训练模型
 NLP - Natural Language Processing，自然语言处理
 NN - Neural Network，神经网络
-CV - Computer Vision，计算机视觉 / Curriculum and Vitae，个人履历
+CV - Computer Vision，计算机视觉 / Curriculum Vitae，个人履历
 DM - Data Mining，数据挖掘 / Direct Message，直接消息
 DL - Deep Learning，深度学习
 ML - Machine Learning，机器学习
