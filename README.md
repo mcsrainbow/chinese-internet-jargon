@@ -106,8 +106,8 @@ All in, 不跟风要造风, 多维矩阵闭环, 打开销售通路, 向下传递
 ```markdown
 PR稿, A/B测试,
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接, 接棒, 继承, 联调, 监测, 复现, 重现, 提议, 提案, 对等, 进展,
-预算, 路演, 人设, 定位, 权重, 共振, 连爆, 瞬爆, 切片, 起号, 养号, 算法, 限流, 断流, 达人,
-交学费, 智商税, 阶段性, 有深度, 原动力, 三板斧, 利益点,
+预算, 路演, 人设, 定位, 权重, 共振, 连爆, 瞬爆, 切片, 起号, 养号, 算法, 限流, 断流, 达人, 逆转,
+交学费, 智商税, 阶段性, 有深度, 原动力, 三板斧, 利益点, 不可逆,
 社区团购, 图灵完备, 输送人才, 自我价值, 消费升级, 消费降级, 借假修真, 信息屏障, 虚拟现实, 增强现实,
 第一性原理,
 天时地利人和, 品牌记忆系统, 心智切割利器
@@ -891,6 +891,7 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 限流 - 对曝光量进行限制
 断流 - 暂时或永久停止其曝光
 达人 - 拥有大量粉丝或高度影响力的用户，通常在特定领域内具有专业知识或特别技能
+逆转 - 将事物的状态或进程颠倒过来，使其向相反方向变化或发展
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
 阶段性 - 分阶段进行，每个阶段有特定目标或结果
@@ -898,6 +899,7 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 原动力 - 推动事物发展或人前进的内在动力
 三板斧 - 形容解决问题的三种有效方法或策略
 利益点 - 个人或集体关注的核心利益或优势
+不可逆 - 指过程或变化一旦发生，就不能恢复到初始状态或向相反方向改变
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
 输送人才 - 培养并提供人才给需要的组织或领域
@@ -1780,6 +1782,7 @@ A/B测试 - A/B testing
 限流 - Rate Limiting
 断流 - Throttling
 达人 - Influencer
+逆转 - Reverse
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
 阶段性 - Phase-based / Stage-by-stage
@@ -1787,6 +1790,7 @@ A/B测试 - A/B testing
 原动力 - Driving force
 三板斧 - Three main strategies or techniques
 利益点 - Point of interest / Benefit point
+不可逆 - Irreversible
 社区团购 - Community group buying
 图灵完备 - Turing complete
 输送人才 - Talent delivery / Cultivation and transfer of talent
