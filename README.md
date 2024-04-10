@@ -1782,13 +1782,13 @@ A/B测试 - A/B testing
 定位 - Positioning
 权重 - Weight
 共振 - Resonance
-连爆 - Serial Virality
-瞬爆 - Instant Virality
+连爆 - Serial virality
+瞬爆 - Instant virality
 切片 - Segmentation
-起号 - Account Creation
-养号 - Account Nurturing
+起号 - Account creation
+养号 - Account nurturing
 算法 - Algorithm
-限流 - Rate Limiting
+限流 - Rate limiting
 断流 - Throttling
 达人 - Influencer
 逆转 - Reverse
