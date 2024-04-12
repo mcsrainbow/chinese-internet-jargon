@@ -865,6 +865,7 @@ All in - 全力以赴，投入所有资源和精力
 ```markdown
 PR稿 - 用于向公众传播信息的新闻稿或通讯稿
 A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
+
 熵减 - 系统从混乱向有序转变，常用来形容项目优化
 熵增 - 系统从有序向混乱转变，通常表示情况恶化
 毕业 - 完成某个阶段或任务，准备进入下一阶段
@@ -906,6 +907,7 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 底线 - 不可低于的最小标准
 远景 - 长期目标或发展计划
 愿景 - 期望达到的理想状态
+
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
 阶段性 - 分阶段进行，每个阶段有特定目标或结果
@@ -915,6 +917,7 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 利益点 - 个人或集体关注的核心利益或优势
 不可逆 - 指过程或变化一旦发生，就不能恢复到初始状态或向相反方向改变
 向量化 - 将文本、图像等非数值数据转换为能够被模型处理的数值向量形式
+
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
 输送人才 - 培养并提供人才给需要的组织或领域
@@ -929,8 +932,10 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 灰度发布 - 逐步向少部分用户推出新功能，以降低风险
 蓝绿发布 - 通过两套完全相同的生产环境切换，实现零停机更新
 滚动发布 - 分批次逐渐替换旧版本，实现服务不中断地更新
+
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
+
 天时地利人和 - 形容成功需要时机、地点和人的和谐配合
 品牌记忆系统 - 建立品牌形象和信息在消费者心中的记忆机制
 心智切割利器 - 高效影响或改变人们思考方式的方法或工具
@@ -1772,6 +1777,7 @@ All in - All in
 ```markdown
 PR稿 - Press release / Public relations
 A/B测试 - A/B testing
+
 熵减 - Entropy reduction
 熵增 - Entropy increase
 毕业 - Graduation (often metaphorical, indicating moving on from a platform or level)
@@ -1813,6 +1819,7 @@ A/B测试 - A/B testing
 底线 - Bottom line / Red line
 远景 - Long-term outlook
 愿景 - Vision
+
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
 阶段性 - Phase-based / Stage-by-stage
@@ -1822,6 +1829,7 @@ A/B测试 - A/B testing
 利益点 - Point of interest / Benefit point
 不可逆 - Irreversible
 向量化 - Vectorization
+
 社区团购 - Community group buying
 图灵完备 - Turing complete
 输送人才 - Talent delivery / Cultivation and transfer of talent
@@ -1836,8 +1844,10 @@ A/B测试 - A/B testing
 灰度发布 - Gray release
 蓝绿发布 - Blue-green deployment
 滚动发布 - Rolling update
+
 金丝雀发布 - Canary release
 第一性原理 - First principles
+
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
 心智切割利器 - Mental model segmentation tool
