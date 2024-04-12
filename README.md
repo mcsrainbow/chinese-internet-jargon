@@ -118,7 +118,7 @@ PR稿, A/B测试,
 ### 英文缩写列表
 
 ```markdown
-HR, HRBP, HRM, HRD, PM, PMO, OD, OA, CRM, ERP, CEO, COO, CFO, CTO, CIO, CSO, CDO, VP,
+HR, HRBP, HRM, HRD, PM, PMO, PO, OD, OA, CRM, ERP, CEO, COO, CFO, CTO, CIO, CSO, CDO, VP,
 SVP, AVP, GM, MD, AD, CMS, SCM, OU, BU, BG, VC, BP, IP, MCN, UGC, PGC, OGC, CPC, CPM,
 CTR, KPI, OKR, ROI, DAU, MAU, PV, UV, ARPU, GMV, CLV, KOC, KOL, B2C, C2C, B2B, O2O,
 P2P, IaaS, PaaS, SaaS, OTA, SEM, SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG, IoT,
@@ -937,6 +937,7 @@ HRM - Human Resource Manager，人力资源经理
 HRD - Human Resource Director，人力资源总监
 PM - Project Manager，项目经理 / Product Manager，产品经理 / Production Manager，生产经理
 PMO - Project Management Office，项目管理办公室，专门负责组织和协调项目管理活动的团队
+PO - Product Owner，产品负责人
 OD - Outsourcing Dispacth，外包派遣
 OA - Office Automation，办公自动化
 CRM - Customer Relationship Management，客户关系管理
