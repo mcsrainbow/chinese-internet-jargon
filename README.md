@@ -6,16 +6,15 @@
 **解释提示词:**
 
 ```
-请通过15个字左右简要地逐个依次解释以下互联网黑话词汇，这些词汇通常用于商业、技术和营销领域，反映了互联网行业
-的特定语境和文化
+请通过15个字左右简要地逐个依次解释以下互联网黑话词汇，这些词汇通常用于商业、技术和营销等领域，反映了互联网行业的
+特定语境和文化
 ```
 
 **翻译提示词:**
 
 ```
-请简要地逐个依次将以下中文互联网黑话词汇翻译为能表达其中文含义的英文词汇，这些词汇很多与互联网行业和现代企业
-文化特别相关，尽量为每一个提供一个贴切的英文翻译或等效表达，注意某些词汇可能没有直接对应的英文表达，请提供最
-接近的解释或者是行业内常用的表述
+请简要地逐个依次将以下中文互联网黑话词汇翻译为能表达其中文内涵的英文词汇，这些词汇很多与互联网行业和现代企业文化
+特别相关，某些词汇可能没有直接对应的英文表达，请提供最接近的或者行业内常用的表述，结果中不显示详细解释
 ```
 
 ## 词汇列表
@@ -107,7 +106,7 @@ All in, 不跟风要造风, 多维矩阵闭环, 打开销售通路, 向下传递
 PR稿, A/B测试,
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接, 接棒, 继承, 联调, 监测, 复现, 重现, 提议, 提案, 对等, 进展,
 预算, 路演, 人设, 定位, 权重, 共振, 连爆, 瞬爆, 切片, 起号, 养号, 算法, 限流, 断流, 达人, 逆转, 黑盒,
-白盒, 向量, 图谱,
+白盒, 向量, 图谱, 基线, 底线, 远景, 愿景
 交学费, 智商税, 阶段性, 有深度, 原动力, 三板斧, 利益点, 不可逆, 向量化,
 社区团购, 图灵完备, 输送人才, 自我价值, 消费升级, 消费降级, 借假修真, 信息屏障, 虚拟现实, 增强现实,
 冒烟测试, 灰度发布, 蓝绿发布, 滚动发布,
@@ -123,7 +122,7 @@ VP, SVP, AVP, GM, MD, AD, CMS, SCM, OU, BU, BG, VC, BP, IP, MCN, UGC, PGC, OGC, 
 CPM, CTR, KPI, OKR, ROI, DAU, MAU, PV, UV, ARPU, GMV, CLV, KOC, KOL, B2C, C2C, B2B,
 O2O, P2P, IaaS, PaaS, SaaS, OTA, SEM, SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG,
 IoT, BI, BE, BA, AI, AIGC, AGI, LLM, GPT, NLP, NN, CV, DM, DL, ML, CPU, GPU, DPU, CVR,
-PCU, GPM, SKU, DSR, VCR
+PCU, GPM, SKU, DSR, VCR, DDL
 ```
 
 ## 词汇解释
@@ -898,6 +897,10 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 白盒 - 完全了解内部逻辑和结构的系统或问题分析
 向量 - 用于表示数据的一组有序值，这些值可以捕捉到数据的某种重要特征或关系
 图谱 - 结构化的数据表示方式，节点表示实体，边表示关系
+基线 - 评估改进的起点标准
+底线 - 不可低于的最小标准
+远景 - 长期目标或发展计划
+愿景 - 期望达到的理想状态
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
 阶段性 - 分阶段进行，每个阶段有特定目标或结果
@@ -1026,6 +1029,7 @@ GPM - GMV Per Mille，千次交易总额 / Gallons Per Minute，加仑每分钟
 SKU - Stock Keeping Unit，库存单位(产品)
 DSR - Detail Seller Rating，卖家服务评级 / Daily Sales Report，日销售报告
 VCR - Video Cassette Recorder，录像机(视频片断)
+DDL - Deadline，截止期限 / Dynamic Linkable Library，动态链接库
 ```
 
 ## 词汇翻译
@@ -1800,6 +1804,10 @@ A/B测试 - A/B testing
 白盒 - White-box
 向量 - Vector
 图谱 - Graph
+基线 - Baseline
+底线 - Bottom line / Red line
+远景 - Long-term outlook
+愿景 - Vision
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
 阶段性 - Phase-based / Stage-by-stage
