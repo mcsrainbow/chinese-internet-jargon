@@ -1870,7 +1870,7 @@ NFC - Near Field Communication，近场通信 / Not From Concentrate，非浓缩
 ### 补充词汇翻译
 
 ```markdown
-All in - Put all resources and efforts into achieving a goal
+All in - Put in all resources and efforts
 PR稿 - Press release / Public relations
 A/B测试 - A/B testing
 
