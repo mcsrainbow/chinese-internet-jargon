@@ -185,16 +185,19 @@ All in, PR稿, A/B测试
 提案, 对等, 进展, 预算, 路演, 人设, 定位,
 权重, 共振, 连爆, 瞬爆, 切片, 起号, 养号,
 算法, 限流, 断流, 达人, 逆转, 黑盒, 白盒,
-向量, 图谱, 基线, 底线, 远景, 愿景
+向量, 图谱, 基线, 底线, 远景, 愿景, 友商,
+竞对, 拉高, 发酵, 双周, 双月
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
-云原生
+云原生, 平常心, 独角兽
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
 虚拟现实, 增强现实, 冒烟测试, 灰度发布,
-蓝绿发布, 滚动发布, 可观测性, 生态化反
+蓝绿发布, 滚动发布, 可观测性, 生态化反,
+红蓝对抗, 增长黑客, 商业本质, 三电系统,
+从0到1
 
 金丝雀发布, 第一性原理
 
@@ -217,7 +220,8 @@ AR, MR, LBS, SOHO, SNS, TMT, ACG,
 IoT, BI, BE, BA, AI, AIGC, AGI,
 LLM, GPT, NLP, NN, CV, DM, DL, ML,
 CPU, GPU, DPU, CVR, PCU, GPM, SKU,
-DSR, VCR, DDL, SOA, GDP, NFC
+DSR, VCR, DDL, SOA, GDP, NFC, WLTP,
+CLTP, NOA, FSD, COE, SDC
 ```
 
 ## 词汇解释
@@ -1137,6 +1141,12 @@ DDL - Deadline，截止期限 / Dynamic Linkable Library，动态链接库
 SOA - Service-Oriented Architecture，面向服务的架构
 GDP - Gross Domestic Product，国内生产总值
 NFC - Near Field Communication，近场通信 / Not From Concentrate，非浓缩还原(果汁)
+WLTP - World Light Vehicle Test Procedure，世界轻型汽车测试规程
+CLTP - China Light Vehicle Test Procedure，中国轻型汽车测试规程
+NOA - Navigate on Autopilot，领航辅助驾驶
+FSD - Full Self-Driving，完全自动驾驶
+COE - Center of Excellence，卓越中心，整合优化企业内部的资源和能力
+SDC - Shared Deliver Center，共享交付中心(资源、能力、团队)
 ```
 
 ## 词汇翻译
@@ -1916,6 +1926,12 @@ A/B测试 - A/B testing
 底线 - Bottom line / Red line
 远景 - Long-term outlook
 愿景 - Vision
+友商 - Friendly competitor
+竞对 - Direct competitor
+拉高 - Boost
+发酵 - Gain traction
+双周 - Biweekly
+双月 - Bimonthly
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -1928,6 +1944,8 @@ A/B测试 - A/B testing
 向量化 - Vectorization
 微服务 - Microservices
 云原生 - Cloud native
+平常心 - Keep calm
+独角兽 - Unicorn
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -1945,6 +1963,11 @@ A/B测试 - A/B testing
 滚动发布 - Rolling update
 可观测性 - Observability (Logs, Metrics, Traces)
 生态化反 - Ecological chemical reactions
+红蓝对抗 - Red team vs Blue team exercise
+增长黑客 - Growth hacking
+商业本质 - Core business principle
+三电系统 - Powertrain (Motor, Battery, Controller)
+从0到1 - From zero to one
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
