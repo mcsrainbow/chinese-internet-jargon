@@ -1978,7 +1978,7 @@ A/B测试 - A/B testing
 生态化反 - Ecological chemical reactions
 红蓝对抗 - Red team vs Blue team exercise
 增长黑客 - Growth hacking
-商业本质 - Core business principle
+商业本质 - Core business principles
 三电系统 - Powertrain (Motor, Battery, Controller)
 从0到1 - From zero to one
 
