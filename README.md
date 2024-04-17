@@ -197,7 +197,7 @@ All in, PR稿, A/B测试
 虚拟现实, 增强现实, 冒烟测试, 灰度发布,
 蓝绿发布, 滚动发布, 可观测性, 生态化反,
 红蓝对抗, 增长黑客, 商业本质, 三电系统,
-从0到1, 斜杠青年, T型人才
+从0到1, 斜杠青年, T型人才, 头脑风暴
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学
@@ -228,7 +228,8 @@ GPT, NLP, NN, CV, DM, DL, ML,
 CPU, GPU, DPU, CVR, PCU, GPM,
 SKU, DSR, VCR, DDL, SOA, GDP,
 NFC, WLTP, CLTP, NOA, FSD, COE,
-SDC, CCTV, SSO, EOF, EOT, JIT
+SDC, CCTV, SSO, EOF, EOT, JIT,
+BS, MS, MBA, DBA
 ```
 
 ## 词汇解释
@@ -1052,6 +1053,7 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 从0到1 - 从无到有的过程，强调初创和创新阶段
 斜杠青年 - 拥有多重职业或技能的年轻人，源于使用“/”符号连接不同职业或身份
 T型人才 - 专业深度与跨领域广度兼具的人才
+头脑风暴 - 通过自由且无拘束的想法交流激发创新和解决问题的思路
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1203,6 +1205,10 @@ SSO - Single Sign-On 单点登录(认证服务)
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 JIT - Just-In-Time 即时(编译)，实时(编译)
+BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴
+MS - Master of Science 理学硕士
+MBA - Master of Business Administration 工商管理硕士
+DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
 ```
 
 ## 词汇翻译
@@ -2026,6 +2032,7 @@ A/B测试 - A/B testing
 从0到1 - From zero to one
 斜杠青年 - Slash youth
 T型人才 - T-shaped talent
+头脑风暴 - Brainstorming
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
