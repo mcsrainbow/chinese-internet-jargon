@@ -222,7 +222,8 @@ IoT, BI, BE, BA, AI, AIGC, AGI,
 LLM, GPT, NLP, NN, CV, DM, DL, ML,
 CPU, GPU, DPU, CVR, PCU, GPM, SKU,
 DSR, VCR, DDL, SOA, GDP, NFC, WLTP,
-CLTP, NOA, FSD, COE, SDC, SSO
+CLTP, NOA, FSD, COE, SDC, SSO,
+CCTV
 ```
 
 ## 词汇解释
@@ -1166,6 +1167,7 @@ FSD - Full Self-Driving，完全自动驾驶
 COE - Center of Excellence，卓越中心，整合优化企业内部的资源和能力
 SDC - Shared Deliver Center，共享交付中心(资源、能力、团队)
 SSO - Single Sign-On，单点登录(认证服务)
+CCTV - Closed-Circuit Television，闭路电视(视频监控) / China Central Television，中国中央电视台
 ```
 
 ## 词汇翻译
