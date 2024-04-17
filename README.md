@@ -2055,7 +2055,7 @@ A/B测试 - A/B testing
 挖矿 - Mining
 矿工 - Miner
 矿难 - Mining disaster
-梭哈 - All-in
+梭哈 - All in
 破发 - Break issue price
 割肉 - Cut losses
 
