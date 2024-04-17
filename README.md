@@ -213,12 +213,12 @@ OD, OA, CRM, ERP, CEO, COO, CFO,
 CTO, CIO, CMO, CSO, CDO, VP, SVP,
 AVP, GM, BM, MD, AD, CMS, SCM,
 OU, VC, PE, BU, BG, BP, BD, UI,
-VI, PDCA, QC, JD, OT, FW, FYl,
-ASAP, BR, ETA, EOD, N/A, TBD,
-JIC, BRB, IMO, RSVP, AL, PRD,
-FAQ, SOP, IP, MCN, UGC, PGC,
-OGC, CPC, CPM, CTR, KPI, OKR,
-ROI, DAU, MAU, PV, UV, ARPU,
+VI, PDCA, QA, QC, JD, OT, FW,
+FYl, ASAP, BR, ETA, EOD, N/A,
+TBD, JIC, BRB, IMO, RSVP, AL,
+PRD, FAQ, SOP, IP, MCN, UGC,
+PGC, OGC, CPC, CPM, CTR, KPI,
+OKR, ROI, DAU, MAU, PV, UV, ARPU,
 GMV, CLV, KOC, KOL, B2C, C2C,
 B2B, O2O, P2P, IaaS, PaaS, SaaS,
 OTA, SEM, SEO, ASO, VR, AR, MR,
@@ -1104,6 +1104,7 @@ BD - Business Development 商务拓展
 UI - User Interface 用户界面
 VI - Visual Identity 企业视觉形象设计
 PDCA - Plan Do Check Action 计划、执行、检查、总结，持续改进的循环方法论
+QA - Quality Assurance 质量保证(测试)
 QC - Quality Control 质量控制
 JD - Job Description 职位描述
 OT - Overtime 加班
