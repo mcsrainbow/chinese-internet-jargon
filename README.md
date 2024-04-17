@@ -215,7 +215,7 @@ OD, OA, KM, CRM, ERP, CEO, COO,
 CFO, CTO, CIO, CMO, CSO, CDO, VP,
 SVP, AVP, GM, BM, MD, AD, CMS,
 SCM, KA, CS, OU, VC, PE, BU, BG,
-BP, BD, RFP, HQ, UI, VI, PDCA,
+BP, BD, RFP, HQ, UI, UE, VI, PDCA,
 QA, QC, JD, OT, FW, CC, BCC, FYI,
 FYR, ASAP, BR, ETA, EOD, EOW,
 COB, N/A, TBD, TBC, JIC, BRB,
@@ -225,8 +225,8 @@ P.S., MTD, QTD, YTD, IDE, VS, PR,
 R&D, C&B, RSVP, PRD, FAQ, SOP,
 IP, MCN, UGC, PGC, OGC, CPC, CPM,
 CTR, KPI, OKR, ROI, DAU, MAU, PV,
-UV, ARPU, GMV, CLV, KOC, KOL,
-B2C, C2C, B2B, O2O, P2P, IaaS,
+UV, ARPU, ARPPU, GMV, CLV, KOC, KOL,
+CBD, B2C, C2C, B2B, O2O, P2P, IaaS,
 PaaS, SaaS, OTA, SEM, SEO, ASO,
 VR, AR, MR, LBS, SOHO, SNS, TMT,
 ACG, IoT, BI, BE, BA, AI, AIGC,
@@ -1126,6 +1126,7 @@ BD - Business Development 商务拓展
 RFP - Request For Proposal 需求建议书，招标书
 HQ - Headquarters 公司总部
 UI - User Interface 用户界面
+UE - User Experience 用户体验
 VI - Visual Identity 企业视觉形象设计
 PDCA - Plan Do Check Action 计划、执行、检查、总结，持续改进的循环方法论
 QA - Quality Assurance 质量保证(测试)
@@ -1190,10 +1191,12 @@ MAU - Monthly Active Users 月活跃用户
 PV - Page Views 页面浏览量
 UV - Unique Visitors 独立访客数
 ARPU - Average Revenue Per User 每用户平均收入
+ARPPU - Average Revenue Per Paying User 每付费用户平均收益
 GMV - Gross Merchandise Value 商品总价值
 CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
+CBD - Central Business District 中央商务区，城市经济活动的核心地区
 B2C - Business to Consumer 企业对消费者，如京东
 C2C - Consumer to Consumer 消费者对消费者，如淘宝
 B2B - Business to Business 企业对企业，如阿里巴巴
