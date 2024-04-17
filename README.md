@@ -210,20 +210,25 @@ All in, PR稿, A/B测试
 ```markdown
 HR, HRBP, HRM, HRD, PM, PMO, PO,
 OD, OA, CRM, ERP, CEO, COO, CFO,
-CTO, CIO, CSO, CDO, VP, SVP, AVP,
-GM, MD, AD, CMS, SCM, OU, BU, BG,
-VC, BP, IP, MCN, UGC, PGC, OGC,
-CPC, CPM, CTR, KPI, OKR, ROI, DAU,
-MAU, PV, UV, ARPU, GMV, CLV, KOC,
-KOL, B2C, C2C, B2B, O2O, P2P, IaaS,
-PaaS, SaaS, OTA, SEM, SEO, ASO, VR,
-AR, MR, LBS, SOHO, SNS, TMT, ACG,
-IoT, BI, BE, BA, AI, AIGC, AGI,
-LLM, GPT, NLP, NN, CV, DM, DL, ML,
-CPU, GPU, DPU, CVR, PCU, GPM, SKU,
-DSR, VCR, DDL, SOA, GDP, NFC, WLTP,
-CLTP, NOA, FSD, COE, SDC, SSO,
-CCTV
+CTO, CIO, CMO, CSO, CDO, VP, SVP,
+AVP, GM, BM, MD, AD, CMS, SCM,
+OU, VC, PE, BU, BG, BP, BD, UI,
+VI, PDCA, QC, JD, OT, FW, FYl,
+ASAP, BR, ETA, EOD, N/A, TBD,
+JIC, BRB, IMO, RSVP, AL, PRD,
+FAQ, SOP, IP, MCN, UGC, PGC,
+OGC, CPC, CPM, CTR, KPI, OKR,
+ROI, DAU, MAU, PV, UV, ARPU,
+GMV, CLV, KOC, KOL, B2C, C2C,
+B2B, O2O, P2P, IaaS, PaaS, SaaS,
+OTA, SEM, SEO, ASO, VR, AR, MR,
+LBS, SOHO, SNS, TMT, ACG, IoT,
+BI, BE, BA, AI, AIGC, AGI, LLM,
+GPT, NLP, NN, CV, DM, DL, ML,
+CPU, GPU, DPU, CVR, PCU, GPM,
+SKU, DSR, VCR, DDL, SOA, GDP,
+NFC, WLTP, CLTP, NOA, FSD, COE,
+SDC, CCTV, SSO, EOF, EOT, JIT
 ```
 
 ## 词汇解释
@@ -1061,113 +1066,142 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 ### 英文缩写解释
 
 ```markdown
-HR - Human Resources，人力资源
-HRBP - Human Resources Business Partner，人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
-HRM - Human Resource Manager，人力资源经理
-HRD - Human Resource Director，人力资源总监
-PM - Project Manager，项目经理 / Product Manager，产品经理 / Production Manager，生产经理
-PMO - Project Management Office，项目管理办公室，专门负责组织和协调项目管理活动的团队
-PO - Product Owner，产品负责人
-OD - Outsourcing Dispacth，外包派遣
-OA - Office Automation，办公自动化
-CRM - Customer Relationship Management，客户关系管理
-ERP - Enterprise Resource Planning，企业资源计划，整合企业流程的营运管理软件
-CEO - Chief Executive Officer，首席执行官
-COO - Chief Operated Officer，首席运营官
-CFO - Chief Finacial Officer，首席财务官
-CTO - Chief Technology Officer，首席技术官
-CIO - Chief Information Officer，首席信息官
-CSO - Chief Security Officer，首席安全官 / Chief Strategy Officer，首席战略官
-CDO - Chief Data Officer，首席数据官 / Chief Digital Officer，首席数字官
-VP - Vice President，副总裁
-SVP - Senior Vice President，高级副总裁
-AVP - Assistant Vice President，助理副总裁
-GM - General Manager，总经理
-MD - Marketing Director，市场总监 / Managing Director，董事总经理(投行)
-AD - Assistant Director，助理总监 / Active Directory，活动目录(Windows Server)
-CMS - Content Management System，内容管理系统
-SCM - Supply Chain Management，供应链管理
-OU - Organizational Unit，组织单位
-BU - Business Unit，业务单元
-BG - Business Group，业务集团
-VC - Venture Capital，风险投资
-BP - Business Plan，商业计划书
-IP - Intellectual Property，知识产权 / Internet Protocol，互联网协议
-MCN - Multi-Channel Network，多频道网络(网红经纪公司)
-UGC - User Generated Content，用户生成内容
-PGC - Professionally Generated Content，专业生成内容
-OGC - Officially Generated Content，官方生成内容
-CPC - Cost Per Click，单次点击成本
-CPM - Cost Per Mille，千次展示成本
-CTR - Click Through Rate，点击率
-KPI - Key Performance Indicator，关键绩效指标
-OKR - Objectives and Key Results，目标与关键结果
-ROI - Return on Investment，投资回报率
-DAU - Daily Active Users，日活跃用户
-MAU - Monthly Active Users，月活跃用户
-PV - Page Views，页面浏览量
-UV - Unique Visitors，独立访客数
-ARPU - Average Revenue Per User，每用户平均收入
-GMV - Gross Merchandise Value，商品总价值
-CLV - Customer Lifetime Value，客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
-KOC - Key Opinion Consumer，关键意见消费者
-KOL - Key Opinion Leader，关键意见领袖
-B2C - Business to Consumer，企业对消费者，如京东
-C2C - Consumer to Consumer，消费者对消费者，如淘宝
-B2B - Business to Business，企业对企业，如阿里巴巴
-O2O - Online to Offline，线上到线下，如美团
-P2P - Person to Person，个人对个人(互联网金融借贷平台) / Peer-to-Peer，点对点(网络技术架构)
-IaaS - Infrastructure as a Service，基础设施即服务
-PaaS - Platform as a Service，平台即服务
-SaaS - Software as a Service，软件即服务
-OTA - Over The Air，远程(升级) / Online Travel Agency，在线旅游机构
-SEM - Search Engine Marketing，搜索引擎营销
-SEO - Search Engine Optimization，搜索引擎优化
-ASO - App Store Optimization，应用商店优化
-VR - Virtual Reality，虚拟现实
-AR - Augmented Reality，增强现实
-MR - Mixed Reality，混合现实，虚拟现实与增强现实的结合 / Market Research，市场研究
-LBS - Location Based Service，基于位置的服务
-SOHO - Small Office Home Office，家居办公
+HR - Human Resources 人力资源
+HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
+HRM - Human Resource Manager 人力资源经理
+HRD - Human Resource Development 人力资源开发 / Human Resource Director 人力资源总监
+PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
+PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
+PO - Product Owner 产品负责人
+OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
+OA - Office Automation 办公自动化
+CRM - Customer Relationship Management 客户关系管理
+ERP - Enterprise Resource Planning 企业资源计划，整合企业流程的营运管理软件
+CEO - Chief Executive Officer 首席执行官
+COO - Chief Operated Officer 首席运营官
+CFO - Chief Finacial Officer 首席财务官
+CTO - Chief Technology Officer 首席技术官
+CIO - Chief Information Officer 首席信息官
+CMO - Chief Marketing Officer 首席营销官
+CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官
+CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
+VP - Vice President 副总裁
+SVP - Senior Vice President 高级副总裁
+AVP - Assistant Vice President 助理副总裁
+GM - General Manager 总经理
+BM - Branch Manager 部门经理
+MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
+AD - Assistant Director 助理总监 / Active Directory 活动目录(Windows Server)
+CMS - Content Management System 内容管理系统
+SCM - Supply Chain Management 供应链管理
+OU - Organizational Unit 组织单位
+VC - Venture Capital 风险投资
+PE - Private Equity 私募股权基金
+BU - Business Unit 业务单元
+BG - Business Group 业务集团
+BP - Business Plan 商业计划书
+BD - Business Development 商务拓展
+UI - User Interface 用户界面
+VI - Visual Identity 企业视觉形象设计
+PDCA - Plan Do Check Action 计划、执行、检查、总结，持续改进的循环方法论
+QC - Quality Control 质量控制
+JD - Job Description 职位描述
+OT - Overtime 加班
+FW - Forward 转发(邮件)
+FYl - For Your Information 供你参考
+ASAP - As Soon As Possible 尽快
+BR - Best Regards 诚挚的问候
+ETA - Estimated Time of Arrival 预计到达时间
+EOD - End of Day 下班前
+N/A - Not Applicable 不适用
+TBD - To Be Determined 待决定
+JIC - Just in Case 以防万一
+BRB - Be Right Back 马上回来
+IMO - In My Opinion 个人观点
+RSVP - Répondez S'il Vous Plaît 请回复(法语)
+AL - Annual Leave 年假
+PRD - Product Requirements Document 产品需求文档
+FAQ - Frequently Asked Questions 常见问题解答
+SOP - Standard Operating Procedure 标准操作流程
+IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
+MCN - Multi-Channel Network 多频道网络(网红经纪公司)
+UGC - User Generated Content 用户生成内容
+PGC - Professionally Generated Content 专业生成内容
+OGC - Officially Generated Content 官方生成内容
+CPC - Cost Per Click 单次点击成本
+CPM - Cost Per Mille 千次展示成本
+CTR - Click Through Rate 点击率
+KPI - Key Performance Indicator 关键绩效指标
+OKR - Objectives and Key Results 目标与关键结果
+ROI - Return on Investment 投资回报率
+DAU - Daily Active Users 日活跃用户
+MAU - Monthly Active Users 月活跃用户
+PV - Page Views 页面浏览量
+UV - Unique Visitors 独立访客数
+ARPU - Average Revenue Per User 每用户平均收入
+GMV - Gross Merchandise Value 商品总价值
+CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
+KOC - Key Opinion Consumer 关键意见消费者
+KOL - Key Opinion Leader 关键意见领袖
+B2C - Business to Consumer 企业对消费者，如京东
+C2C - Consumer to Consumer 消费者对消费者，如淘宝
+B2B - Business to Business 企业对企业，如阿里巴巴
+O2O - Online to Offline 线上到线下，如美团
+P2P - Person to Person 个人对个人(互联网金融借贷平台) / Peer-to-Peer 点对点(网络技术架构)
+IaaS - Infrastructure as a Service 基础设施即服务
+PaaS - Platform as a Service 平台即服务
+SaaS - Software as a Service 软件即服务
+OTA - Over The Air 远程(升级) / Online Travel Agency 在线旅游机构
+SEM - Search Engine Marketing 搜索引擎营销
+SEO - Search Engine Optimization 搜索引擎优化
+ASO - App Store Optimization 应用商店优化
+VR - Virtual Reality 虚拟现实
+AR - Augmented Reality 增强现实
+MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究
+LBS - Location Based Service 基于位置的服务
+SOHO - Small Office Home Office 家居办公
 SNS - Social Networking Services 社会性网络服务
-TMT - Technology，Media，Telecom，科技、媒体、电信的新媒体形式
-ACG - Animation，Comic，Game，动画、漫画、游戏的总称
-IoT - Internet of Things，物联网
-BI - Business Intelligence，商业智能
-BE - Business Enablement，商业赋能
-BA - Business Analyst，商业分析师 / Business Analysis，商业分析(围绕业务) / Business Analytics，商业分析(围绕数据)
-AI - Artificial Intelligence，人工智能
-AIGC - AI Generated Content，AI生成内容
-AGI - Artificial General Intelligence，通用人工智能
-LLM - Large Language Model，大型语言模型
-GPT - Generative Pre-trained Transformer，基于Transformer的生成式预训练模型
-NLP - Natural Language Processing，自然语言处理
-NN - Neural Network，神经网络
-CV - Computer Vision，计算机视觉 / Curriculum Vitae，个人履历
-DM - Data Mining，数据挖掘 / Direct Message，直接消息
-DL - Deep Learning，深度学习
-ML - Machine Learning，机器学习
-CPU - Central Processing Unit，中央处理器
-GPU - Graphics Processing Unit，图形处理器
-DPU - Data Processing Unit，数据处理器
-CVR - Conversion Rate，转化率
-PCU - Peak Concurrent Users，最高并发用户
-GPM - GMV Per Mille，千次交易总额 / Gallons Per Minute，加仑每分钟
-SKU - Stock Keeping Unit，库存单位(产品)
-DSR - Detail Seller Rating，卖家服务评级 / Daily Sales Report，日销售报告
-VCR - Video Cassette Recorder，录像机(视频片断)
-DDL - Deadline，截止期限 / Dynamic Linkable Library，动态链接库
-SOA - Service-Oriented Architecture，面向服务的架构
-GDP - Gross Domestic Product，国内生产总值
-NFC - Near Field Communication，近场通信 / Not From Concentrate，非浓缩还原(果汁)
-WLTP - World Light Vehicle Test Procedure，世界轻型汽车测试规程
-CLTP - China Light Vehicle Test Procedure，中国轻型汽车测试规程
-NOA - Navigate on Autopilot，领航辅助驾驶
-FSD - Full Self-Driving，完全自动驾驶
-COE - Center of Excellence，卓越中心，整合优化企业内部的资源和能力
-SDC - Shared Deliver Center，共享交付中心(资源、能力、团队)
-SSO - Single Sign-On，单点登录(认证服务)
-CCTV - Closed-Circuit Television，闭路电视(视频监控) / China Central Television，中国中央电视台
+TMT - Technology Media Telecom 科技、媒体、电信的总称(数字新媒体)
+ACG - Animation Comic Game 动画、漫画、游戏的总称(娱乐)
+IoT - Internet of Things 物联网
+BI - Business Intelligence 商业智能
+BE - Business Enablement 商业赋能
+BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业务) / Business Analytics 商业分析(围绕数据)
+AI - Artificial Intelligence 人工智能
+AIGC - AI Generated Content AI生成内容
+AGI - Artificial General Intelligence 通用人工智能
+LLM - Large Language Model 大型语言模型
+GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
+NLP - Natural Language Processing 自然语言处理
+NN - Neural Network 神经网络
+CV - Computer Vision 计算机视觉 / Curriculum Vitae 个人履历
+DM - Data Mining 数据挖掘 / Direct Message 直接消息
+DL - Deep Learning 深度学习
+ML - Machine Learning 机器学习
+CPU - Central Processing Unit 中央处理器
+GPU - Graphics Processing Unit 图形处理器
+DPU - Data Processing Unit 数据处理器
+CVR - Conversion Rate 转化率
+PCU - Peak Concurrent Users 最高并发用户
+GPM - GMV Per Mille 千次交易总额 / Gallons Per Minute 加仑每分钟
+SKU - Stock Keeping Unit 库存单位(产品)
+DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
+VCR - Video Cassette Recorder 录像机(视频片断)
+DDL - Deadline 截止期限 / Dynamic Linkable Library 动态链接库
+SOA - Service-Oriented Architecture 面向服务的架构
+GDP - Gross Domestic Product 国内生产总值
+NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
+WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
+CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
+NOA - Navigate on Autopilot 领航辅助驾驶
+FSD - Full Self-Driving 完全自动驾驶
+COE - Center of Excellence 卓越中心，整合优化企业内部的资源和能力
+SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
+CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
+SSO - Single Sign-On 单点登录(认证服务)
+EOF - End of File 标示文件的结束
+EOT - End of Transmission 标示通信的结束
+JIT - Just-In-Time 即时(编译)，实时(编译)
 ```
 
 ## 词汇翻译
