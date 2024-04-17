@@ -2034,9 +2034,9 @@ A/B测试 - A/B testing
 双周 - Biweekly
 双月 - Bimonthly
 招标 - Tendering / Bidding
-围标 - Bid Rigging
-陪标 - Placeholder Bidding
-串标 - Collusive Bidding
+围标 - Bid rigging
+陪标 - Placeholder bidding
+串标 - Collusive bidding
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
