@@ -1115,7 +1115,9 @@ FYl - For Your Information 供你参考
 ASAP - As Soon As Possible 尽快
 BR - Best Regards 诚挚的问候
 ETA - Estimated Time of Arrival 预计到达时间
-EOD - End of Day 下班前
+EOD - End of Day 工作日结束时
+EOW - End of Week 工作周结束时
+COB = Close Of Business 营业结束时
 N/A - Not Applicable 不适用
 TBD - To Be Determined 待决定
 JIC - Just in Case 以防万一
@@ -1160,7 +1162,7 @@ SEO - Search Engine Optimization 搜索引擎优化
 ASO - App Store Optimization 应用商店优化
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
-MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究
+MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Requests 合并请求(软件开发)
 LBS - Location Based Service 基于位置的服务
 SOHO - Small Office Home Office 家居办公
 SNS - Social Networking Services 社会性网络服务
