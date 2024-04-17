@@ -178,7 +178,7 @@
 ### 补充词汇列表
 
 ```markdown
-All in, PR稿, A/B测试
+All in, A/B测试
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -186,7 +186,8 @@ All in, PR稿, A/B测试
 权重, 共振, 连爆, 瞬爆, 切片, 起号, 养号,
 算法, 限流, 断流, 达人, 逆转, 黑盒, 白盒,
 向量, 图谱, 基线, 底线, 远景, 愿景, 友商,
-竞对, 拉高, 发酵, 双周, 双月
+竞对, 拉高, 发酵, 双周, 双月, 招标, 围标,
+陪标, 串标
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -209,27 +210,31 @@ All in, PR稿, A/B测试
 
 ```markdown
 HR, HRBP, HRM, HRD, PM, PMO, PO,
-OD, OA, CRM, ERP, CEO, COO, CFO,
-CTO, CIO, CMO, CSO, CDO, VP, SVP,
-AVP, GM, BM, MD, AD, CMS, SCM,
-OU, VC, PE, BU, BG, BP, BD, UI,
-VI, PDCA, QA, QC, JD, OT, FW,
-FYl, ASAP, BR, ETA, EOD, N/A,
-TBD, JIC, BRB, IMO, RSVP, AL,
-PRD, FAQ, SOP, IP, MCN, UGC,
-PGC, OGC, CPC, CPM, CTR, KPI,
-OKR, ROI, DAU, MAU, PV, UV, ARPU,
-GMV, CLV, KOC, KOL, B2C, C2C,
-B2B, O2O, P2P, IaaS, PaaS, SaaS,
-OTA, SEM, SEO, ASO, VR, AR, MR,
-LBS, SOHO, SNS, TMT, ACG, IoT,
-BI, BE, BA, AI, AIGC, AGI, LLM,
-GPT, NLP, NN, CV, DM, DL, ML,
-CPU, GPU, DPU, CVR, PCU, GPM,
-SKU, DSR, VCR, DDL, SOA, GDP,
-NFC, WLTP, CLTP, NOA, FSD, COE,
-SDC, CCTV, SSO, EOF, EOT, JIT,
-BS, MS, MBA, DBA
+OD, OA, KM, CRM, ERP, CEO, COO,
+CFO, CTO, CIO, CMO, CSO, CDO, VP,
+SVP, AVP, GM, BM, MD, AD, CMS,
+SCM, KA, CS, OU, VC, PE, BU, BG,
+BP, BD, RFP, HQ, UI, VI, PDCA,
+QA, QC, JD, OT, FW, CC, BCC, FYI,
+FYR, ASAP, BR, ETA, EOD, EOW,
+COB, N/A, TBD, TBC, JIC, BRB,
+BRT, IMO, RE:, BTW, NB, TYT, NRN,
+WFH, OOO, PTO, AL, ATM, AKA,
+P.S., MTD, QTD, YTD, IDE, VS, PR,
+R&D, C&B, RSVP, PRD, FAQ, SOP,
+IP, MCN, UGC, PGC, OGC, CPC, CPM,
+CTR, KPI, OKR, ROI, DAU, MAU, PV,
+UV, ARPU, GMV, CLV, KOC, KOL,
+B2C, C2C, B2B, O2O, P2P, IaaS,
+PaaS, SaaS, OTA, SEM, SEO, ASO,
+VR, AR, MR, LBS, SOHO, SNS, TMT,
+ACG, IoT, BI, BE, BA, AI, AIGC,
+AGI, LLM, GPT, NLP, NN, CV, DM,
+DL, ML, CPU, GPU, DPU, CI/CD,
+CVR, PCU, GPM, SKU, DSR, VCR,
+DDL, SOA, GDP, NFC, WLTP, CLTP,
+NOA, FSD, COE, SDC, CCTV, SSO,
+EOF, EOT, JIT, BS, MS, MBA, DBA
 ```
 
 ## 词汇解释
@@ -965,7 +970,6 @@ BS, MS, MBA, DBA
 
 ```markdown
 All in - 全力以赴，投入所有资源和精力
-PR稿 - 用于向公众传播信息的新闻稿或通讯稿
 A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 
 熵减 - 系统从混乱向有序转变，常用来形容项目优化
@@ -1015,6 +1019,10 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 发酵 - 事件、话题在公众中逐渐引起关注和讨论
 双周 - 每两周一次的周期，常用于会议或总结报告
 双月 - 每两月一次的周期，常用于会议或总结报告
+招标 - 企业或机构公开邀请供应商提出服务或产品方案的采购过程
+围标 - 竞标过程中，不正当手段影响结果，限制竞争公平性的行为
+陪标 - 企业故意提交无意中标的投标书，以满足招标需求的形式主义
+串标 - 不同企业之间秘密协商，操纵投标结果，破坏公平竞争
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1077,6 +1085,7 @@ PMO - Project Management Office 项目管理办公室，专门负责组织和协
 PO - Product Owner 产品负责人
 OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
 OA - Office Automation 办公自动化
+KM - Knowledge Management 知识管理
 CRM - Customer Relationship Management 客户关系管理
 ERP - Enterprise Resource Planning 企业资源计划，整合企业流程的营运管理软件
 CEO - Chief Executive Officer 首席执行官
@@ -1096,6 +1105,8 @@ MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
 AD - Assistant Director 助理总监 / Active Directory 活动目录(Windows Server)
 CMS - Content Management System 内容管理系统
 SCM - Supply Chain Management 供应链管理
+KA - Key Accounts 重点客户，大卖场
+CS - Customer Service 客户服务 / Computer Science 计算机科学 / Client-Server 客户端与服务器 / Counter-Strike 反恐精英(游戏)
 OU - Organizational Unit 组织单位
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金
@@ -1103,6 +1114,8 @@ BU - Business Unit 业务单元
 BG - Business Group 业务集团
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
+RFP - Request For Proposal 需求建议书，招标书
+HQ - Headquarters 公司总部
 UI - User Interface 用户界面
 VI - Visual Identity 企业视觉形象设计
 PDCA - Plan Do Check Action 计划、执行、检查、总结，持续改进的循环方法论
@@ -1111,20 +1124,44 @@ QC - Quality Control 质量控制
 JD - Job Description 职位描述
 OT - Overtime 加班
 FW - Forward 转发(邮件)
-FYl - For Your Information 供你参考
+CC - Carbon Copy 抄送(邮件)
+BCC - Blind Carbon Copy 秘密抄送(邮件)
+FYI - For Your Information 供你参考
+FYR - For Your Reference 供你参考
 ASAP - As Soon As Possible 尽快
 BR - Best Regards 诚挚的问候
 ETA - Estimated Time of Arrival 预计到达时间
 EOD - End of Day 工作日结束时
 EOW - End of Week 工作周结束时
-COB = Close Of Business 营业结束时
+COB - Close Of Business 营业结束时
 N/A - Not Applicable 不适用
 TBD - To Be Determined 待决定
+TBC - To Be Confirmed 待确认
 JIC - Just in Case 以防万一
 BRB - Be Right Back 马上回来
+BRT - Be Right There 马上到
 IMO - In My Opinion 个人观点
-RSVP - Répondez S'il Vous Plaît 请回复(法语)
+RE: - Regarding 关于(邮件)
+BTW - By The Way 顺便说一下
+NB - Nota Bene 注意，划重点(拉丁语)
+TYT - Take Your Time 不用急，慢慢来
+NRN - No Reply Necessary 无需回复
+WFH - Work From Home 在家工作
+OOO - Out of Office 不上班，不在办公室
+PTO - Paid Time Off 带薪休假
 AL - Annual Leave 年假
+ATM - At The Moment 此刻 / Automated Teller Machine 自动柜员机
+AKA - Also Known As 也就是，亦称，也被称为
+P.S. - Postscript 附言，补充说明
+MTD - Month to Date 从月初到今天
+QTD - Quarter to Date 从季度初到今天
+YTD - Year to Date 从年初到今天
+IDE - Integrated Development Environment 集成开发环境(软件开发)
+VS - Versus 对抗，相对 / Visual Studio (Microsoft IDE)
+PR - Public Relations 公共关系 / Pull Request 合并请求(软件开发)
+R&D - Research and Development 研究和开发
+C&B - Compensation and Benefits 薪酬和福利
+RSVP - Répondez S'il Vous Plaît 请回复(法语)
 PRD - Product Requirements Document 产品需求文档
 FAQ - Frequently Asked Questions 常见问题解答
 SOP - Standard Operating Procedure 标准操作流程
@@ -1162,7 +1199,7 @@ SEO - Search Engine Optimization 搜索引擎优化
 ASO - App Store Optimization 应用商店优化
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
-MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Requests 合并请求(软件开发)
+MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Request 合并请求(软件开发)
 LBS - Location Based Service 基于位置的服务
 SOHO - Small Office Home Office 家居办公
 SNS - Social Networking Services 社会性网络服务
@@ -1186,6 +1223,7 @@ ML - Machine Learning 机器学习
 CPU - Central Processing Unit 中央处理器
 GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
+CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 CVR - Conversion Rate 转化率
 PCU - Peak Concurrent Users 最高并发用户
 GPM - GMV Per Mille 千次交易总额 / Gallons Per Minute 加仑每分钟
@@ -1207,7 +1245,7 @@ SSO - Single Sign-On 单点登录(认证服务)
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 JIT - Just-In-Time 即时(编译)，实时(编译)
-BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴
+BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴 / Browser-Server 浏览器与服务器
 MS - Master of Science 理学硕士
 MBA - Master of Business Administration 工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
@@ -1946,7 +1984,6 @@ DBA - Doctor of Business Administration 工商管理博士 / Database Administra
 
 ```markdown
 All in - Put in all resources and efforts
-PR稿 - Press release / Public relations
 A/B测试 - A/B testing
 
 熵减 - Entropy reduction
@@ -1996,6 +2033,10 @@ A/B测试 - A/B testing
 发酵 - Gain traction
 双周 - Biweekly
 双月 - Bimonthly
+招标 - Tendering / Bidding
+围标 - Bid Rigging
+陪标 - Placeholder Bidding
+串标 - Collusive Bidding
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
