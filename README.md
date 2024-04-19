@@ -1157,7 +1157,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 社会工程学 - 在信息安全方面操纵人的心理，使其采取行动或泄露机密信息
 旁观者效应 - 群体中无人采取行动的心理现象
 幸存者偏差 - 基于幸存样本的错误总结
-登门槛效应 - 进入特定市场或领域所需克服的初期难度和成本
+登门槛效应 - 接受小请求后，为了保持前后一致的印象，更易同意更大的请求
 
 天时地利人和 - 形容成功需要时机、地点和人的和谐配合
 品牌记忆系统 - 建立品牌形象和信息在消费者心中的记忆机制
@@ -2253,7 +2253,7 @@ T型人才 - T-shaped talent
 羊群效应 - Herd behavior
 墨菲定律 - Murphy's law
 蝴蝶效应 - Butterfly effect
-木桶效应 - Weakest link theory
+木桶效应 - Buckets effect / Cannikin law
 零和博弈 - Zero-Sum game
 囚徒困境 - Prisoner's dilemma
 光环效应 - Halo effect
@@ -2265,7 +2265,7 @@ T型人才 - T-shaped talent
 社会工程学 - Social engineering
 旁观者效应 - Bystander effect
 幸存者偏差 - Survivorship bias
-登门槛效应 - Barrier to entry
+登门槛效应 - Foot-in-the-door technique
 
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
