@@ -192,7 +192,7 @@ All in, A/B测试
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
-云原生, 平常心, 独角兽
+云原生, 平常心, 独角兽, 强绑定, 超融合
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -220,7 +220,7 @@ QA, QC, JD, OT, FW, CC, BCC, FYI,
 FYR, ASAP, BR, ETA, EOD, EOW,
 COB, N/A, TBD, TBC, JIC, BRB,
 BRT, IMO, RE:, BTW, NB, TYT, NRN,
-WFH, OOO, PTO, AL, ATM, AKA,
+WFH, OOO, PTO, AL, ATM, AKA, LOL,
 P.S., MTD, QTD, YTD, IDE, VS, PR,
 R&D, C&B, RSVP, PRD, FAQ, SOP,
 IP, MCN, UGC, PGC, OGC, CPC, CPM,
@@ -1046,6 +1046,8 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 云原生 - 旨在充分利用云计算的弹性、可扩展性和灵活性的应用设计和实现方法
 平常心 - 面对压力和变化保持冷静和理性
 独角兽 - 估值超过10亿美元的未上市创业公司
+强绑定 - 各部分耦合紧密，一方改变可能牵连整体
+超融合 - 集成计算、存储、网络于一体，形成统一的资源池
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1162,6 +1164,7 @@ PTO - Paid Time Off 带薪休假
 AL - Annual Leave 年假
 ATM - At The Moment 此刻 / Automated Teller Machine 自动柜员机
 AKA - Also Known As 也就是，亦称，也被称为
+LOL - Laugh Out Loud 大声笑出来 / League of Legends 英雄联盟(游戏)
 P.S. - Postscript 附言，补充说明
 MTD - Month to Date 从月初到今天
 QTD - Quarter to Date 从季度初到今天
@@ -2071,6 +2074,8 @@ A/B测试 - A/B testing
 云原生 - Cloud native
 平常心 - Keep calm
 独角兽 - Unicorn
+强绑定 - Strong binding / Tight coupling
+超融合 - Hyper-converged
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
