@@ -215,27 +215,11 @@ OD, OA, KM, CRM, ERP, CEO, COO,
 CFO, CTO, CIO, CMO, CSO, CDO, VP,
 SVP, AVP, GM, BM, MD, AD, CMS,
 SCM, KA, CS, OU, VC, PE, BU, BG,
-BP, BD, RFP, HQ, UI, UE, VI, PDCA,
-QA, QC, JD, OT, FW, CC, BCC, FYI,
-FYR, ASAP, BR, ETA, EOD, EOW,
-COB, N/A, TBD, TBC, JIC, BRB,
-BRT, IMO, RE:, BTW, NB, TYT, NRN,
-WFH, OOO, PTO, AL, ATM, AKA, LOL,
-P.S., MTD, QTD, YTD, IDE, VS, PR,
-R&D, C&B, RSVP, PRD, FAQ, SOP,
-IP, MCN, UGC, PGC, OGC, CPC, CPM,
-CTR, KPI, OKR, ROI, DAU, MAU, PV,
-UV, ARPU, ARPPU, GMV, CLV, KOC,
-KOL, CBD, B2C, C2C, B2B, O2O, P2P,
-IaaS, PaaS, SaaS, OTA, SEM, SEO,
-ASO, VR, AR, MR, LBS, SOHO, SNS,
-TMT, ACG, IoT, BI, BE, BA, AI,
-AIGC, AGI, LLM, GPT, NLP, NN, CV,
-DM, DL, ML, CPU, GPU, DPU, CI/CD,
-CVR, PCU, GPM, SKU, DSR, VCR,
-DDL, SOA, GDP, NFC, WLTP, CLTP,
-NOA, FSD, COE, SDC, CCTV, SSO,
-EOF, EOT, JIT, BS, MS, MBA, DBA
+BP, BD, RFP, HQ, UI, UE, VI,
+PDCA, QA, QC, JD, OT, FW, CC,
+BCC, FYI, FYR, ASAP, BR, ETA,
+EOD, EOW, COB, N/A, TBD, TBC,
+JIC, BRB, BRT, IMO, RE:, BTW, NB,TYT, NRN, WFH, OOO, PTO, AL, ATM, AKA, LOL, P.S., MTD, QTD, YTD, IDE, VS, PR, R&D, C&B, RSVP, PRD, FAQ, SOP, IP, MCN, UGC, PGC, OGC, CPC, CPM, CTR, KPI, OKR, ROI, DAU, WAU, MAU, PV, UV, ARPU, ARPPU, GMV, CLV, KOC, KOL, CBD, B2C, C2C, B2B, O2O, P2P, IaaS, PaaS, SaaS, OTA, SEM, SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG, IoT, BI, BE, BA, AI, AIGC, AGI, LLM, GPT, NLP, NN, CV, DM, DL, ML, CPU, GPU, DPU, CI/CD, CVR, PCU, GPM, SKU, DSR, VCR, DDL, SOA, GDP, NFC, WLTP, CLTP, NOA, FSD, COE, SDC, CCTV, SSO, EOF, EOT, JIT, BS, MS, MBA, DBA, MVP, VIP, GC, API, DTC, ODM, OEM, OBM, RTB, SMO, EMO
 ```
 
 ## 词汇解释
@@ -262,7 +246,7 @@ EOF, EOT, JIT, BS, MS, MBA, DBA
 升级 - 提高产品或服务的级别或性能
 交付 - 完成并提供产品或服务
 聚焦 - 集中关注重点领域或问题
-倒逼 - 通过压力促使必要的改进
+倒逼 - 通过压力反向推动必要的改进
 复盘 - 回顾并分析过去的行动或项目
 梳理 - 清晰理顺信息或流程
 输出 - 产出结果或成果
@@ -1190,6 +1174,7 @@ KPI - Key Performance Indicator 关键绩效指标
 OKR - Objectives and Key Results 目标与关键结果
 ROI - Return on Investment 投资回报率
 DAU - Daily Active Users 日活跃用户
+WAU - Weekly Active Users 周活跃用戶数
 MAU - Monthly Active Users 月活跃用户
 PV - Page Views 页面浏览量
 UV - Unique Visitors 独立访客数
@@ -1264,6 +1249,17 @@ BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴 / Browser-Ser
 MS - Master of Science 理学硕士
 MBA - Master of Business Administration 工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
+MVP - Minimum Viable Product 最小可行性产品 / Most Valuable Player 最有价值选手
+VIP - Very Important Person 重要人物 / Virtual IP Address 虚拟IP地址
+GC - Garbage Collection 垃圾回收
+API - Application Programming Interface 应用程序接口
+DTC - Direct to Customer 直接面向消费者
+ODM - Original Design Manufacture 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
+OEM - Original Equipment Manufacture 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
+OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
+RTB - Real-Time Bidding 实时竞价
+SMO - Social Media Optimization 社交媒体优化
+EMO - Emotional 焦虑、忧郁、伤感等情绪
 ```
 
 ## 词汇翻译
@@ -1290,7 +1286,7 @@ DBA - Doctor of Business Administration 工商管理博士 / Database Administra
 升级 - Upgrade
 交付 - Deliver
 聚焦 - Focus
-倒逼 - Force (by situation or requirement)
+倒逼 - Reverse forcing / Reverse pressure
 复盘 - Review / Post-mortem
 梳理 - Sort out / Organize
 输出 - Output
