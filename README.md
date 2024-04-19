@@ -188,23 +188,39 @@ All in, A/B测试
 向量, 图谱, 基线, 底线, 远景, 愿景, 友商,
 竞对, 拉高, 发酵, 双周, 双月, 招标, 围标,
 陪标, 串标, 币圈, 撸毛, 空投, 土狗, 挖矿,
-矿工, 矿难, 梭哈, 破发, 割肉
+矿工, 矿难, 梭哈, 破发, 割肉, 看板, 孤岛,
+群控, 中控, 洗稿, 互推, 硬广, 软文, 网感,
+声量, 出圈, 普惠, 景观, 代际, 出海, 众包,
+海淘, 标品, 集美, 景别, 运镜, 构图, 转场,
+定格, 闪回, 截流
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
-云原生, 平常心, 独角兽, 强绑定, 超融合
+云原生, 平常心, 独角兽, 强绑定, 超融合,
+蒙太奇, 关键帧, 剪辑率, 工具人, 凡尔赛,
+非标品, 硬着陆, 软着陆, 供给侧, 需求端,
+跳出率, 产业链, 信息流, 碎片化, 一元化,
+多元化, 新常态, Z世代, 黑天鹅, 博弈论
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
 虚拟现实, 增强现实, 冒烟测试, 灰度发布,
 蓝绿发布, 滚动发布, 可观测性, 生态化反,
 红蓝对抗, 增长黑客, 商业本质, 三电系统,
-从0到1, 斜杠青年, T型人才, 头脑风暴
+从0到1, 斜杠青年, T型人才, 头脑风暴,
+弯道超车, 非标到标, 小镇青年, 刻板印象,
+二类电商, 种子用户, 鲶鱼效应, 羊群效应,
+墨菲定律, 蝴蝶效应, 木桶效应, 零和博弈,
+囚徒困境, 光环效应
 
 金丝雀发布, 第一性原理, 供应链攻击,
-社会工程学
+社会工程学, 旁观者效应, 幸存者偏差,
+登门槛效应
 
 天时地利人和, 品牌记忆系统, 心智切割利器
+
+斯德哥尔摩症候, 奥卡姆剃刀定律,
+邓宁克鲁格效应
 ```
 
 ### 英文缩写列表
@@ -215,11 +231,29 @@ OD, OA, KM, CRM, ERP, CEO, COO,
 CFO, CTO, CIO, CMO, CSO, CDO, VP,
 SVP, AVP, GM, BM, MD, AD, CMS,
 SCM, KA, CS, OU, VC, PE, BU, BG,
-BP, BD, RFP, HQ, UI, UE, VI,
-PDCA, QA, QC, JD, OT, FW, CC,
-BCC, FYI, FYR, ASAP, BR, ETA,
-EOD, EOW, COB, N/A, TBD, TBC,
-JIC, BRB, BRT, IMO, RE:, BTW, NB,TYT, NRN, WFH, OOO, PTO, AL, ATM, AKA, LOL, P.S., MTD, QTD, YTD, IDE, VS, PR, R&D, C&B, RSVP, PRD, FAQ, SOP, IP, MCN, UGC, PGC, OGC, CPC, CPM, CTR, KPI, OKR, ROI, DAU, WAU, MAU, PV, UV, ARPU, ARPPU, GMV, CLV, KOC, KOL, CBD, B2C, C2C, B2B, O2O, P2P, IaaS, PaaS, SaaS, OTA, SEM, SEO, ASO, VR, AR, MR, LBS, SOHO, SNS, TMT, ACG, IoT, BI, BE, BA, AI, AIGC, AGI, LLM, GPT, NLP, NN, CV, DM, DL, ML, CPU, GPU, DPU, CI/CD, CVR, PCU, GPM, SKU, DSR, VCR, DDL, SOA, GDP, NFC, WLTP, CLTP, NOA, FSD, COE, SDC, CCTV, SSO, EOF, EOT, JIT, BS, MS, MBA, DBA, MVP, VIP, GC, API, DTC, ODM, OEM, OBM, RTB, SMO, EMO
+BP, BD, RFP, HQ, UI, UE, VI, PDCA,
+QA, QC, JD, OT, FW, CC, BCC, FYI,
+FYR, ASAP, BR, ETA, EOD, EOW, COB,
+N/A, TBD, TBC, JIC, BRB, BRT, IMO,
+RE:, BTW, NB,TYT, NRN, WFH, OOO,
+PTO, AL, ATM, AKA, LOL, P.S., MTD,
+QTD, YTD, IDE, VS, PR, R&D, C&B,
+RSVP, PRD, FAQ, SOP, IP, MCN, UGC,
+PGC, OGC, CPC, CPM, CTR, KPI, OKR,
+ROI, DAU, WAU, MAU, PV, UV, ARPU,
+ARPPU, GMV, CLV, KOC, KOL, CBD,
+B2C, C2C, B2B, O2O, P2P, IaaS,
+PaaS, SaaS, OTA, SEM, SEO, ASO,
+VR, AR, MR, LBS, SOHO, SNS, TMT,
+ACG, IoT, BI, BE, BA, AI, AIGC,
+AGI, LLM, GPT, NLP, NN, CV, DM,
+DL, ML, CPU, GPU, DPU, CI/CD, CVR,
+PCU, GPM, SKU, DSR, VCR, DDL, SOA,
+GDP, NFC, WLTP, CLTP, NOA, FSD,
+COE, SDC, CCTV, SSO, EOF, EOT,
+JIT, BS, MS, MBA, DBA, MVP, VIP,
+GC, API, DTC, ODM, OEM, OBM, RTB,
+SMO, EMO
 ```
 
 ## 词汇解释
@@ -1016,6 +1050,32 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 梭哈 - 投入所有资源或资金进行一次大胆的投资或赌注
 破发 - 发行的新股或新币价格低于初始发行价
 割肉 - 亏损时出售资产以止损
+看板 - 可视化工具，用于视觉化地跟踪工作进度
+孤岛 - 信息孤立，数据或系统间缺乏互联
+群控 - 同时控制多个设备或账户
+中控 - 集中式的设备或系统管理
+洗稿 - 修改别人的内容后重新发布
+互推 - 相互推广各自的内容或产品
+硬广 - 直接的商业广告
+软文 - 伪装成普通文章的广告
+网感 - 对网络文化和社交媒体的敏锐感知和理解能力
+声量 - 社交媒体上的讨论或提及量
+出圈 - 内容或人物超越原有受众群体
+普惠 - 面向广大群众的平等利益政策
+景观 - 视觉上吸引人的环境布置
+代际 - 不同年龄层之间的差异
+出海 - 企业扩展至国际市场
+众包 - 利用群体智慧解决问题或创造
+海淘 - 在线购买国外商品
+标品 - 标准化生产的产品
+集美 - 集中美丽，集中美好的“姐妹”
+景别 - 摄影中景物与镜头的距离
+运镜 - 摄影中移动摄像机的技巧
+构图 - 在视觉艺术中安排元素的方法
+转场 - 视频中场景转换的技巧
+定格 - 停止运动捕捉单一瞬间的摄影技术
+闪回 - 故事中回到过去的情节。
+截流 - 在市场中抢夺用户或资源
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1032,6 +1092,26 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 独角兽 - 估值超过10亿美元的未上市创业公司
 强绑定 - 各部分耦合紧密，一方改变可能牵连整体
 超融合 - 集成计算、存储、网络于一体，形成统一的资源池
+蒙太奇 - 通过剪辑拼接多个镜头创造新意
+关键帧 - 动画或视频中定义运动起点的帧
+剪辑率 - 视频编辑中剪辑的频繁程度
+工具人 - 心甘情愿被利用但不被重视的人
+凡尔赛 - 夸张炫耀的自我表达方式
+非标品 - 非标准化的、定制的产品
+硬着陆 - 经济过度扩张后政府采取全面紧缩措施导致迅速衰退
+软着陆 - 经济过度扩张后政府适度放缓避免大规模通缩和失业
+供给侧 - 经济政策中关注生产和供应
+需求端 - 经济活动中消费者的购买力和市场需求
+跳出率 - 访问网页后迅速离开的比率
+产业链 - 从原料到成品的完整生产流程
+信息流 - 可滚动浏览的内容流
+碎片化 - 信息或活动被分割成小部分
+一元化 - 统一标准或策略
+多元化 - 在多个不同领域或方面进行发展
+新常态 - 不同以往的、相对稳定的状态
+Z世代 - 1995至2010年间出生的人群
+黑天鹅 - 突如其来的、不可预测的重大负面事件
+博弈论 - 分析决策者在相互依赖情况下的策略选择的数学理论
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1057,15 +1137,36 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 斜杠青年 - 拥有多重职业或技能的年轻人，源于使用“/”符号连接不同职业或身份
 T型人才 - 专业深度与跨领域广度兼具的人才
 头脑风暴 - 通过自由且无拘束的想法交流激发创新和解决问题的思路
+弯道超车 - 在竞争中通过创新迅速超越对手
+非标到标 - 从定制产品转向标准产品
+小镇青年 - 具有潜力的小镇年轻消费群体
+刻板印象 - 对特定群体的固有偏见
+二类电商 - 专门销售特定类别商品的电商
+种子用户 - 早期试用并反馈产品的用户
+鲶鱼效应 - 引入竞争者激发团队活力
+羊群效应 - 人们盲目跟随大多数人的行为
+墨菲定律 - 若有可能出错，则必出错
+蝴蝶效应 - 小变化可能引发大影响
+木桶效应 - 系统能力受最弱部分限制
+零和博弈 - 一方得利必然导致另一方损失
+囚徒困境 - 两名合作伙伴在无法沟通的情况下面临个人利益与集体利益冲突时的决策问题
+光环效应 - 由于某些特质影响对个体的整体评价
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
 供应链攻击 - 通过感染供应链中受信任的软硬件来进行的网络攻击
 社会工程学 - 在信息安全方面操纵人的心理，使其采取行动或泄露机密信息
+旁观者效应 - 群体中无人采取行动的心理现象
+幸存者偏差 - 基于幸存样本的错误总结
+登门槛效应 - 进入特定市场或领域所需克服的初期难度和成本
 
 天时地利人和 - 形容成功需要时机、地点和人的和谐配合
 品牌记忆系统 - 建立品牌形象和信息在消费者心中的记忆机制
 心智切割利器 - 高效影响或改变人们思考方式的方法或工具
+
+斯德哥尔摩症候 - 受害者对施暴者产生好感的理状态，又称人质情结
+奥卡姆剃刀定律 - 解释问题应尽量保持简单
+邓宁克鲁格效应 - 低能者高估自己能力的现象
 ```
 
 ### 英文缩写解释
@@ -2056,6 +2157,32 @@ A/B测试 - A/B testing
 梭哈 - All in
 破发 - Break issue price
 割肉 - Cut losses
+看板 - Kanban
+孤岛 - Information Silo
+群控 - Mass Control
+中控 - Central Control
+洗稿 - Content Scraping
+互推 - Cross-Promotion
+硬广 - Hard Sell Advertising
+软文 - Advertorial
+网感 - Digital Savvy
+声量 - Social Media Presence
+出圈 - Breaking the Niche
+普惠 - Inclusive Benefits
+景观 - Scenic Design
+代际 - Generational Differences
+出海 - Going Global
+众包 - Crowdsourcing
+海淘 - Cross-border E-commerce
+标品 - Standardized Products
+集美 - Community of Beauties
+景别 - Shot Scale
+运镜 - Camera Movement
+构图 - Composition
+转场 - Transition
+定格 - Freeze Frame
+闪回 - Flashback
+截流 - Market Interception
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -2072,6 +2199,26 @@ A/B测试 - A/B testing
 独角兽 - Unicorn
 强绑定 - Strong binding / Tight coupling
 超融合 - Hyper-converged
+蒙太奇 - Montage
+关键帧 - Keyframe
+剪辑率 - Editing Rate
+工具人 - Tool Person
+凡尔赛 - Humblebrag
+非标品 - Custom Products
+硬着陆 - Hard Landing
+软着陆 - Soft Landing
+供给侧 - Supply Side
+需求端 - Demand Side
+跳出率 - Bounce Rate
+产业链 - Supply Chain
+信息流 - Content Stream
+碎片化 - Fragmentation
+一元化 - Standardization
+多元化 - Diversification
+新常态 - New Normal
+Z世代 - Generation Z
+黑天鹅 - Black Swan Event
+博弈论 - Game Theory
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -2097,13 +2244,34 @@ A/B测试 - A/B testing
 斜杠青年 - Slash youth
 T型人才 - T-shaped talent
 头脑风暴 - Brainstorming
+弯道超车 - Leapfrogging
+非标到标 - Custom to Standard
+小镇青年 - Small-town Youth
+刻板印象 - Stereotype
+二类电商 - Niche E-commerce
+种子用户 - Early Adopters
+鲶鱼效应 - Catfish Effect
+羊群效应 - Herd Behavior
+墨菲定律 - Murphy's Law
+蝴蝶效应 - Butterfly Effect
+木桶效应 - Weakest Link Theory
+零和博弈 - Zero-Sum Game
+囚徒困境 - Prisoner's Dilemma
+光环效应 - Halo Effect
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
 供应链攻击 - Supply chain attacks
 社会工程学 - Social engineering
+旁观者效应 - Bystander Effect
+幸存者偏差 - Survivorship Bias
+登门槛效应 - Barrier to Entry
 
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
 心智切割利器 - Mental model segmentation tool
+
+斯德哥尔摩症候 - Stockholm Syndrome
+奥卡姆剃刀定律 - Occam's Razor
+邓宁克鲁格效应 - Dunning-Kruger Effect
 ```
