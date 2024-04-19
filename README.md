@@ -2157,31 +2157,31 @@ A/B测试 - A/B testing
 破发 - Break issue price
 割肉 - Cut losses
 看板 - Kanban
-孤岛 - Information Silo
-群控 - Mass Control
-中控 - Central Control
-洗稿 - Content Scraping
-互推 - Cross-Promotion
-硬广 - Hard Sell Advertising
+孤岛 - Information silo
+群控 - Mass control
+中控 - Central control
+洗稿 - Content scraping
+互推 - Cross-promotion
+硬广 - Hard Sell advertising
 软文 - Advertorial
-网感 - Digital Savvy
-声量 - Social Media Presence
-出圈 - Breaking the Niche
-普惠 - Inclusive Benefits
-景观 - Scenic Design
-代际 - Generational Differences
-出海 - Going Global
+网感 - Digital savvy
+声量 - Social media presence
+出圈 - Breaking the niche
+普惠 - Inclusive benefits
+景观 - Scenic design
+代际 - Generational differences
+出海 - Going global
 众包 - Crowdsourcing
 海淘 - Cross-border E-commerce
-标品 - Standardized Products
-集美 - Community of Beauties
-景别 - Shot Scale
-运镜 - Camera Movement
+标品 - Standardized products
+集美 - Community of beauties
+景别 - Shot scale
+运镜 - Camera movement
 构图 - Composition
 转场 - Transition
-定格 - Freeze Frame
+定格 - Freeze frame
 闪回 - Flashback
-截流 - Market Interception
+截流 - Market interception
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -2200,24 +2200,24 @@ A/B测试 - A/B testing
 超融合 - Hyper-converged
 蒙太奇 - Montage
 关键帧 - Keyframe
-剪辑率 - Editing Rate
-工具人 - Tool Person
+剪辑率 - Editing rate
+工具人 - Tool person
 凡尔赛 - Humblebrag
-非标品 - Custom Products
-硬着陆 - Hard Landing
-软着陆 - Soft Landing
-供给侧 - Supply Side
-需求端 - Demand Side
-跳出率 - Bounce Rate
-产业链 - Supply Chain
-信息流 - Content Stream
+非标品 - Custom products
+硬着陆 - Hard landing
+软着陆 - Soft landing
+供给侧 - Supply side
+需求端 - Demand side
+跳出率 - Bounce rate
+产业链 - Supply chain
+信息流 - Content stream
 碎片化 - Fragmentation
 一元化 - Standardization
 多元化 - Diversification
-新常态 - New Normal
+新常态 - New normal
 Z世代 - Generation Z
-黑天鹅 - Black Swan Event
-博弈论 - Game Theory
+黑天鹅 - Black swan event
+博弈论 - Game theory
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -2244,34 +2244,34 @@ Z世代 - Generation Z
 T型人才 - T-shaped talent
 头脑风暴 - Brainstorming
 弯道超车 - Leapfrogging
-非标到标 - Custom to Standard
-小镇青年 - Small-town Youth
+非标到标 - Custom to standard
+小镇青年 - Small-town youth
 刻板印象 - Stereotype
 二类电商 - Niche E-commerce
-种子用户 - Early Adopters
-鲶鱼效应 - Catfish Effect
-羊群效应 - Herd Behavior
-墨菲定律 - Murphy's Law
-蝴蝶效应 - Butterfly Effect
-木桶效应 - Weakest Link Theory
-零和博弈 - Zero-Sum Game
-囚徒困境 - Prisoner's Dilemma
-光环效应 - Halo Effect
-破窗效应 - Broken Windows Theory
+种子用户 - Early adopters
+鲶鱼效应 - Catfish effect
+羊群效应 - Herd behavior
+墨菲定律 - Murphy's law
+蝴蝶效应 - Butterfly effect
+木桶效应 - Weakest link theory
+零和博弈 - Zero-Sum game
+囚徒困境 - Prisoner's dilemma
+光环效应 - Halo effect
+破窗效应 - Broken windows theory
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
 供应链攻击 - Supply chain attacks
 社会工程学 - Social engineering
-旁观者效应 - Bystander Effect
-幸存者偏差 - Survivorship Bias
-登门槛效应 - Barrier to Entry
+旁观者效应 - Bystander effect
+幸存者偏差 - Survivorship bias
+登门槛效应 - Barrier to entry
 
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
 心智切割利器 - Mental model segmentation tool
 
-斯德哥尔摩症候 - Stockholm Syndrome
-奥卡姆剃刀定律 - Occam's Razor
-邓宁克鲁格效应 - Dunning-Kruger Effect
+斯德哥尔摩症候 - Stockholm syndrome
+奥卡姆剃刀定律 - Occam's razor
+邓宁克鲁格效应 - Dunning-Kruger effect
 ```
