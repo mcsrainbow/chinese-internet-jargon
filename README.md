@@ -192,7 +192,7 @@ All in, A/B测试
 群控, 中控, 洗稿, 互推, 硬广, 软文, 网感,
 声量, 出圈, 普惠, 景观, 代际, 出海, 众包,
 海淘, 标品, 集美, 景别, 运镜, 构图, 转场,
-定格, 闪回, 截流
+定格, 闪回, 截流, 死锁, 脑裂, 作业, 常量
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -200,7 +200,8 @@ All in, A/B测试
 蒙太奇, 关键帧, 剪辑率, 工具人, 凡尔赛,
 非标品, 硬着陆, 软着陆, 供给侧, 需求端,
 跳出率, 产业链, 信息流, 碎片化, 一元化,
-多元化, 新常态, Z世代, 黑天鹅, 博弈论
+多元化, 新常态, Z世代, 黑天鹅, 博弈论,
+上下文
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -209,13 +210,16 @@ All in, A/B测试
 红蓝对抗, 增长黑客, 商业本质, 三电系统,
 从0到1, 斜杠青年, T型人才, 头脑风暴,
 弯道超车, 非标到标, 小镇青年, 刻板印象,
-二类电商, 种子用户, 鲶鱼效应, 羊群效应,
-墨菲定律, 蝴蝶效应, 木桶效应, 零和博弈,
-囚徒困境, 光环效应, 破窗效应
+种子用户, 鲶鱼效应, 羊群效应, 墨菲定律,
+蝴蝶效应, 木桶效应, 零和博弈, 囚徒困境,
+光环效应, 破窗效应, 边缘计算, 胖客户端,
+瘦客户端, 对称加密, 一级市场, 二级市场,
+一类电商, 二类电商
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
-登门槛效应, 恩格尔系数, 渐进式框架
+登门槛效应, 恩格尔系数, 渐进式框架,
+非对称加密
 
 天时地利人和, 品牌记忆系统, 心智切割利器
 
@@ -223,10 +227,11 @@ All in, A/B测试
 邓宁克鲁格效应
 ```
 
-### 英文缩写列表
+### 英文缩写列表(通用)
 
 ```markdown
-IT, PC, DIY, EMO, ID, YOLO, FOMO,
+IT, PC, OS, DIY, EMO, OMG, BBQ, VCD,
+DVD, TV, MTV, MV, YOLO, FOMO, ID,
 CV, OT, FW, CC, BCC, RSVP, FYI, FYR,
 ASAP, BR, ETA, EOD, EOW, COB, N/A,
 TBD, TBC, JIC, BRB, BRT, IMO, RE:,
@@ -235,44 +240,56 @@ AL, ATM, AKA, LOL, P.S., MTD, QTD,
 YTD, DDL, HR, HRBP, HRM, HRD, PM,
 PMO, PO, OD, CEO, COO, CFO, CTO,
 CIO, CMO, CSO, CDO, VP, SVP, AVP,
-GM, BM, MD, AD, OP, JD, BS, MS, MBA,
-DBA, IELTS, TOEFL, ODM, OEM, OBM,
-OA, CRM, ERP, CMS, SCM, BOSS, KM,
-KA, CS, OU, VC, PE, BU, BG, BP, BD,
-RFP, HQ, UI, UE, UED, VI, VIP, IDE,
-VS, PR, IP, MCN, UGC, PGC, OGC, CPC,
-CPM, CPA, CPS, CAC, TCO, CTR, KPI,
-OKR, ROI, IRR, NPV, PBP, DAU, WAU,
-MAU, PV, UV, ARPU, ARPPU, GMV, CLV,
-CVR, PCU, GPM, DSR, SKU, GDP, CPI,
-GPS, CNMD, KOC, KOL, CBD, B2C, C2C,
-B2B, O2O, P2P, DTC, OTA, SEM, SEO,
-ASO, RTB, SMO, SOHO, SNS, TMT, ACG,
-VR, AR, MR, LBS, IoT, BI, BE, BA,
-AI, AIGC, AGI, LLM, GPT, NLP, NN,
-DM, DL, ML, OLAP, OLTP, BFS, DFS,
+GM, BM, MD, AD, OP, JD, BS, MS,
+MBA, DBA, IELTS, TOEFL, ODM, OEM,
+OBM, OA, CRM, ERP, CMS, SCM, BOSS,
+KM, KA, CS, OU, VC, PE, BU, BG, BP,
+BD, RFP, HQ, UI, GUI, SD, HD, HDMI,
+UE, UED, VI, VIP, IDE, VS, PR, IP,
+MCN, UGC, PGC, OGC, CPC, CPM, CPA,
+CPS, CAC, TCO, CTR, KPI, OKR, ROI,
+IRR, NPV, PBP, DAU, WAU, MAU, PV,
+UV, ARPU, ARPPU, GMV, CLV, CVR, PCU,
+GPM, DSR, SKU, GDP, CPI, GPS, CNMD,
+KOC, KOL, CBD, B2C, C2C, B2B, O2O,
+P2P, DTC, OTA, SEM, SEO, ASO, RTB,
+SMO, SOHO, SNS, FAQ, UTC, GMT, TMT,
+ACG, VR, AR, MR, LBS, IoT, BI, BE,
+BA, AI, AIGC, AGI, LLM, GPT, NLP,
 CPU, GPU, DPU, VCR, SOA, NFC, WLTP,
-CLTP, NOA, FSD, CCTV, IaaS, PaaS,
-SaaS, DevOps, CI/CD, I/O, SWE, SRE,
+CLTP, NOA, FSD, SSO, ISO, API, CCTV,
+IaaS, PaaS, SaaS, KISS
+```
+
+### 英文缩写列表(术语)
+
+```markdown
+OLAP, OLTP, BFS, DFS, NN, DM, DL,
+ML, DevOps, CI/CD, I/O, SWE, SRE,
 DEV, SIT, UAT, PRE, PROD, CaC, IaC,
 SLA, SLO, SLI, MTBF, MTTR, MTTA,
 MTTF, ITIL, ITSM, MQ, QPS, TPS, QoS,
-RCA, QA, QC, VPN, CRUD, REST, EOF,
-EOT, JIT, SOAP, IDC, ISP, ICP, CDN,
-BGP, DNS, TTL, DHCP, NTP, UTC, GMT,
-PPP, SSO, ISO, OSI, RFC, GC, API,
-RPC, TCP, UDP, FTP, TFTP, ICMP,
-SMTP, IMAP, ARP, SYN, ACK, HTTP,
-HTTPS, XML, HTML, CSS, LAN, WAN,
-SDN, SDWAN, VM, KVM, SSL, TLS, ARQ,
-RDS, IAM, ACL, DAC, MAC, RBAC, ABAC,
-DOM, BOM, CORS, XSS, CSRF, ORM, ADT,
-IPC, DoS, DDoS, OOP, JWT, LVS, WAF,
-WBS, RBS, OBS, RAM, R&D, C&B, PRD,
-FAQ, SOP, TDD, BDD, DDD, SDLC, CAP,
-ACID, BASE, KISS, MVC, MVVM, PoC,
-MVP, SOW, SME, CCB, COE, SDC, PDCA,
-SIPOC, SWOT, RACI, VUCA
+RCA, QA, QC, SQL, CURD, DDL, DML,
+DQL, DCL, TCL, DSL, DB, JDBC, ODBC,
+URI, URL, ARN, SDK, UUID, DBMS,
+RDBMS, POSIX, SSH, SCP, SFTP, LB,
+ALB, NLB, CLB, NAT, GW, GFW, XP,
+MD5, BLOB, SAST, DAST, VPC, VPN, FS,
+REST, EOF, EOT, JIT, SOAP, IDC, ISP,
+ICP, CDN, BGP, DNS, TTL, DHCP, NTP,
+PPP, OSI, RFC, GC, RPC, TCP, UDP,
+FTP, TFTP, ICMP, SMTP, IMAP, ARP,
+SYN, ACK, HTTP, HTTPS, XML, HTML,
+CSS, LAN, WAN, SDN, SDWAN, VM, KVM,
+SSL, TLS, ARQ, RDS, IAM, ACL, DAC,
+MAC, RBAC, ABAC, DOM, BOM, CORS,
+XSS, CSRF, ORM, ADT, IPC, DoS, DDoS,
+CC, OOP, JWT, LVS, WAF, WBS, RBS,
+OBS, RAM, R&D, C&B, PRD, SOP, TDD,
+BDD, DDD, SDLC, CAP, ACID, BASE,
+MVC, MVVM, PoC, MVP, SOW, SME, CCB,
+COE, SDC, PDCA, SIPOC, SWOT, RACI,
+VUCA
 ```
 
 ## 词汇解释
@@ -1007,6 +1024,7 @@ SIPOC, SWOT, RACI, VUCA
 ```markdown
 All in - 全力以赴，投入所有资源和精力
 A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
+QR码 - 快速响应矩阵图码，二维码
 
 熵减 - 系统从混乱向有序转变，常用来形容项目优化
 熵增 - 系统从有序向混乱转变，通常表示情况恶化
@@ -1095,6 +1113,10 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 定格 - 停止运动捕捉单一瞬间的摄影技术
 闪回 - 故事中回到过去的情节。
 截流 - 在市场中抢夺用户或资源
+死锁 - 多个进程相互等待对方释放资源，导致停滞
+脑裂 - 在分布式系统中，节点间失去联系，各自为主
+作业 - 在特定环境下完成的一系列任务或活动
+常量 - 在特定过程或环境中值不发生变化的元素
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1131,6 +1153,7 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 Z世代 - 1995至2010年间出生的人群
 黑天鹅 - 突如其来的、不可预测的重大负面事件
 博弈论 - 分析决策者在相互依赖情况下的策略选择的数学理论
+上下文 - 某个事物存在或被理解的环境和条件
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1160,7 +1183,6 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 非标到标 - 从定制产品转向标准产品
 小镇青年 - 具有潜力的小镇年轻消费群体
 刻板印象 - 对特定群体的固有偏见
-二类电商 - 专门销售特定类别商品的电商
 种子用户 - 早期试用并反馈产品的用户
 鲶鱼效应 - 引入竞争者激发团队活力
 羊群效应 - 人们盲目跟随大多数人的行为
@@ -1171,6 +1193,14 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 囚徒困境 - 两名合作伙伴在无法沟通的情况下面临个人利益与集体利益冲突时的决策问题
 光环效应 - 由于某些特质影响对个体的整体评价
 破窗效应 - 不良现象被放任存在会诱使人们仿效和变本加厉，应及时矫正和补救
+边缘计算 - 数据在产生地近处处理，以减少延迟
+胖客户端 - 客户端程序具备丰富功能，独立处理多数任务
+瘦客户端 - 功能简化的客户端，主要依赖服务器处理数据
+对称加密 - 加密和解密使用同一密钥
+一级市场 - 新股或新债初始发行购买市场
+二级市场 - 已发行股票或债券的交易市场
+一类电商 - 传统电商，通过在线支付型的线上商铺，推广多款产品
+二类电商 - 直营电商，通过流量平台进行广告投放，推广单一产品
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1181,6 +1211,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 登门槛效应 - 接受小请求后，为了保持前后一致的印象，更易同意更大的请求
 恩格尔系数 - 食品支出占消费支出的比重，衡量生活水平高低的重要指标，收入越高的家庭恩格尔系数越小
 渐进式框架 - 只使用核心功能，仅在需要时增加额外的功能或插件的设计理念
+非对称加密 - 加密和解密使用一对公钥和私钥
 
 天时地利人和 - 形容成功需要时机、地点和人的和谐配合
 品牌记忆系统 - 建立品牌形象和信息在消费者心中的记忆机制
@@ -1191,17 +1222,25 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 邓宁克鲁格效应 - 低能者高估自己能力的现象
 ```
 
-### 英文缩写解释
+### 英文缩写解释(通用)
 
 ```markdown
 IT - Information Technology 信息技术
 PC - Personal Computer 个人计算机
+OS - Operating System 操作系统
 DIY - Do It Yourself 自己动手
 EMO - Emotional 焦虑、忧郁、伤感等情绪
-ID - Identity Document 身份证件 / Identifier 标识符
-CV - Curriculum Vitae 个人履历 / Computer Vision 计算机视觉
+OMG - Oh My God 我的上帝，我的天啦
+BBQ - Barbecue 烧烤
+VCD - Video Compact Disc 影音光盘
+DVD - Digital Versatile Disc 数字多功能光盘
+TV - Television 电视
+MTV - Music Television 音乐电视
+MV - Music Video 音乐视频
 YOLO - You Only Live Once 你只活一次 / You Only Look Once 只看一次(计算机视觉领域实时对象检测算法)
 FOMO - Fear of Missing Out 害怕错过
+ID - Identity Document 身份证件 / Identifier 标识符
+CV - Curriculum Vitae 个人履历 / Computer Vision 计算机视觉
 OT - Overtime 加班
 FW - Forward 转发(邮件) / Firewall 防火墙
 CC - Carbon Copy 抄送(邮件)
@@ -1238,7 +1277,7 @@ P.S. - Postscript 附言，补充说明
 MTD - Month to Date 从月初到今天
 QTD - Quarter to Date 从季度初到今天
 YTD - Year to Date 从年初到今天
-DDL - Deadline 截止期限 / Dynamic Linkable Library 动态链接库
+DDL - Deadline 截止期限
 HR - Human Resources 人力资源
 HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
 HRM - Human Resource Manager 人力资源经理
@@ -1292,6 +1331,10 @@ BD - Business Development 商务拓展
 RFP - Request For Proposal 需求建议书，招标书
 HQ - Headquarters 公司总部
 UI - User Interface 用户界面
+GUI - Graphical User Interface 图形用户界面
+SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480
+HD - High Definition 高清晰度，720p，16:9宽高比分辨率1280x720
+HDMI - High Definition Multimedia Interface 高清晰多媒体接口
 UE - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
@@ -1352,6 +1395,9 @@ RTB - Real-Time Bidding 实时竞价
 SMO - Social Media Optimization 社交媒体优化
 SOHO - Small Office Home Office 家居办公
 SNS - Social Networking Services 社会性网络服务
+FAQ - Frequently Asked Questions 常见问题解答
+UTC - Coordinated Universal Time 协调世界时间，世界统一时间
+GMT - Greenwich Mean Time 格林尼治标准时间
 TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
 ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
 VR - Virtual Reality 虚拟现实
@@ -1368,14 +1414,6 @@ AGI - Artificial General Intelligence 通用人工智能
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 NLP - Natural Language Processing 自然语言处理
-NN - Neural Network 神经网络
-DM - Data Mining 数据挖掘 / Direct Message 直接消息
-DL - Deep Learning 深度学习
-ML - Machine Learning 机器学习
-OLAP - OnLine Analysis Processing 联机分析处理
-OLTP - Online Transaction Processing 联机事务处理
-BFS - Breadth First Search 广度优先搜索
-DFS - Depth First Search 深度优先搜索
 CPU - Central Processing Unit 中央处理器
 GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
@@ -1386,10 +1424,27 @@ WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
 CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
 NOA - Navigate on Autopilot 领航辅助驾驶
 FSD - Full Self-Driving 完全自动驾驶
+SSO - Single Sign-On 单点登录(认证服务)
+ISO - International Organization for Standardization 国际标准化组织
+API - Application Programming Interface 应用程序接口
 CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
 IaaS - Infrastructure as a Service 基础设施即服务
 PaaS - Platform as a Service 平台即服务
 SaaS - Software as a Service 软件即服务
+KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
+```
+
+### 英文缩写解释(术语)
+
+```markdown
+OLAP - OnLine Analysis Processing 联机分析处理
+OLTP - Online Transaction Processing 联机事务处理
+BFS - Breadth First Search 广度优先搜索
+DFS - Depth First Search 深度优先搜索 / Distributed File System 分布式文件系统
+NN - Neural Network 神经网络
+DM - Data Mining 数据挖掘 / Direct Message 直接消息
+DL - Deep Learning 深度学习
+ML - Machine Learning 机器学习
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 I/O - Input/Output 输入/输出
@@ -1418,8 +1473,43 @@ QoS - Quality of Service 服务质量(网络)
 RCA - Root Cause Analysis 根本原因分析
 QA - Quality Assurance 质量保证(测试)
 QC - Quality Control 质量控制
+SQL - Structured Query Language 结构化查询语言
+CURD - Create, Update, Read, Delete 创建、更新、读取、删除
+DDL - Data Definition Language 数据定义语言，包括CREATE, ALTER, DROP, TRUNCATE, COMMENT, RENAME / Dynamic Linkable Library 动态链接库
+DML - Data Manipulation Language 数据操纵语言，包括INSERT, UPDATE, DELETE, CALL, EXPLAIN PLAN, LOCK TABLE
+DQL - Data Query Language 数据查询语言，包括SELECT
+DCL - Data Control Language 数据控制语言，包括GRANT, REVOKE
+TCL - Transaction Control Language 事务控制语言，包括COMMIT, ROLLBACK, SAVEPOINT, SET TRANSACTION
+DSL - Domain-Specific Language 领域特定语言
+DB - Database 数据库
+JDBC - Java Database Connectivity Java数据库连接
+ODBC - Open Database Connectivity 开放数据库连接
+URI - Uniform Resource Identifier 统一资源标识符
+URL - Uniform Resource Locator 统一资源定位符
+ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
+SDK - Software Development Kit 软件开发工具包
+UUID - Universally Unique Identifier 通用唯一识别码
+DBMS - Database Management System 数据库管理系统
+RDBMS - Relational Database Management System 关系数据库管理系统
+POSIX - Portable Operating System Interface 可移植操作系统接口
+SSH - Secure Shell 安全外壳协议
+SCP - Secure Copy Protocol 安全复制协议
+SFTP - Secure File Transfer Protocol 安全文件传输协议
+LB - Load Balancer 负载均衡
+ALB - Application Load Balancer 应用负载均衡
+NLB - Network Load Balancer 网络负载均衡
+CLB - Classic Load Balancer 经典负载均衡
+NAT - Network Address Translation 网络地址转换
+GW - Gateway 网关
+GFW - Great Firewall 防火长城，中国国家防火墙
+XP - Extreme Programming 极限编程，强调团队合作、快速迭代和高质量的软件交付 / eXPerience (Windows XP)
+MD5 - Message Digest Algorithm 5 消息摘要算法第5版
+BLOB - Binary Large Object 二进制大型对象
+SAST - Static Application Security Testing 静态应用安全测试
+DAST - Dynamic Application Security Testing 动态应用安全测试
+VPC - Virtual Private Cloud 虚拟私有云
 VPN - Virtual Private Network 虚拟专用网
-CRUD - Create, Read, Update, Delete 增加、读取、更新、删除，数据基本操作
+FS - File System 文件系统
 REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
@@ -1434,15 +1524,10 @@ DNS - Domain Name System 域名系统
 TTL - Time to Live 生存时间(网络)
 DHCP - Dynamic Host Configuration Protocol 动态主机配置协议
 NTP - Network Time Protocol 网络时间协议
-UTC - Coordinated Universal Time 协调世界时间，世界统一时间
-GMT - Greenwich Mean Time 格林尼治标准时间
 PPP - Point-to-Point Protocol 点对点协议
-SSO - Single Sign-On 单点登录(认证服务)
-ISO - International Organization for Standardization 国际标准化组织
 OSI - Open System Interconnection Model 开放式系统互联模型
 RFC - Request for Comments 请求意见稿(互联网工程任务组发布)
 GC - Garbage Collection 垃圾回收
-API - Application Programming Interface 应用程序接口
 RPC - Remote Procedure Call 远程过程调用协议
 TCP - Transmission Control Protocol 传输控制协议
 UDP - User Datagram Protocol 用户数据报协议
@@ -1472,7 +1557,7 @@ RDS - Relational Database Service 关系型数据库
 IAM - Identity and Access Management 身份与访问管理
 ACL - Access Control Lists 访问控制列表
 DAC - Discretionary Access Control 自主访问控制
-MAC - Mandatory Access Control 强制访问控制
+MAC - Mandatory Access Control 强制访问控制 / Media Access Control Address 媒体访问控制地址
 RBAC - Role-Based Access Control 基于角色的访问控制
 ABAC - Attribute-Based Access Control 基于属性的访问控制策略
 DOM - Document Object Model 文档对象模型
@@ -1485,6 +1570,7 @@ ADT - Abstract Data Type 抽象数据类型
 IPC - Inter-Process Communication 进程间通信
 DoS - Denial of Service 拒绝服务
 DDoS - Distributed Denial of Service 分布式拒绝服务
+CC - Challenge Collapsar 挑战黑洞，持续发送大量数据包造成服务器资源耗尽的分布式拒绝服务攻击
 OOP - Object-Oriented Programming 面向对象程序设计
 JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
 LVS - Linux Virtual Server Linux虚拟服务器
@@ -1496,7 +1582,6 @@ RAM - Responsibility Assignment Matrix 责任分配矩阵 / Random Access Memory
 R&D - Research and Development 研究和开发
 C&B - Compensation and Benefits 薪酬和福利
 PRD - Product Requirements Document 产品需求文档 / Production 生产(环境)
-FAQ - Frequently Asked Questions 常见问题解答
 SOP - Standard Operating Procedure 标准操作流程
 TDD - Test-Drive Development 测试驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
@@ -1505,7 +1590,6 @@ SDLC - Software Development Life Cycle 软件开发生命周期
 CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
 ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
 BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
-KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
 MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
 PoC - Proof of Concept 概念验证
@@ -1519,7 +1603,7 @@ PDCA - Plan, Do, Check, Action 计划、执行、检查、总结，持续改进�
 SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程、输出、客户，组织系统模型
 SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
 RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
-VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊，形容变化已成为常态
+VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊，变化成为常态
 ```
 
 ## 词汇翻译
@@ -2254,6 +2338,7 @@ VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、
 ```markdown
 All in - Put in all resources and efforts
 A/B测试 - A/B testing
+QR码 - Quick Response Code 
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
@@ -2342,6 +2427,10 @@ A/B测试 - A/B testing
 定格 - Freeze frame
 闪回 - Flashback
 截流 - Market interception
+死锁 - Deadlock
+脑裂 - Split-brain
+作业 - Job / Task
+常量 - Constant
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -2378,6 +2467,7 @@ A/B测试 - A/B testing
 Z世代 - Generation Z
 黑天鹅 - Black swan event
 博弈论 - Game theory
+上下文 - Context
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -2407,7 +2497,6 @@ T型人才 - T-shaped talent
 非标到标 - Custom to standard
 小镇青年 - Small-town youth
 刻板印象 - Stereotype
-二类电商 - Niche E-commerce
 种子用户 - Early adopters
 鲶鱼效应 - Catfish effect
 羊群效应 - Herd behavior
@@ -2418,6 +2507,14 @@ T型人才 - T-shaped talent
 囚徒困境 - Prisoner's dilemma
 光环效应 - Halo effect
 破窗效应 - Broken windows theory
+边缘计算 - Edge computing
+胖客户端 - Thick client or Fat client
+瘦客户端 - Thin client
+对称加密 - Symmetric encryption
+一级市场 - Primary market
+二级市场 - Secondary market
+一类电商 - Traditional E-commerce
+二类电商 - Direct E-commerce
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
@@ -2428,6 +2525,7 @@ T型人才 - T-shaped talent
 登门槛效应 - Foot-in-the-door technique
 恩格尔系数 - Engel's coefficient
 渐进式框架 - Progressive framework
+非对称加密 - Asymmetric encryption
 
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
