@@ -2426,8 +2426,8 @@ T型人才 - T-shaped talent
 旁观者效应 - Bystander effect
 幸存者偏差 - Survivorship bias
 登门槛效应 - Foot-in-the-door technique
-恩格尔系数 - Engel's Coefficient
-渐进式框架 - Progressive Framework
+恩格尔系数 - Engel's coefficient
+渐进式框架 - Progressive framework
 
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
