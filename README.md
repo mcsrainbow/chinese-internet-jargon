@@ -1317,7 +1317,6 @@ ROI - Return on Investment 投资回报率
 IRR - Internal Rate of Return 内部收益率
 NPV - Net Present Value 净现值
 PBP - Payback Period 投资回收期
-CPI - Consumer Price Index 消费者物价指数 / Cost Performance Index 成本绩效指数
 DAU - Daily Active Users 日活跃用户
 WAU - Weekly Active Users 周活跃用戶数
 MAU - Monthly Active Users 月活跃用户
