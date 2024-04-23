@@ -252,25 +252,25 @@ BA, AI, AIGC, AGI, LLM, GPT, NLP,
 NN, DM, DL, ML, OLAP, OLTP, BFS,
 DFS, CPU, GPU, DPU, VCR, SOA, NFC,
 WLTP, CLTP, NOA, FSD, CCTV, IaaS,
-PaaS, SaaS, DevOps, CI/CD, SRE, SLA,
-SLO, SLI, MTBF, MTTR, MTTA, MTTF,
-MQ, QPS, TPS, QoS, RCA, QA, QC, VPN,
-CRUD, REST, EOF, EOT, JIT, SOAP,
-IDC, ISP, ICP, CDN, BGP, DNS, TTL,
-DHCP, NTP, UTC, GMT, PPP, SSO, ISO,
-OSI, RFC, GC, API, RPC, TCP, UDP,
-FTP, TFTP, ICMP, SMTP, IMAP, ARP,
-SYN, ACK, HTTP, HTTPS, XML, HTML,
-CSS, LAN, WAN, SDN, SDWAN, VM, KVM,
-SSL, TLS, ARQ, RDS, IAM, ACL, DAC,
-MAC, RBAC, ABAC, DOM, BOM, CORS,
-XSS, CSRF, ORM, ADT, IPC, DoS, DDoS,
-OOP, JWT, LVS, WAF, WBS, RBS, OBS,
-RAM, R&D, C&B, PRD, FAQ, SOP, TDD,
-BDD, DDD, CAP, ACID, BASE, KISS,
-MVC, MVVM, PoC, MVP, SOW, SME, CCB,
-COE, SDC, PDCA, SIPOC, SWOT, RACI,
-VUCA
+PaaS, SaaS, DevOps, CI/CD, SRE, DEV,
+SIT, UAT, PRE, PROD, SLA, SLO, SLI,
+MTBF, MTTR, MTTA, MTTF, MQ, QPS,
+TPS, QoS, RCA, QA, QC, VPN, CRUD,
+REST, EOF, EOT, JIT, SOAP, IDC, ISP,
+ICP, CDN, BGP, DNS, TTL, DHCP, NTP,
+UTC, GMT, PPP, SSO, ISO, OSI, RFC,
+GC, API, RPC, TCP, UDP, FTP, TFTP,
+ICMP, SMTP, IMAP, ARP, SYN, ACK,
+HTTP, HTTPS, XML, HTML, CSS, LAN,
+WAN, SDN, SDWAN, VM, KVM, SSL, TLS,
+ARQ, RDS, IAM, ACL, DAC, MAC, RBAC,
+ABAC, DOM, BOM, CORS, XSS, CSRF,
+ORM, ADT, IPC, DoS, DDoS, OOP, JWT,
+LVS, WAF, WBS, RBS, OBS, RAM, R&D,
+C&B, PRD, FAQ, SOP, TDD, BDD, DDD,
+CAP, ACID, BASE, KISS, MVC, MVVM,
+PoC, MVP, SOW, SME, CCB, COE, SDC,
+PDCA, SIPOC, SWOT, RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1387,6 +1387,11 @@ SaaS - Software as a Service 软件即服务
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 SRE - Site Reliability Engineering 站点可靠性工程
+DEV - Development 开发(环境)
+SIT - System Integration Testing 系统集成测试(环境)
+UAT - User Acceptance Testing 用户验收测试(环境)
+PRE - Pre-production 预生产(环境)，灰度(环境)
+PROD - Production 生产(环境)
 SLA - Service-Level Agreement 服务水平协议，对用户的承诺和补偿范围
 SLO - Service-Level Objective 服务水平目标，达成承诺所需的性能目标
 SLI - Service-Level Indicator 服务水平指标，性能目标的实际测量数据
@@ -1478,7 +1483,7 @@ OBS - Organizational Breakdown Structure 组织分解结构
 RAM - Responsibility Assignment Matrix 责任分配矩阵 / Random Access Memory 随机存取存储器，内存
 R&D - Research and Development 研究和开发
 C&B - Compensation and Benefits 薪酬和福利
-PRD - Product Requirements Document 产品需求文档
+PRD - Product Requirements Document 产品需求文档 / Production 生产(环境)
 FAQ - Frequently Asked Questions 常见问题解答
 SOP - Standard Operating Procedure 标准操作流程
 TDD - Test-Drive Development 测试驱动开发
