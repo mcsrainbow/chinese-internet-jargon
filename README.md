@@ -253,25 +253,25 @@ AI, AIGC, AGI, LLM, GPT, NLP, NN,
 DM, DL, ML, OLAP, OLTP, BFS, DFS,
 CPU, GPU, DPU, VCR, SOA, NFC, WLTP,
 CLTP, NOA, FSD, CCTV, IaaS, PaaS,
-SaaS, DevOps, CI/CD, SWE, SRE, DEV,
-SIT, UAT, PRE, PROD, CaC, IaC, SLA,
-SLO, SLI, MTBF, MTTR, MTTA, MTTF,
-ITIL, ITSM, MQ, QPS, TPS, QoS, RCA,
-QA, QC, VPN, CRUD, REST, EOF, EOT,
-JIT, SOAP, IDC, ISP, ICP, CDN, BGP,
-DNS, TTL, DHCP, NTP, UTC, GMT, PPP,
-SSO, ISO, OSI, RFC, GC, API, RPC,
-TCP, UDP, FTP, TFTP, ICMP, SMTP,
-IMAP, ARP, SYN, ACK, HTTP, HTTPS,
-XML, HTML, CSS, LAN, WAN, SDN,
-SDWAN, VM, KVM, SSL, TLS, ARQ, RDS,
-IAM, ACL, DAC, MAC, RBAC, ABAC, DOM,
-BOM, CORS, XSS, CSRF, ORM, ADT, IPC,
-DoS, DDoS, OOP, JWT, LVS, WAF, WBS,
-RBS, OBS, RAM, R&D, C&B, PRD, FAQ,
-SOP, TDD, BDD, DDD, SDLC, CAP, ACID,
-BASE, KISS, MVC, MVVM, PoC, MVP,
-SOW, SME, CCB, COE, SDC, PDCA,
+SaaS, DevOps, CI/CD, I/O, SWE, SRE,
+DEV, SIT, UAT, PRE, PROD, CaC, IaC,
+SLA, SLO, SLI, MTBF, MTTR, MTTA,
+MTTF, ITIL, ITSM, MQ, QPS, TPS, QoS,
+RCA, QA, QC, VPN, CRUD, REST, EOF,
+EOT, JIT, SOAP, IDC, ISP, ICP, CDN,
+BGP, DNS, TTL, DHCP, NTP, UTC, GMT,
+PPP, SSO, ISO, OSI, RFC, GC, API,
+RPC, TCP, UDP, FTP, TFTP, ICMP,
+SMTP, IMAP, ARP, SYN, ACK, HTTP,
+HTTPS, XML, HTML, CSS, LAN, WAN,
+SDN, SDWAN, VM, KVM, SSL, TLS, ARQ,
+RDS, IAM, ACL, DAC, MAC, RBAC, ABAC,
+DOM, BOM, CORS, XSS, CSRF, ORM, ADT,
+IPC, DoS, DDoS, OOP, JWT, LVS, WAF,
+WBS, RBS, OBS, RAM, R&D, C&B, PRD,
+FAQ, SOP, TDD, BDD, DDD, SDLC, CAP,
+ACID, BASE, KISS, MVC, MVVM, PoC,
+MVP, SOW, SME, CCB, COE, SDC, PDCA,
 SIPOC, SWOT, RACI, VUCA
 ```
 
@@ -1393,6 +1393,7 @@ PaaS - Platform as a Service 平台即服务
 SaaS - Software as a Service 软件即服务
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
+I/O - Input/Output 输入/输出
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
 SRE - Site Reliability Engineering 站点可靠性工程 / Site Reliability Engineer 站点可靠性工程师
 DEV - Development 开发(环境)
