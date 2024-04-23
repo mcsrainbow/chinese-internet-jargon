@@ -178,7 +178,7 @@
 ### 补充词汇列表
 
 ```markdown
-All in, A/B测试
+All in, A/B测试, QR码
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -2338,7 +2338,7 @@ VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、
 ```markdown
 All in - Put in all resources and efforts
 A/B测试 - A/B testing
-QR码 - Quick Response Code 
+QR码 - Quick Response Code
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
