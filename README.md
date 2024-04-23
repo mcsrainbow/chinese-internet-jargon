@@ -215,7 +215,7 @@ All in, A/B测试
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
-登门槛效应
+登门槛效应, 恩格尔系数, 渐进式框架
 
 天时地利人和, 品牌记忆系统, 心智切割利器
 
@@ -226,32 +226,51 @@ All in, A/B测试
 ### 英文缩写列表
 
 ```markdown
-HR, HRBP, HRM, HRD, PM, PMO, PO, OD,
-OA, KM, CRM, ERP, CEO, COO, CFO,
-CTO, CIO, CMO, CSO, CDO, VP, SVP,
-AVP, GM, BM, MD, AD, CMS, SCM, KA,
-CS, OU, VC, PE, BU, BG, BP, BD, RFP,
-HQ, UI, UE, VI, PDCA, QA, QC, JD,
-OT, FW, CC, BCC, FYI, FYR, ASAP, BR,
-ETA, EOD, EOW, COB, N/A, TBD, TBC,
-JIC, BRB, BRT, IMO, RE:, BTW, NB,
-TYT, NRN, WFH, OOO, PTO, AL, ATM,
-AKA, LOL, P.S., MTD, QTD, YTD, IDE,
-VS, PR, R&D, C&B, RSVP, PRD, FAQ,
-SOP, IP, MCN, UGC, PGC, OGC, CPC,
-CPM, CTR, KPI, OKR, ROI, DAU, WAU,
-MAU, PV, UV, ARPU, ARPPU, GMV, CLV,
-KOC, KOL, CBD, B2C, C2C, B2B, O2O,
-P2P, IaaS, PaaS, SaaS, OTA, SEM,
-SEO, ASO, VR, AR, MR, LBS, SOHO,
-SNS, TMT, ACG, IoT, BI, BE, BA, AI,
-AIGC, AGI, LLM, GPT, NLP, NN, CV,
-DM, DL, ML, CPU, GPU, DPU, CI/CD,
-CVR, PCU, GPM, SKU, DSR, VCR, DDL,
-SOA, GDP, NFC, WLTP, CLTP, NOA, FSD,
-COE, SDC, CCTV, SSO, EOF, EOT, JIT,
-BS, MS, MBA, DBA, MVP, VIP, GC, API,
-DTC, ODM, OEM, OBM, RTB, SMO, EMO
+IT, PC, DIY, EMO, ID, YOLO, FOMO,
+CV, OT, FW, CC, BCC, RSVP, FYI, FYR,
+ASAP, BR, ETA, EOD, EOW, COB, N/A,
+TBD, TBC, JIC, BRB, BRT, IMO, RE:,
+BTW, NB, TYT, NRN, WFH, OOO, PTO,
+AL, ATM, AKA, LOL, P.S., MTD, QTD,
+YTD, DDL, HR, HRBP, HRM, HRD, PM,
+PMO, PO, OD, CEO, COO, CFO, CTO,
+CIO, CMO, CSO, CDO, VP, SVP, AVP,
+GM, BM, MD, AD, OP, JD, BS, MS, MBA,
+DBA, ODM, OEM, OBM, OA, CRM, ERP,
+CMS, SCM, BOSS, KM, KA, CS, OU, VC,
+PE, BU, BG, BP, BD, RFP, HQ, UI, UE,
+UED, VI, VIP, IDE, VS, PR, IP, MCN,
+UGC, PGC, OGC, CPC, CPM, CPA, CPS,
+TCO, CTR, KPI, OKR, ROI, IRR, NPV,
+PBP, CPI, DAU, WAU, MAU, PV, UV,
+ARPU, ARPPU, GMV, CLV, CVR, PCU,
+GPM, DSR, SKU, KOC, KOL, CBD, B2C,
+C2C, B2B, O2O, P2P, DTC, OTA, SEM,
+SEO, ASO, RTB, SMO, SOHO, SNS, TMT,
+ACG, VR, AR, MR, LBS, IoT, BI, BE,
+BA, AI, AIGC, AGI, LLM, GPT, NLP,
+NN, DM, DL, ML, OLAP, OLTP, BFS,
+DFS, CPU, GPU, DPU, VCR, SOA, GDP,
+NFC, WLTP, CLTP, NOA, FSD, CCTV,
+IaaS, PaaS, SaaS, DevOps, CI/CD,
+SRE, SLA, SLO, SLI, MTBF, MTTR,
+MTTA, MTTF, MQ, QPS, TPS, QoS, RCA,
+QA, QC, VPN, CRUD, REST, EOF, EOT,
+JIT, SOAP, IDC, ISP, ICP, CDN, BGP,
+DNS, DHCP, NTP, UTC, GMT, PPP, SSO,
+ISO, OSI, RFC, GC, API, RPC, TCP,
+UDP, FTP, TFTP, ICMP, SMTP, IMAP,
+ARP, SYN, ACK, HTTP, HTTPS, XML,
+HTML, CSS, LAN, WAN, SDN, SDWAN, VM,
+KVM, SSL, TLS, ARQ, RDS, IAM, ACL,
+DAC, MAC, RBAC, ABAC, DOM, BOM,
+CORS, XSS, CSRF, ORM, ADT, IPC, DoS,
+DDoS, OOP, JWT, LVS, WAF, WBS, RBS,
+OBS, RAM, R&D, C&B, PRD, FAQ, SOP,
+TDD, BDD, DDD, CAP, ACID, BASE,
+KISS, MVC, MVVM, PoC, MVP, SOW, SME,
+CCB, COE, SDC, PDCA, SIPOC, SWOT,
+RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1158,12 +1177,14 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 旁观者效应 - 群体中无人采取行动的心理现象
 幸存者偏差 - 基于幸存样本的错误总结
 登门槛效应 - 接受小请求后，为了保持前后一致的印象，更易同意更大的请求
+恩格尔系数 - 食品支出占消费支出的比重，衡量生活水平高低的重要指标，收入越高的家庭恩格尔系数越小
+渐进式框架 - 只使用核心功能，仅在需要时增加额外的功能或插件的设计理念
 
 天时地利人和 - 形容成功需要时机、地点和人的和谐配合
 品牌记忆系统 - 建立品牌形象和信息在消费者心中的记忆机制
 心智切割利器 - 高效影响或改变人们思考方式的方法或工具
 
-斯德哥尔摩症候 - 受害者对施暴者产生好感的理状态，又称人质情结
+斯德哥尔摩症候 - 受害者对施暴者产生好感的心理状态，又称人质情结
 奥卡姆剃刀定律 - 解释问题应尽量保持简单
 邓宁克鲁格效应 - 低能者高估自己能力的现象
 ```
@@ -1171,57 +1192,19 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 ### 英文缩写解释
 
 ```markdown
-HR - Human Resources 人力资源
-HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
-HRM - Human Resource Manager 人力资源经理
-HRD - Human Resource Development 人力资源开发 / Human Resource Director 人力资源总监
-PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
-PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
-PO - Product Owner 产品负责人
-OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
-OA - Office Automation 办公自动化
-KM - Knowledge Management 知识管理
-CRM - Customer Relationship Management 客户关系管理
-ERP - Enterprise Resource Planning 企业资源计划，整合企业流程的营运管理软件
-CEO - Chief Executive Officer 首席执行官
-COO - Chief Operated Officer 首席运营官
-CFO - Chief Finacial Officer 首席财务官
-CTO - Chief Technology Officer 首席技术官
-CIO - Chief Information Officer 首席信息官
-CMO - Chief Marketing Officer 首席营销官
-CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官
-CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
-VP - Vice President 副总裁
-SVP - Senior Vice President 高级副总裁
-AVP - Assistant Vice President 助理副总裁
-GM - General Manager 总经理
-BM - Branch Manager 部门经理
-MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
-AD - Assistant Director 助理总监 / Active Directory 活动目录(Windows Server)
-CMS - Content Management System 内容管理系统
-SCM - Supply Chain Management 供应链管理
-KA - Key Accounts 重点客户，大卖场
-CS - Customer Service 客户服务 / Computer Science 计算机科学 / Client-Server 客户端与服务器 / Counter-Strike 反恐精英(游戏)
-OU - Organizational Unit 组织单位
-VC - Venture Capital 风险投资
-PE - Private Equity 私募股权基金
-BU - Business Unit 业务单元
-BG - Business Group 业务集团
-BP - Business Plan 商业计划书
-BD - Business Development 商务拓展
-RFP - Request For Proposal 需求建议书，招标书
-HQ - Headquarters 公司总部
-UI - User Interface 用户界面
-UE - User Experience 用户体验
-VI - Visual Identity 企业视觉形象设计
-PDCA - Plan Do Check Action 计划、执行、检查、总结，持续改进的循环方法论
-QA - Quality Assurance 质量保证(测试)
-QC - Quality Control 质量控制
-JD - Job Description 职位描述
+IT - Information Technology 信息技术
+PC - Personal Computer 个人计算机
+DIY - Do It Yourself 自己动手
+EMO - Emotional 焦虑、忧郁、伤感等情绪
+ID - Identity Document 身份证件 / Identifier 标识符
+CV - Curriculum Vitae 个人履历 / Computer Vision 计算机视觉
+YOLO - You Only Live Once 你只活一次 / You Only Look Once 只看一次(计算机视觉领域实时对象检测算法)
+FOMO - Fear of Missing Out 害怕错过
 OT - Overtime 加班
-FW - Forward 转发(邮件)
+FW - Forward 转发(邮件) / Firewall 防火墙
 CC - Carbon Copy 抄送(邮件)
 BCC - Blind Carbon Copy 秘密抄送(邮件)
+RSVP - Répondez S'il Vous Plaît 请回复(法语)
 FYI - For Your Information 供你参考
 FYR - For Your Reference 供你参考
 ASAP - As Soon As Possible 尽快
@@ -1253,15 +1236,65 @@ P.S. - Postscript 附言，补充说明
 MTD - Month to Date 从月初到今天
 QTD - Quarter to Date 从季度初到今天
 YTD - Year to Date 从年初到今天
+DDL - Deadline 截止期限 / Dynamic Linkable Library 动态链接库
+HR - Human Resources 人力资源
+HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
+HRM - Human Resource Manager 人力资源经理
+HRD - Human Resource Development 人力资源开发 / Human Resource Director 人力资源总监
+PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
+PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
+PO - Product Owner 产品负责人
+OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
+CEO - Chief Executive Officer 首席执行官
+COO - Chief Operated Officer 首席运营官
+CFO - Chief Finacial Officer 首席财务官
+CTO - Chief Technology Officer 首席技术官
+CIO - Chief Information Officer 首席信息官
+CMO - Chief Marketing Officer 首席营销官
+CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官
+CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
+VP - Vice President 副总裁
+SVP - Senior Vice President 高级副总裁
+AVP - Assistant Vice President 助理副总裁
+GM - General Manager 总经理
+BM - Branch Manager 部门经理
+MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
+AD - Assistant Director 助理总监 / Active Directory 活动目录(Windows Server)
+OP - Operations 运营 / Operator 操作员
+JD - Job Description 职位描述
+BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴 / Browser-Server 浏览器与服务器
+MS - Master of Science 理学硕士
+MBA - Master of Business Administration 工商管理硕士
+DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
+ODM - Original Design Manufacture 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
+OEM - Original Equipment Manufacture 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
+OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
+OA - Office Automation 办公自动化
+CRM - Customer Relationship Management 客户关系管理
+ERP - Enterprise Resource Planning 企业资源计划，整合企业流程的营运管理软件
+CMS - Content Management System 内容管理系统
+SCM - Supply Chain Management 供应链管理
+BOSS - Business Operating Support System 业务运营支撑系统
+KM - Knowledge Management 知识管理
+KA - Key Accounts 重点客户，大卖场
+CS - Customer Service 客户服务 / Computer Science 计算机科学 / Client-Server 客户端与服务器 / Counter-Strike 反恐精英(游戏)
+OU - Organizational Unit 组织单位
+VC - Venture Capital 风险投资
+PE - Private Equity 私募股权基金
+BU - Business Unit 业务单元
+BG - Business Group 业务集团
+BP - Business Plan 商业计划书
+BD - Business Development 商务拓展
+RFP - Request For Proposal 需求建议书，招标书
+HQ - Headquarters 公司总部
+UI - User Interface 用户界面
+UE - User Experience 用户体验
+UED - User Experience Design 用户体验设计
+VI - Visual Identity 企业视觉形象设计
+VIP - Very Important Person 重要人物 / Virtual IP Address 虚拟IP地址
 IDE - Integrated Development Environment 集成开发环境(软件开发)
 VS - Versus 对抗，相对 / Visual Studio (Microsoft IDE)
 PR - Public Relations 公共关系 / Pull Request 合并请求(软件开发)
-R&D - Research and Development 研究和开发
-C&B - Compensation and Benefits 薪酬和福利
-RSVP - Répondez S'il Vous Plaît 请回复(法语)
-PRD - Product Requirements Document 产品需求文档
-FAQ - Frequently Asked Questions 常见问题解答
-SOP - Standard Operating Procedure 标准操作流程
 IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
 MCN - Multi-Channel Network 多频道网络(网红经纪公司)
 UGC - User Generated Content 用户生成内容
@@ -1269,10 +1302,17 @@ PGC - Professionally Generated Content 专业生成内容
 OGC - Officially Generated Content 官方生成内容
 CPC - Cost Per Click 单次点击成本
 CPM - Cost Per Mille 千次展示成本
+CPA - Cost Per Action 每行动成本
+CPS - Cost Per Sales 按销量付费
+TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
 KPI - Key Performance Indicator 关键绩效指标
 OKR - Objectives and Key Results 目标与关键结果
 ROI - Return on Investment 投资回报率
+IRR - Internal Rate of Return 内部收益率
+NPV - Net Present Value 净现值
+PBP - Payback Period 投资回收期
+CPI - Consumer Price Index 消费者物价指数 / Cost Performance Index 成本绩效指数
 DAU - Daily Active Users 日活跃用户
 WAU - Weekly Active Users 周活跃用戶数
 MAU - Monthly Active Users 月活跃用户
@@ -1282,6 +1322,11 @@ ARPU - Average Revenue Per User 每用户平均收入
 ARPPU - Average Revenue Per Paying User 每付费用户平均收益
 GMV - Gross Merchandise Value 商品总价值
 CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
+CVR - Conversion Rate 转化率
+PCU - Peak Concurrent Users 最高并发用户
+GPM - GMV Per Mille 千次交易总额 / Gallons Per Minute 加仑每分钟
+DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
+SKU - Stock Keeping Unit 库存单位(产品)
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
@@ -1290,47 +1335,43 @@ C2C - Consumer to Consumer 消费者对消费者，如淘宝
 B2B - Business to Business 企业对企业，如阿里巴巴
 O2O - Online to Offline 线上到线下，如美团
 P2P - Person to Person 个人对个人(互联网金融借贷平台) / Peer-to-Peer 点对点(网络技术架构)
-IaaS - Infrastructure as a Service 基础设施即服务
-PaaS - Platform as a Service 平台即服务
-SaaS - Software as a Service 软件即服务
+DTC - Direct to Customer 直接面向消费者
 OTA - Over The Air 远程(升级) / Online Travel Agency 在线旅游机构
 SEM - Search Engine Marketing 搜索引擎营销
 SEO - Search Engine Optimization 搜索引擎优化
 ASO - App Store Optimization 应用商店优化
+RTB - Real-Time Bidding 实时竞价
+SMO - Social Media Optimization 社交媒体优化
+SOHO - Small Office Home Office 家居办公
+SNS - Social Networking Services 社会性网络服务
+TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
+ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Request 合并请求(软件开发)
 LBS - Location Based Service 基于位置的服务
-SOHO - Small Office Home Office 家居办公
-SNS - Social Networking Services 社会性网络服务
-TMT - Technology Media Telecom 科技、媒体、电信的总称(数字新媒体)
-ACG - Animation Comic Game 动画、漫画、游戏的总称(娱乐)
 IoT - Internet of Things 物联网
 BI - Business Intelligence 商业智能
 BE - Business Enablement 商业赋能
 BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业务) / Business Analytics 商业分析(围绕数据)
 AI - Artificial Intelligence 人工智能
-AIGC - AI Generated Content AI生成内容
+AIGC - AI Generated Content 人工智能生成内容
 AGI - Artificial General Intelligence 通用人工智能
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 NLP - Natural Language Processing 自然语言处理
 NN - Neural Network 神经网络
-CV - Computer Vision 计算机视觉 / Curriculum Vitae 个人履历
 DM - Data Mining 数据挖掘 / Direct Message 直接消息
 DL - Deep Learning 深度学习
 ML - Machine Learning 机器学习
+OLAP - OnLine Analysis Processing 联机分析处理
+OLTP - Online Transaction Processing 联机事务处理
+BFS - Breadth First Search 广度优先搜索
+DFS - Depth First Search 深度优先搜索
 CPU - Central Processing Unit 中央处理器
 GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
-CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
-CVR - Conversion Rate 转化率
-PCU - Peak Concurrent Users 最高并发用户
-GPM - GMV Per Mille 千次交易总额 / Gallons Per Minute 加仑每分钟
-SKU - Stock Keeping Unit 库存单位(产品)
-DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
 VCR - Video Cassette Recorder 录像机(视频片断)
-DDL - Deadline 截止期限 / Dynamic Linkable Library 动态链接库
 SOA - Service-Oriented Architecture 面向服务的架构
 GDP - Gross Domestic Product 国内生产总值
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
@@ -1338,28 +1379,127 @@ WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
 CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
 NOA - Navigate on Autopilot 领航辅助驾驶
 FSD - Full Self-Driving 完全自动驾驶
-COE - Center of Excellence 卓越中心，整合优化企业内部的资源和能力
-SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
 CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
-SSO - Single Sign-On 单点登录(认证服务)
+IaaS - Infrastructure as a Service 基础设施即服务
+PaaS - Platform as a Service 平台即服务
+SaaS - Software as a Service 软件即服务
+DevOps - Development and Operations 开发运维一体化
+CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
+SRE - Site Reliability Engineering 站点可靠性工程
+SLA - Service-Level Agreement 服务水平协议，对用户的承诺和补偿范围
+SLO - Service-Level Objective 服务水平目标，达成承诺所需的性能目标
+SLI - Service-Level Indicator 服务水平指标，性能目标的实际测量数据
+MTBF - Mean Time Between Failures 平均无故障时间，两次连续故障之间正常运行的平均时间
+MTTR - Mean Time To Repair 平均修复时间，从故障发生到故障修复完成所需的平均时间
+MTTA - Mean Time To Acknowledge 平均响应时间，从系统产生告警到人员开始注意并处理的平均时间
+MTTF - Mean Time To Failure 平均失效时间，系统平均正常运行多长时间后发生故障
+MQ - Message Queue 消息队列
+QPS - Queries Per Second 每秒查询次数
+TPS - Transactions Per Second 每秒事务数
+QoS - Quality of Service 服务质量(网络)
+RCA - Root Cause Analysis 根本原因分析
+QA - Quality Assurance 质量保证(测试)
+QC - Quality Control 质量控制
+VPN - Virtual Private Network 虚拟专用网
+CRUD - Create, Read, Update, Delete 增加、读取、更新、删除，数据基本操作
+REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 JIT - Just-In-Time 即时(编译)，实时(编译)
-BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴 / Browser-Server 浏览器与服务器
-MS - Master of Science 理学硕士
-MBA - Master of Business Administration 工商管理硕士
-DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
-MVP - Minimum Viable Product 最小可行性产品 / Most Valuable Player 最有价值选手
-VIP - Very Important Person 重要人物 / Virtual IP Address 虚拟IP地址
+SOAP - Simple Object Access Protocol 简单对象访问协议
+IDC - Internet Data Center 互联网数据中心
+ISP - Internet Service Provider 互联网服务提供商
+ICP - Internet Content Provider 互联网内容提供商
+CDN - Content Delivery Network 内容分发网络
+BGP - Border Gateway Protocol 边界网关协议
+DNS - Domain Name System 域名系统
+DHCP - Dynamic Host Configuration Protocol 动态主机配置协议
+NTP - Network Time Protocol 网络时间协议
+UTC - Coordinated Universal Time 协调世界时间，世界统一时间
+GMT - Greenwich Mean Time 格林尼治标准时间
+PPP - Point-to-Point Protocol 点对点协议
+SSO - Single Sign-On 单点登录(认证服务)
+ISO - International Organization for Standardization 国际标准化组织
+OSI - Open System Interconnection Model 开放式系统互联模型
+RFC - Request for Comments 请求意见稿(互联网工程任务组发布)
 GC - Garbage Collection 垃圾回收
 API - Application Programming Interface 应用程序接口
-DTC - Direct to Customer 直接面向消费者
-ODM - Original Design Manufacture 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
-OEM - Original Equipment Manufacture 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
-OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
-RTB - Real-Time Bidding 实时竞价
-SMO - Social Media Optimization 社交媒体优化
-EMO - Emotional 焦虑、忧郁、伤感等情绪
+RPC - Remote Procedure Call 远程过程调用协议
+TCP - Transmission Control Protocol 传输控制协议
+UDP - User Datagram Protocol 用户数据报协议
+FTP - File Transfer Protocol 文件传输协议
+TFTP - Trivial File Transfer Protocol 简单文件传输协议
+ICMP - Internet Control Message Protocol 互联网控制消息协议
+SMTP - Simple Mail Transfer Protocol 简单邮件传输协议
+IMAP - Internet Message Access Protocol 互联网邮件访问协议
+ARP - Address Resolution Protocol 地址解析协议
+SYN - Synchronize Sequence Numbers 同步序列编号
+ACK - Acknowledgement 确认
+HTTP - HyperText Transfer Protocol 超文本传输协议
+HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
+XML - EXtensible Markup Language 可扩展标记语言
+HTML - HyperText Markup Language 超文本标记语言
+CSS - Cascading Style Sheets 层叠样式表
+LAN - Local Area Network 局域网
+WAN - Wide Area Network 广域网
+SDN - Software Defined Network 软件定义网络
+SDWAN - Software Defined Wide Area Network 软件定义广域网
+VM - Virtual Machine 虚拟机
+KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
+SSL - Secure Sockets Layer 安全套接层
+TLS - Transport Layer Security 传输层安全性协议
+ARQ - Automatic Repeat-reQuest 自动重传请求
+RDS - Relational Database Service 关系型数据库
+IAM - Identity and Access Management 身份与访问管理
+ACL - Access Control Lists 访问控制列表
+DAC - Discretionary Access Control 自主访问控制
+MAC - Mandatory Access Control 强制访问控制
+RBAC - Role-Based Access Control 基于角色的访问控制
+ABAC - Attribute-Based Access Control 基于属性的访问控制策略
+DOM - Document Object Model 文档对象模型
+BOM - Browser Object Model 浏览器对象模型
+CORS - Cross-Origin Resource Sharing 跨域资源共享
+XSS - Cross-Site Scripting 跨站脚本
+CSRF - Cross-Site Request Forgery 跨站请求伪造
+ORM - Object Relational Mapping 对象关系映射
+ADT - Abstract Data Type 抽象数据类型
+IPC - Inter-Process Communication 进程间通信
+DoS - Denial of Service 拒绝服务
+DDoS - Distributed Denial of Service 分布式拒绝服务
+OOP - Object-Oriented Programming 面向对象程序设计
+JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
+LVS - Linux Virtual Server Linux虚拟服务器
+WAF - Web Application Firewall 网站应用防火墙
+WBS - Work Breakdown Structure 工作分解结构
+RBS - Risk Breakdown Structure 风险分解结构
+OBS - Organizational Breakdown Structure 组织分解结构
+RAM - Responsibility Assignment Matrix 责任分配矩阵 / Random Access Memory 随机存取存储器，内存
+R&D - Research and Development 研究和开发
+C&B - Compensation and Benefits 薪酬和福利
+PRD - Product Requirements Document 产品需求文档
+FAQ - Frequently Asked Questions 常见问题解答
+SOP - Standard Operating Procedure 标准操作流程
+TDD - Test-Drive Development 测试驱动开发
+BDD - Behavior-Driven Development 行为驱动开发
+DDD - Domain Driver Design 领域驱动设计
+CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
+ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
+BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
+KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
+MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
+MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
+PoC - Proof of Concept 概念验证
+MVP - Minimum Viable Product 最小可行性产品 / Most Valuable Player 最有价值选手
+SOW - Statement of Work 工作说明书
+SME - Subject Matter Expert 主题专家，领域专家
+CCB - Change Control Board 变更控制委员会
+COE - Center of Excellence 卓越中心，整合优化企业内部的资源和能力
+SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
+PDCA - Plan, Do, Check, Action 计划、执行、检查、总结，持续改进的循环方法论
+SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程、输出、客户，组织系统模型
+SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
+RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
+VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊，形容变化已成为常态
 ```
 
 ## 词汇翻译
@@ -2266,6 +2406,8 @@ T型人才 - T-shaped talent
 旁观者效应 - Bystander effect
 幸存者偏差 - Survivorship bias
 登门槛效应 - Foot-in-the-door technique
+恩格尔系数 - Engel's Coefficient
+渐进式框架 - Progressive Framework
 
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
