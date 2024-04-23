@@ -1488,7 +1488,7 @@ FAQ - Frequently Asked Questions 常见问题解答
 SOP - Standard Operating Procedure 标准操作流程
 TDD - Test-Drive Development 测试驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
-DDD - Domain Driver Design 领域驱动设计
+DDD - Domain-Driven Design 领域驱动设计
 CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
 ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
 BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
