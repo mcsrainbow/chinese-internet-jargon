@@ -236,41 +236,43 @@ YTD, DDL, HR, HRBP, HRM, HRD, PM,
 PMO, PO, OD, CEO, COO, CFO, CTO,
 CIO, CMO, CSO, CDO, VP, SVP, AVP,
 GM, BM, MD, AD, OP, JD, BS, MS, MBA,
-DBA, ODM, OEM, OBM, OA, CRM, ERP,
-CMS, SCM, BOSS, KM, KA, CS, OU, VC,
-PE, BU, BG, BP, BD, RFP, HQ, UI, UE,
-UED, VI, VIP, IDE, VS, PR, IP, MCN,
-UGC, PGC, OGC, CPC, CPM, CPA, CPS,
-TCO, CTR, KPI, OKR, ROI, IRR, NPV,
-PBP, DAU, WAU, MAU, PV, UV, ARPU,
-ARPPU, GMV, CLV, CVR, PCU, GPM, DSR,
-SKU, GDP, CPI, KOC, KOL, CBD, B2C,
-C2C, B2B, O2O, P2P, DTC, OTA, SEM,
-SEO, ASO, RTB, SMO, SOHO, SNS, TMT,
-ACG, VR, AR, MR, LBS, IoT, BI, BE,
-BA, AI, AIGC, AGI, LLM, GPT, NLP,
-NN, DM, DL, ML, OLAP, OLTP, BFS,
-DFS, CPU, GPU, DPU, VCR, SOA, NFC,
-WLTP, CLTP, NOA, FSD, CCTV, IaaS,
-PaaS, SaaS, DevOps, CI/CD, SRE, DEV,
-SIT, UAT, PRE, PROD, SLA, SLO, SLI,
-MTBF, MTTR, MTTA, MTTF, MQ, QPS,
-TPS, QoS, RCA, QA, QC, VPN, CRUD,
-REST, EOF, EOT, JIT, SOAP, IDC, ISP,
-ICP, CDN, BGP, DNS, TTL, DHCP, NTP,
-UTC, GMT, PPP, SSO, ISO, OSI, RFC,
-GC, API, RPC, TCP, UDP, FTP, TFTP,
-ICMP, SMTP, IMAP, ARP, SYN, ACK,
-HTTP, HTTPS, XML, HTML, CSS, LAN,
-WAN, SDN, SDWAN, VM, KVM, SSL, TLS,
-ARQ, RDS, IAM, ACL, DAC, MAC, RBAC,
-ABAC, DOM, BOM, CORS, XSS, CSRF,
-ORM, ADT, IPC, DoS, DDoS, OOP, JWT,
-LVS, WAF, WBS, RBS, OBS, RAM, R&D,
-C&B, PRD, FAQ, SOP, TDD, BDD, DDD,
-CAP, ACID, BASE, KISS, MVC, MVVM,
-PoC, MVP, SOW, SME, CCB, COE, SDC,
-PDCA, SIPOC, SWOT, RACI, VUCA
+DBA, IELTS, TOEFL, ODM, OEM, OBM,
+OA, CRM, ERP, CMS, SCM, BOSS, KM,
+KA, CS, OU, VC, PE, BU, BG, BP, BD,
+RFP, HQ, UI, UE, UED, VI, VIP, IDE,
+VS, PR, IP, MCN, UGC, PGC, OGC, CPC,
+CPM, CPA, CPS, CAC, TCO, CTR, KPI,
+OKR, ROI, IRR, NPV, PBP, DAU, WAU,
+MAU, PV, UV, ARPU, ARPPU, GMV, CLV,
+CVR, PCU, GPM, DSR, SKU, GDP, CPI,
+KOC, KOL, CBD, B2C, C2C, B2B, O2O,
+P2P, DTC, OTA, SEM, SEO, ASO, RTB,
+SMO, SOHO, SNS, TMT, ACG, VR, AR,
+MR, LBS, IoT, BI, BE, BA, AI, AIGC,
+AGI, LLM, GPT, NLP, NN, DM, DL, ML,
+OLAP, OLTP, BFS, DFS, CPU, GPU, DPU,
+VCR, SOA, NFC, WLTP, CLTP, NOA, FSD,
+CCTV, IaaS, PaaS, SaaS, DevOps,
+CI/CD, SRE, DEV, SIT, UAT, PRE,
+PROD, CaC, IaC, SLA, SLO, SLI, MTBF,
+MTTR, MTTA, MTTF, ITIL, ITSM, MQ,
+QPS, TPS, QoS, RCA, QA, QC, VPN,
+CRUD, REST, EOF, EOT, JIT, SOAP,
+IDC, ISP, ICP, CDN, BGP, DNS, TTL,
+DHCP, NTP, UTC, GMT, PPP, SSO, ISO,
+OSI, RFC, GC, API, RPC, TCP, UDP,
+FTP, TFTP, ICMP, SMTP, IMAP, ARP,
+SYN, ACK, HTTP, HTTPS, XML, HTML,
+CSS, LAN, WAN, SDN, SDWAN, VM, KVM,
+SSL, TLS, ARQ, RDS, IAM, ACL, DAC,
+MAC, RBAC, ABAC, DOM, BOM, CORS,
+XSS, CSRF, ORM, ADT, IPC, DoS, DDoS,
+OOP, JWT, LVS, WAF, WBS, RBS, OBS,
+RAM, R&D, C&B, PRD, FAQ, SOP, TDD,
+BDD, DDD, CAP, ACID, BASE, KISS,
+MVC, MVVM, PoC, MVP, SOW, SME, CCB,
+COE, SDC, PDCA, SIPOC, SWOT, RACI,
+VUCA
 ```
 
 ## 词汇解释
@@ -1266,6 +1268,8 @@ BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴 / Browser-Ser
 MS - Master of Science 理学硕士
 MBA - Master of Business Administration 工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
+IELTS - International English Language Testing System 国际英语语言测试系统，雅思
+TOEFL - Test of English as a Foreign Language 对非英语国家留学生的英语考试，托福
 ODM - Original Design Manufacture 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
 OEM - Original Equipment Manufacture 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
 OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
@@ -1304,6 +1308,7 @@ CPC - Cost Per Click 单次点击成本
 CPM - Cost Per Mille 千次展示成本
 CPA - Cost Per Action 每行动成本 / Certified Public Accountant 注册会计师
 CPS - Cost Per Sales 按销量付费
+CAC - Customer Acquisition Cost 获取单个顾客的成本
 TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
 KPI - Key Performance Indicator 关键绩效指标
@@ -1392,6 +1397,8 @@ SIT - System Integration Testing 系统集成测试(环境)
 UAT - User Acceptance Testing 用户验收测试(环境)
 PRE - Pre-production 预生产(环境)，灰度(环境)
 PROD - Production 生产(环境)
+CaC - Configuration as Code 配置即代码
+IaC - Infrastructure as Code 基础设施即代码
 SLA - Service-Level Agreement 服务水平协议，对用户的承诺和补偿范围
 SLO - Service-Level Objective 服务水平目标，达成承诺所需的性能目标
 SLI - Service-Level Indicator 服务水平指标，性能目标的实际测量数据
@@ -1399,6 +1406,8 @@ MTBF - Mean Time Between Failures 平均无故障时间，两次连续故障之�
 MTTR - Mean Time To Repair 平均修复时间，从故障发生到故障修复完成所需的平均时间
 MTTA - Mean Time To Acknowledge 平均响应时间，从系统产生告警到人员开始注意并处理的平均时间
 MTTF - Mean Time To Failure 平均失效时间，系统平均正常运行多长时间后发生故障
+ITIL - Information Technology Infrastructure Library 信息技术基础构架库
+ITSM - Information Technology Service Management 信息技术服务管理
 MQ - Message Queue 消息队列
 QPS - Queries Per Second 每秒查询次数
 TPS - Transactions Per Second 每秒事务数
