@@ -256,20 +256,21 @@ PaaS, SaaS, DevOps, CI/CD, SRE, SLA,
 SLO, SLI, MTBF, MTTR, MTTA, MTTF,
 MQ, QPS, TPS, QoS, RCA, QA, QC, VPN,
 CRUD, REST, EOF, EOT, JIT, SOAP,
-IDC, ISP, ICP, CDN, BGP, DNS, DHCP,
-NTP, UTC, GMT, PPP, SSO, ISO, OSI,
-RFC, GC, API, RPC, TCP, UDP, FTP,
-TFTP, ICMP, SMTP, IMAP, ARP, SYN,
-ACK, HTTP, HTTPS, XML, HTML, CSS,
-LAN, WAN, SDN, SDWAN, VM, KVM, SSL,
-TLS, ARQ, RDS, IAM, ACL, DAC, MAC,
-RBAC, ABAC, DOM, BOM, CORS, XSS,
-CSRF, ORM, ADT, IPC, DoS, DDoS, OOP,
-JWT, LVS, WAF, WBS, RBS, OBS, RAM,
-R&D, C&B, PRD, FAQ, SOP, TDD, BDD,
-DDD, CAP, ACID, BASE, KISS, MVC,
-MVVM, PoC, MVP, SOW, SME, CCB, COE,
-SDC, PDCA, SIPOC, SWOT, RACI, VUCA
+IDC, ISP, ICP, CDN, BGP, DNS, TTL,
+DHCP, NTP, UTC, GMT, PPP, SSO, ISO,
+OSI, RFC, GC, API, RPC, TCP, UDP,
+FTP, TFTP, ICMP, SMTP, IMAP, ARP,
+SYN, ACK, HTTP, HTTPS, XML, HTML,
+CSS, LAN, WAN, SDN, SDWAN, VM, KVM,
+SSL, TLS, ARQ, RDS, IAM, ACL, DAC,
+MAC, RBAC, ABAC, DOM, BOM, CORS,
+XSS, CSRF, ORM, ADT, IPC, DoS, DDoS,
+OOP, JWT, LVS, WAF, WBS, RBS, OBS,
+RAM, R&D, C&B, PRD, FAQ, SOP, TDD,
+BDD, DDD, CAP, ACID, BASE, KISS,
+MVC, MVVM, PoC, MVP, SOW, SME, CCB,
+COE, SDC, PDCA, SIPOC, SWOT, RACI,
+VUCA
 ```
 
 ## 词汇解释
@@ -1301,7 +1302,7 @@ PGC - Professionally Generated Content 专业生成内容
 OGC - Officially Generated Content 官方生成内容
 CPC - Cost Per Click 单次点击成本
 CPM - Cost Per Mille 千次展示成本
-CPA - Cost Per Action 每行动成本
+CPA - Cost Per Action 每行动成本 / Certified Public Accountant 注册会计师
 CPS - Cost Per Sales 按销量付费
 TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
@@ -1413,6 +1414,7 @@ ICP - Internet Content Provider 互联网内容提供商
 CDN - Content Delivery Network 内容分发网络
 BGP - Border Gateway Protocol 边界网关协议
 DNS - Domain Name System 域名系统
+TTL - Time to Live 生存时间(网络)
 DHCP - Dynamic Host Configuration Protocol 动态主机配置协议
 NTP - Network Time Protocol 网络时间协议
 UTC - Coordinated Universal Time 协调世界时间，世界统一时间
