@@ -242,35 +242,34 @@ PE, BU, BG, BP, BD, RFP, HQ, UI, UE,
 UED, VI, VIP, IDE, VS, PR, IP, MCN,
 UGC, PGC, OGC, CPC, CPM, CPA, CPS,
 TCO, CTR, KPI, OKR, ROI, IRR, NPV,
-PBP, CPI, DAU, WAU, MAU, PV, UV,
-ARPU, ARPPU, GMV, CLV, CVR, PCU,
-GPM, DSR, SKU, KOC, KOL, CBD, B2C,
+PBP, DAU, WAU, MAU, PV, UV, ARPU,
+ARPPU, GMV, CLV, CVR, PCU, GPM, DSR,
+SKU, GDP, CPI, KOC, KOL, CBD, B2C,
 C2C, B2B, O2O, P2P, DTC, OTA, SEM,
 SEO, ASO, RTB, SMO, SOHO, SNS, TMT,
 ACG, VR, AR, MR, LBS, IoT, BI, BE,
 BA, AI, AIGC, AGI, LLM, GPT, NLP,
 NN, DM, DL, ML, OLAP, OLTP, BFS,
-DFS, CPU, GPU, DPU, VCR, SOA, GDP,
-NFC, WLTP, CLTP, NOA, FSD, CCTV,
-IaaS, PaaS, SaaS, DevOps, CI/CD,
-SRE, SLA, SLO, SLI, MTBF, MTTR,
-MTTA, MTTF, MQ, QPS, TPS, QoS, RCA,
-QA, QC, VPN, CRUD, REST, EOF, EOT,
-JIT, SOAP, IDC, ISP, ICP, CDN, BGP,
-DNS, DHCP, NTP, UTC, GMT, PPP, SSO,
-ISO, OSI, RFC, GC, API, RPC, TCP,
-UDP, FTP, TFTP, ICMP, SMTP, IMAP,
-ARP, SYN, ACK, HTTP, HTTPS, XML,
-HTML, CSS, LAN, WAN, SDN, SDWAN, VM,
-KVM, SSL, TLS, ARQ, RDS, IAM, ACL,
-DAC, MAC, RBAC, ABAC, DOM, BOM,
-CORS, XSS, CSRF, ORM, ADT, IPC, DoS,
-DDoS, OOP, JWT, LVS, WAF, WBS, RBS,
-OBS, RAM, R&D, C&B, PRD, FAQ, SOP,
-TDD, BDD, DDD, CAP, ACID, BASE,
-KISS, MVC, MVVM, PoC, MVP, SOW, SME,
-CCB, COE, SDC, PDCA, SIPOC, SWOT,
-RACI, VUCA
+DFS, CPU, GPU, DPU, VCR, SOA, NFC,
+WLTP, CLTP, NOA, FSD, CCTV, IaaS,
+PaaS, SaaS, DevOps, CI/CD, SRE, SLA,
+SLO, SLI, MTBF, MTTR, MTTA, MTTF,
+MQ, QPS, TPS, QoS, RCA, QA, QC, VPN,
+CRUD, REST, EOF, EOT, JIT, SOAP,
+IDC, ISP, ICP, CDN, BGP, DNS, DHCP,
+NTP, UTC, GMT, PPP, SSO, ISO, OSI,
+RFC, GC, API, RPC, TCP, UDP, FTP,
+TFTP, ICMP, SMTP, IMAP, ARP, SYN,
+ACK, HTTP, HTTPS, XML, HTML, CSS,
+LAN, WAN, SDN, SDWAN, VM, KVM, SSL,
+TLS, ARQ, RDS, IAM, ACL, DAC, MAC,
+RBAC, ABAC, DOM, BOM, CORS, XSS,
+CSRF, ORM, ADT, IPC, DoS, DDoS, OOP,
+JWT, LVS, WAF, WBS, RBS, OBS, RAM,
+R&D, C&B, PRD, FAQ, SOP, TDD, BDD,
+DDD, CAP, ACID, BASE, KISS, MVC,
+MVVM, PoC, MVP, SOW, SME, CCB, COE,
+SDC, PDCA, SIPOC, SWOT, RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1327,6 +1326,8 @@ PCU - Peak Concurrent Users 最高并发用户
 GPM - GMV Per Mille 千次交易总额 / Gallons Per Minute 加仑每分钟
 DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
 SKU - Stock Keeping Unit 库存单位(产品)
+GDP - Gross Domestic Product 国内生产总值
+CPI - Consumer Price Index 消费者物价指数 / Cost Performance Index 成本绩效指数
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
@@ -1373,7 +1374,6 @@ GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
 VCR - Video Cassette Recorder 录像机(视频片断)
 SOA - Service-Oriented Architecture 面向服务的架构
-GDP - Gross Domestic Product 国内生产总值
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
 WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
 CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
