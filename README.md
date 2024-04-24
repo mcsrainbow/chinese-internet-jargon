@@ -230,62 +230,82 @@ All in, A/B测试, QR码
 ### 英文缩写列表(通用)
 
 ```markdown
-IT, PC, OS, DIY, EMO, OMG, BBQ, VCD,
-DVD, TV, MTV, MV, YOLO, FOMO, ID,
-CV, OT, FW, CC, BCC, RSVP, FYI, FYR,
-ASAP, BR, ETA, EOD, EOW, COB, N/A,
-TBD, TBC, JIC, BRB, BRT, IMO, RE:,
-BTW, NB, TYT, NRN, WFH, OOO, PTO,
-AL, ATM, AKA, LOL, P.S., MTD, QTD,
-YTD, DDL, HR, HRBP, HRM, HRD, PM,
-PMO, PO, OD, CEO, COO, CFO, CTO,
-CIO, CMO, CSO, CDO, VP, SVP, AVP,
-GM, BM, MD, AD, OP, JD, BS, MS,
-MBA, DBA, IELTS, TOEFL, ODM, OEM,
-OBM, OA, CRM, ERP, CMS, SCM, BOSS,
-KM, KA, CS, OU, VC, PE, BU, BG, BP,
-BD, RFP, HQ, UI, GUI, SD, HD, HDMI,
-UE, UED, VI, VIP, IDE, VS, PR, IP,
+IT, PC, OS, DIY, EMO, OMG, BBQ,
+YOLO, FOMO, ID, CV, OT, FW, CC, BCC,
+RSVP, FYI, FYR, ASAP, BR, ETA, EOD,
+EOW, COB, N/A, TBD, TBC, TBH, JIC,
+BRB, BRT, IMO, RE:, BTW, NB, TYT,
+NRN, WFH, OOO, PTO, AL, ATM, AKA,
+LOL, P.S., MTD, QTD, YTD, DDL, NP,
+THX, IDK, IDC, BFF, XOXO, OIC, JK,
+ILY, OFC, LMK, KK, AFK, IMP, EXP,
+TTYL, BYOB, NVM, SOS, IQ, EQ, ABC,
+DJ, UFO, WC, PK, GRE, GMAT, AM, BBS,
+CU, GG, WIP, POV, ETC, APR, COD,
+Q&A, R&D, C&B, PIN, SARS, AIDS, HR,
+HRBP, HRM, HRD, PM, PMO, PO, OD,
+CEO, COO, CFO, CTO, CIO, CMO, CSO,
+CDO, VP, SVP, AVP, GM, BM, MD, AD,
+OP, JD, BS, MS, MBA, DBA, IELTS,
+TOEFL, ODM, OEM, OBM, OA, CRM, ERP,
+CMS, SCM, BOSS, MIS, KM, KA, CS, OU,
+VC, PE, BU, BG, BP, BD, RFP, HQ, UI,
+GUI, SD, HD, HDMI, UE, UX, UED, VI,
+VIP, IDE, NPC, VS, PR, IP, NBA, CBA,
 MCN, UGC, PGC, OGC, CPC, CPM, CPA,
 CPS, CAC, TCO, CTR, KPI, OKR, ROI,
 IRR, NPV, PBP, DAU, WAU, MAU, PV,
 UV, ARPU, ARPPU, GMV, CLV, CVR, PCU,
 GPM, DSR, SKU, GDP, CPI, GPS, CNMD,
-KOC, KOL, CBD, B2C, C2C, B2B, O2O,
-P2P, DTC, OTA, SEM, SEO, ASO, RTB,
-SMO, SOHO, SNS, FAQ, UTC, GMT, TMT,
-ACG, VR, AR, MR, LBS, IoT, BI, BE,
-BA, AI, AIGC, AGI, LLM, GPT, NLP,
-CPU, GPU, DPU, VCR, SOA, NFC, WLTP,
-CLTP, NOA, FSD, SSO, ISO, API, CCTV,
-IaaS, PaaS, SaaS, KISS
+WTO, WHO, UN, IMF, PRC, USA, US, UK,
+FBI, CIA, APP, AP, PPT, PDF, CAD,
+WPS, BBC, HK, BC, TM, MAX, MIN,
+PICC, ICBC, CN, CHN, CNN, CCP, RMB,
+VISA, EMS, KOC, KOL, CBD, B2C, C2C,
+B2B, O2O, P2P, DTC, OTA, SEM, SEO,
+ASO, RTB, SMO, SOHO, SNS, FAQ, UTC,
+GMT, TMT, ACG, KB, MB, GB, TB, PB,
+VR, AR, MR, LBS, IoT, BI, BE, BA,
+AI, AIGC, AGI, LLM, GPT, NLP, CPU,
+GPU, DPU, VCR, CD, VCD, DVD, DV, AV,
+TV, MTV, MV, VOD, FM, IM, LCD, LED,
+USB, OCR, POS, RGB, QA, QC, SOA,
+NFC, WLTP, CLTP, NOA, FSD, SSO, ISO,
+API, CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
 
 ```markdown
 OLAP, OLTP, BFS, DFS, NN, DM, DL,
-ML, DevOps, CI/CD, I/O, SWE, SRE,
-DEV, SIT, UAT, PRE, PROD, CaC, IaC,
-SLA, SLO, SLI, MTBF, MTTR, MTTA,
-MTTF, ITIL, ITSM, MQ, QPS, TPS, QoS,
-RCA, QA, QC, SQL, CURD, DDL, DML,
+ML, YOLO, DevOps, CI/CD, I/O, SWE,
+SRE, DEV, SIT, UAT, PRE, PROD, CaC,
+IaC, SLA, SLO, SLI, MTBF, MTTR,
+MTTA, MTTF, ITIL, ITSM, DR, CDP,
+BCP, RTO, RPO, NOC, NIC, MQ, QPS,
+TPS, QoS, RCA, SQL, CURD, DDL, DML,
 DQL, DCL, TCL, DSL, DB, JDBC, ODBC,
-URI, URL, ARN, SDK, UUID, DBMS,
+URI, URL, ARN, DLL, SDK, UUID, DBMS,
 RDBMS, POSIX, SSH, SCP, SFTP, LB,
 ALB, NLB, CLB, NAT, GW, GFW, XP,
-MD5, BLOB, SAST, DAST, VPC, VPN, FS,
-REST, EOF, EOT, JIT, SOAP, IDC, ISP,
-ICP, CDN, BGP, DNS, TTL, DHCP, NTP,
-PPP, OSI, RFC, GC, RPC, TCP, UDP,
-FTP, TFTP, ICMP, SMTP, IMAP, ARP,
-SYN, ACK, HTTP, HTTPS, XML, HTML,
-CSS, LAN, WAN, SDN, SDWAN, VM, KVM,
-SSL, TLS, ARQ, RDS, IAM, ACL, DAC,
-MAC, RBAC, ABAC, DOM, BOM, CORS,
-XSS, CSRF, ORM, ADT, IPC, DoS, DDoS,
-CC, OOP, JWT, LVS, WAF, WBS, RBS,
-OBS, RAM, R&D, C&B, PRD, SOP, TDD,
+MD5, BLOB, SAST, DAST, VPC, VPN,
+VGA, DP, DVI, OSPF, CNNIC, CGI, AES,
+DES, SHA, SAML, OAUTH, LDAP, RAID,
+PCI, PCIE, CMOS, BIOS, FDDI, FIFO,
+HDD, SATA, SCSI, SAS, SSD, UPS, HBA,
+HUB, NC, UA, JS, PHP, ROM, BYOK,
+BYOD, FS, REST, EOF, EOT, JIT, SOAP,
+IDC, ISP, ICP, CDN, BGP, DNS, TLD,
+FQDN, WWW, W3C, TTL, DHCP, NTP, PPP,
+SNMP, OSI, RFC, CIDR, GC, RPC, TCP,
+UDP, FTP, TFTP, ICMP, SMTP, IMAP,
+ARP, SYN, ACK, HTTP, HTTPS, XML,
+HTML, XHTML, CSS, LAN, WAN, SDN,
+SDWAN, VM, KVM, SSL, TLS, ARQ, RDS,
+IAM, ACL, DAC, MAC, RBAC, ABAC, DOM,
+BOM, CORS, XSS, CSRF, ORM, ADT, IPC,
+DoS, DDoS, CC, OOP, JWT, LVS, WAF,
+WBS, RBS, OBS, RAM, PRD, SOP, TDD,
 BDD, DDD, SDLC, CAP, ACID, BASE,
 MVC, MVVM, PoC, MVP, SOW, SME, CCB,
 COE, SDC, PDCA, SIPOC, SWOT, RACI,
@@ -1232,12 +1252,7 @@ DIY - Do It Yourself 自己动手
 EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
 BBQ - Barbecue 烧烤
-VCD - Video Compact Disc 影音光盘
-DVD - Digital Versatile Disc 数字多功能光盘
-TV - Television 电视
-MTV - Music Television 音乐电视
-MV - Music Video 音乐视频
-YOLO - You Only Live Once 你只活一次 / You Only Look Once 只看一次(计算机视觉领域实时对象检测算法)
+YOLO - You Only Live Once 你只活一次
 FOMO - Fear of Missing Out 害怕错过
 ID - Identity Document 身份证件 / Identifier 标识符
 CV - Curriculum Vitae 个人履历 / Computer Vision 计算机视觉
@@ -1249,7 +1264,7 @@ RSVP - Répondez S'il Vous Plaît 请回复(法语)
 FYI - For Your Information 供你参考
 FYR - For Your Reference 供你参考
 ASAP - As Soon As Possible 尽快
-BR - Best Regards 诚挚的问候
+BR - Best Regards 诚挚的问候 / Base Rate 基准利率
 ETA - Estimated Time of Arrival 预计到达时间
 EOD - End of Day 工作日结束时
 EOW - End of Week 工作周结束时
@@ -1257,6 +1272,7 @@ COB - Close Of Business 营业结束时
 N/A - Not Applicable 不适用
 TBD - To Be Determined 待决定
 TBC - To Be Confirmed 待确认
+TBH - To Be Honest 说实话
 JIC - Just in Case 以防万一
 BRB - Be Right Back 马上回来
 BRT - Be Right There 马上到
@@ -1278,11 +1294,54 @@ MTD - Month to Date 从月初到今天
 QTD - Quarter to Date 从季度初到今天
 YTD - Year to Date 从年初到今天
 DDL - Deadline 截止期限
+NP - No Problem 没问题
+THX - Thanks 谢谢
+IDK - I Don’t Know 我不知道
+IDC - I Don’t Care 我不在乎
+BFF - Best Friends Forever 永远的好朋友
+XOXO - Hugs and Kisses 拥抱和亲吻
+OIC - Oh, I See 哦我明白了
+JK - Just Kidding 只是开玩笑
+ILY - I Love You 我爱你
+OFC - Of Course 当然
+LMK - Let Me Know 让我知道
+KK - Okay 好的
+AFK - Away From Keyboard 离开键盘
+IMP - Import 进口，导入
+EXP - Export 出口 / Experience 经验
+TTYL - Talk To You Later 稍后聊
+BYOB - Bring Your Own Bottle 自带酒水
+NVM - Never Mind 没关系，别在意
+SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
+IQ - Intelligence Quotient 智力商数，智商
+EQ - Emotional Quotient 情感商数，情商
+ABC - American-Born Chinese 出生在美国的华裔
+DJ - Disc Jockey 碟片骑师
+UFO - Unidentified Flying Object 不明飞行物
+WC - Water Closet 厕所
+PK - Player Kill 玩家间对战
+GRE - Graduate Record Examinations 美国研究生入学考试
+GMAT - Graduate Management Admission Test 美国研究生管理科入学考试
+AM - Ante Meridiem 上午(拉丁文)
+BBS - Bulletin Board System 电子公告板
+CU - See You 再见
+GG - Good Game 好游戏
+WIP - Work In Progress 进行中的工作
+POV - Point Of View 观点 / Proof of Value 价值证明
+ETC - Et cetera 等等(拉丁文) / Electronic Toll Collection 不停车电子计费
+APR - Annual Percentage Rate 年利率
+COD - Cash On Delivery 货到付款
+Q&A - Question and Answer 问与答
+R&D - Research and Development 研究和开发
+C&B - Compensation and Benefits 薪酬和福利
+PIN - Personal Identification Number 个人识别码
+SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
+AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
 HR - Human Resources 人力资源
 HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
 HRM - Human Resource Manager 人力资源经理
 HRD - Human Resource Development 人力资源开发 / Human Resource Director 人力资源总监
-PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
+PM - Project Manager 项目经理 / Post Meridiem 下午(拉丁文) / Product Manager 产品经理 / Production Manager 生产经理
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
 PO - Product Owner 产品负责人
 OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
@@ -1300,7 +1359,7 @@ AVP - Assistant Vice President 助理副总裁
 GM - General Manager 总经理
 BM - Branch Manager 部门经理
 MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
-AD - Assistant Director 助理总监 / Active Directory 活动目录(Windows Server)
+AD - Assistant Director 助理总监 / Anno Domini 公元(拉丁语) / Active Directory 活动目录
 OP - Operations 运营 / Operator 操作员
 JD - Job Description 职位描述
 BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴 / Browser-Server 浏览器与服务器
@@ -1318,6 +1377,7 @@ ERP - Enterprise Resource Planning 企业资源计划，整合企业流程的营
 CMS - Content Management System 内容管理系统
 SCM - Supply Chain Management 供应链管理
 BOSS - Business Operating Support System 业务运营支撑系统
+MIS - Management Information Systems 管理信息系统
 KM - Knowledge Management 知识管理
 KA - Key Accounts 重点客户，大卖场
 CS - Customer Service 客户服务 / Computer Science 计算机科学 / Client-Server 客户端与服务器 / Counter-Strike 反恐精英(游戏)
@@ -1336,13 +1396,17 @@ SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480
 HD - High Definition 高清晰度，720p，16:9宽高比分辨率1280x720
 HDMI - High Definition Multimedia Interface 高清晰多媒体接口
 UE - User Experience 用户体验
+UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
 VIP - Very Important Person 重要人物 / Virtual IP Address 虚拟IP地址
 IDE - Integrated Development Environment 集成开发环境(软件开发)
+NPC - Non-Player Character 非玩家角色
 VS - Versus 对抗，相对 / Visual Studio (Microsoft IDE)
 PR - Public Relations 公共关系 / Pull Request 合并请求(软件开发)
 IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
+NBA - National Basketball Association 美国篮球协会
+CBA - Chinese Basketball Association 中国篮球协会
 MCN - Multi-Channel Network 多频道网络(网红经纪公司)
 UGC - User Generated Content 用户生成内容
 PGC - Professionally Generated Content 专业生成内容
@@ -1378,6 +1442,37 @@ GDP - Gross Domestic Product 国内生产总值
 CPI - Consumer Price Index 消费者物价指数 / Cost Performance Index 成本绩效指数
 GPS - Global Positioning System 全球卫星定位系统(美国国防部)
 CNMD - Chinese National Missile Defence 中国国家导弹防御系统
+WTO - World Trade Organization 世界贸易组织
+WHO - World Health Organization 世界卫生组织
+UN - United Nations 联合国
+IMF - International Monetary Fund 国际货币基金组织
+PRC - People's Republic of China 中华人民共和国
+USA - United States of America 美利坚合众国，美国
+US - United States 美国
+UK - United Kingdom 英国
+FBI - Federal Bureau of Investigation 美国联邦调查局
+CIA - Central Intelligence Agency 美国中央情报局
+APP - Application 应用程序
+AP - Associated Press (美联社)
+PPT - PowerPoint 微软演示文稿
+PDF - Portable Document Format 便携式文档格式
+CAD - Computer-Aided Design 计算机辅助设计
+WPS - Writer, Presentation, Spreadsheets 文字、演示、表格
+BBC - British Broadcasting Corporation 英国广播公司
+HK - Hong Kong 香港
+BC - Before Christ 公元前
+TM - Trademark 商标
+MAX - Maximum 最大
+MIN - Minimum 最小
+PICC - People's Insurance Company of China 中国人民保险公司
+ICBC - Industrial and Commercial Bank of China 中国工商银行
+CN - China 中国
+CHN - China 中国
+CNN - Cable News Network 有线新闻网络
+CCP - Chinese Communist Party 中国共产党
+RMB - Renminbi 人民币
+VISA - Visa 签证
+EMS - Express Mail Service 快递邮政服务
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
@@ -1400,6 +1495,11 @@ UTC - Coordinated Universal Time 协调世界时间，世界统一时间
 GMT - Greenwich Mean Time 格林尼治标准时间
 TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
 ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
+KB - Kilobyte 千字节，1 KB = 1024 Bytes
+MB - Megabyte 兆字节，1 MB = 1024 KB
+GB - Gigabyte 吉字节，1 GB = 1024 MB
+TB - Terabyte 太字节，1 TB = 1024 GB
+PB - Petabyte 拍字节，1 PB = 1024 TB
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Request 合并请求(软件开发)
@@ -1418,6 +1518,25 @@ CPU - Central Processing Unit 中央处理器
 GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
 VCR - Video Cassette Recorder 录像机(视频片断)
+CD - Compact Disc 影音光盘
+VCD - Video Compact Disc 影音光盘
+DVD - Digital Versatile Disc 数字多功能光盘
+DV - Digital Video 数码摄像机 / Domain Validated 域名验证(SSL证书)
+AV - Audio Video 音频视频 / Adult Video 成人视频
+TV - Television 电视
+MTV - Music Television 音乐电视
+MV - Music Video 音乐视频
+VOD - Video On Demand 视频点播
+FM - Frequency Modulation Broadcast 调频广播
+IM - Instant Messaging 即时消息
+LCD - Liquid Crystal Display 液晶显示
+LED - Light Emitting Diode 发光二极管
+USB - Universal Serial Bus 通用串行总线
+OCR - Optical Character Recognition 光学字符识别
+POS - Point Of Sale 销售点终端
+RGB - Red Green Blue 红绿蓝
+QA - Quality Assurance 质量保证(测试)
+QC - Quality Control 质量控制
 SOA - Service-Oriented Architecture 面向服务的架构
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
 WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
@@ -1445,6 +1564,7 @@ NN - Neural Network 神经网络
 DM - Data Mining 数据挖掘 / Direct Message 直接消息
 DL - Deep Learning 深度学习
 ML - Machine Learning 机器学习
+YOLO - You Only Look Once 你只看一次，计算机视觉领域实时对象检测算法
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 I/O - Input/Output 输入/输出
@@ -1466,16 +1586,21 @@ MTTA - Mean Time To Acknowledge 平均响应时间，从系统产生告警到人
 MTTF - Mean Time To Failure 平均失效时间，系统平均正常运行多长时间后发生故障
 ITIL - Information Technology Infrastructure Library 信息技术基础构架库
 ITSM - Information Technology Service Management 信息技术服务管理
+DR - Disaster Recovery 灾难恢复
+CDP - Continuous Data Protection 持续数据保护
+BCP - Business Continuity Planning 业务连续性计划
+RTO - Recovery Time Objective 恢复时间目标
+RPO - Recovery Point Objective 恢复点目标
+NOC - Network Operations Center 网络运营中心
+NIC - Network Information Center 网络信息中心
 MQ - Message Queue 消息队列
 QPS - Queries Per Second 每秒查询次数
 TPS - Transactions Per Second 每秒事务数
 QoS - Quality of Service 服务质量(网络)
 RCA - Root Cause Analysis 根本原因分析
-QA - Quality Assurance 质量保证(测试)
-QC - Quality Control 质量控制
 SQL - Structured Query Language 结构化查询语言
 CURD - Create, Update, Read, Delete 创建、更新、读取、删除
-DDL - Data Definition Language 数据定义语言，包括CREATE, ALTER, DROP, TRUNCATE, COMMENT, RENAME / Dynamic Linkable Library 动态链接库
+DDL - Data Definition Language 数据定义语言，包括CREATE, ALTER, DROP, TRUNCATE, COMMENT, RENAME
 DML - Data Manipulation Language 数据操纵语言，包括INSERT, UPDATE, DELETE, CALL, EXPLAIN PLAN, LOCK TABLE
 DQL - Data Query Language 数据查询语言，包括SELECT
 DCL - Data Control Language 数据控制语言，包括GRANT, REVOKE
@@ -1487,6 +1612,7 @@ ODBC - Open Database Connectivity 开放数据库连接
 URI - Uniform Resource Identifier 统一资源标识符
 URL - Uniform Resource Locator 统一资源定位符
 ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
+DLL - Dynamic Link Library 动态链接库
 SDK - Software Development Kit 软件开发工具包
 UUID - Universally Unique Identifier 通用唯一识别码
 DBMS - Database Management System 数据库管理系统
@@ -1509,6 +1635,40 @@ SAST - Static Application Security Testing 静态应用安全测试
 DAST - Dynamic Application Security Testing 动态应用安全测试
 VPC - Virtual Private Cloud 虚拟私有云
 VPN - Virtual Private Network 虚拟专用网
+VGA - Video Graphics Array 视频图形阵列
+DP - DisplayPort 显示端口(数字视频)
+DVI - Digital Visual Interface 数字视频接口
+OSPF - Open Shortest Path First 开放最短路径优先
+CNNIC - China Internet Network Information Center 中国互联网络信息中心
+CGI - Common Gateway Interface 通用网关接口
+AES - Advanced Encryption Standard 高级加密标准
+DES - Data Encryption Standard 数据加密标准
+SHA - Secure Hash Algorithm 安全散列算法
+SAML - Security Assertion Markup Language 安全断言标记语言，单点登录认证标准
+OAUTH - Open Authorization 开放授权
+LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
+RAID - Redundant Array of Independent Disks 独立磁盘冗余阵列
+PCI - Peripheral Component Interconnect 外设部件互连
+PCIE - Peripheral Component Interconnect Express 高速外设部件互连
+CMOS - Complementary Metal-Oxide-Semiconductor 互补金属氧化物半导体
+BIOS - Basic Input/Output System 基本输入输出系统
+FDDI - Fiber Distributed Data Interface 光纤分布式数据接口
+FIFO - First In, First Out 先进先出
+HDD - Hard Disk Drive 硬盘驱动器
+SATA - Serial Advanced Technology Attachment 串行高级技术附件，串行接口
+SCSI - Small Computer System Interface 小型计算机系统接口
+SAS - Serial Attached SCSI 串行连接SCSI
+SSD - Solid-State Drive 固态驱动器 / Solid-State Disk 固态硬盘
+UPS - Uninterruptible Power Supply 不间断电源
+HBA - Host Bus Adapter 主机总线适配器
+HUB - Hub 集线器
+NC - Network Computer 网络计算机
+UA - User Agent 用户代理
+JS - JavaScript 可在浏览器端执行的编程语言
+PHP - Hypertext Preprocessor 超文本预处理器，编程语言
+ROM - Read-Only Memory 只读内存
+BYOK - Bring Your Own Key 自带密钥
+BYOD - Bring Your Own Device 自带设备
 FS - File System 文件系统
 REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
 EOF - End of File 标示文件的结束
@@ -1521,12 +1681,18 @@ ICP - Internet Content Provider 互联网内容提供商
 CDN - Content Delivery Network 内容分发网络
 BGP - Border Gateway Protocol 边界网关协议
 DNS - Domain Name System 域名系统
+TLD - Top-Level Domain 顶级域名
+FQDN - Fully Qualified Domain Name 完全合格域名，完整域名
+WWW - World Wide Web 万维网
+W3C - World Wide Web Consortium 万维网联盟
 TTL - Time to Live 生存时间(网络)
 DHCP - Dynamic Host Configuration Protocol 动态主机配置协议
 NTP - Network Time Protocol 网络时间协议
 PPP - Point-to-Point Protocol 点对点协议
+SNMP - Simple Network Management Protocol 简单网络管理协议
 OSI - Open System Interconnection Model 开放式系统互联模型
 RFC - Request for Comments 请求意见稿(互联网工程任务组发布)
+CIDR - Classless Inter-Domain Routing 无类别域间路由
 GC - Garbage Collection 垃圾回收
 RPC - Remote Procedure Call 远程过程调用协议
 TCP - Transmission Control Protocol 传输控制协议
@@ -1543,6 +1709,7 @@ HTTP - HyperText Transfer Protocol 超文本传输协议
 HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
 XML - EXtensible Markup Language 可扩展标记语言
 HTML - HyperText Markup Language 超文本标记语言
+XHTML - Extensible Hypertext Markup Language 可扩展超文本标记语言
 CSS - Cascading Style Sheets 层叠样式表
 LAN - Local Area Network 局域网
 WAN - Wide Area Network 广域网
@@ -1579,8 +1746,6 @@ WBS - Work Breakdown Structure 工作分解结构
 RBS - Risk Breakdown Structure 风险分解结构
 OBS - Organizational Breakdown Structure 组织分解结构
 RAM - Responsibility Assignment Matrix 责任分配矩阵 / Random Access Memory 随机存取存储器，内存
-R&D - Research and Development 研究和开发
-C&B - Compensation and Benefits 薪酬和福利
 PRD - Product Requirements Document 产品需求文档 / Production 生产(环境)
 SOP - Standard Operating Procedure 标准操作流程
 TDD - Test-Drive Development 测试驱动开发
