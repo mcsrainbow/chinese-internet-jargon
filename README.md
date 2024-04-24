@@ -1280,7 +1280,7 @@ BRT - Be Right There 马上到
 IMO - In My Opinion 个人观点
 RE: - Regarding 关于(邮件)
 BTW - By The Way 顺便说一下
-NB - Nota Bene 注意，划重点(拉丁语)
+NB - Nota Bene 注意，划重点(拉丁文)
 TYT - Take Your Time 不用急，慢慢来
 NRN - No Reply Necessary 无需回复
 WFH - Work From Home 在家工作
@@ -1361,7 +1361,7 @@ AVP - Assistant Vice President 助理副总裁
 GM - General Manager 总经理
 BM - Branch Manager 部门经理
 MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
-AD - Assistant Director 助理总监 / Anno Domini 公元(拉丁语) / Active Directory 活动目录
+AD - Assistant Director 助理总监 / Anno Domini 公元(拉丁文) / Active Directory 活动目录
 OP - Operations 运营 / Operator 操作员
 JD - Job Description 职位描述
 BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴 / Browser-Server 浏览器与服务器
