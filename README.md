@@ -193,7 +193,7 @@ All in, A/B测试, QR码
 软文, 网感, 声量, 出圈, 普惠, 景观, 代际,
 出海, 众包, 海淘, 标品, 集美, 景别, 运镜,
 构图, 转场, 定格, 闪回, 截流, 死锁, 脑裂,
-作业, 常量
+作业, 常量, 探针, 探活, 断点, 快照
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -202,7 +202,7 @@ All in, A/B测试, QR码
 非标品, 硬着陆, 软着陆, 供给侧, 需求端,
 跳出率, 产业链, 信息流, 碎片化, 一元化,
 多元化, 新常态, Z世代, 黑天鹅, 博弈论,
-上下文
+上下文, 里程碑, 检查点
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -267,15 +267,15 @@ RMB, VISA, EMS, KOC, KOL, CBD, B2C,
 C2C, B2B, O2O, P2P, DTC, OTA, SEM,
 SEO, ASO, RTB, SMO, SOHO, SNS, FAQ,
 UTC, GMT, TMT, ACG, KB, MB, GB, TB,
-PB, VR, AR, MR, LBS, LAN, WAN, HTTP,
-HTTPS, IoT, BI, BE, BA, AI, AIGC,
-AGI, LLM, GPT, NLP, CPU, GPU, DPU,
-VCR, CD, VCD, DVD, DNS, SSL, TLS,
-DV, OV, EV, AV, TV, MTV, MV, VOD,
-FM, IM, LCD, LED, USB, OCR, POS,
-RGB, QA, QC, SOA, NFC, WLTP, CLTP,
-NOA, FSD, SSO, ISO, API, CCTV, IaaS,
-PaaS, SaaS, KISS
+PB, VR, AR, MR, LBS, LAN, WLAN, WAN,
+HTTP, HTTPS, IoT, BI, BE, BA, AI,
+AIGC, AGI, LLM, GPT, NLP, CPU, GPU,
+DPU, VCR, CD, VCD, DVD, DNS, SSL,
+TLS, DV, OV, EV, AV, TV, MTV, MV,
+VOD, FM, IM, LCD, LED, USB, OCR,
+POS, RGB, QA, QC, SOA, NFC, WLTP,
+CLTP, NOA, FSD, SSO, ISO, API, CCTV,
+IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -285,13 +285,13 @@ OLAP, OLTP, BFS, DFS, NN, DM, DL,
 ML, YOLO, DevOps, CI/CD, I/O, SWE,
 SRE, DEV, SIT, UAT, PRE, PROD, CaC,
 IaC, SLA, SLO, SLI, MTBF, MTTR,
-MTTA, MTTF, ITIL, ITSM, DR, CDP,
-BCP, RTO, RPO, NOC, NIC, MQ, QPS,
-TPS, QoS, RCA, SQL, CURD, DDL, DML,
-DQL, DCL, TCL, DSL, DB, JDBC, ODBC,
-URI, URL, ARN, DLL, SDK, UUID, DBMS,
-RDBMS, POSIX, SSH, SCP, SFTP, LB,
-ALB, NLB, CLB, NAT, GW, GFW, XP,
+MTTA, MTTF, ITIL, ITSM, APM, DR,
+CDP, BCP, RTO, RPO, NOC, NIC, MQ,
+QPS, TPS, QoS, RCA, SQL, CURD, DDL,
+DML, DQL, DCL, TCL, DSL, DB, JDBC,
+ODBC, URI, URL, ARN, DLL, SDK, UUID,
+DBMS, RDBMS, POSIX, SSH, SCP, SFTP,
+LB, ALB, NLB, CLB, NAT, GW, GFW, XP,
 MD5, BLOB, SAST, DAST, VPC, VPN,
 VGA, DP, DVI, OSPF, CNNIC, CGI, AES,
 DES, SHA, SAML, OAUTH, LDAP, PAM,
@@ -1142,6 +1142,10 @@ QR码 - 快速响应矩阵图码，二维码
 脑裂 - 在分布式系统中，节点间失去联系，各自为主
 作业 - 在特定环境下完成的一系列任务或活动
 常量 - 在特定过程或环境中值不发生变化的元素
+探针 - 监测和收集运行时状态数据的代码或工具
+探活 - 检查系统是否正常运行
+断点 - 在程序中设置暂停执行点用于调试
+快照 - 保存特定时刻系统的全状态数据
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1179,6 +1183,8 @@ Z世代 - 1995至2010年间出生的人群
 黑天鹅 - 突如其来的、不可预测的重大负面事件
 博弈论 - 分析决策者在相互依赖情况下的策略选择的数学理论
 上下文 - 某个事物存在或被理解的环境和条件
+里程碑 - 完成重要成就的关键阶段
+检查点 - 保存特定时刻系统的进度数据
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1517,6 +1523,7 @@ AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Request 合并请求(软件开发)
 LBS - Location Based Service 基于位置的服务
 LAN - Local Area Network 局域网
+WLAN - Wireless Local Area Network 无线局域网
 WAN - Wide Area Network 广域网
 HTTP - HyperText Transfer Protocol 超文本传输协议
 HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
@@ -1607,6 +1614,7 @@ MTTA - Mean Time To Acknowledge 平均响应时间，从系统产生告警到人
 MTTF - Mean Time To Failure 平均失效时间，系统平均正常运行多长时间后发生故障
 ITIL - Information Technology Infrastructure Library 信息技术基础构架库
 ITSM - Information Technology Service Management 信息技术服务管理
+APM - Application Performance Monitoring 应用性能监控
 DR - Disaster Recovery 灾难恢复
 CDP - Continuous Data Protection 持续数据保护
 BCP - Business Continuity Planning 业务连续性计划
@@ -2613,6 +2621,10 @@ QR码 - Quick Response Code
 脑裂 - Split-brain
 作业 - Job / Task
 常量 - Constant
+探针 - Probe
+探活 - Health check
+断点 - Breakpoint
+快照 - Snapshot
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -2650,6 +2662,8 @@ Z世代 - Generation Z
 黑天鹅 - Black swan event
 博弈论 - Game theory
 上下文 - Context
+里程碑 - Milestone
+检查点 - Checkpoint
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
