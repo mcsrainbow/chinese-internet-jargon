@@ -1537,7 +1537,7 @@ SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
 DV - Digital Video 数码摄像机 / Domain Validation 域名验证(SSL证书)
 OV - Organization Validation 组织验证(SSL证书)
-EV - Extended Validation 扩张验证(SSL证书) / Electric Vehicle 电动汽车
+EV - Extended Validation 扩展验证(SSL证书) / Electric Vehicle 电动汽车
 AV - Audio Video 音频视频 / Adult Video 成人视频
 TV - Television 电视
 MTV - Music Television 音乐电视
