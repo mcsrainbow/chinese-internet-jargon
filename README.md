@@ -260,18 +260,19 @@ GPM, DSR, SKU, GDP, CPI, GPS, CNMD,
 WTO, WHO, UN, IMF, PRC, USA, US, UK,
 FBI, CIA, APP, AP, PPT, PDF, CAD,
 WPS, BBC, HK, BC, TM, MAX, MIN,
-PICC, ICBC, CN, CHN, CNN, CCP, RMB,
-VISA, EMS, KOC, KOL, CBD, B2C, C2C,
-B2B, O2O, P2P, DTC, OTA, SEM, SEO,
-ASO, RTB, SMO, SOHO, SNS, FAQ, UTC,
-GMT, TMT, ACG, KB, MB, GB, TB, PB,
-VR, AR, MR, LBS, IoT, BI, BE, BA,
-AI, AIGC, AGI, LLM, GPT, NLP, CPU,
-GPU, DPU, VCR, CD, VCD, DVD, DV, AV,
-TV, MTV, MV, VOD, FM, IM, LCD, LED,
-USB, OCR, POS, RGB, QA, QC, SOA,
-NFC, WLTP, CLTP, NOA, FSD, SSO, ISO,
-API, CCTV, IaaS, PaaS, SaaS, KISS
+PICC, BOC, ICBC, CBC, CMB, CN, CHN,
+CNN, CCP, RMB, VISA, EMS, KOC, KOL,
+CBD, B2C, C2C, B2B, O2O, P2P, DTC,
+OTA, SEM, SEO, ASO, RTB, SMO, SOHO,
+SNS, FAQ, UTC, GMT, TMT, ACG, KB,
+MB, GB, TB, PB, VR, AR, MR, LBS,
+IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
+GPT, NLP, CPU, GPU, DPU, VCR, CD,
+VCD, DVD, DV, AV, TV, MTV, MV, VOD,
+FM, IM, LCD, LED, USB, OCR, POS,
+RGB, QA, QC, SOA, NFC, WLTP, CLTP,
+NOA, FSD, SSO, ISO, API, CCTV, IaaS,
+PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1315,7 +1316,7 @@ NVM - Never Mind 没关系，别在意
 SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
 IQ - Intelligence Quotient 智力商数，智商
 EQ - Emotional Quotient 情感商数，情商
-ABC - American-Born Chinese 出生在美国的华裔
+ABC - American-Born Chinese 出生在美国的华裔 / Agriculture Bank of China 中国农业银行
 DJ - Disc Jockey 碟片骑师
 UFO - Unidentified Flying Object 不明飞行物
 WC - Water Closet 厕所
@@ -1466,7 +1467,10 @@ TM - Trademark 商标
 MAX - Maximum 最大
 MIN - Minimum 最小
 PICC - People's Insurance Company of China 中国人民保险公司
+BOC - Bank of China 中国银行
 ICBC - Industrial and Commercial Bank of China 中国工商银行
+CBC - Construction Bank of China 中国建设银行
+CMB - China Merchants Bank 中国招商银行
 CN - China 中国
 CHN - China 中国
 CNN - Cable News Network 有线新闻网络
