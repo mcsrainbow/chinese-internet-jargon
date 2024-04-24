@@ -292,25 +292,25 @@ RDBMS, POSIX, SSH, SCP, SFTP, LB,
 ALB, NLB, CLB, NAT, GW, GFW, XP,
 MD5, BLOB, SAST, DAST, VPC, VPN,
 VGA, DP, DVI, OSPF, CNNIC, CGI, AES,
-DES, SHA, SAML, OAUTH, LDAP, RAID,
-PCI, PCIE, CMOS, BIOS, FDDI, FIFO,
-HDD, SATA, SCSI, SAS, SSD, UPS, HBA,
-HUB, NC, UA, JS, PHP, ROM, BYOK,
-BYOD, FS, REST, EOF, EOT, JIT, SOAP,
-IDC, ISP, ICP, CDN, BGP, DNS, TLD,
-FQDN, WWW, W3C, TTL, DHCP, NTP, PPP,
-SNMP, OSI, RFC, CIDR, GC, RPC, TCP,
-UDP, FTP, TFTP, ICMP, SMTP, IMAP,
-ARP, SYN, ACK, XML, HTML, XHTML,
-CSS, SDN, SDWAN, VM, KVM, SSL, TLS,
-ARQ, RDS, IAM, ACL, DAC, MAC, RBAC,
-ABAC, DOM, BOM, CORS, XSS, CSRF,
-ORM, ADT, IPC, DoS, DDoS, CC, OOP,
-JWT, LVS, WAF, WBS, RBS, OBS, RAM,
-PRD, SOP, TDD, BDD, DDD, SDLC, CAP,
-ACID, BASE, MVC, MVVM, PoC, MVP,
-SOW, SME, CCB, COE, SDC, PDCA,
-SIPOC, SWOT, RACI, VUCA
+DES, SHA, SAML, OAUTH, LDAP, PAM,
+RAID, PCI, PCIE, CMOS, BIOS, FDDI,
+FIFO, HDD, SATA, SCSI, SAS, SSD,
+UPS, HBA, HUB, NC, UA, JS, PHP, ROM,
+BYOK, BYOD, FS, REST, EOF, EOT, JIT,
+SOAP, IDC, ISP, ICP, CDN, BGP, DNS,
+TLD, FQDN, WWW, W3C, TTL, DHCP, NTP,
+PPP, SNMP, OSI, RFC, CIDR, GC, RPC,
+TCP, UDP, FTP, TFTP, ICMP, SMTP,
+IMAP, ARP, SYN, ACK, XML, HTML,
+XHTML, CSS, SDN, SDWAN, VM, KVM,
+SSL, TLS, ARQ, RDS, IAM, ACL, DAC,
+MAC, RBAC, ABAC, DOM, BOM, CORS,
+XSS, CSRF, ORM, ADT, IPC, DoS, DDoS,
+CC, OOP, JWT, LVS, WAF, WBS, RBS,
+OBS, RAM, PRD, SOP, TDD, BDD, DDD,
+SDLC, CAP, ACID, BASE, MVC, MVVM,
+PoC, MVP, SOW, SME, CCB, COE, SDC,
+PDCA, SIPOC, SWOT, RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1301,7 +1301,7 @@ IDK - I Don’t Know 我不知道
 IDC - I Don’t Care 我不在乎
 BFF - Best Friends Forever 永远的好朋友
 XOXO - Hugs and Kisses 拥抱和亲吻
-OIC - Oh, I See 哦我明白了
+OIC - Oh I See 哦我明白了
 JK - Just Kidding 只是开玩笑
 ILY - I Love You 我爱你
 OFC - Of Course 当然
@@ -1658,6 +1658,7 @@ SHA - Secure Hash Algorithm 安全散列算法
 SAML - Security Assertion Markup Language 安全断言标记语言，单点登录认证标准
 OAUTH - Open Authorization 开放授权
 LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
+PAM - Pluggable Authentication Modules 可插拔认证模块
 RAID - Redundant Array of Independent Disks 独立磁盘冗余阵列
 PCI - Peripheral Component Interconnect 外设部件互连
 PCIE - Peripheral Component Interconnect Express 高速外设部件互连
