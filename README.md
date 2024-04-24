@@ -203,7 +203,7 @@ All in, A/B测试, QR码
 非标品, 硬着陆, 软着陆, 供给侧, 需求端,
 跳出率, 产业链, 信息流, 碎片化, 一元化,
 多元化, 新常态, Z世代, 黑天鹅, 博弈论,
-上下文, 里程碑, 检查点
+上下文, 里程碑, 检查点, 元数据
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -221,9 +221,10 @@ All in, A/B测试, QR码
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
 登门槛效应, 恩格尔系数, 渐进式框架,
-非对称加密
+非对称加密, 结构化数据
 
-天时地利人和, 品牌记忆系统, 心智切割利器
+半结构化数据, 非结构化数据, 天时地利人和,
+品牌记忆系统, 心智切割利器
 
 斯德哥尔摩症候, 奥卡姆剃刀定律,
 邓宁克鲁格效应
@@ -283,9 +284,9 @@ IaaS, PaaS, SaaS, KISS
 
 ```markdown
 OLAP, OLTP, BFS, DFS, NN, DM, DL,
-ML, YOLO, DevOps, CI/CD, I/O, SWE,
-SRE, DEV, SIT, UAT, PRE, PROD, CaC,
-IaC, SLA, SLO, SLI, MTBF, MTTR,
+ML, DW, YOLO, DevOps, CI/CD, I/O,
+SWE, SRE, DEV, SIT, UAT, PRE, PROD,
+CaC, IaC, SLA, SLO, SLI, MTBF, MTTR,
 MTTA, MTTF, ITIL, ITSM, APM, DR,
 CDP, BCP, RTO, RPO, NOC, NIC, MQ,
 QPS, TPS, QoS, RCA, SQL, CURD, DDL,
@@ -298,7 +299,8 @@ VGA, DP, DVI, OSPF, CNNIC, CGI, AES,
 DES, SHA, SAML, OAUTH, LDAP, PAM,
 RAID, PCI, PCIE, CMOS, BIOS, FDDI,
 FIFO, HDD, SATA, SCSI, SAS, SSD,
-UPS, HBA, HUB, NC, UA, JS, PHP, ROM,
+UPS, HBA, HUB, NC, NFS, NAS, ETL,
+ELT, WS, WSS, KV, UA, JS, PHP, ROM,
 BYOK, BYOD, FS, REST, EOF, EOT, JIT,
 SOAP, IDC, ISP, ICP, CDN, BGP, TLD,
 FQDN, WWW, W3C, TTL, DHCP, NTP, PPP,
@@ -1188,6 +1190,7 @@ Z世代 - 1995至2010年间出生的人群
 上下文 - 某个事物存在或被理解的环境和条件
 里程碑 - 完成重要成就的关键阶段
 检查点 - 保存特定时刻系统的进度数据
+元数据 - 描述数据特性的数据，如表结构、字段含义、创建时间、作者、大小
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1246,7 +1249,10 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 恩格尔系数 - 食品支出占消费支出的比重，衡量生活水平高低的重要指标，收入越高的家庭恩格尔系数越小
 渐进式框架 - 只使用核心功能，仅在需要时增加额外的功能或插件的设计理念
 非对称加密 - 加密和解密使用一对公钥和私钥
+结构化数据 - 严格格式化存储的数据，如数据库中的表数据
 
+半结构化数据 - 结构松散的数据，如XML、JSON文件
+非结构化数据 - 无固定格式的数据，如视频、图片、文本
 天时地利人和 - 形容成功需要时机、地点和人的和谐配合
 品牌记忆系统 - 建立品牌形象和信息在消费者心中的记忆机制
 心智切割利器 - 高效影响或改变人们思考方式的方法或工具
@@ -1595,6 +1601,7 @@ NN - Neural Network 神经网络
 DM - Data Mining 数据挖掘 / Direct Message 直接消息
 DL - Deep Learning 深度学习
 ML - Machine Learning 机器学习
+DW - Data Warehouse 数据仓库
 YOLO - You Only Look Once 你只看一次，计算机视觉领域实时对象检测算法
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
@@ -1696,6 +1703,13 @@ UPS - Uninterruptible Power Supply 不间断电源
 HBA - Host Bus Adapter 主机总线适配器
 HUB - Hub 集线器
 NC - Network Computer 网络计算机
+NFS - Network File System 网络文件系统
+NAS - Network Attached Storage 网络附接存储
+ETL - Extract, Transform, Load 提取，转换，加载，在加载前对数据进行清洗加工
+ELT - Extract, Load, Transform 提取，加载，转换，对加载后的数据进行处理
+WS - WebSocket 浏览器与服务器之间的双向网络通信协议
+WSS - WebSocket Secure 双向网络通信协议的安全版本
+KV - Key-Value 键值对，NoSQL数据存储模式，每个数据值都对应一个唯一的键
 UA - User Agent 用户代理
 JS - JavaScript 可在浏览器端执行的编程语言
 PHP - Hypertext Preprocessor 超文本预处理器，编程语言
@@ -2669,6 +2683,7 @@ Z世代 - Generation Z
 上下文 - Context
 里程碑 - Milestone
 检查点 - Checkpoint
+元数据 - Metadata
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -2727,7 +2742,10 @@ T型人才 - T-shaped talent
 恩格尔系数 - Engel's coefficient
 渐进式框架 - Progressive framework
 非对称加密 - Asymmetric encryption
+结构化数据 - Structured Data
 
+半结构化数据 - Semi-structured Data
+非结构化数据 - Unstructured Data
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
 心智切割利器 - Mental model segmentation tool
