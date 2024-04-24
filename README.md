@@ -242,8 +242,8 @@ ILY, OFC, LMK, KK, AFK, IMP, EXP,
 TTYL, BYOB, NVM, SOS, IQ, EQ, ABC,
 DJ, UFO, WC, PK, GRE, GMAT, AM, BBS,
 CU, GG, WIP, POV, ETC, APR, COD,
-Q&A, R&D, C&B, PIN, SARS, AIDS, HR,
-HRBP, HRM, HRD, PM, PMO, PO, OD,
+Q&A, R&D, C&B, PIN, ICU, SARS, AIDS,
+HR, HRBP, HRM, HRD, PM, PMO, PO, OD,
 CEO, COO, CFO, CTO, CIO, CMO, CSO,
 CDO, VP, SVP, AVP, GM, BM, MD, AD,
 OP, JD, BS, MS, MBA, DBA, IELTS,
@@ -1335,6 +1335,7 @@ Q&A - Question and Answer 问与答
 R&D - Research and Development 研究和开发
 C&B - Compensation and Benefits 薪酬和福利
 PIN - Personal Identification Number 个人识别码
+ICU - Intensive Care Unit 重症监护室
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
 HR - Human Resources 人力资源
