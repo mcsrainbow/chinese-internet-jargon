@@ -258,14 +258,14 @@ IRR, NPV, PBP, DAU, WAU, MAU, PV,
 UV, ARPU, ARPPU, GMV, CLV, CVR, PCU,
 GPM, DSR, SKU, GDP, CPI, GPS, CNMD,
 WTO, WHO, UN, IMF, PRC, USA, US, UK,
-FBI, CIA, APP, AP, PPT, PDF, CAD,
-WPS, BBC, HK, BC, TM, MAX, MIN,
-PICC, BOC, ICBC, CBC, CMB, CN, CHN,
-CNN, CCP, RMB, VISA, EMS, KOC, KOL,
-CBD, B2C, C2C, B2B, O2O, P2P, DTC,
-OTA, SEM, SEO, ASO, RTB, SMO, SOHO,
-SNS, FAQ, UTC, GMT, TMT, ACG, KB,
-MB, GB, TB, PB, VR, AR, MR, LBS,
+FBI, CIA, APP, WiFi, AC, AP, PPT,
+PDF, CAD, WPS, BBC, HK, BC, TM, MAX,
+MIN, PICC, BOC, ICBC, CBC, CMB, CN,
+CHN, CNN, CCP, RMB, VISA, EMS, KOC,
+KOL, CBD, B2C, C2C, B2B, O2O, P2P,
+DTC, OTA, SEM, SEO, ASO, RTB, SMO,
+SOHO, SNS, FAQ, UTC, GMT, TMT, ACG,
+KB, MB, GB, TB, PB, VR, AR, MR, LBS,
 LAN, WAN, HTTP, HTTPS, IoT, BI, BE,
 BA, AI, AIGC, AGI, LLM, GPT, NLP,
 CPU, GPU, DPU, VCR, CD, VCD, DVD,
@@ -1455,7 +1455,9 @@ UK - United Kingdom 英国
 FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局
 APP - Application 应用程序
-AP - Associated Press (美联社)
+WiFi - Wireless Fidelity 无线保真技术，无线网络协议
+AC - Access Controller 网络控制器
+AP - Access Point 网络接入点
 PPT - PowerPoint 微软演示文稿
 PDF - Portable Document Format 便携式文档格式
 CAD - Computer-Aided Design 计算机辅助设计
