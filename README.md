@@ -1308,7 +1308,7 @@ LMK - Let Me Know 让我知道
 KK - Okay 好的
 AFK - Away From Keyboard 离开键盘
 IMP - Import 进口，导入
-EXP - Export 出口 / Experience 经验
+EXP - Export 出口，导出 / Experience 经验
 TTYL - Talk To You Later 稍后聊
 BYOB - Bring Your Own Bottle 自带酒水
 NVM - Never Mind 没关系，别在意
