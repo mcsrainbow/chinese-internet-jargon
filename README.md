@@ -262,60 +262,62 @@ DAU, WAU, MAU, PV, UV, ARPU, ARPPU,
 GMV, CLV, CVR, PCU, GPM, DSR, SKU,
 GDP, CPI, GPS, CNMD, WTO, WHO, UN,
 IMF, PRC, USA, US, UK, CN, CHN, HK,
-FBI, CIA, APP, WiFi, AC, AP, PPT,
-PDF, CAD, WPS, BBC, BC, TM, MAX,
-MIN, PICC, BOC, ICBC, CBC, CMB, CNN,
-CCP, RMB, VISA, EMS, KOC, KOL, CBD,
-B2C, C2C, B2B, O2O, P2P, DTC, OTA,
-SEM, SEO, ASO, RTB, SMO, SOHO, SNS,
-FAQ, UTC, GMT, TMT, ACG, KB, MB, GB,
-TB, PB, VR, AR, MR, LBS, LAN, WLAN,
-WAN, HTTP, HTTPS, IoT, BI, BE, BA,
-AI, AIGC, AGI, LLM, GPT, NLP, CPU,
-GPU, DPU, VCR, CD, VCD, DVD, DNS,
-SSL, TLS, DV, OV, EV, AV, TV, MTV,
-MV, VOD, FM, IM, LCD, LED, USB, OCR,
-POS, RGB, QA, QC, SOA, NFC, WLTP,
-CLTP, NOA, FSD, SSO, ISO, API, CCTV,
-IaaS, PaaS, SaaS, KISS
+FBI, CIA, APP, WiFi, AC, AP, WAP,
+PPT, PDF, CAD, WPS, BBC, BC, TM,
+MAX, MIN, PICC, BOC, ICBC, CBC, CMB,
+CNN, CCP, RMB, VISA, EMS, KOC, KOL,
+CBD, B2C, C2C, B2B, O2O, P2P, DTC,
+OTA, SEM, SEO, ASO, RTB, SMO, SOHO,
+SNS, FAQ, UTC, GMT, TMT, ACG, KB,
+MB, GB, TB, ASCII, UTF, GBK, PB, VR,
+AR, MR, LBS, LAN, WLAN, WAN, HTTP,
+HTTPS, IoT, BI, BE, BA, AI, AIGC,
+AGI, LLM, GPT, NLP, CPU, GPU, DPU,
+VCR, CD, VCD, DVD, DNS, SSL, TLS,
+MFA, OTP, PII, CA, DV, OV, EV, DLP,
+GDPR, AV, TV, MTV, MV, VOD, FM, IM,
+LCD, LED, USB, OCR, POS, RGB, QA,
+QC, SOA, NFC, WLTP, CLTP, NOA, FSD,
+SSO, ISO, API, CCTV, IaaS, PaaS,
+SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
 
 ```markdown
 OLAP, OLTP, BFS, DFS, NN, DM, DL,
-ML, DW, YOLO, DevOps, CI/CD, I/O,
-SWE, SRE, DEV, SIT, UAT, PRE, PROD,
-CaC, IaC, SLA, SLO, SLI, MTBF, MTTR,
-MTTA, MTTF, ITIL, ITSM, APM, DR,
-CDP, BCP, RTO, RPO, NOC, NIC, MQ,
-QPS, TPS, QoS, RCA, SQL, CURD, DDL,
-DML, DQL, DCL, TCL, DSL, DB, JDBC,
-ODBC, URI, URL, ARN, DLL, SDK, UUID,
-DBMS, RDBMS, POSIX, SSH, SCP, SFTP,
-LB, ALB, NLB, CLB, NAT, GW, GFW, XP,
-MD5, BLOB, SAST, DAST, VPC, VPN,
-VGA, DP, DVI, OSPF, CNNIC, CGI, AES,
-DES, SHA, SAML, OAUTH, LDAP, PAM,
-RAID, PCI, PCIE, CMOS, BIOS, FDDI,
-FIFO, HDD, SATA, SCSI, SAS, SSD,
-UPS, HBA, HUB, NC, NFS, NAS, ETL,
-ELT, WS, WSS, KV, UA, JS, PHP, ROM,
-BYOK, BYOD, FS, REST, EOF, EOT, JIT,
-SOAP, IDC, ISP, ICP, CDN, BGP, TLD,
-FQDN, WWW, W3C, TTL, DHCP, NTP, PPP,
-SNMP, OSI, RFC, CIDR, GC, RPC, TCP,
-UDP, FTP, TFTP, ICMP, SMTP, IMAP,
-ARP, SYN, ACK, XML, HTML, XHTML,
-CSS, SDN, SDWAN, VM, KVM, ARQ, RDS,
-IAM, ACL, DAC, MAC, RBAC, ABAC, DOM,
-BOM, CORS, XSS, CSRF, ORM, ADT, IPC,
-DoS, DDoS, CC, OOP, JWT, LVS, WAF,
-WBS, RBS, OBS, RAM, PRD, SOP, TDD,
-BDD, DDD, SDLC, CAP, ACID, BASE,
-MVC, MVVM, PoC, MVP, SOW, SME, CCB,
-COE, SDC, PDCA, SIPOC, SWOT, RACI,
-VUCA
+ML, DW, YOLO, EDA, DevOps, CI/CD,
+I/O, SWE, SRE, DEV, SIT, UAT, PRE,
+PROD, CaC, IaC, SLA, SLO, SLI, MTBF,
+MTTR, MTTA, MTTF, ITIL, ITSM, APM, DR,
+CDP, BCP, RTO, RPO, NOC, NIC, MQ, QPS,
+TPS, QoS, RCA, SQL, CURD, DDL, DML,
+DQL, DCL, TCL, DSL, DB, JDBC, ODBC,
+URI, URL, ARN, DLL, SDK, UUID, DBMS,
+RDBMS, POSIX, SSH, SCP, SFTP, LB, ALB,
+NLB, CLB, NAT, GW, GFW, XP, MD5, BLOB,
+SAST, DAST, VPC, VPN, VGA, DP, DVI,
+OSPF, CNNIC, CGI, AES, DES, SHA, SAML,
+OAUTH, LDAP, PAM, PKI, RAID, PCI,
+PCIE, CMOS, BIOS, FDDI, FIFO, HDD,
+SATA, SCSI, SAS, SSD, UPS, HBA, HUB,
+NC, NFS, NAS, ETL, ELT, WS, WSS, KV,
+UA, JS, PHP, ROM, BYOK, BYOD, FS,
+REST, EOF, EOT, JIT, SOAP, IDC, ISP,
+ICP, CDN, BGP, TLD, FQDN, WWW, W3C,
+TTL, DHCP, NTP, PPP, SNMP, OSI, RFC,
+CIDR, GC, RPC, TCP, UDP, FTP, TFTP,
+ICMP, SMTP, IMAP, ARP, SYN, ACK, XML,
+HTML, XHTML, CSS, SDN, SDWAN, VM, KVM,
+ARQ, RDS, IAM, ACL, DAC, MAC, RBAC,
+ABAC, IDS, IPS, SASE, SIEM, SOC, UEM,
+UIM, UTM, MAM, MDM, DOM, BOM, CORS,
+XSS, CSRF, ORM, ADT, IPC, DoS, DDoS,
+CC, OOP, JWT, LVS, WAF, WBS, RBS, OBS,
+RAM, PRD, SOP, TDD, BDD, DDD, SDLC,
+CAP, ACID, BASE, MVC, MVVM, PoC, MVP,
+SOW, SME, CCB, COE, SDC, PDCA, SIPOC,
+SWOT, RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1482,6 +1484,7 @@ APP - Application 应用程序
 WiFi - Wireless Fidelity 无线保真技术，无线网络协议
 AC - Access Controller 网络控制器
 AP - Access Point 网络接入点
+WAP - Wireless Access Point 无线网络接入点
 PPT - PowerPoint 微软演示文稿
 PDF - Portable Document Format 便携式文档格式
 CAD - Computer-Aided Design 计算机辅助设计
@@ -1528,6 +1531,9 @@ MB - Megabyte 兆字节，1 MB = 1024 KB
 GB - Gigabyte 吉字节，1 GB = 1024 MB
 TB - Terabyte 太字节，1 TB = 1024 GB
 PB - Petabyte 拍字节，1 PB = 1024 TB
+ASCII  - American Standard Code for Information Interchange 美国信息交换标准代码
+UTF - Unicode Transformation Format 针对Unicode的可变长度字符编码
+GBK - Guójiā Biāozhǔn Kuòzhǎn 国家标准扩展(拼音)
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Request 合并请求(软件开发)
@@ -1557,9 +1563,15 @@ DVD - Digital Versatile Disc 数字多功能光盘
 DNS - Domain Name System 域名系统
 SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
-DV - Digital Video 数码摄像机 / Domain Validation 域名验证(SSL证书)
-OV - Organization Validation 组织验证(SSL证书)
-EV - Extended Validation 扩展验证(SSL证书) / Electric Vehicle 电动汽车
+MFA - Multifactor Authentication 多因素身份验证
+OTP - One-Time Password 一次性密码
+PII - Personal Identifiable Information 个人身份信息
+CA - Certificate Authority 证书授权
+DV - Digital Video 数码摄像机 / Domain Validation 域名验证(证书)
+OV - Organization Validation 组织验证(证书)
+EV - Extended Validation 扩展验证(证书) / Electric Vehicle 电动汽车
+DLP - Data Loss Prevention 数据泄漏防护
+GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
 AV - Audio Video 音频视频 / Adult Video 成人视频
 TV - Television 电视
 MTV - Music Television 音乐电视
@@ -1604,6 +1616,7 @@ DL - Deep Learning 深度学习
 ML - Machine Learning 机器学习
 DW - Data Warehouse 数据仓库
 YOLO - You Only Look Once 你只看一次，计算机视觉领域实时对象检测算法
+EDA - Electronic Design Automation 电子设计自动化，超大规模集成电路芯片的功能设计工具
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 I/O - Input/Output 输入/输出
@@ -1687,7 +1700,8 @@ SHA - Secure Hash Algorithm 安全散列算法
 SAML - Security Assertion Markup Language 安全断言标记语言，单点登录认证标准
 OAUTH - Open Authorization 开放授权
 LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
-PAM - Pluggable Authentication Modules 可插拔认证模块
+PAM - Pluggable Authentication Modules 可插拔认证模块 / Privileged Account Management 特权账户管理
+PKI - Public Key Infrastructure 公钥基础设施
 RAID - Redundant Array of Independent Disks 独立磁盘冗余阵列
 PCI - Peripheral Component Interconnect 外设部件互连
 PCIE - Peripheral Component Interconnect Express 高速外设部件互连
@@ -1768,6 +1782,16 @@ DAC - Discretionary Access Control 自主访问控制
 MAC - Mandatory Access Control 强制访问控制 / Media Access Control Address 媒体访问控制地址
 RBAC - Role-Based Access Control 基于角色的访问控制
 ABAC - Attribute-Based Access Control 基于属性的访问控制策略
+IDS - Intrusion Detection System 入侵检测系统
+IPS - Intrusion Prevention System 入侵防御系统
+SASE - Secure Access Service Edge 安全访问服务边缘，零信任内网访问方案
+SIEM - Security Information And Event Management 安全信息和事件管理
+SOC - System on Chip 系统级芯片 / Security Operation Center 安全运营中心
+UEM - Unified Endpoint Management 统一端点管理
+UIM - Unified Identity Management 统一身份管理
+UTM - Unified Threat Management 统一威胁管理
+MAM - Mobile Application Management 移动应用管理
+MDM - Mobile Device Management 移动设备管理
 DOM - Document Object Model 文档对象模型
 BOM - Browser Object Model 浏览器对象模型
 CORS - Cross-Origin Resource Sharing 跨域资源共享
