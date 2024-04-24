@@ -269,11 +269,11 @@ KB, MB, GB, TB, PB, VR, AR, MR, LBS,
 LAN, WAN, HTTP, HTTPS, IoT, BI, BE,
 BA, AI, AIGC, AGI, LLM, GPT, NLP,
 CPU, GPU, DPU, VCR, CD, VCD, DVD,
-DV, AV, TV, MTV, MV, VOD, FM, IM,
-LCD, LED, USB, OCR, POS, RGB, QA,
-QC, SOA, NFC, WLTP, CLTP, NOA, FSD,
-SSO, ISO, API, CCTV, IaaS, PaaS,
-SaaS, KISS
+DNS, SSL, TLS, DV, OV, EV, AV, TV,
+MTV, MV, VOD, FM, IM, LCD, LED, USB,
+OCR, POS, RGB, QA, QC, SOA, NFC,
+WLTP, CLTP, NOA, FSD, SSO, ISO, API,
+CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -297,20 +297,20 @@ RAID, PCI, PCIE, CMOS, BIOS, FDDI,
 FIFO, HDD, SATA, SCSI, SAS, SSD,
 UPS, HBA, HUB, NC, UA, JS, PHP, ROM,
 BYOK, BYOD, FS, REST, EOF, EOT, JIT,
-SOAP, IDC, ISP, ICP, CDN, BGP, DNS,
-TLD, FQDN, WWW, W3C, TTL, DHCP, NTP,
-PPP, SNMP, OSI, RFC, CIDR, GC, RPC,
-TCP, UDP, FTP, TFTP, ICMP, SMTP,
-IMAP, ARP, SYN, ACK, XML, HTML,
-XHTML, CSS, SDN, SDWAN, VM, KVM,
-SSL, TLS, ARQ, RDS, IAM, ACL, DAC,
-MAC, RBAC, ABAC, DOM, BOM, CORS,
-XSS, CSRF, ORM, ADT, IPC, DoS, DDoS,
-CC, OOP, JWT, LVS, WAF, WBS, RBS,
-OBS, RAM, PRD, SOP, TDD, BDD, DDD,
-SDLC, CAP, ACID, BASE, MVC, MVVM,
-PoC, MVP, SOW, SME, CCB, COE, SDC,
-PDCA, SIPOC, SWOT, RACI, VUCA
+SOAP, IDC, ISP, ICP, CDN, BGP, TLD,
+FQDN, WWW, W3C, TTL, DHCP, NTP, PPP,
+SNMP, OSI, RFC, CIDR, GC, RPC, TCP,
+UDP, FTP, TFTP, ICMP, SMTP, IMAP,
+ARP, SYN, ACK, XML, HTML, XHTML,
+CSS, SDN, SDWAN, VM, KVM, ARQ, RDS,
+IAM, ACL, DAC, MAC, RBAC, ABAC, DOM,
+BOM, CORS, XSS, CSRF, ORM, ADT, IPC,
+DoS, DDoS, CC, OOP, JWT, LVS, WAF,
+WBS, RBS, OBS, RAM, PRD, SOP, TDD,
+BDD, DDD, SDLC, CAP, ACID, BASE,
+MVC, MVVM, PoC, MVP, SOW, SME, CCB,
+COE, SDC, PDCA, SIPOC, SWOT, RACI,
+VUCA
 ```
 
 ## 词汇解释
@@ -1532,7 +1532,12 @@ VCR - Video Cassette Recorder 录像机(视频片断)
 CD - Compact Disc 影音光盘
 VCD - Video Compact Disc 影音光盘
 DVD - Digital Versatile Disc 数字多功能光盘
-DV - Digital Video 数码摄像机 / Domain Validated 域名验证(SSL证书)
+DNS - Domain Name System 域名系统
+SSL - Secure Sockets Layer 安全套接层
+TLS - Transport Layer Security 传输层安全性协议
+DV - Digital Video 数码摄像机 / Domain Validation 域名验证(SSL证书)
+OV - Organization Validation 组织验证(SSL证书)
+EV - Extended Validation 扩张验证(SSL证书) / Electric Vehicle 电动汽车
 AV - Audio Video 音频视频 / Adult Video 成人视频
 TV - Television 电视
 MTV - Music Television 音乐电视
@@ -1692,7 +1697,6 @@ ISP - Internet Service Provider 互联网服务提供商
 ICP - Internet Content Provider 互联网内容提供商
 CDN - Content Delivery Network 内容分发网络
 BGP - Border Gateway Protocol 边界网关协议
-DNS - Domain Name System 域名系统
 TLD - Top-Level Domain 顶级域名
 FQDN - Fully Qualified Domain Name 完全合格域名，完整域名
 WWW - World Wide Web 万维网
@@ -1725,8 +1729,6 @@ SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
 VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
-SSL - Secure Sockets Layer 安全套接层
-TLS - Transport Layer Security 传输层安全性协议
 ARQ - Automatic Repeat-reQuest 自动重传请求
 RDS - Relational Database Service 关系型数据库
 IAM - Identity and Access Management 身份与访问管理
