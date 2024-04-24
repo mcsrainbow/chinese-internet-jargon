@@ -2704,7 +2704,7 @@ T型人才 - T-shaped talent
 光环效应 - Halo effect
 破窗效应 - Broken windows theory
 边缘计算 - Edge computing
-胖客户端 - Thick client or Fat client
+胖客户端 - Thick client / Fat client
 瘦客户端 - Thin client
 对称加密 - Symmetric encryption
 一级市场 - Primary market
