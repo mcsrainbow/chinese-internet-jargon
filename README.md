@@ -258,10 +258,10 @@ IRR, NPV, PBP, DAU, WAU, MAU, PV,
 UV, ARPU, ARPPU, GMV, CLV, CVR, PCU,
 GPM, DSR, SKU, GDP, CPI, GPS, CNMD,
 WTO, WHO, UN, IMF, PRC, USA, US, UK,
-FBI, CIA, APP, WiFi, AC, AP, PPT,
-PDF, CAD, WPS, BBC, HK, BC, TM, MAX,
-MIN, PICC, BOC, ICBC, CBC, CMB, CN,
-CHN, CNN, CCP, RMB, VISA, EMS, KOC,
+CN, CHN, HK, FBI, CIA, APP, WiFi,
+AC, AP, PPT, PDF, CAD, WPS, BBC, BC,
+TM, MAX, MIN, PICC, BOC, ICBC, CBC,
+CMB, CNN, CCP, RMB, VISA, EMS, KOC,
 KOL, CBD, B2C, C2C, B2B, O2O, P2P,
 DTC, OTA, SEM, SEO, ASO, RTB, SMO,
 SOHO, SNS, FAQ, UTC, GMT, TMT, ACG,
@@ -1452,6 +1452,9 @@ PRC - People's Republic of China 中华人民共和国
 USA - United States of America 美利坚合众国，美国
 US - United States 美国
 UK - United Kingdom 英国
+CN - China 中国
+CHN - China 中国
+HK - Hong Kong 香港
 FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局
 APP - Application 应用程序
@@ -1463,7 +1466,6 @@ PDF - Portable Document Format 便携式文档格式
 CAD - Computer-Aided Design 计算机辅助设计
 WPS - Writer, Presentation, Spreadsheets 文字、演示、表格
 BBC - British Broadcasting Corporation 英国广播公司
-HK - Hong Kong 香港
 BC - Before Christ 公元前
 TM - Trademark 商标
 MAX - Maximum 最大
@@ -1473,8 +1475,6 @@ BOC - Bank of China 中国银行
 ICBC - Industrial and Commercial Bank of China 中国工商银行
 CBC - Construction Bank of China 中国建设银行
 CMB - China Merchants Bank 中国招商银行
-CN - China 中国
-CHN - China 中国
 CNN - Cable News Network 有线新闻网络
 CCP - Chinese Communist Party 中国共产党
 RMB - Renminbi 人民币
