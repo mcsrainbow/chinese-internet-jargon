@@ -266,13 +266,14 @@ CBD, B2C, C2C, B2B, O2O, P2P, DTC,
 OTA, SEM, SEO, ASO, RTB, SMO, SOHO,
 SNS, FAQ, UTC, GMT, TMT, ACG, KB,
 MB, GB, TB, PB, VR, AR, MR, LBS,
-IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
-GPT, NLP, CPU, GPU, DPU, VCR, CD,
-VCD, DVD, DV, AV, TV, MTV, MV, VOD,
-FM, IM, LCD, LED, USB, OCR, POS,
-RGB, QA, QC, SOA, NFC, WLTP, CLTP,
-NOA, FSD, SSO, ISO, API, CCTV, IaaS,
-PaaS, SaaS, KISS
+LAN, WAN, HTTP, HTTPS, IoT, BI, BE,
+BA, AI, AIGC, AGI, LLM, GPT, NLP,
+CPU, GPU, DPU, VCR, CD, VCD, DVD,
+DV, AV, TV, MTV, MV, VOD, FM, IM,
+LCD, LED, USB, OCR, POS, RGB, QA,
+QC, SOA, NFC, WLTP, CLTP, NOA, FSD,
+SSO, ISO, API, CCTV, IaaS, PaaS,
+SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -300,17 +301,16 @@ IDC, ISP, ICP, CDN, BGP, DNS, TLD,
 FQDN, WWW, W3C, TTL, DHCP, NTP, PPP,
 SNMP, OSI, RFC, CIDR, GC, RPC, TCP,
 UDP, FTP, TFTP, ICMP, SMTP, IMAP,
-ARP, SYN, ACK, HTTP, HTTPS, XML,
-HTML, XHTML, CSS, LAN, WAN, SDN,
-SDWAN, VM, KVM, SSL, TLS, ARQ, RDS,
-IAM, ACL, DAC, MAC, RBAC, ABAC, DOM,
-BOM, CORS, XSS, CSRF, ORM, ADT, IPC,
-DoS, DDoS, CC, OOP, JWT, LVS, WAF,
-WBS, RBS, OBS, RAM, PRD, SOP, TDD,
-BDD, DDD, SDLC, CAP, ACID, BASE,
-MVC, MVVM, PoC, MVP, SOW, SME, CCB,
-COE, SDC, PDCA, SIPOC, SWOT, RACI,
-VUCA
+ARP, SYN, ACK, XML, HTML, XHTML,
+CSS, SDN, SDWAN, VM, KVM, SSL, TLS,
+ARQ, RDS, IAM, ACL, DAC, MAC, RBAC,
+ABAC, DOM, BOM, CORS, XSS, CSRF,
+ORM, ADT, IPC, DoS, DDoS, CC, OOP,
+JWT, LVS, WAF, WBS, RBS, OBS, RAM,
+PRD, SOP, TDD, BDD, DDD, SDLC, CAP,
+ACID, BASE, MVC, MVVM, PoC, MVP,
+SOW, SME, CCB, COE, SDC, PDCA,
+SIPOC, SWOT, RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1509,6 +1509,10 @@ VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Request 合并请求(软件开发)
 LBS - Location Based Service 基于位置的服务
+LAN - Local Area Network 局域网
+WAN - Wide Area Network 广域网
+HTTP - HyperText Transfer Protocol 超文本传输协议
+HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
 IoT - Internet of Things 物联网
 BI - Business Intelligence 商业智能
 BE - Business Enablement 商业赋能
@@ -1697,7 +1701,7 @@ PPP - Point-to-Point Protocol 点对点协议
 SNMP - Simple Network Management Protocol 简单网络管理协议
 OSI - Open System Interconnection Model 开放式系统互联模型
 RFC - Request for Comments 请求意见稿(互联网工程任务组发布)
-CIDR - Classless Inter-Domain Routing 无类别域间路由
+CIDR - Classless Inter-Domain Routing 无类别域间路由，可提高路由效率的IP地址分配方法，使用网络/掩码的形式表示网段, 如192.168.1.0/255.255.255.0或192.168.1.0/24
 GC - Garbage Collection 垃圾回收
 RPC - Remote Procedure Call 远程过程调用协议
 TCP - Transmission Control Protocol 传输控制协议
@@ -1710,14 +1714,10 @@ IMAP - Internet Message Access Protocol 互联网邮件访问协议
 ARP - Address Resolution Protocol 地址解析协议
 SYN - Synchronize Sequence Numbers 同步序列编号
 ACK - Acknowledgement 确认
-HTTP - HyperText Transfer Protocol 超文本传输协议
-HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
 XML - EXtensible Markup Language 可扩展标记语言
 HTML - HyperText Markup Language 超文本标记语言
 XHTML - Extensible Hypertext Markup Language 可扩展超文本标记语言
 CSS - Cascading Style Sheets 层叠样式表
-LAN - Local Area Network 局域网
-WAN - Wide Area Network 广域网
 SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
 VM - Virtual Machine 虚拟机
