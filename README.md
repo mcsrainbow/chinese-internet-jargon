@@ -256,12 +256,12 @@ TOEFL, BEC, CET, KET, PET, FCE, CAE,
 CPE, OA, CRM, ERP, CMS, SCM, BOSS,
 MIS, DB, ODM, OEM, OBM, POV, ETC, COD,
 Q&A, R&D, C&B, PIN, PII, KA, CS, OU,
-VC, PE, IPO, BU, BG, BP, BD, RFP, HQ,
-UI, GUI, CLI, UE, UX, UED, VI, VIP,
-IDE, NPC, VS, PR, IP, MCN, UGC, PGC,
-OGC, CPC, CPM, CPA, CPS, CAC, TCO,
-CTR, KPI, OKR, ROI, APR, IRR, NPV,
-PBP, DAU, WAU, MAU, PV, UV, ARPU,
+VC, PE, IPO, BIZ, BU, BG, BP, BD, RFP,
+HQ, UI, GUI, CLI, UE, UX, UED, VI,
+VIP, IDE, NPC, VS, PR, IP, MCN, UGC,
+PGC, OGC, CPC, CPM, CPA, CPS, CAC,
+TCO, CTR, KPI, OKR, ROI, APR, IRR,
+NPV, PBP, DAU, WAU, MAU, PV, UV, ARPU,
 ARPPU, GMV, CLV, CVR, PCU, GPM, DSR,
 SKU, GDP, CPI, WTO, WHO, GPS, CNMD,
 UN, EU, PRC, CCP, USA, CN, CHN, HK,
@@ -1459,6 +1459,7 @@ OU - Organizational Unit 组织单位
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育
 IPO - Initial Public Offering 首次公开募股
+BIZ - Business 商业，业务
 BU - Business Unit 业务单元
 BG - Business Group 业务集团
 BP - Business Plan 商业计划书
