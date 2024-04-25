@@ -2629,7 +2629,7 @@ VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、
 ```markdown
 All in - Put in all resources and efforts
 A/B测试 - A/B testing
-QR码 - Quick Response Code
+QR码 - Quick response code
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
@@ -2819,7 +2819,7 @@ T型人才 - T-shaped talent
 二级市场 - Secondary market
 一类电商 - Traditional E-commerce
 二类电商 - Direct E-commerce
-逆向工程 - Reverse Engineering
+逆向工程 - Reverse engineering
 代码混淆 - Obfuscation
 
 金丝雀发布 - Canary release
@@ -2832,10 +2832,10 @@ T型人才 - T-shaped talent
 恩格尔系数 - Engel's coefficient
 渐进式框架 - Progressive framework
 非对称加密 - Asymmetric encryption
-结构化数据 - Structured Data
+结构化数据 - Structured data
 
-半结构化数据 - Semi-structured Data
-非结构化数据 - Unstructured Data
+半结构化数据 - Semi-structured data
+非结构化数据 - Unstructured data
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
 心智切割利器 - Mental model segmentation tool
