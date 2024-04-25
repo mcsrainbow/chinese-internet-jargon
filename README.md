@@ -194,7 +194,7 @@ All in, A/B测试, QR码
 出海, 众包, 海淘, 标品, 集美, 景别, 运镜,
 构图, 转场, 定格, 闪回, 截流, 死锁, 脑裂,
 作业, 常量, 探针, 探活, 断点, 快照, 同构,
-异构, 高定
+异构, 高定, 逆天
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -1159,6 +1159,7 @@ QR码 - 快速响应矩阵图码，二维码
 同构 - 由多个相同类型元素组成的系统
 异构 - 由多个不同类型元素组成的系统
 高定 - 高端时尚领域的高品质定制产品
+逆天 - 违背常规，超乎寻常 / 违背天意
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -2730,6 +2731,7 @@ QR码 - Quick Response Code
 同构 - Homogeneous
 异构 - Heterogeneous
 高定 - Haute couture
+逆天 - Miraculous / Blasphemous
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
