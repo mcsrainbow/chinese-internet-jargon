@@ -1443,8 +1443,8 @@ SCM - Supply Chain Management 供应链管理
 BOSS - Business Operating Support System 业务运营支撑系统
 MIS - Management Information Systems 管理信息系统
 DB - Database 数据库
-ODM - Original Design Manufacture 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
-OEM - Original Equipment Manufacture 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
+ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
+OEM - Original Equipment Manufacturer 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
 OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
 POV - Point Of View 观点 / Proof of Value 价值证明
 ETC - Et cetera 等等(拉丁文) / Electronic Toll Collection 不停车电子计费
