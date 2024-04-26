@@ -241,9 +241,9 @@ OOO, PTO, AL, ATM, AKA, LOL, PS, MTD,
 QTD, YTD, WIP, DDL, NP, THX, IDK, IDC,
 BFF, XOXO, OIC, JK, ILY, OFC, LMK, KK,
 CU, GG, AFK, TTYL, BYOB, NVM, BBQ, PK,
-WC, ID, IQ, EQ, CV, IT, PC, OS, TEL,
-APP, WiFi, AC, AP, WAP, PPT, PDF, CAD,
-WPS, BBS, YOLO, FOMO, ABC, LGBT,
+WC, ID, IQ, EQ, CV, FPV, IT, PC, OS,
+TEL, APP, WiFi, AC, AP, WAP, PPT, PDF,
+CAD, WPS, BBS, YOLO, FOMO, ABC, LGBT,
 LGBTQ+, AM, BC, TM, MAX, MIN, IMP,
 EXP, AJ, LV, SOS, No., G, KG, T, M,
 KM, CM, MM, L, ML, W, KW, H, S, HP,
@@ -1344,6 +1344,7 @@ ID - Identity Document 身份证件 / Identifier 标识符
 IQ - Intelligence Quotient 智力商数，智商
 EQ - Emotional Quotient 情感商数，情商
 CV - Curriculum Vitae 个人履历 / Computer Vision 计算机视觉
+FPV - First-Person View 第一人称视角
 IT - Information Technology 信息技术
 PC - Personal Computer 个人计算机
 OS - Operating System 操作系统
