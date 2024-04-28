@@ -194,7 +194,7 @@ All in, A/B测试, QR码
 出海, 众包, 海淘, 标品, 集美, 景别, 运镜,
 构图, 转场, 定格, 闪回, 截流, 死锁, 脑裂,
 作业, 常量, 探针, 探活, 断点, 快照, 同构,
-异构, 高定, 逆天, 能量
+异构, 高定, 逆天, 能量, 非遗, 达观
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -216,7 +216,8 @@ All in, A/B测试, QR码
 蝴蝶效应, 木桶效应, 零和博弈, 囚徒困境,
 光环效应, 破窗效应, 边缘计算, 胖客户端,
 瘦客户端, 对称加密, 一级市场, 二级市场,
-一类电商, 二类电商, 逆向工程, 代码混淆
+一类电商, 二类电商, 逆向工程, 代码混淆,
+长期主义
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -243,10 +244,10 @@ BFF, XOXO, OIC, JK, ILY, OFC, LMK, KK,
 CU, GG, AFK, TTYL, BYOB, NVM, BBQ, PK,
 WC, ID, IQ, EQ, CV, FPV, IT, PC, OS,
 TEL, APP, WiFi, AC, AP, WAP, PPT, PDF,
-CAD, WPS, BBS, YOLO, FOMO, ABC, LGBT,
-LGBTQ+, AM, BC, TM, MAX, MIN, IMP,
-EXP, AJ, LV, SOS, No., G, KG, T, M,
-KM, CM, MM, L, ML, W, KW, H, S, HP,
+CAD, WPS, BBS, YOLO, FOMO, PUA, ABC,
+LGBT, LGBTQ+, AM, BC, TM, MAX, MIN,
+IMP, EXP, AJ, LV, SOS, No., G, KG, T,
+M, KM, CM, MM, L, ML, W, KW, H, S, HP,
 KB, MB, GB, TB, PB, HR, HRBP, HRM,
 HRD, PM, PMO, PO, OD, CEO, COO, CFO,
 CTO, CIO, CMO, CSO, CDO, VP, SVP,
@@ -260,30 +261,31 @@ VC, PE, IPO, BIZ, BU, BG, BP, BD, RFP,
 HQ, UI, GUI, CLI, UE, UX, UED, VI,
 VIP, IDE, NPC, VS, PR, IP, MCN, UGC,
 PGC, OGC, CPC, CPM, CPA, CPS, CAC,
-TCO, CTR, KPI, OKR, ROI, APR, IRR,
-NPV, PBP, DAU, WAU, MAU, PV, UV, ARPU,
-ARPPU, GMV, CLV, CVR, PCU, GPM, DSR,
-SKU, GDP, CPI, WTO, WHO, GPS, CNMD,
-UN, EU, PRC, CCP, USA, CN, CHN, HK,
-US, USD, UK, JP, KR, RUS, SGP, RMB,
-CNY, VISA, IMF, ISBN, IOC, PLA, NBA,
-CBA, ICAC, FBI, CIA, FDA, OPEC, BBC,
-CNN, VOA, EMS, PICC, BOC, ICBC, CBC,
-CMB, BOCOM, DNA, KFC, ET, UFO, RIP,
-ICU, SARS, AIDS, KOC, KOL, CBD, B2C,
-C2C, B2B, O2O, P2P, DTC, OTA, RSS,
-SEM, SEO, ASO, RTB, SMO, SOHO, SNS,
-FAQ, UTC, GMT, TMT, ACG, VCR, CD, VCD,
-DVD, AV, TV, MTV, MV, VOD, DJ, FM, IM,
-USB, OCR, POS, RGB, QA, QC, LCD, LED,
-IBM, ASCII, UTF, GBK, SD, HD, HDMI,
-VR, AR, MR, LBS, LAN, WLAN, WAN, HTTP,
-HTTPS, IoT, BI, BE, BA, AI, AIGC, AGI,
-LLM, GPT, NLP, CPU, GPU, DPU, DNS,
-VPN, SSL, TLS, MFA, OTP, CA, DV, OV,
-EV, DLP, GDPR, SOA, NFC, ABS, SUV,
-LRT, WLTP, CLTP, NOA, FSD, SSO, ISO,
-API, CCTV, IaaS, PaaS, SaaS, KISS
+TCO, CTR, KPI, OKR, ROI, ROE, APR,
+IRR, NPV, PBP, DAU, WAU, MAU, PV, UV,
+ARPU, ARPPU, GMV, CLV, CVR, PCU, GPM,
+DSR, SKU, GDP, CPI, WTO, WHO, GPS,
+CNMD, UN, EU, PRC, CCP, USA, CN, CHN,
+HK, US, USD, UK, JP, KR, RUS, SGP,
+RMB, CNY, VISA, IMF, ISBN, IOC, PLA,
+NBA, CBA, ICAC, FBI, CIA, FDA, OPEC,
+BBC, CNN, VOA, EMS, PICC, BOC, ICBC,
+CBC, CMB, BOCOM, DNA, KFC, ET, UFO,
+RIP, ICU, SARS, AIDS, KOC, KOL, CBD,
+B2C, C2C, B2B, O2O, P2P, DTC, OTA,
+RSS, SEM, SEO, ASO, RTB, SMO, SOHO,
+SNS, FAQ, UTC, GMT, TMT, ACG, VCR, CD,
+VCD, DVD, AV, TV, MTV, MV, VOD, DJ,
+FM, IM, USB, OCR, POS, RGB, QA, QC,
+LCD, LED, IBM, ASCII, UTF, GBK, SD,
+HD, HDMI, VR, AR, MR, LBS, LAN, WLAN,
+WAN, HTTP, HTTPS, IoT, BI, BE, BA, AI,
+AIGC, AGI, LLM, GPT, NLP, CPU, GPU,
+DPU, DNS, VPN, SSL, TLS, MFA, OTP, CA,
+DV, OV, EV, DLP, GDPR, SOA, NFC, ABS,
+SUV, LRT, WLTP, CLTP, NOA, FSD, SSO,
+ISO, API, CCTV, IaaS, PaaS, SaaS,
+KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1161,6 +1163,8 @@ QR码 - 快速响应矩阵图码，二维码
 高定 - 高端时尚领域的高品质定制产品
 逆天 - 违背常规，超乎寻常 / 违背天意
 能量 - 精神活力、积极情绪、追求目标的动力、面对困难的信心等内在精神状态和对外界活动的积极性
+非遗 - 非物质文化遗产，无形文化资产，对地区文化传承有重要意义的行为或表现
+达观 - 介于悲观和乐观之间的第三种态度，顺其自然，随遇而安
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1361,6 +1365,7 @@ WPS - Writer, Presentation, Spreadsheets 文字、演示、表格
 BBS - Bulletin Board System 电子公告板
 YOLO - You Only Live Once 你只活一次
 FOMO - Fear of Missing Out 害怕错过
+PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
 ABC - American-Born Chinese 出生在美国的华裔 / Agriculture Bank of China 中国农业银行
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
@@ -1495,6 +1500,7 @@ CTR - Click Through Rate 点击率
 KPI - Key Performance Indicator 关键绩效指标
 OKR - Objectives and Key Results 目标与关键结果
 ROI - Return on Investment 投资回报率
+ROE - Return On Equity 净资产收益率 ，盈利能力指标，衡量相对于股东权益的投资回报
 APR - Annual Percentage Rate 年利率
 IRR - Internal Rate of Return 内部收益率
 NPV - Net Present Value 净现值
@@ -2736,6 +2742,8 @@ QR码 - Quick response code
 高定 - Haute couture
 逆天 - Miraculous / Blasphemous
 能量 - Energy
+非遗 - Intangible cultural heritage
+达观 - Equanimity
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -2825,6 +2833,7 @@ T型人才 - T-shaped talent
 二类电商 - Direct E-commerce
 逆向工程 - Reverse engineering
 代码混淆 - Obfuscation
+长期主义 - Longtermism
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
