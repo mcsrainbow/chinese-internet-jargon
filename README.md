@@ -217,7 +217,7 @@ All in, A/B测试, QR码
 光环效应, 破窗效应, 边缘计算, 胖客户端,
 瘦客户端, 对称加密, 一级市场, 二级市场,
 一类电商, 二类电商, 逆向工程, 代码混淆,
-长期主义
+长期主义, 影响因子
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -252,40 +252,40 @@ KB, MB, GB, TB, PB, HR, HRBP, HRM,
 HRD, PM, PMO, PO, OD, CEO, COO, CFO,
 CTO, CIO, CMO, CSO, CDO, VP, SVP,
 AVP, GM, BM, MD, AD, OP, TS, JD, BS,
-MS, MBA, DBA, PhD, GRE, GMAT, IELTS,
-TOEFL, BEC, CET, KET, PET, FCE, CAE,
-CPE, OA, CRM, ERP, CMS, SCM, BOSS,
-MIS, DB, ODM, OEM, OBM, POV, ETC, COD,
-Q&A, R&D, C&B, PIN, PII, KA, CS, OU,
-VC, PE, IPO, BIZ, BU, BG, BP, BD, RFP,
-HQ, UI, GUI, CLI, UE, UX, UED, VI,
-VIP, IDE, NPC, VS, PR, IP, MCN, UGC,
-PGC, OGC, CPC, CPM, CPA, CPS, CAC,
-TCO, CTR, KPI, OKR, ROI, ROE, APR,
-IRR, NPV, PBP, DAU, WAU, MAU, PV, UV,
-ARPU, ARPPU, GMV, CLV, CVR, PCU, GPM,
-DSR, SKU, GDP, CPI, WTO, WHO, GPS,
-CNMD, UN, EU, PRC, CCP, USA, CN, CHN,
-HK, US, USD, UK, JP, KR, RUS, SGP,
-RMB, CNY, VISA, IMF, ISBN, IOC, PLA,
-NBA, CBA, ICAC, FBI, CIA, FDA, OPEC,
-BBC, CNN, VOA, EMS, PICC, BOC, ICBC,
-CBC, CMB, BOCOM, DNA, KFC, ET, UFO,
-RIP, ICU, SARS, AIDS, KOC, KOL, CBD,
-B2C, C2C, B2B, O2O, P2P, DTC, OTA,
-RSS, SEM, SEO, ASO, RTB, SMO, SOHO,
-SNS, FAQ, UTC, GMT, TMT, ACG, VCR, CD,
-VCD, DVD, AV, TV, MTV, MV, VOD, DJ,
-FM, IM, USB, OCR, POS, RGB, QA, QC,
-LCD, LED, IBM, ASCII, UTF, GBK, SD,
-HD, HDMI, VR, AR, MR, LBS, LAN, WLAN,
-WAN, HTTP, HTTPS, IoT, BI, BE, BA, AI,
-AIGC, AGI, LLM, GPT, NLP, CPU, GPU,
-DPU, DNS, VPN, SSL, TLS, MFA, OTP, CA,
-DV, OV, EV, DLP, GDPR, SOA, NFC, ABS,
-SUV, LRT, WLTP, CLTP, NOA, FSD, SSO,
-ISO, API, CCTV, IaaS, PaaS, SaaS,
-KISS
+MS, MBA, DBA, PhD, SCI, IEEE, GRE,
+GMAT, IELTS, TOEFL, BEC, CET, KET,
+PET, FCE, CAE, CPE, OA, CRM, ERP, CMS,
+SCM, BOSS, MIS, DB, ODM, OEM, OBM,
+POV, ETC, COD, Q&A, R&D, C&B, PIN,
+PII, KA, CS, OU, VC, PE, IPO, BIZ, BU,
+BG, BP, BD, RFP, HQ, UI, GUI, CLI, UE,
+UX, UED, VI, VIP, IDE, NPC, VS, PR,
+IP, MCN, UGC, PGC, OGC, CPC, CPM, CPA,
+CPS, CAC, TCO, CTR, KPI, OKR, ROI,
+ROE, APR, IRR, NPV, PBP, DAU, WAU,
+MAU, PV, UV, ARPU, ARPPU, GMV, CLV,
+CVR, PCU, GPM, DSR, SKU, GDP, CPI,
+WTO, WHO, GPS, CNMD, UN, EU, PRC, CCP,
+USA, CN, CHN, HK, US, USD, UK, JP, KR,
+RUS, SGP, RMB, CNY, VISA, IMF, ISBN,
+IOC, PLA, NBA, CBA, ICAC, FBI, CIA,
+FDA, OPEC, BBC, CNN, VOA, EMS, PICC,
+BOC, ICBC, CBC, CMB, BOCOM, DNA, KFC,
+ET, UFO, RIP, ICU, SARS, AIDS, KOC,
+KOL, CBD, B2C, C2C, B2B, O2O, P2P,
+DTC, OTA, RSS, SEM, SEO, ASO, RTB,
+SMO, SOHO, SNS, FAQ, UTC, GMT, TMT,
+ACG, VCR, CD, VCD, DVD, AV, TV, MTV,
+MV, VOD, DJ, FM, IM, USB, OCR, POS,
+RGB, QA, QC, LCD, LED, IBM, ASCII,
+UTF, GBK, SD, HD, HDMI, VR, AR, MR,
+LBS, LAN, WLAN, WAN, HTTP, HTTPS, IoT,
+BI, BE, BA, AI, AIGC, AGI, LLM, GPT,
+NLP, CPU, GPU, DPU, DNS, VPN, SSL,
+TLS, MFA, OTP, CA, DV, OV, EV, DLP,
+GDPR, SOA, NFC, ABS, SUV, LRT, WLTP,
+CLTP, NOA, FSD, SSO, ISO, API, CCTV,
+IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1254,6 +1254,8 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 二类电商 - 直营电商，通过流量平台进行广告投放，推广单一产品
 逆向工程 - 反向工程，通过对目标逆向分析和研究，进行演绎仿造
 代码混淆 - 通过将源代码转换成功能等价但难于阅读和理解的形式，保护知识产权
+长期主义 - 基于长期的目标或结果而行动或制定决策
+影响因子 - 国际通行的期刊评价指标，某期刊前两年发表的论文当年的被引用总次数除以该期刊在前两年内发表的论文总数
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1430,6 +1432,8 @@ MS - Master of Science 理学硕士
 MBA - Master of Business Administration 工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
 PhD - Doctor of Philosophy 哲学博士，研究博士
+SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
+IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
 GRE - Graduate Record Examinations 美国研究生入学考试
 GMAT - Graduate Management Admission Test 美国研究生管理科入学考试
 IELTS - International English Language Testing System 国际英语语言测试系统，雅思
@@ -2834,6 +2838,7 @@ T型人才 - T-shaped talent
 逆向工程 - Reverse engineering
 代码混淆 - Obfuscation
 长期主义 - Longtermism
+影响因子 - Impact factor
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
