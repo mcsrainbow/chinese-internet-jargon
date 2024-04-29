@@ -304,33 +304,34 @@ OEM, OBM, POV, ETC, COD, Q&A, R&D,
 C&B, PIN, PII, KA, CS, OU, VC, PE,
 IPO, BIZ, BU, BG, BP, BD, RFP, HQ, UI,
 GUI, CLI, UE, UX, UED, VI, VIP, IDE,
-NPC, VS, PR, IP, MCN, UGC, PGC, OGC,
-CPC, CPM, CPA, CPS, CPT, CAC, TCO,
-CTR, SMB, WOM, KPI, OKR, ROI, ROE,
-APR, IRR, NPV, PBP, DAU, WAU, MAU, PV,
-UV, ARPU, ARPPU, GMV, CLV, CVR, PCU,
-GPM, DSR, SKU, GDP, CPI, WTO, WHO,
-GPS, CNMD, UN, EU, PRC, CCP, USA, CN,
-CHN, HK, US, USD, UK, JP, KR, RUS,
-SGP, RMB, CNY, VISA, IMF, ISBN, IOC,
-PLA, NBA, CBA, ICAC, FBI, CIA, FDA,
-OPEC, BBC, CNN, VOA, EMS, PICC, BOC,
-ICBC, CBC, CMB, BOCOM, DNA, KFC, ET,
-UFO, RIP, ICU, SARS, AIDS, KOC, KOL,
-CBD, BAT, BBA, B2C, C2C, B2B, O2O,
-P2P, DTC, OTA, RSS, SEM, SEO, ASO,
-RTB, SMO, SOHO, SNS, FAQ, UTC, GMT,
-TMT, ACG, VCR, CD, VCD, DVD, AV, TV,
-MTV, MV, VOD, DJ, FM, IM, USB, OCR,
-POS, RGB, QA, QC, LCD, LED, IBM,
-ASCII, UTF, GBK, SD, HD, HDMI, VR, AR,
-MR, LBS, LAN, WLAN, WAN, HTTP, HTTPS,
-IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
-GPT, NLP, CPU, GPU, DPU, DNS, VPN,
-SSL, TLS, MFA, OTP, CA, DV, OV, EV,
-DLP, GDPR, SOA, NFC, ABS, SUV, LRT,
-WLTP, CLTP, NOA, FSD, SSO, ISO, API,
-CCTV, IaaS, PaaS, SaaS, KISS
+NPC, NTR, RPG, RPA, MBTI, VS, PR, IP,
+MCN, UGC, PGC, OGC, CPC, CPM, CPA,
+CPS, CPT, CAC, TCO, CTR, SMB, WOM,
+KPI, OKR, ROI, ROE, APR, IRR, NPV,
+PBP, DAU, WAU, MAU, PV, UV, ARPU,
+ARPPU, GMV, CLV, CVR, PCU, GPM, DSR,
+SKU, GDP, CPI, WTO, WHO, GPS, CNMD,
+UN, EU, PRC, CCP, USA, CN, CHN, HK,
+US, USD, UK, JP, KR, RUS, SGP, RMB,
+CNY, VISA, IMF, ISBN, IOC, PLA, NBA,
+CBA, ICAC, FBI, CIA, FDA, OPEC, BBC,
+CNN, VOA, EMS, PICC, BOC, ICBC, CBC,
+CMB, BOCOM, DNA, KFC, ET, UFO, RIP,
+ICU, SARS, AIDS, KOC, KOL, CBD, BAT,
+BBA, B2C, C2C, B2B, O2O, P2P, DTC,
+OTA, RSS, SEM, SEO, ASO, RTB, SMO,
+SOHO, SNS, FAQ, UTC, GMT, TMT, ACG,
+VCR, CD, VCD, DVD, AV, TV, MTV, MV,
+VOD, DJ, FM, IM, USB, OCR, POS, RGB,
+QA, QC, LCD, LED, IBM, ASCII, UTF,
+GBK, SD, HD, HDMI, VR, AR, MR, LBS,
+LAN, WLAN, WAN, HTTP, HTTPS, IoT, BI,
+BE, BA, AI, AIGC, AGI, LLM, GPT, NLP,
+CPU, GPU, DPU, DNS, VPN, SSL, TLS,
+MFA, OTP, CA, DV, OV, EV, DLP, GDPR,
+SOA, NFC, ABS, SUV, LRT, WLTP, CLTP,
+NOA, FSD, SSO, ISO, API, CCTV, IaaS,
+PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1731,6 +1732,10 @@ VI - Visual Identity 企业视觉形象设计
 VIP - Very Important Person 重要人物 / Virtual IP Address 虚拟IP地址
 IDE - Integrated Development Environment 集成开发环境(软件开发)
 NPC - Non-Player Character 非玩家角色
+NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
+RPG - Role-Playing Game 角色扮演游戏 / Rocket-Propelled Grenade 火箭推进榴弹，火箭弹
+RPA - Robotic Process Automation 机器人流程自动化
+MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
 VS - Versus 对抗，相对 / Visual Studio (Microsoft IDE)
 PR - Public Relations 公共关系 / Pull Request 合并请求(软件开发)
 IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
