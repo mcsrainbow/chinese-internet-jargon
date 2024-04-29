@@ -194,7 +194,9 @@ All in, A/B测试, QR码
 出海, 众包, 海淘, 标品, 集美, 景别, 运镜,
 构图, 转场, 定格, 闪回, 截流, 死锁, 脑裂,
 作业, 常量, 探针, 探活, 断点, 快照, 同构,
-异构, 高定, 逆天, 能量, 非遗, 达观
+异构, 高定, 逆天, 能量, 非遗, 达观, 前向,
+后向, 敏捷, 高优, 撬动, 下钻, 撞库, 烧钱,
+勾兑, 寡头, 宽松, 落盘
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -203,7 +205,8 @@ All in, A/B测试, QR码
 非标品, 硬着陆, 软着陆, 供给侧, 需求端,
 跳出率, 产业链, 信息流, 碎片化, 一元化,
 多元化, 新常态, Z世代, 黑天鹅, 博弈论,
-上下文, 里程碑, 检查点, 元数据
+上下文, 里程碑, 检查点, 元数据, 场景化,
+危机感, 高压线, 智能体
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -217,7 +220,8 @@ All in, A/B测试, QR码
 光环效应, 破窗效应, 边缘计算, 胖客户端,
 瘦客户端, 对称加密, 一级市场, 二级市场,
 一类电商, 二类电商, 逆向工程, 代码混淆,
-长期主义, 影响因子
+长期主义, 影响因子, 上帝视角, 人口红利,
+行业红利, 四纵三横, 专家系统
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -249,43 +253,44 @@ LGBT, LGBTQ+, AM, BC, TM, MAX, MIN,
 IMP, EXP, AJ, LV, SOS, No., G, KG, T,
 M, KM, CM, MM, L, ML, W, KW, H, S, HP,
 KB, MB, GB, TB, PB, HR, HRBP, HRM,
-HRD, PM, PMO, PO, OD, CEO, COO, CFO,
-CTO, CIO, CMO, CSO, CDO, VP, SVP,
+HRD, HCM, PM, PMO, PO, OD, CEO, COO,
+CFO, CTO, CIO, CMO, CSO, CDO, VP, SVP,
 AVP, GM, BM, MD, AD, OP, TS, JD, BS,
 MS, MBA, DBA, PhD, SCI, IEEE, GRE,
 GMAT, IELTS, TOEFL, BEC, CET, KET,
-PET, FCE, CAE, CPE, OA, CRM, ERP, CMS,
-SCM, BOSS, MIS, DB, ODM, OEM, OBM,
-POV, ETC, COD, Q&A, R&D, C&B, PIN,
-PII, KA, CS, OU, VC, PE, IPO, BIZ, BU,
-BG, BP, BD, RFP, HQ, UI, GUI, CLI, UE,
-UX, UED, VI, VIP, IDE, NPC, VS, PR,
-IP, MCN, UGC, PGC, OGC, CPC, CPM, CPA,
-CPS, CAC, TCO, CTR, KPI, OKR, ROI,
-ROE, APR, IRR, NPV, PBP, DAU, WAU,
-MAU, PV, UV, ARPU, ARPPU, GMV, CLV,
-CVR, PCU, GPM, DSR, SKU, GDP, CPI,
-WTO, WHO, GPS, CNMD, UN, EU, PRC, CCP,
-USA, CN, CHN, HK, US, USD, UK, JP, KR,
-RUS, SGP, RMB, CNY, VISA, IMF, ISBN,
-IOC, PLA, NBA, CBA, ICAC, FBI, CIA,
-FDA, OPEC, BBC, CNN, VOA, EMS, PICC,
-BOC, ICBC, CBC, CMB, BOCOM, DNA, KFC,
-ET, UFO, RIP, ICU, SARS, AIDS, KOC,
-KOL, CBD, B2C, C2C, B2B, O2O, P2P,
-DTC, OTA, RSS, SEM, SEO, ASO, RTB,
-SMO, SOHO, SNS, FAQ, UTC, GMT, TMT,
-ACG, VCR, CD, VCD, DVD, AV, TV, MTV,
-MV, VOD, DJ, FM, IM, USB, OCR, POS,
-RGB, QA, QC, LCD, LED, IBM, ASCII,
-UTF, GBK, SD, HD, HDMI, VR, AR, MR,
-LBS, LAN, WLAN, WAN, HTTP, HTTPS, IoT,
-BI, BE, BA, AI, AIGC, AGI, LLM, GPT,
-NLP, CPU, GPU, DPU, DNS, VPN, SSL,
-TLS, MFA, OTP, CA, DV, OV, EV, DLP,
-GDPR, SOA, NFC, ABS, SUV, LRT, WLTP,
-CLTP, NOA, FSD, SSO, ISO, API, CCTV,
-IaaS, PaaS, SaaS, KISS
+PET, FCE, CAE, CPE, OA, CRM, SCRM,
+ERP, CMS, SCM, BOSS, MIS, DB, ODM,
+OEM, OBM, POV, ETC, COD, Q&A, R&D,
+C&B, PIN, PII, KA, CS, OU, VC, PE,
+IPO, BIZ, BU, BG, BP, BD, RFP, HQ, UI,
+GUI, CLI, UE, UX, UED, VI, VIP, IDE,
+NPC, VS, PR, IP, MCN, UGC, PGC, OGC,
+CPC, CPM, CPA, CPS, CPT, CAC, TCO,
+CTR, SMB, WOM, KPI, OKR, ROI, ROE,
+APR, IRR, NPV, PBP, DAU, WAU, MAU, PV,
+UV, ARPU, ARPPU, GMV, CLV, CVR, PCU,
+GPM, DSR, SKU, GDP, CPI, WTO, WHO,
+GPS, CNMD, UN, EU, PRC, CCP, USA, CN,
+CHN, HK, US, USD, UK, JP, KR, RUS,
+SGP, RMB, CNY, VISA, IMF, ISBN, IOC,
+PLA, NBA, CBA, ICAC, FBI, CIA, FDA,
+OPEC, BBC, CNN, VOA, EMS, PICC, BOC,
+ICBC, CBC, CMB, BOCOM, DNA, KFC, ET,
+UFO, RIP, ICU, SARS, AIDS, KOC, KOL,
+CBD, BAT, BBA, B2C, C2C, B2B, O2O,
+P2P, DTC, OTA, RSS, SEM, SEO, ASO,
+RTB, SMO, SOHO, SNS, FAQ, UTC, GMT,
+TMT, ACG, VCR, CD, VCD, DVD, AV, TV,
+MTV, MV, VOD, DJ, FM, IM, USB, OCR,
+POS, RGB, QA, QC, LCD, LED, IBM,
+ASCII, UTF, GBK, SD, HD, HDMI, VR, AR,
+MR, LBS, LAN, WLAN, WAN, HTTP, HTTPS,
+IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
+GPT, NLP, CPU, GPU, DPU, DNS, VPN,
+SSL, TLS, MFA, OTP, CA, DV, OV, EV,
+DLP, GDPR, SOA, NFC, ABS, SUV, LRT,
+WLTP, CLTP, NOA, FSD, SSO, ISO, API,
+CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -321,10 +326,11 @@ RBAC, ABAC, IDS, IPS, SASE, SIEM,
 SOC, UEM, UIM, UTM, MAM, MDM, DOM,
 BOM, CORS, XSS, CSRF, ORM, ADT, IPC,
 DoS, DDoS, OOP, JWT, LVS, WAF, WBS,
-RBS, OBS, RAM, PRD, SOP, TDD, BDD,
-DDD, SDLC, CAP, ACID, BASE, MVC,
-MVVM, PoC, MVP, SOW, SME, CCB, COE,
-SDC, PDCA, SIPOC, SWOT, RACI, VUCA
+RBS, OBS, RAM, BRD, MRD, PRD, SOP,
+TDD, BDD, DDD, SDLC, CAP, ACID,
+BASE, MVC, MVVM, PoC, MVP, SOW, SME,
+CCB, COE, SDC, PDCA, SIPOC, SWOT,
+RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1165,6 +1171,18 @@ QR码 - 快速响应矩阵图码，二维码
 能量 - 精神活力、积极情绪、追求目标的动力、面对困难的信心等内在精神状态和对外界活动的积极性
 非遗 - 非物质文化遗产，无形文化资产，对地区文化传承有重要意义的行为或表现
 达观 - 介于悲观和乐观之间的第三种态度，顺其自然，随遇而安
+前向 - 指未来导向的规划或发展，侧重前瞻性策略
+后向 - 反映基于过去数据或结果的回顾性分析
+敏捷 - 强调快速响应市场变化的开发方式或管理方法
+高优 - 高优先级，通常用于描述需优先处理的任务或问题
+撬动 - 用小的投入撬动大的效益，强调杠杆效应
+下钻 - 指深入分析数据或问题，以查找更详细的信息
+撞库 - 通过试错方式用泄露的账号信息尝试匹配验证
+烧钱 - 大量投资，通常用于快速扩张或市场占领
+勾兑 - 混合或整合资源和信息，以达到预期的效果
+寡头 - 少数几家企业主导整个市场
+宽松 - 政策或市场环境管制相对放松
+落盘 - 将理论或概念转化为具体的操作步骤
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1205,6 +1223,10 @@ Z世代 - 1995至2010年间出生的人群
 里程碑 - 完成重要成就的关键阶段
 检查点 - 保存特定时刻系统的进度数据
 元数据 - 描述数据特性的数据，如表结构、字段含义、创建时间、作者、大小
+场景化 - 依据具体应用场景定制产品或服务
+危机感 - 对潜在问题或风险的高度敏感和警觉
+高压线 - 触及会导致严重后果的敏感领域或问题
+智能体 - 具有自主决策和行动能力的系统或程序，能根据环境反馈进行学习和适应
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1256,6 +1278,11 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 代码混淆 - 通过将源代码转换成功能等价但难于阅读和理解的形式，保护知识产权
 长期主义 - 基于长期的目标或结果而行动或制定决策
 影响因子 - 国际通行的期刊评价指标，某期刊前两年发表的论文当年的被引用总次数除以该期刊在前两年内发表的论文总数
+上帝视角 - 从全局或高层次角度审视问题
+人口红利 - 因人口结构优势带来的经济增长机会
+行业红利 - 特定行业发展带来的额外经济或商业利益
+四纵三横 - 资讯、交流、娱乐、商务，搜索、社交、移动
+专家系统 - 模仿人类专家的知识和决策技能，专门解决某一特定领域的问题的人工智能系统
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1405,6 +1432,7 @@ HR - Human Resources 人力资源
 HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
 HRM - Human Resource Manager 人力资源经理
 HRD - Human Resource Development 人力资源开发 / Human Resource Director 人力资源总监
+HCM - Human Capital Management 人力资本管理，对员工的技能、知识和能力进行投资、管理和评估
 PM - Project Manager 项目经理 / Post Meridiem 下午(拉丁文) / Product Manager 产品经理 / Production Manager 生产经理
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
 PO - Product Owner 产品负责人
@@ -1447,6 +1475,7 @@ CAE - C1 Advanced / Certificate in Advanced English 剑桥通用英语五级考�
 CPE - Certificate of Proficiency in English 剑桥通用英语五级考试的第五级，熟练水平
 OA - Office Automation 办公自动化
 CRM - Customer Relationship Management 客户关系管理
+SCRM - Social Customer Relationship Management 社会化客户关系管理
 ERP - Enterprise Resource Planning 企业资源计划，整合企业流程的营运管理软件
 CMS - Content Management System 内容管理系统
 SCM - Supply Chain Management 供应链管理
@@ -1497,10 +1526,13 @@ OGC - Officially Generated Content 官方生成内容
 CPC - Cost Per Click 单次点击成本
 CPM - Cost Per Mille 千次展示成本
 CPA - Cost Per Action 每行动成本 / Certified Public Accountant 注册会计师
-CPS - Cost Per Sales 按销量付费
+CPS - Cost Per Sales 按销售额付费
+CPT - Cost Per Time 按时长付费 / Curricular Practical Training 课程实习训练，美国政府给予的临时就业许可
 CAC - Customer Acquisition Cost 获取单个顾客的成本
 TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
+SMB - Small and Midsize Business 中小型企业市场 / Server Message Block 服务器消息块，网络文件共享协议
+WOM - Word-of-Mouth Marketing 口碑营销
 KPI - Key Performance Indicator 关键绩效指标
 OKR - Objectives and Key Results 目标与关键结果
 ROI - Return on Investment 投资回报率
@@ -1579,6 +1611,8 @@ AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾�
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
+BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
+BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
 B2C - Business to Consumer 企业对消费者，如京东
 C2C - Consumer to Consumer 消费者对消费者，如淘宝 / Copy to China 复制到中国
 B2B - Business to Business 企业对企业，如阿里巴巴
@@ -1885,7 +1919,9 @@ WBS - Work Breakdown Structure 工作分解结构
 RBS - Risk Breakdown Structure 风险分解结构
 OBS - Organizational Breakdown Structure 组织分解结构
 RAM - Responsibility Assignment Matrix 责任分配矩阵 / Random Access Memory 随机存取存储器，内存
-PRD - Product Requirements Document 产品需求文档 / Production 生产(环境)
+BRD - Business Requirement Document 商业需求文档，概念阶段
+MRD - Market Requirement Document 市场需求文档，定位阶段
+PRD - Product Requirement Document 产品需求文档，图纸阶段 / Production 生产(环境)
 SOP - Standard Operating Procedure 标准操作流程
 TDD - Test-Drive Development 测试驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
@@ -2748,6 +2784,18 @@ QR码 - Quick response code
 能量 - Energy
 非遗 - Intangible cultural heritage
 达观 - Equanimity
+前向 - Forward-looking
+后向 - Retrospective
+敏捷 - Agile
+高优 - High priority
+撬动 - Leverage
+下钻 - Drill Down
+撞库 - Credential stuffing
+烧钱 - Burn money / Cash burn
+勾兑 - Integrate
+寡头 - Oligopoly
+宽松 - Lax / Loose
+落盘 - Operationalize
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -2788,6 +2836,10 @@ Z世代 - Generation Z
 里程碑 - Milestone
 检查点 - Checkpoint
 元数据 - Metadata
+场景化 - Contextualization
+危机感 - Sense of crisis
+高压线 - Red line
+智能体 - Agent
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -2839,6 +2891,11 @@ T型人才 - T-shaped talent
 代码混淆 - Obfuscation
 长期主义 - Longtermism
 影响因子 - Impact factor
+上帝视角 - Bird's-eye view
+人口红利 - Demographic dividend
+行业红利 - Industry dividend
+四纵三横 - Four verticals and Three horizontals (Information, Communication, Entertainment, Business; Search, Social Media, Mobile)
+专家系统 - Expert system
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
