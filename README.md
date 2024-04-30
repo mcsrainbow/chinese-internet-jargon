@@ -252,7 +252,7 @@ All in, A/B测试, QR码, UP主
 反刍思维, 通识教育, 大而化之, 程序正义,
 政治正确, 机械降神, 平行世界, 黑暗森林,
 情绪铃铛, 多头博弈, 边际效用, 管中窥豹,
-色厉内荏
+色厉内荏, 生化环材
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -1474,6 +1474,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 边际效用 - 边际效应，边际的含义是额外增量，消费者对某种物品的消费量每增加一单位所增加的额外满足程度
 管中窥豹 - 比喻因见识有限而对事物了解不全
 色厉内荏 - 外表强硬而内心怯懦的性格
+生化环材 - 生物工程、化学工程技术、环境科学与工程、材料科学与工程四个专业的统称，因就业困难被戏称为“天坑专业”
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -2901,7 +2902,7 @@ VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、
 All in - Put in all resources and efforts
 A/B测试 - A/B testing
 QR码 - Quick response code
-UP主 - Content creator
+UP主 - Uploader / Content creator
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
@@ -3268,6 +3269,7 @@ T型人才 - T-shaped talent
 边际效用 - Marginal utility
 管中窥豹 - Glimpse of the leopard
 色厉内荏 - Bravado
+生化环材 - Biological, Chemical, Environmental, Materials
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
