@@ -5,11 +5,11 @@
 
 **解释提示词:**
 
-> 请通过15个字左右简要地逐个依次解释以下互联网黑话词汇，这些词汇通常用于商业、技术、营销、科学、社会和心理学等等领域，反映了互联网行业的特定语境和文化
+> 请通过15个字左右简要地逐个依次解释以下中文词汇，这些词汇通常用于商业、技术、营销、科学、社会和心理学等等领域，反映了互联网行业的特定语境和文化，输出格式"词汇 - 解释"
 
 **翻译提示词:**
 
-> 请简要地逐个依次将以下中文互联网黑话词汇翻译为能表达其中文内涵的英文词汇，这些词汇很多与互联网行业和现代企业文化特别相关，某些词汇可能没有直接对应的英文表达，请提供最接近的或者行业内常用的表述，结果中不显示详细解释
+> 请简要地逐个依次将以下中文词汇翻译为能表达其中文内涵的英文词汇，某些词汇可能没有直接对应的英文表达，请提供最接近的或行业内常用的英文表达，结果中不显示详细解释，输出格式"中文词汇 - 英文表达"
 
 ## 词汇列表
 
@@ -178,7 +178,7 @@
 ### 补充词汇列表
 
 ```markdown
-All in, A/B测试, QR码, UP主
+All in, A/B测试, QR码, UP主, 大V
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -203,7 +203,8 @@ All in, A/B测试, QR码, UP主
 热寂, 应然, 实然, 虹吸, 均值, 中值, 养蛊,
 涅槃, 对冲, 范式, 内耗, 刻奇, 冥想, 群氓,
 脱敏, 寇仇, 暗网, 阴谋, 阳谋, 穷举, 极客,
-反智, 冗余
+反智, 冗余, 意识, 盘点, 轮转, 先贤, 悖论,
+诡辩, 溢价, 公知
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -222,7 +223,8 @@ All in, A/B测试, QR码, UP主
 宗主国, 寒号鸟, 常春藤, 建制派, 键盘侠,
 东林党, 宿命论, 投名状, 二元论, 与非门,
 乌托邦, 厌蠢症, 分水岭, 过滤器, 做市商,
-语料库, 做题家, 高可用, 安慰剂, 建设性
+语料库, 做题家, 高可用, 安慰剂, 建设性,
+奶头乐, 苦行僧, 婆罗门
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -253,7 +255,10 @@ All in, A/B测试, QR码, UP主
 反刍思维, 通识教育, 大而化之, 程序正义,
 政治正确, 机械降神, 平行世界, 黑暗森林,
 情绪铃铛, 多头博弈, 边际效用, 管中窥豹,
-色厉内荏, 生化环材, 专家主义, 因噎废食
+色厉内荏, 生化环材, 专家主义, 因噎废食,
+地缘政治, 妙手回春, 回光返照, 复杂系统,
+混沌系统, 均值回归, 唯物主义, 唯心主义,
+熵增定律
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -266,11 +271,13 @@ All in, A/B测试, QR码, UP主
 主观能动性, 主人翁意识, 原教旨主义,
 路西法效应, 社会化死亡, 表演型人格,
 贝叶斯概率, 忒修斯之船, 吸引力法则,
-六边形战士, 观察者偏见, 二极管思维
+六边形战士, 观察者偏见, 二极管思维,
+庞加莱回归
 
 半结构化数据, 非结构化数据, 天时地利人和,
 品牌记忆系统, 心智切割利器, 利维坦最优解,
-雷普利症候群, 不确定性原理
+雷普利症候群, 不确定性原理, 机械唯物主义,
+劣币驱逐良币
 
 斯德哥尔摩症候, 奥卡姆剃刀定律,
 邓宁克鲁格效应, 相关不蕴涵因果
@@ -287,26 +294,26 @@ OOO, PTO, AL, ATM, AKA, LOL, PS, MTD,
 QTD, YTD, WIP, DDL, NP, THX, IDK, IDC,
 BFF, XOXO, OIC, JK, ILY, OFC, LMK, KK,
 CU, CP, GG, AFK, TTYL, BYOB, NVM, BBQ,
-PK, WC, ID, IQ, EQ, CV, FPV, IT, PC,
-OS, TEL, APP, WiFi, AC, AP, WAP, PPT,
-PDF, CAD, WPS, BBS, YOLO, FOMO, PUA,
-ABC, LGBT, LGBTQ+, AM, BC, TM, MAX,
-MIN, IMP, EXP, AJ, LV, SOS, No., G,
-KG, T, M, KM, CM, MM, L, ML, W, KW, H,
-S, HP, KB, MB, GB, TB, PB, HR, HRBP,
-HRM, HRD, HCM, PM, PMO, PO, OD, CEO,
-COO, CFO, CTO, CIO, CMO, CSO, CDO, VP,
-SVP, AVP, GM, BM, MD, AD, OP, TS, JD,
-BS, MS, MBA, DBA, PhD, SCI, IEEE, GRE,
-GMAT, IELTS, TOEFL, BEC, CET, KET,
-PET, FCE, CAE, CPE, OA, CRM, SCRM,
-ERP, CMS, SCM, BOSS, MIS, DB, ODM,
-OEM, OBM, POV, ETC, COD, Q&A, R&D,
-C&B, PIN, PII, KA, CS, OU, VC, PE,
-IPO, BIZ, BU, BG, BP, BD, RFP, HQ, UI,
-GUI, CLI, UE, UX, UED, VI, VIP, IDE,
-NPC, NTR, RPG, RPA, MBTI, VS, PR, IP,
-MCN, UGC, PGC, OGC, CPC, CPM, CPA,
+PK, AOE, WC, ID, IQ, EQ, CV, FPV, IT,
+PC, OS, TEL, APP, WiFi, AC, AP, WAP,
+PPT, PDF, CAD, WPS, BBS, YOLO, FOMO,
+PUA, ABC, LGBT, LGBTQ+, AM, BC, TM,
+MAX, MIN, IMP, EXP, AJ, LV, SOS, No.,
+G, KG, T, M, KM, CM, MM, L, ML, W, KW,
+H, S, HP, KB, MB, GB, TB, PB, HR,
+HRBP, HRM, HRD, HCM, PM, PMO, PO, OD,
+CEO, COO, CFO, CTO, CIO, CMO, CSO,
+CDO, VP, SVP, AVP, GM, BM, MD, AD, OP,
+TS, JD, BS, MS, MBA, DBA, PhD, SCI,
+IEEE, GRE, GMAT, IELTS, TOEFL, BEC,
+CET, KET, PET, FCE, CAE, CPE, OA, CRM,
+SCRM, ERP, CMS, SCM, BOSS, MIS, DB,
+ODM, OEM, OBM, POV, ETC, COD, Q&A,
+R&D, C&B, PIN, PII, KA, CS, OU, VC,
+PE, IPO, BIZ, BU, BG, BP, BD, RFP, HQ,
+UI, GUI, CLI, UE, UX, UED, VI, VIP,
+IDE, NPC, NTR, RPG, RPA, MBTI, VS, PR,
+IP, MCN, UGC, PGC, OGC, CPC, CPM, CPA,
 CPS, CPT, CAC, TCO, CTR, SMB, WOM,
 KPI, OKR, ROI, ROE, APR, IRR, NPV,
 PBP, DAU, WAU, MAU, PV, UV, ARPU,
@@ -1009,7 +1016,7 @@ RACI, VUCA
 流量红利 - 互联网发展初期易获得的用户增长优势
 流量为王 - 在线业务中重视吸引用户访问量的策略
 价格歧视 - 对不同消费者采取不同价格策略
-意识形态 - 一套关于世界观和方法论的信念体系
+意识形态 - 观念形态，思想体系，对事物的理解、认知，是观念、概念、思想、价值观等要素的总和，源于社会存在
 心理账户 - 个人在心理上对财务资源进行分类
 情绪G点 - 触发消费者强烈情绪反应的点
 品牌势能 - 品牌潜在的市场影响力和竞争力
@@ -1109,6 +1116,7 @@ All in - 全力以赴，投入所有资源和精力
 A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 QR码 - 快速响应矩阵图码，二维码
 UP主 - 网络视频平台的内容创作者，上传者
+大V - 在网络平台上获得个人认证标识(Verified)，粉丝众多且具有影响力的用户
 
 熵减 - 系统从混乱向有序转变，情况变好
 熵增 - 系统从有序向混乱转变，情况恶化
@@ -1250,7 +1258,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 社科 - 社会科学，用科学的方法研究人类社会现象
 民科 - 没有正规科学训练但热衷科学研究的民间人士
 耻感 - 因不符合道德或社会标准而产生的羞愧感
-热寂 - 宇宙末日理论之一，宇宙热能均匀分布、无法再做功
+热寂 - 基于熵增定律的宇宙末日理论，宇宙所有能量最终都会耗尽，热能均匀分布，进入无法维持生命的状态
 应然 - 哲学中指事物理想的、应该的状态
 实然 - 哲学中指事物实际存在的状态
 虹吸 - 利用重力和气压将高处的水自动向上吸起来流向低处
@@ -1273,6 +1281,14 @@ UP主 - 网络视频平台的内容创作者，上传者
 极客 - 性格古怪，痴迷于技术并投入大量时间钻研的人
 反智 - 对知识、理性、科学抱持怀疑或敌视态度
 冗余 - 为了提升可靠性而刻意重复的部分
+意识 - 个体对外界和内在体验的主观感知和体验
+盘点 - 为掌握资产现状进行检查和清点
+轮转 - 为保障系统安全进行周期性更新
+先贤 - 过去具有杰出智慧和成就的智者或学者
+悖论 - 逻辑上自相矛盾的论断
+诡辩 - 以欺骗性的论证方式来迷惑他人
+溢价 - 超出实际价值的费用
+公知 - 公共知识分子，进言社会并参与公共事务讨论的具有学术背景和专业素质的知识分子，通常被寄予具有批判精神和秉持社会公义
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1364,6 +1380,9 @@ Z世代 - 1995至2010年间出生的人群
 高可用 - 系统或网络设计确保高度的可操作和可访问性
 安慰剂 - 在临床试验中，无有效成分的假药物，用于对照测试
 建设性 - 积极促进正常发展
+奶头乐 - 针对底层人口，通过娱乐产业刺激感官、消耗时间、转移注意力，实现阶层固化，避免阶级冲突
+苦行僧 - 禁欲者，苦行修道者，放弃正当物质享受，用苦难磨炼自己的人
+婆罗门 - 印度种姓制度中最高阶层的祭司和学者
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1485,7 +1504,17 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 生化环材 - 生物工程、化学工程技术、环境科学与工程、材料科学与工程四个专业的统称，因就业困难被戏称为“天坑专业”
 专家主义 - 过于信任专家而忽视其他人和因素的倾向
 因噎废食 - 因为害怕噎住而不吃饭，为了避免风险而放弃值得做的事
+地缘政治 - 关注地理位置、资源和政治影响力对国际关系的影响
+妙手回春 - 巧妙地解决难题、挽救危局或使事物重新焕发生机
+回光返照 - 在某个事物或时期的末期，出现一次短暂的复苏或光辉
+复杂系统 - 复合系统，由大量相互作用组成的系统，具有非线性和难以预测的特征
+混沌系统 - 在一个确定性系统中，存在着随机的不规则运动，表现为不确定性、不可重复、不可预测
+均值回归 - 统计学概念，指随机变量偏离平均值后，趋于重新靠近平均值的现象
+唯物主义 - 哲学理论，世界的基本成分为物质，所有的事物(包含心灵及意识)都是物质交互作用的结果
+唯心主义 - 哲学理论，意识是一切的根源，现实世界存在于意识之中，是意识的产物
+熵增定律 - 热力学第二定律，在孤立系统中，熵(混乱度或无序度)总是趋于增加
 
+庞加莱回归 - 庞加莱复现定理，与熵增定律相反，系统在经历混沌状态后，只要经过充分长但有限的时间，一定返回初始态本身，实现“轮回”
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
 供应链攻击 - 通过感染供应链中受信任的软硬件来进行的网络攻击
@@ -1522,6 +1551,8 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 六边形战士 - 能在多个领域或技能上表现出色的人
 观察者偏见 - 观察者偏差，观察者的立场、动机、期望和先前经验等因素妨碍了观察的客观性
 二极管思维 - 非黑即白、非此即彼的极端思维，容易煽动情绪制造对立，不利于解决问题
+机械唯物主义 - 用古典力学解释一切自然现象的观点，把物质的物理、化学和生物的性质都归结为力学的性质
+劣币驱逐良币 - 劣币进入流通领域之后，消费者收藏贵金属含量高的良币，导致良币被驱逐出流通，泛指价值不高的东西会把价值较高的东西挤出流通领域
 
 半结构化数据 - 结构松散的数据，如XML、JSON文件
 非结构化数据 - 无固定格式的数据，如视频、图片、文本
@@ -1604,6 +1635,7 @@ BYOB - Bring Your Own Bottle 自带酒水
 NVM - Never Mind 没关系，别在意
 BBQ - Barbecue 烧烤
 PK - Player Kill 玩家间对战
+AOE - Area of Effect 范围性作用
 WC - Water Closet 抽水马桶，厕所
 ID - Identity Document 身份证件 / Identifier 标识符
 IQ - Intelligence Quotient 智力商数，智商
@@ -2916,6 +2948,7 @@ All in - Put in all resources and efforts
 A/B测试 - A/B testing
 QR码 - Quick response code
 UP主 - Uploader / Content creator
+大V - Verified influencer
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
@@ -3080,6 +3113,14 @@ UP主 - Uploader / Content creator
 极客 - Geek
 反智 - Anti-intellectualism
 冗余 - Redundancy
+意识 - Consciousness
+盘点 - Inventory
+轮转 - Rotation
+先贤 - Sages
+悖论 - Paradox
+诡辩 - Sophistry
+溢价 - Premium
+公知 - Public intellectual
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -3171,6 +3212,9 @@ Z世代 - Generation Z
 高可用 - High availability
 安慰剂 - Placebo
 建设性 - Constructive
+奶头乐 - Tittytainment (Titty + Entertainment)
+苦行僧 - Ascetic / Sādhu
+婆罗门 - Brahmin
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -3292,6 +3336,15 @@ T型人才 - T-shaped talent
 生化环材 - Biological, Chemical, Environmental, Materials
 专家主义 - Expertism
 因噎废食 - Overreaction / Over-cautiousness
+地缘政治 - Geopolitics
+妙手回春 - Masterstroke
+回光返照 - Last gasp
+复杂系统 - Complex system
+混沌系统 - Chaotic system
+均值回归 - Mean reversion
+唯物主义 - Materialism
+唯心主义 - Idealism
+熵增定律 - Second law of thermodynamics
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
@@ -3329,6 +3382,8 @@ T型人才 - T-shaped talent
 六边形战士 - Versatile
 观察者偏见 - Observer bias
 二极管思维 - Black-and-white thinking
+庞加莱回归 - Poincaré recurrence theorem
+机械唯物主义 - Mechanistic Materialism
 
 半结构化数据 - Semi-structured data
 非结构化数据 - Unstructured data
@@ -3338,6 +3393,7 @@ T型人才 - T-shaped talent
 利维坦最优解 - Leviathan solution
 雷普利症候群 - Ripley syndrome
 不确定性原理 - Uncertainty principle
+劣币驱逐良币 - Gresham's Law / Bad money drives out good
 
 斯德哥尔摩症候 - Stockholm syndrome
 奥卡姆剃刀定律 - Occam's razor
