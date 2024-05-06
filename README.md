@@ -203,7 +203,7 @@ All in, A/B测试, QR码, UP主
 热寂, 应然, 实然, 虹吸, 均值, 中值, 养蛊,
 涅槃, 对冲, 范式, 内耗, 刻奇, 冥想, 群氓,
 脱敏, 寇仇, 暗网, 阴谋, 阳谋, 穷举, 极客,
-反智
+反智, 冗余
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -1272,6 +1272,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 穷举 - 枚举，全面列举所有可能性
 极客 - 性格古怪，痴迷于技术并投入大量时间钻研的人
 反智 - 对知识、理性、科学抱持怀疑或敌视态度
+冗余 - 为了提升可靠性而刻意重复的部分
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -3078,6 +3079,7 @@ UP主 - Uploader / Content creator
 穷举 - Exhaustive
 极客 - Geek
 反智 - Anti-intellectualism
+冗余 - Redundancy
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
