@@ -202,7 +202,8 @@ All in, A/B测试, QR码, UP主
 钝化, 奴化, 让渡, 微操, 社科, 民科, 耻感,
 热寂, 应然, 实然, 虹吸, 均值, 中值, 养蛊,
 涅槃, 对冲, 范式, 内耗, 刻奇, 冥想, 群氓,
-脱敏, 寇仇, 暗网, 阴谋, 阳谋
+脱敏, 寇仇, 暗网, 阴谋, 阳谋, 穷举, 极客,
+反智
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -221,7 +222,7 @@ All in, A/B测试, QR码, UP主
 宗主国, 寒号鸟, 常春藤, 建制派, 键盘侠,
 东林党, 宿命论, 投名状, 二元论, 与非门,
 乌托邦, 厌蠢症, 分水岭, 过滤器, 做市商,
-语料库, 做题家, 高可用, 安慰剂
+语料库, 做题家, 高可用, 安慰剂, 建设性
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -252,7 +253,7 @@ All in, A/B测试, QR码, UP主
 反刍思维, 通识教育, 大而化之, 程序正义,
 政治正确, 机械降神, 平行世界, 黑暗森林,
 情绪铃铛, 多头博弈, 边际效用, 管中窥豹,
-色厉内荏, 生化环材
+色厉内荏, 生化环材, 专家主义
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -265,7 +266,7 @@ All in, A/B测试, QR码, UP主
 主观能动性, 主人翁意识, 原教旨主义,
 路西法效应, 社会化死亡, 表演型人格,
 贝叶斯概率, 忒修斯之船, 吸引力法则,
-六边形战士
+六边形战士, 观察者偏见, 二极管思维
 
 半结构化数据, 非结构化数据, 天时地利人和,
 品牌记忆系统, 心智切割利器, 利维坦最优解,
@@ -285,18 +286,18 @@ BRT, IMO, RE:, BTW, NB, TYT, NRN, WFH,
 OOO, PTO, AL, ATM, AKA, LOL, PS, MTD,
 QTD, YTD, WIP, DDL, NP, THX, IDK, IDC,
 BFF, XOXO, OIC, JK, ILY, OFC, LMK, KK,
-CU, GG, AFK, TTYL, BYOB, NVM, BBQ, PK,
-WC, ID, IQ, EQ, CV, FPV, IT, PC, OS,
-TEL, APP, WiFi, AC, AP, WAP, PPT, PDF,
-CAD, WPS, BBS, YOLO, FOMO, PUA, ABC,
-LGBT, LGBTQ+, AM, BC, TM, MAX, MIN,
-IMP, EXP, AJ, LV, SOS, No., G, KG, T,
-M, KM, CM, MM, L, ML, W, KW, H, S, HP,
-KB, MB, GB, TB, PB, HR, HRBP, HRM,
-HRD, HCM, PM, PMO, PO, OD, CEO, COO,
-CFO, CTO, CIO, CMO, CSO, CDO, VP, SVP,
-AVP, GM, BM, MD, AD, OP, TS, JD, BS,
-MS, MBA, DBA, PhD, SCI, IEEE, GRE,
+CU, CP, GG, AFK, TTYL, BYOB, NVM, BBQ,
+PK, WC, ID, IQ, EQ, CV, FPV, IT, PC,
+OS, TEL, APP, WiFi, AC, AP, WAP, PPT,
+PDF, CAD, WPS, BBS, YOLO, FOMO, PUA,
+ABC, LGBT, LGBTQ+, AM, BC, TM, MAX,
+MIN, IMP, EXP, AJ, LV, SOS, No., G,
+KG, T, M, KM, CM, MM, L, ML, W, KW, H,
+S, HP, KB, MB, GB, TB, PB, HR, HRBP,
+HRM, HRD, HCM, PM, PMO, PO, OD, CEO,
+COO, CFO, CTO, CIO, CMO, CSO, CDO, VP,
+SVP, AVP, GM, BM, MD, AD, OP, TS, JD,
+BS, MS, MBA, DBA, PhD, SCI, IEEE, GRE,
 GMAT, IELTS, TOEFL, BEC, CET, KET,
 PET, FCE, CAE, CPE, OA, CRM, SCRM,
 ERP, CMS, SCM, BOSS, MIS, DB, ODM,
@@ -1107,10 +1108,10 @@ RACI, VUCA
 All in - 全力以赴，投入所有资源和精力
 A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 QR码 - 快速响应矩阵图码，二维码
-UP主 - 网络视频平台的内容创作者
+UP主 - 网络视频平台的内容创作者，上传者
 
-熵减 - 系统从混乱向有序转变，常用来形容项目优化
-熵增 - 系统从有序向混乱转变，通常表示情况恶化
+熵减 - 系统从混乱向有序转变，形容情况变好
+熵增 - 系统从有序向混乱转变，形容情况恶化
 毕业 - 完成某个阶段或任务，准备进入下一阶段
 极高 - 指数值或水平达到非常高的程度
 奇高 - 异常高的水平或数值，超出常规
@@ -1268,6 +1269,9 @@ UP主 - 网络视频平台的内容创作者
 暗网 - 互联网的隐藏部分，需要特殊软件才能访问，常用于匿名活动和非法活动
 阴谋 - 隐秘地策划，目的通常不正当或有欺骗性
 阳谋 - 明目张胆地策划，目标可能并非正义或道德
+穷举 - 枚举，全面列举所有可能性
+极客 - 性格古怪，痴迷于技术并投入大量时间钻研的人
+反智 - 对知识、理性、科学抱持怀疑或敌视态度
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1358,6 +1362,7 @@ Z世代 - 1995至2010年间出生的人群
 做题家 - 专注于解答学术题目，强调技巧而非深度理解的人
 高可用 - 系统或网络设计确保高度的可操作和可访问性
 安慰剂 - 在临床试验中，无有效成分的假药物，用于对照测试
+建设性 - 积极促进正常发展
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1477,6 +1482,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 管中窥豹 - 比喻因见识有限而对事物了解不全
 色厉内荏 - 外表强硬而内心怯懦的性格
 生化环材 - 生物工程、化学工程技术、环境科学与工程、材料科学与工程四个专业的统称，因就业困难被戏称为“天坑专业”
+专家主义 - 过于信任专家而忽视其他人和因素的倾向
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1512,6 +1518,8 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 忒修斯之船 - 哲学问题，探讨随着全部原始部分更换，物体是否还是同一物体
 吸引力法则 - 正面的思想能吸引正面的事件，负面的思想能吸引负面的事件
 六边形战士 - 能在多个领域或技能上表现出色的人
+观察者偏见 - 观察者偏差，观察者的立场、动机、期望和先前经验等因素妨碍了观察的客观性
+二极管思维 - 非黑即白、非此即彼的极端思维，容易煽动情绪制造对立，不利于解决问题
 
 半结构化数据 - 结构松散的数据，如XML、JSON文件
 非结构化数据 - 无固定格式的数据，如视频、图片、文本
@@ -1586,7 +1594,8 @@ OFC - Of Course 当然
 LMK - Let Me Know 让我知道
 KK - Okay 好的
 CU - See You 再见
-GG - Good Game 好游戏
+CP - Coupling 配对
+GG - Good Game 好游戏，认输
 AFK - Away From Keyboard 离开键盘
 TTYL - Talk To You Later 稍后聊
 BYOB - Bring Your Own Bottle 自带酒水
@@ -3065,6 +3074,9 @@ UP主 - Uploader / Content creator
 暗网 - Dark web
 阴谋 - Conspiracy
 阳谋 - Overt plot
+穷举 - Exhaustive
+极客 - Geek
+反智 - Anti-intellectualism
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -3155,6 +3167,7 @@ Z世代 - Generation Z
 做题家 - Test taker
 高可用 - High availability
 安慰剂 - Placebo
+建设性 - Constructive
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -3274,6 +3287,7 @@ T型人才 - T-shaped talent
 管中窥豹 - Glimpse of the leopard
 色厉内荏 - Bravado
 生化环材 - Biological, Chemical, Environmental, Materials
+专家主义 - Expertism
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
@@ -3309,6 +3323,8 @@ T型人才 - T-shaped talent
 忒修斯之船 - Ship of Theseus
 吸引力法则 - Law of attraction
 六边形战士 - Versatile
+观察者偏见 - Observer bias
+二极管思维 - Black-and-white thinking
 
 半结构化数据 - Semi-structured data
 非结构化数据 - Unstructured data
