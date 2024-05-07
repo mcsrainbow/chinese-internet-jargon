@@ -1913,7 +1913,7 @@ KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
 ET - Extra Terrestrial 外星人
 UFO - Unidentified Flying Object 不明飞行物
 RIP - Rest In Peace 安息 / Routing Information Protocol 路由信息协议
-ICU - Intensive Care Unit 重症监护室
+ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
 PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
