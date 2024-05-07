@@ -313,7 +313,7 @@ HR, HRBP, HRM, HRD, HCM, PM, PMO,
 PO, OD, CEO, COO, CFO, CTO, CIO,
 CMO, CSO, CDO, VP, SVP, AVP, GM, BM,
 MD, AD, OP, TS, JD, BS, MS, MBA,
-DBA, PhD, SCI, IEEE, GRE, GMAT,
+DBA, PhD, SCI, IEEE, SAT, GRE, GMAT,
 IELTS, TOEFL, BEC, CET, KET, PET,
 FCE, CAE, CPE, OA, CRM, SCRM, ERP,
 CMS, SCM, BOSS, MIS, DB, ODM, OEM,
@@ -1765,6 +1765,7 @@ DBA - Doctor of Business Administration 工商管理博士 / Database Administra
 PhD - Doctor of Philosophy 哲学博士，研究博士
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
 IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
+SAT - Scholastic Assessment Test 学术能力评估测试，美国高考
 GRE - Graduate Record Examinations 美国研究生入学考试
 GMAT - Graduate Management Admission Test 美国研究生管理科入学考试
 IELTS - International English Language Testing System 国际英语语言测试系统，雅思
