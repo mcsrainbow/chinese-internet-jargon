@@ -204,7 +204,8 @@ All in, A/B测试, QR码, UP主, 大V
 涅槃, 对冲, 范式, 内耗, 刻奇, 冥想, 群氓,
 脱敏, 寇仇, 暗网, 阴谋, 阳谋, 穷举, 极客,
 反智, 冗余, 意识, 盘点, 轮转, 先贤, 悖论,
-诡辩, 溢价, 公知, 湿件, 规训, 解构, 解构
+诡辩, 溢价, 公知, 湿件, 规训, 解构, 扰动,
+回滚
 
 交学费, 智商税, 阶段性, 有深度, 原动力,
 三板斧, 利益点, 不可逆, 向量化, 微服务,
@@ -1301,6 +1302,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 规训 - 通过训练和规则使个体行为符合预期
 解构 - 批判性思考方法，分析和拆解文本、观念的内在假设和结构
 扰动 - 在系统或模型中引入的小变化，可能导致大的效应
+回滚 - 撤销之前的操作或数据变更，恢复到先前状态
 
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -3160,6 +3162,7 @@ UP主 - Uploader / Content creator
 规训 - Discipline
 解构 - Deconstruction
 扰动 - Perturbation
+回滚 - Rollback
 
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
