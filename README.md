@@ -3457,6 +3457,7 @@ T型人才 - T-shaped talent
 
 官僚资本主义 - Bureaucratic capitalism
 机械唯物主义 - Mechanistic Materialism
+劣币驱逐良币 - Gresham's Law / Bad money drives out good
 半结构化数据 - Semi-structured data
 非结构化数据 - Unstructured data
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
@@ -3465,7 +3466,6 @@ T型人才 - T-shaped talent
 利维坦最优解 - Leviathan solution
 雷普利症候群 - Ripley syndrome
 不确定性原理 - Uncertainty principle
-劣币驱逐良币 - Gresham's Law / Bad money drives out good
 
 斯德哥尔摩症候 - Stockholm syndrome
 奥卡姆剃刀定律 - Occam's razor
