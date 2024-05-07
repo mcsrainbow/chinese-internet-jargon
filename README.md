@@ -334,21 +334,21 @@ VISA, IMF, ISBN, IOC, PLA, NBA, CBA,
 ICAC, FBI, CIA, FDA, OPEC, BBC, CNN,
 VOA, EMS, PICC, BOC, ICBC, CBC, CMB,
 BOCOM, DNA, KFC, ET, UFO, RIP, ICU,
-SARS, AIDS, KOC, KOL, CBD, BAT, BBA,
-B2C, C2C, B2B, O2O, P2P, DTC, OTA,
-RSS, SEM, SEO, ASO, RTB, SMO, SOHO,
-SNS, FAQ, UTC, GMT, TMT, ACG, VCR,
-CD, VCD, DVD, AV, TV, MTV, MV, VOD,
-DJ, FM, IM, USB, OCR, POS, RGB, QA,
-QC, LCD, LED, IBM, ASCII, UTF, GBK,
-SD, HD, HDMI, VR, AR, MR, LBS, LAN,
-WLAN, WAN, HTTP, HTTPS, IoT, BI, BE,
-BA, AI, AIGC, AGI, LLM, GPT, NLP,
-CPU, GPU, DPU, DNS, VPN, SSL, TLS,
-MFA, OTP, CA, DV, OV, EV, DLP, GDPR,
-SOA, NFC, ABS, SUV, LRT, WLTP, CLTP,
-NOA, FSD, SSO, ISO, API, CCTV, IaaS,
-PaaS, SaaS, KISS
+SARS, AIDS, PTSD, KOC, KOL, CBD,
+BAT, BBA, B2C, C2C, B2B, O2O, P2P,
+DTC, OTA, RSS, SEM, SEO, ASO, RTB,
+SMO, SOHO, SNS, FAQ, UTC, GMT, TMT,
+ACG, VCR, CD, VCD, DVD, AV, TV, MTV,
+MV, VOD, DJ, FM, IM, USB, OCR, POS,
+RGB, QA, QC, LCD, LED, IBM, ASCII,
+UTF, GBK, SD, HD, HDMI, VR, AR, MR,
+LBS, LAN, WLAN, WAN, HTTP, HTTPS,
+IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
+GPT, NLP, CPU, GPU, DPU, DNS, VPN,
+SSL, TLS, MFA, OTP, CA, DV, OV, EV,
+DLP, GDPR, SOA, NFC, ABS, SUV, LRT,
+WLTP, CLTP, NOA, FSD, SSO, ISO, API,
+CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1913,6 +1913,7 @@ RIP - Rest In Peace 安息 / Routing Information Protocol 路由信息协议
 ICU - Intensive Care Unit 重症监护室
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
+PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
