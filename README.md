@@ -347,8 +347,8 @@ IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
 GPT, NLP, CPU, GPU, DPU, DNS, VPN,
 SSL, TLS, MFA, OTP, CA, DV, OV, EV,
 DLP, GDPR, SOA, NFC, ABS, SUV, LRT,
-WLTP, CLTP, NOA, FSD, SSO, ISO, API,
-CCTV, IaaS, PaaS, SaaS, KISS
+CRH, WLTP, CLTP, NOA, FSD, SSO, ISO,
+API, CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1994,7 +1994,7 @@ SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
 MFA - Multifactor Authentication 多因素身份验证
 OTP - One-Time Password 一次性密码
-CA - Certificate Authority 证书授权
+CA - Certificate Authority 证书授权 / Air China 中国国际航空
 DV - Digital Video 数码摄像机 / Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
 EV - Extended Validation 扩展验证(证书) / Electric Vehicle 电动汽车
@@ -2005,6 +2005,7 @@ NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还�
 ABS - Anti-lock Braking System 防抱死制动系统
 SUV - Sport Utility Vehicle 运动型多用途车
 LRT - Light Rail Transit 轻轨运输系统
+CRH - China Railway High-speed 中国铁路高速列车
 WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
 CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
 NOA - Navigate on Autopilot 领航辅助驾驶
