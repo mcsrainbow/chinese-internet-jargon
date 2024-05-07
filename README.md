@@ -1584,7 +1584,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 非普适范式 - 不追求普遍适用，特定条件下有效的方法或理论
 他人即地狱 - 在人际交往中，他人的存在和评价让自己感受到痛苦和挑战
 何不食肉糜 - 用以指责上层对下层苦难的无知和漠视
-社会管道化 - 社会功能和活动通过固定渠道形式化
+社会管道化 - 社会结构、组织、流程高度规范化和标准化，限制了社会成员的行为、机会、选择和发展方向
 
 官僚资本主义 - 资本主义变体，政府官僚控制经济资源
 机械唯物主义 - 用古典力学解释一切自然现象的观点，把物质的物理、化学和生物的性质都归结为力学的性质
@@ -3443,7 +3443,7 @@ T型人才 - T-shaped talent
 非普适范式 - Non-universal paradigm
 他人即地狱 - Hell is other people
 何不食肉糜 - Let them eat cake
-社会管道化 - Channelization of social functions
+社会管道化 - Social pipelining
 
 官僚资本主义 - Bureaucratic capitalism
 机械唯物主义 - Mechanistic Materialism
