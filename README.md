@@ -179,7 +179,7 @@
 
 ```markdown
 985工程, 211工程, All in, A/B测试,
-QR码, UP主, 大V
+QR码, UP主, 大V, 主R
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -1133,6 +1133,7 @@ A/B测试 - 对照实验，比较两个版本以确定哪个效果更好
 QR码 - 快速响应矩阵图码，二维码
 UP主 - 网络视频平台的内容创作者，上传者
 大V - 在网络平台上获得个人认证标识(Verified)，粉丝众多且具有影响力的用户
+主R - 实际执行和做事的人，RACI责任分配矩阵中的Responsible
 
 熵减 - 系统从混乱向有序转变，情况变好
 熵增 - 系统从有序向混乱转变，情况恶化
@@ -3017,6 +3018,7 @@ A/B测试 - A/B testing
 QR码 - Quick response code
 UP主 - Uploader / Content creator
 大V - Verified influencer
+主R - Responsible (R of RACI chart)
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
