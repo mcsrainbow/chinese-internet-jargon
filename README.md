@@ -207,7 +207,7 @@ QR码, UP主, 大V, 主R
 反智, 冗余, 意识, 盘点, 轮转, 先贤, 悖论,
 诡辩, 溢价, 公知, 湿件, 规训, 解构, 扰动,
 回滚, 临期, 人月, 极致, 塔尖, 轻奢, 重奢,
-顶奢, 维密, 主义
+顶奢, 维密, 主义, 白牌, 内包, 总包
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -333,20 +333,20 @@ NPV, PBP, DAU, WAU, MAU, PV, UV,
 ARPU, ARPPU, GMV, CLV, CVR, PCU,
 GPM, DSR, SKU, GDP, CPI, WTO, WHO,
 GPS, CNMD, UN, EU, PRC, CCP, USA,
-CN, CHN, HK, US, USD, UK, JP, KR,
-RUS, SGP, RMB, CNY, VISA, IMF, ISBN,
-IOC, PLA, NBA, CBA, ICAC, FBI, CIA,
-FDA, OPEC, BBC, CNN, VOA, EMS, PICC,
-BOC, ICBC, CBC, CMB, BOCOM, DNA,
-KFC, ET, UFO, RIP, ICU, SARS, AIDS,
-PTSD, KOC, KOL, CBD, BAT, BBA, B2C,
-C2C, B2B, O2O, P2P, DTC, OTA, RSS,
-SEM, SEO, ASO, RTB, SMO, SOHO, SNS,
-FAQ, UTC, GMT, TMT, ACG, VCR, CD,
-VCD, DVD, AV, TV, MTV, MV, VOD, DJ,
-FM, IM, USB, OCR, POS, RGB, QA, QC,
-LCD, LED, IBM, ASCII, UTF, GBK, SD,
-HD, HDMI, VR, AR, MR, LBS, LAN,
+CN, CHN, HK, US, USD, USDT, UK, JP,
+KR, RUS, SGP, RMB, CNY, VISA, IMF,
+ISBN, IOC, PLA, NBA, CBA, ICAC, FBI,
+CIA, FDA, OPEC, BBC, CNN, VOA, EMS,
+PICC, BOC, ICBC, CBC, CMB, BOCOM,
+DNA, KFC, ET, UFO, RIP, ICU, SARS,
+AIDS, PTSD, KOC, KOL, CBD, BAT, BBA,
+B2C, C2C, B2B, O2O, P2P, DTC, OTA,
+RSS, SEM, SEO, ASO, RTB, SMO, SOHO,
+SNS, FAQ, UTC, GMT, TMT, ACG, VCR,
+CD, VCD, DVD, AV, TV, MTV, MV, VOD,
+DJ, FM, IM, USB, OCR, POS, RGB, QA,
+QC, LCD, LED, IBM, ASCII, UTF, GBK,
+SD, HD, HDMI, VR, AR, MR, LBS, LAN,
 WLAN, WAN, HTTP, HTTPS, IoT, BI, BE,
 BA, AI, AIGC, AGI, LLM, GPT, NLP,
 CPU, GPU, DPU, DNS, VPN, SSL, TLS,
@@ -1217,7 +1217,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 众包 - 利用群体智慧解决问题或创造
 海淘 - 在线购买国外商品
 标品 - 标准化生产的产品
-集美 - 集中美丽，集中美好的“姐妹”
+集美 - 美丽、美好的姐妹
 景别 - 摄影中景物与镜头的距离
 运镜 - 摄影中移动摄像机的技巧
 构图 - 在视觉艺术中安排元素的方法
@@ -1320,6 +1320,9 @@ UP主 - 网络视频平台的内容创作者，上传者
 顶奢 - 提供尊贵体验和服务的顶级奢侈品
 维密 - 维多利亚的秘密，美国女性内衣与睡衣品牌，主办年度维多利亚的秘密时尚秀
 主义 - 围绕某领域的理论、信仰或方法论
+白牌 - 无品牌产品或品牌认知度较低的产品
+内包 - 公司内部承接项目或任务，不交给外部供应商
+总包 - 在工程和建筑行业中的总承包商 / 个人总年收入，包括工资、奖金、股票、福利等
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -1904,6 +1907,7 @@ CHN - China 中国
 HK - Hong Kong 香港
 US - United States 美国
 USD - United States Dollar 美元
+USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
 UK - United Kingdom 英国
 JP - Japan 日本
 KR - South Korea 韩国
@@ -3205,6 +3209,9 @@ UP主 - Uploader / Content creator
 顶奢 - Top luxury
 维密 - Victoria's secret
 主义 - Ideology / -ism (suffix)
+白牌 - White label
+内包 - In-house / In-sourcing
+总包 - General contractor / Total annual compensation
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
