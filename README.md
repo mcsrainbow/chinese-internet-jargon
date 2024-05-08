@@ -318,19 +318,19 @@ PO, OD, CEO, COO, CFO, CTO, CIO,
 CMO, CSO, CDO, VP, SVP, AVP, GM, BM,
 MD, AD, OP, TS, JD, BS, MS, MBA,
 DBA, PhD, SCI, IEEE, SAT, GRE, GMAT,
-IELTS, TOEFL, BEC, CET, KET, PET,
-FCE, CAE, CPE, OA, CRM, SCRM, ERP,
-CMS, SCM, BOSS, MIS, DB, ODM, OEM,
-OBM, POV, ETC, COD, Q&A, R&D, C&B,
-PIN, PII, KA, CS, OU, VC, PE, IPO,
-BIZ, BU, BG, BP, BD, RFP, HQ, UI,
-GUI, CLI, UE, UX, UED, VI, VIP, IDE,
-NPC, NTR, RPG, RPA, MBTI, VS, PR,
-IP, MCN, UGC, PGC, OGC, CPC, CPM,
-CPA, CPS, CPT, CAC, TCO, CTR, SMB,
-WOM, KPI, OKR, ROI, ROE, APR, IRR,
-NPV, PBP, DAU, WAU, MAU, PV, UV,
-ARPU, ARPPU, GMV, CLV, CVR, PCU,
+GPA, IELTS, TOEFL, BEC, CET, KET,
+PET, FCE, CAE, CPE, OA, CRM, SCRM,
+ERP, CMS, SCM, BOSS, MIS, DB, ODM,
+OEM, OBM, POV, ETC, COD, Q&A, R&D,
+C&B, PIN, PII, KA, CS, OU, VC, PE,
+IPO, BIZ, BU, BG, BP, BD, RFP, HQ,
+UI, GUI, CLI, UE, UX, UED, VI, VIP,
+IDE, NPC, NTR, RPG, RPA, MBTI, VS,
+PR, IP, MCN, UGC, PGC, OGC, CPC,
+CPM, CPA, CPS, CPT, CAC, TCO, CTR,
+SMB, WOM, KPI, OKR, ROI, ROE, APR,
+IRR, NPV, PBP, DAU, WAU, MAU, PV,
+UV, ARPU, ARPPU, GMV, CLV, CVR, PCU,
 GPM, DSR, SKU, GDP, CPI, WTO, WHO,
 GPS, CNMD, UN, EU, PRC, CCP, USA,
 CN, CHN, HK, US, USD, USDT, UK, JP,
@@ -1796,6 +1796,7 @@ IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师�
 SAT - Scholastic Assessment Test 学术能力评估测试，美国高考
 GRE - Graduate Record Examinations 美国研究生入学考试
 GMAT - Graduate Management Admission Test 美国研究生管理科入学考试
+GPA - Grade Point Average 平均成绩点数，绩点
 IELTS - International English Language Testing System 国际英语语言测试系统，雅思
 TOEFL - Test of English as a Foreign Language 对非英语国家留学生的英语考试，托福
 BEC - Cambridge Business English Certificate 剑桥商务英语证书
