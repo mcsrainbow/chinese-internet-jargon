@@ -2016,7 +2016,7 @@ QC - Quality Control 质量控制
 LCD - Liquid Crystal Display 液晶显示
 LED - Light Emitting Diode 发光二极管
 IBM - International Business Machines Corporation 国际商业机器公司
-ASCII  - American Standard Code for Information Interchange 美国信息交换标准代码
+ASCII - American Standard Code for Information Interchange 美国信息交换标准代码
 UTF - Unicode Transformation Format 针对Unicode的可变长度字符编码
 GBK - Guójiā Biāozhǔn Kuòzhǎn 国家标准扩展(拼音)
 SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480
