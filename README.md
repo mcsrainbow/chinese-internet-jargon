@@ -382,17 +382,17 @@ BYOD, FS, REST, EOF, EOT, JIT, SOAP,
 ISP, ICP, CDN, BGP, TLD, FQDN, WWW,
 W3C, TTL, DHCP, NTP, PPP, SNMP, OSI,
 RFC, CIDR, GC, RPC, TCP, UDP, FTP,
-TFTP, ICMP, SMTP, IMAP, ARP, SYN,
-ACK, XML, HTML, XHTML, CSS, SDN,
-SDWAN, VM, KVM, ARQ, RDS, IAM, ACL,
-DAC, MAC, RBAC, ABAC, IDS, IPS, CVE,
-SASE, SIEM, SOC, UEM, UIM, UTM, MAM,
-MDM, DOM, BOM, CORS, XSS, CSRF, ORM,
-ADT, IPC, DoS, DDoS, OOP, JWT, LVS,
-WAF, WBS, RBS, OBS, RAM, BRD, MRD,
-PRD, SOP, TDD, BDD, DDD, SDLC, CAP,
-ACID, BASE, MVC, MVVM, PoC, MVP,
-SOW, SME, CCB, COE, SDC, PDCA,
+TFTP, ICMP, SMTP, IMAP, VRRP, ARP,
+SYN, ACK, XML, HTML, XHTML, CSS,
+SDN, SDWAN, VM, KVM, ARQ, RDS, IAM,
+ACL, DAC, MAC, RBAC, ABAC, IDS, IPS,
+CVE, SASE, SIEM, SOC, UEM, UIM, UTM,
+MAM, MDM, DOM, BOM, CORS, XSS, CSRF,
+ORM, ADT, IPC, DoS, DDoS, OOP, JWT,
+LVS, WAF, WBS, RBS, OBS, RAM, BRD,
+MRD, PRD, SOP, TDD, BDD, DDD, SDLC,
+CAP, ACID, BASE, MVC, MVVM, PoC,
+MVP, SOW, SME, CCB, COE, SDC, PDCA,
 SIPOC, SWOT, RACI, VUCA
 ```
 
@@ -2220,6 +2220,7 @@ TFTP - Trivial File Transfer Protocol 简单文件传输协议
 ICMP - Internet Control Message Protocol 互联网控制消息协议
 SMTP - Simple Mail Transfer Protocol 简单邮件传输协议
 IMAP - Internet Message Access Protocol 互联网邮件访问协议
+VRRP - Virtual Router Redundancy Protocol 虚拟路由冗余协议，用于提高网络可靠性的容错协议
 ARP - Address Resolution Protocol 地址解析协议
 SYN - Synchronize Sequence Numbers 同步序列编号
 ACK - Acknowledgement 确认
