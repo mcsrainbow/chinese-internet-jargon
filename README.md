@@ -207,7 +207,7 @@ QR码, UP主, 大V, 主R
 反智, 冗余, 意识, 盘点, 轮转, 先贤, 悖论,
 诡辩, 溢价, 公知, 湿件, 规训, 解构, 扰动,
 回滚, 临期, 人月, 极致, 塔尖, 轻奢, 重奢,
-顶奢, 维密, 主义, 白牌, 内包, 总包
+顶奢, 维密, 主义, 白牌, 内包, 总包, 推演
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -267,7 +267,7 @@ QR码, UP主, 大V, 主R
 资本主义, 共产主义, 社会主义, 自由主义,
 民族主义, 社会博弈, 文以载道, 道法术器,
 点线面体, 魑魅魍魉, 绥靖政策, 情绪价值,
-炉边谈话
+炉边谈话, 零日漏洞
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -385,7 +385,7 @@ RFC, CIDR, GC, RPC, TCP, UDP, FTP,
 TFTP, ICMP, SMTP, IMAP, ARP, SYN,
 ACK, XML, HTML, XHTML, CSS, SDN,
 SDWAN, VM, KVM, ARQ, RDS, IAM, ACL,
-DAC, MAC, RBAC, ABAC, IDS, IPS,
+DAC, MAC, RBAC, ABAC, IDS, IPS, CVE,
 SASE, SIEM, SOC, UEM, UIM, UTM, MAM,
 MDM, DOM, BOM, CORS, XSS, CSRF, ORM,
 ADT, IPC, DoS, DDoS, OOP, JWT, LVS,
@@ -1323,6 +1323,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 白牌 - 无品牌产品或品牌认知度较低的产品
 内包 - 公司内部承接项目或任务，不交给外部供应商
 总包 - 在工程和建筑行业中的总承包商 / 个人总年收入，包括工资、奖金、股票、福利等
+推演 - 在既定情境下逻辑推理未来可能发生的事件
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -1571,6 +1572,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 绥靖政策 - 姑息主义，对侵略势力作出政治或物质让步，以牺牲别国为代价，暂时避免军事冲突的外交政策
 情绪价值 - 唤起情绪反应，如快乐、幸福、信任、安慰、激励或安全感等情感体验
 炉边谈话 - 在轻松温馨的非正式环境中进行的对话，增进理解和联系
+零日漏洞 - 零时差漏洞，尚未公开且没有补丁的安全漏洞
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1734,7 +1736,7 @@ TM - Trademark 商标
 MAX - Maximum 最大
 MIN - Minimum 最小
 IMP - Import 进口，导入
-EXP - Export 出口，导出 / Experience 经验
+EXP - Export 出口，导出 / Experience 经验 / Exploit 漏洞利用
 AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
 LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
 SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
@@ -2238,6 +2240,7 @@ RBAC - Role-Based Access Control 基于角色的访问控制
 ABAC - Attribute-Based Access Control 基于属性的访问控制策略
 IDS - Intrusion Detection System 入侵检测系统
 IPS - Intrusion Prevention System 入侵防御系统
+CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞披露
 SASE - Secure Access Service Edge 安全访问服务边缘，零信任内网访问方案
 SIEM - Security Information And Event Management 安全信息和事件管理
 SOC - System on Chip 系统级芯片 / Security Operation Center 安全运营中心
@@ -3218,6 +3221,7 @@ UP主 - Uploader / Content creator
 白牌 - White label
 内包 - In-house / In-sourcing
 总包 - General contractor / Total annual compensation
+推演 - Deductive reasoning
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
@@ -3466,6 +3470,7 @@ T型人才 - T-shaped talent
 绥靖政策 - Appeasement
 情绪价值 - Emotional value
 炉边谈话 - Fireside chats
+零日漏洞 - Zero-day vulnerability
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
