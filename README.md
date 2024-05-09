@@ -311,22 +311,22 @@ TEL, APP, WiFi, AC, AP, WAP, PPT,
 PDF, CAD, WPS, BBS, YOLO, FOMO, PUA,
 ABC, LGBT, LGBTQ+, AM, BC, TM, MAX,
 MIN, IMP, EXP, AJ, LV, SOS, No., G,
-KG, T, Y, M, KM, CM, MM, L, ML, W,
-KW, H, S, HP, KB, MB, GB, TB, PB,
-HR, HRBP, HRM, HRD, HCM, PM, PMO,
-PO, OD, CEO, COO, CFO, CTO, CIO,
-CMO, CSO, CDO, VP, SVP, AVP, GM, BM,
-MD, AD, OP, TS, JD, BS, MS, MBA,
-DBA, PhD, SCI, IEEE, SAT, GRE, GMAT,
-GPA, IELTS, TOEFL, BEC, CET, KET,
-PET, FCE, CAE, CPE, OA, CRM, SCRM,
-ERP, CMS, SCM, BOSS, MIS, DB, ODM,
-OEM, OBM, POV, ETC, COD, Q&A, R&D,
-C&B, PIN, PII, KA, CS, OU, VC, PE,
-IPO, BIZ, BU, BG, BP, BD, RFP, HQ,
-UI, GUI, CLI, UE, UX, UED, VI, VIP,
-IDE, NPC, NTR, RPG, RPA, MBTI, VS,
-PR, IP, MCN, UGC, PGC, OGC, CPC,
+K, KG, T, Y, M, KM, CM, MM, L, ML,
+W, KW, H, S, HP, B, KB, MB, GB, TB,
+PB, HR, HRBP, HRM, HRD, HCM, PM,
+PMO, PO, OD, CEO, COO, CFO, CTO,
+CIO, CMO, CSO, CDO, VP, SVP, AVP,
+GM, BM, MD, AD, OP, TS, JD, BS, MS,
+MBA, DBA, PhD, SCI, IEEE, SAT, GRE,
+GMAT, GPA, IELTS, TOEFL, BEC, CET,
+KET, PET, FCE, CAE, CPE, OA, CRM,
+SCRM, ERP, CMS, SCM, BOSS, MIS, DB,
+ODM, OEM, OBM, POV, ETC, COD, Q&A,
+R&D, C&B, PIN, PII, KA, CS, OU, VC,
+PE, IPO, BIZ, BU, BG, BP, BD, RFP,
+HQ, UI, GUI, CLI, UE, UX, UED, VI,
+VIP, IDE, NPC, NTR, RPG, RPA, MBTI,
+VS, PR, IP, MCN, UGC, PGC, OGC, CPC,
 CPM, CPA, CPS, CPT, CAC, TCO, CTR,
 SMB, WOM, KPI, OKR, ROI, ROE, APR,
 IRR, NPV, PBP, DAU, WAU, MAU, PV,
@@ -351,9 +351,9 @@ WLAN, WAN, HTTP, HTTPS, IoT, BI, BE,
 BA, AI, AIGC, AGI, LLM, GPT, NLP,
 CPU, GPU, DPU, DNS, VPN, SSL, TLS,
 MFA, OTP, CA, DV, OV, EV, DLP, GDPR,
-SOA, NFC, ABS, SUV, LRT, CRH, WLTP,
-CLTP, NOA, FSD, SSO, ISO, API, CCTV,
-IaaS, PaaS, SaaS, KISS
+SOA, NFC, ABS, SUV, MPV, LRT, CRH,
+WLTP, CLTP, NOA, FSD, SSO, ISO, API,
+CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -374,26 +374,26 @@ NAT, GW, GFW, XP, MD5, BLOB, SAST,
 DAST, VPC, VGA, DP, DVI, OSPF, CGI,
 CNNIC, AES, DES, SHA, SAML, OAUTH,
 LDAP, PAM, PKI, RAID, PCI, PCIE,
-CMOS, BIOS, FDDI, FIFO, HDD, SATA,
-SCSI, SAS, SSD, UPS, HBA, HUB, NC,
-NFS, NAS, ETL, ELT, WS, WSS, KV, UA,
-JS, PHP, ROM, BYOK, BYOD, FS, REST,
-EOF, EOT, JIT, SOAP, ISP, ICP, CDN,
-BGP, TLD, FQDN, WWW, W3C, TTL, DHCP,
-NTP, PPP, SNMP, OSI, RFC, CIDR, GC,
-RPC, TCP, UDP, FTP, TFTP, ICMP,
-SMTP, IMAP, ARP, SYN, ACK, XML,
-HTML, XHTML, CSS, SDN, SDWAN, VM,
-KVM, ARQ, RDS, IAM, ACL, DAC, MAC,
-RBAC, ABAC, IDS, IPS, SASE, SIEM,
-SOC, UEM, UIM, UTM, MAM, MDM, DOM,
-BOM, CORS, XSS, CSRF, ORM, ADT, IPC,
-DoS, DDoS, OOP, JWT, LVS, WAF, WBS,
-RBS, OBS, RAM, BRD, MRD, PRD, SOP,
-TDD, BDD, DDD, SDLC, CAP, ACID,
-BASE, MVC, MVVM, PoC, MVP, SOW, SME,
-CCB, COE, SDC, PDCA, SIPOC, SWOT,
-RACI, VUCA
+CMOS, BIOS, FDDI, FIFO, FILO, LIFO,
+HDD, SATA, SCSI, SAS, SSD, UPS, HBA,
+HUB, NC, NFS, NAS, ETL, ELT, WS,
+WSS, KV, UA, JS, PHP, ROM, BYOK,
+BYOD, FS, REST, EOF, EOT, JIT, SOAP,
+ISP, ICP, CDN, BGP, TLD, FQDN, WWW,
+W3C, TTL, DHCP, NTP, PPP, SNMP, OSI,
+RFC, CIDR, GC, RPC, TCP, UDP, FTP,
+TFTP, ICMP, SMTP, IMAP, ARP, SYN,
+ACK, XML, HTML, XHTML, CSS, SDN,
+SDWAN, VM, KVM, ARQ, RDS, IAM, ACL,
+DAC, MAC, RBAC, ABAC, IDS, IPS,
+SASE, SIEM, SOC, UEM, UIM, UTM, MAM,
+MDM, DOM, BOM, CORS, XSS, CSRF, ORM,
+ADT, IPC, DoS, DDoS, OOP, JWT, LVS,
+WAF, WBS, RBS, OBS, RAM, BRD, MRD,
+PRD, SOP, TDD, BDD, DDD, SDLC, CAP,
+ACID, BASE, MVC, MVVM, PoC, MVP,
+SOW, SME, CCB, COE, SDC, PDCA,
+SIPOC, SWOT, RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1740,11 +1740,12 @@ LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
 SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
 No. - Number 号码
 G - Gram 克
-KG - Kilogram 公斤
+K - Kilo 千
+KG - Kilogram 千克，公斤
 T - Ton 吨
 Y - Year 年
-M - Meter 米 / Minute 分钟 / Month 月
-KM - Kilometer 公里 / Knowledge Management 知识管理
+M - Meter 米 / Minute 分钟 / Month 月 / Million 百万
+KM - Kilometer 千米，公里 / Knowledge Management 知识管理
 CM - Centimeter 厘米
 MM - Millimeter 毫米
 L - Liter 升
@@ -1754,6 +1755,7 @@ KW - Kilowatt 千瓦
 H - Hour 小时
 S - Second 秒
 HP - Health Points 生命值，血量 / Horse Power 马力 / Hewlett-Packard Company 惠普公司
+B - Byte 字节 / Bit 比特 / Billion 十亿
 KB - Kilobyte 千字节，1 KB = 1024 Bytes / Knowledge Base 知识库
 MB - Megabyte 兆字节，1 MB = 1024 KB
 GB - Gigabyte 吉字节，1 GB = 1024 MB
@@ -2037,6 +2039,7 @@ SOA - Service-Oriented Architecture 面向服务的架构
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
 ABS - Anti-lock Braking System 防抱死制动系统
 SUV - Sport Utility Vehicle 运动型多用途车
+MPV - Multi-Purpose Vehicle 多功能休旅车
 LRT - Light Rail Transit 轻轨运输系统
 CRH - China Railway High-speed 中国铁路高速列车
 WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
@@ -2158,7 +2161,9 @@ PCIE - Peripheral Component Interconnect Express 高速外设部件互连
 CMOS - Complementary Metal-Oxide-Semiconductor 互补金属氧化物半导体
 BIOS - Basic Input/Output System 基本输入输出系统
 FDDI - Fiber Distributed Data Interface 光纤分布式数据接口
-FIFO - First In, First Out 先进先出
+FIFO - First In First Out 先进先出，队列的特征
+FILO - First In Last Out 先进后出，栈的特征
+LIFO - Last In First Out 后进先出，栈的特征
 HDD - Hard Disk Drive 硬盘驱动器
 SATA - Serial Advanced Technology Attachment 串行高级技术附件，串行接口
 SCSI - Small Computer System Interface 小型计算机系统接口
@@ -2224,7 +2229,7 @@ SDWAN - Software Defined Wide Area Network 软件定义广域网
 VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
 ARQ - Automatic Repeat-reQuest 自动重传请求
-RDS - Relational Database Service 关系型数据库
+RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
 ACL - Access Control Lists 访问控制列表
 DAC - Discretionary Access Control 自主访问控制
