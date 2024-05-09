@@ -351,9 +351,10 @@ WLAN, WAN, HTTP, HTTPS, IoT, BI, BE,
 BA, AI, AIGC, AGI, LLM, GPT, NLP,
 CPU, GPU, DPU, DNS, VPN, SSL, TLS,
 MFA, OTP, CA, DV, OV, EV, DLP, GDPR,
-SOA, NFC, ABS, SUV, MPV, LRT, CRH,
-WLTP, CLTP, NOA, FSD, SSO, ISO, API,
-CCTV, IaaS, PaaS, SaaS, KISS
+PIA, DPIA, BIA, SOA, NFC, ABS, SUV,
+MPV, LRT, CRH, WLTP, CLTP, NOA, FSD,
+SSO, ISO, API, CCTV, IaaS, PaaS,
+SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -2038,6 +2039,9 @@ OV - Organization Validation 组织验证(证书)
 EV - Extended Validation 扩展验证(证书) / Electric Vehicle 电动汽车
 DLP - Data Loss Prevention 数据泄漏防护
 GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
+PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
+DPIA - Data Protection Impact Assessment 数据保护影响评估，评估是否符合GDPR
+BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
 SOA - Service-Oriented Architecture 面向服务的架构
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
 ABS - Anti-lock Braking System 防抱死制动系统
