@@ -1958,9 +1958,9 @@ ICBC - Industrial and Commercial Bank of China 中国工商银行
 CBC - China Construction Bank 中国建设银行
 CMB - China Merchants Bank 中国招商银行
 BOCOM - Bank of Communications 交通银行
-CMCC - China Mobile Communications Corporation 中国移动通信集团公司，中国移动
-CUCC - China Unicom Communications Corporation 中国联合网络通信集团有限公司，中国联通
-CTCC - China Telecom Communications Corporation 中国电信集团有限公司，中国电信
+CMCC - China Mobile Communications Corporation 中国移动通信集团，中国移动
+CUCC - China Unicom Communications Corporation 中国联合网络通信集团，中国联通
+CTCC - China Telecom Communications Corporation 中国电信集团，中国电信
 DNA - DeoxyriboNucleic Acid 脱氧核糖核酸
 KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
 ET - Extra Terrestrial 外星人
