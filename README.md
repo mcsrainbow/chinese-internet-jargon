@@ -362,7 +362,7 @@ CCTV, IaaS, PaaS, SaaS, KISS
 OLAP, OLTP, BFS, DFS, NN, DM, DL,
 DW, YOLO, EDA, DevOps, CI/CD, I/O,
 SWE, SRE, DEV, SIT, UAT, PRE, PROD,
-CaC, IaC, SLA, SLO, SLI, MTBF,
+OSS, CaC, IaC, SLA, SLO, SLI, MTBF,
 MTTR, MTTA, MTTF, ITIL, ITSM, APM,
 DR, CDP, BCP, RTO, RPO, NOC, NIC,
 MQ, QPS, TPS, QoS, RCA, SQL, CURD,
@@ -1816,7 +1816,7 @@ SCRM - Social Customer Relationship Management 社会化客户关系管理
 ERP - Enterprise Resource Planning 企业资源计划，整合企业流程的营运管理软件
 CMS - Content Management System 内容管理系统
 SCM - Supply Chain Management 供应链管理
-BOSS - Business Operating Support System 业务运营支撑系统
+BOSS - Business Operation Support System 业务运营支持系统
 MIS - Management Information Systems 管理信息系统
 DB - Database 数据库
 ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
@@ -1869,6 +1869,7 @@ CPM - Cost Per Mille 千次展示成本
 CPA - Cost Per Action 每行动成本 / Certified Public Accountant 注册会计师
 CPS - Cost Per Sales 按销售额付费
 CPT - Cost Per Time 按时长付费 / Curricular Practical Training 课程实习训练，美国政府给予的临时就业许可
+OSS - Open-Source Software 开源软件 / Object Storage Service 对象存储服务 / Operation Support Systems 运营支持系统
 CAC - Customer Acquisition Cost 获取单个顾客的成本
 TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
