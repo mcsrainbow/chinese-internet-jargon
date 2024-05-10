@@ -230,7 +230,7 @@ QR码, UP主, 大V, 主R
 做市商, 语料库, 做题家, 高可用, 安慰剂,
 建设性, 奶头乐, 苦行僧, 婆罗门, 过拟合,
 仁波切, 千禧年, 人效比, 正反馈, 负反馈,
-现象学
+现象学, 艾滋病, 渐冻症
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -268,7 +268,7 @@ QR码, UP主, 大V, 主R
 资本主义, 共产主义, 社会主义, 自由主义,
 民族主义, 社会博弈, 文以载道, 道法术器,
 点线面体, 魑魅魍魉, 绥靖政策, 情绪价值,
-炉边谈话, 零日漏洞
+炉边谈话, 零日漏洞, 实体清单, 帕金森病
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -284,7 +284,7 @@ QR码, UP主, 大V, 主R
 六边形战士, 观察者偏见, 二极管思维,
 庞加莱回归, 无政府主义, 历史局限性,
 非普适范式, 他人即地狱, 何不食肉糜,
-社会管道化
+社会管道化, 阿茲海默症
 
 官僚资本主义, 机械唯物主义, 辩证唯物主义,
 劣币驱逐良币, 半结构化数据, 非结构化数据,
@@ -342,21 +342,21 @@ NBA, CBA, ICAC, FBI, CIA, FDA, OPEC,
 BBC, CNN, VOA, EMS, PICC, BOC, ICBC,
 CBC, CMB, BOCOM, CMCC, CUCC, CTCC,
 DNA, KFC, ET, UFO, RIP, ICU, SARS,
-AIDS, PTSD, KOC, KOL, CBD, BAT, BBA,
-B2C, C2C, B2B, O2O, P2P, DTC, OTA,
-RSS, SEM, SEO, ASO, RTB, SMO, SOHO,
-SNS, FAQ, UTC, GMT, TMT, ACG, VCR,
-CD, VCD, DVD, AV, TV, MTV, MV, VOD,
-DJ, FM, IM, USB, OCR, POS, RGB, QA,
-QC, LCD, LED, IBM, ASCII, UTF, GBK,
-SD, HD, HDMI, VGA, VR, AR, MR, LBS,
-LAN, WLAN, WAN, WPA, WPAN, HTTP,
-HTTPS, IoT, BI, BE, BA, AI, AIGC,
-AGI, LLM, GPT, NLP, CPU, GPU, DPU,
-DNS, VPN, SSL, TLS, MFA, OTP, CA,
-DV, OV, EV, DLP, GDPR, PIA, DPIA,
-BIA, SOA, NFC, HA, ABS, SUV, MPV,
-LRT, CRH, WLTP, CLTP, NOA, FSD,
+AIDS, HIV, PTSD, KOC, KOL, CBD, BAT,
+BBA, B2C, C2C, B2B, O2O, P2P, DTC,
+OTA, RSS, SEM, SEO, ASO, RTB, SMO,
+SOHO, SNS, FAQ, UTC, GMT, TMT, ACG,
+VCR, CD, VCD, DVD, AV, TV, MTV, MV,
+VOD, DJ, FM, IM, USB, OCR, POS, RGB,
+QA, QC, LCD, LED, IBM, ASCII, UTF,
+GBK, SD, HD, HDMI, VGA, VR, AR, MR,
+LBS, LAN, WLAN, WAN, WPA, WPAN,
+HTTP, HTTPS, IoT, BI, BE, BA, AI,
+AIGC, AGI, LLM, GPT, NLP, CPU, GPU,
+DPU, DNS, VPN, SSL, TLS, MFA, OTP,
+CA, DV, OV, EV, DLP, GDPR, PIA,
+DPIA, BIA, SOA, NFC, HA, ABS, SUV,
+MPV, LRT, CRH, WLTP, CLTP, NOA, FSD,
 SSO, ISO, API, CCTV, IaaS, PaaS,
 SaaS, KISS
 ```
@@ -1441,6 +1441,8 @@ Z世代 - 1995至2010年间出生的人群
 正反馈 - 输出增强输入，使过程或结果持续放大或增强
 负反馈 - 输出抑制输入，使过程或结果趋于稳定或减少
 现象学 - 哲学流派，强调事物本身，认为意识总是指向某些事物，每一表象都是某物的表象，意识也是某物的意识
+艾滋病 - 获得性免疫缺陷综合征
+渐冻症 - 肌萎缩性脊髓侧索硬化症
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1588,6 +1590,8 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 情绪价值 - 唤起情绪反应，如快乐、幸福、信任、安慰、激励或安全感等情感体验
 炉边谈话 - 在轻松温馨的非正式环境中进行的对话，增进理解和联系
 零日漏洞 - 零时差漏洞，尚未公开且没有补丁的安全漏洞
+实体清单 - 美国为维护其国家安全利益而设立的贸易黑名单
+帕金森病 - 运动减弱僵直综合征，遗传性慢性运动神经退化疾病
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1632,6 +1636,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 他人即地狱 - 在人际交往中，他人的存在和评价让自己感受到痛苦和挑战
 何不食肉糜 - 用以指责上层对下层苦难的无知和漠视
 社会管道化 - 社会结构、组织、流程高度规范化和标准化，限制了社会成员的行为、机会、选择和发展方向
+阿茲海默症 - 阿尔茨海默病，老年痴呆，大脑和脊髓细胞神经元退化疾病
 
 官僚资本主义 - 资本主义变体，政府官僚控制经济资源
 机械唯物主义 - 用古典力学解释一切自然现象的观点，把物质的物理、化学和生物的性质都归结为力学的性质
@@ -1976,6 +1981,7 @@ RIP - Rest In Peace 安息 / Routing Information Protocol 路由信息协议
 ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
+HIV - Human Immunodeficiency Virus 人类免疫缺陷病毒，艾滋病毒
 PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
@@ -3406,6 +3412,8 @@ Z世代 - Generation Z
 正反馈 - Positive feedback
 负反馈 - Negative feedback
 现象学 - Phenomenology
+艾滋病 - Acquired immunodeficiency syndrome
+渐冻症 - Amyotrophic lateral sclerosis
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -3553,6 +3561,8 @@ T型人才 - T-shaped talent
 情绪价值 - Emotional value
 炉边谈话 - Fireside chats
 零日漏洞 - Zero-day vulnerability
+实体清单 - Entity list
+帕金森病 - Parkinson's disease
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
@@ -3597,6 +3607,7 @@ T型人才 - T-shaped talent
 他人即地狱 - Hell is other people
 何不食肉糜 - Let them eat cake
 社会管道化 - Social pipelining
+阿茲海默症 - Alzheimer's disease
 
 官僚资本主义 - Bureaucratic capitalism
 机械唯物主义 - Mechanistic materialism
