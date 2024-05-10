@@ -207,7 +207,8 @@ QR码, UP主, 大V, 主R
 反智, 冗余, 意识, 盘点, 轮转, 先贤, 悖论,
 诡辩, 溢价, 公知, 湿件, 规训, 解构, 扰动,
 回滚, 临期, 人月, 极致, 塔尖, 轻奢, 重奢,
-顶奢, 维密, 主义, 白牌, 内包, 总包, 推演
+顶奢, 维密, 主义, 白牌, 内包, 总包, 推演,
+军阀, 财阀, 学阀
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -306,47 +307,47 @@ LOL, PS, MTD, QTD, YTD, WIP, DDL,
 NP, THX, IDK, IDC, BFF, XOXO, OIC,
 JK, ILY, OFC, LMK, KK, CU, CP, GG,
 AFK, TTYL, BYOB, NVM, BBQ, PK, WLB,
-AOE, WC, ID, IC, IQ, EQ, CV, FPV,
-IT, PC, OS, TEL, APP, WiFi, AC, AP,
-WAP, PPT, PDF, CAD, WPS, BBS, YOLO,
-FOMO, PUA, ABC, LGBT, LGBTQ+, AM,
-BC, TM, MAX, MIN, IMP, EXP, AJ, LV,
-SOS, No., G, K, KG, T, Y, M, KM, CM,
-MM, L, ML, W, KW, H, S, HP, B, KB,
-MB, GB, TB, PB, HR, HRBP, HRM, HRD,
-HCM, PM, PMO, PO, OD, CEO, COO, CFO,
-CTO, CIO, CMO, CSO, CDO, VP, SVP,
-AVP, GM, BM, MD, AD, OP, TS, JD, BS,
-MS, MBA, DBA, PhD, SCI, IEEE, IETF,
-IEC, IANA, SAT, GRE, GMAT, GPA,
-IELTS, TOEFL, BEC, CET, KET, PET,
-FCE, CAE, CPE, OA, CRM, SCRM, ERP,
-CMS, SCM, BOSS, MIS, DB, ODM, OEM,
-OBM, POV, ETC, COD, Q&A, R&D, C&B,
-PIN, PII, KA, CS, OU, VC, PE, IPO,
-BIZ, BU, BG, BP, BD, RFP, HQ, UI,
-GUI, CLI, UE, UX, UED, VI, VIP, IDE,
-NPC, NTR, RPG, RPA, MBTI, VS, PR,
-IP, MCN, UGC, PGC, OGC, CPC, CPM,
-CPA, CPS, CPT, OSS, CAC, TCO, CTR,
-SMB, WOM, KPI, OKR, ROI, ROE, APR,
-IRR, NPV, PBP, DAU, WAU, MAU, PV,
-UV, ARPU, ARPPU, GMV, CLV, CVR, PCU,
-GPM, DSR, SKU, GDP, CPI, WTO, WHO,
-GPS, CNMD, UN, EU, PRC, CCP, USA,
-CN, CHN, HK, US, USD, USDT, UK, JP,
-KR, RUS, SGP, RMB, CNY, VISA, IMF,
-ISBN, IOC, PLA, NBA, CBA, ICAC, FBI,
-CIA, FDA, OPEC, BBC, CNN, VOA, EMS,
-PICC, BOC, ICBC, CBC, CMB, BOCOM,
-CMCC, CUCC, CTCC, DNA, KFC, ET, UFO,
-RIP, ICU, SARS, AIDS, PTSD, KOC,
-KOL, CBD, BAT, BBA, B2C, C2C, B2B,
-O2O, P2P, DTC, OTA, RSS, SEM, SEO,
-ASO, RTB, SMO, SOHO, SNS, FAQ, UTC,
-GMT, TMT, ACG, VCR, CD, VCD, DVD,
-AV, TV, MTV, MV, VOD, DJ, FM, IM,
-USB, OCR, POS, RGB, QA, QC, LCD,
+SPA, AOE, WC, ID, IC, IQ, EQ, CV,
+FPV, IT, PC, OS, TEL, APP, WiFi, AC,
+AP, WAP, PPT, PDF, CAD, WPS, BBS,
+YOLO, FOMO, PUA, ABC, LGBT, LGBTQ+,
+AM, BC, TM, MAX, MIN, IMP, EXP, AJ,
+LV, SOS, No., G, K, KG, T, Y, M, KM,
+CM, MM, L, ML, W, KW, H, S, HP, B,
+KB, MB, GB, TB, PB, HR, HRBP, HRM,
+HRD, HCM, PM, PMO, PO, OD, CEO, COO,
+CFO, CTO, CIO, CMO, CSO, CDO, VP,
+SVP, AVP, GM, BM, MD, AD, OP, TS,
+JD, BS, MS, MBA, DBA, PhD, SCI,
+IEEE, IETF, IEC, IANA, SAT, GRE,
+GMAT, GPA, IELTS, TOEFL, BEC, CET,
+KET, PET, FCE, CAE, CPE, OA, CRM,
+SCRM, ERP, CMS, SCM, BOSS, MIS, DB,
+ODM, OEM, OBM, POV, ETC, COD, Q&A,
+R&D, C&B, PIN, PII, KA, CS, OU, VC,
+PE, IPO, BIZ, BU, BG, BP, BD, RFP,
+HQ, UI, GUI, CLI, UE, UX, UED, VI,
+VIP, IDE, NPC, NTR, RPG, RPA, MBTI,
+VS, PR, IP, MCN, UGC, PGC, OGC, CPC,
+CPM, CPA, CPS, CPT, OSS, CAC, TCO,
+CTR, SMB, WOM, KPI, OKR, ROI, ROE,
+APR, IRR, NPV, PBP, DAU, WAU, MAU,
+PV, UV, ARPU, ARPPU, GMV, CLV, CVR,
+PCU, GPM, DSR, SKU, GDP, CPI, WTO,
+WHO, GPS, CNMD, UN, EU, PRC, CCP,
+USA, CN, CHN, HK, US, USD, USDT, UK,
+JP, KR, RUS, SGP, RMB, CNY, VISA,
+IMF, ISBN, IOC, PLA, NBA, CBA, ICAC,
+FBI, CIA, FDA, OPEC, BBC, CNN, VOA,
+EMS, PICC, BOC, ICBC, CBC, CMB,
+BOCOM, CMCC, CUCC, CTCC, DNA, KFC,
+ET, UFO, RIP, ICU, SARS, AIDS, PTSD,
+KOC, KOL, CBD, BAT, BBA, B2C, C2C,
+B2B, O2O, P2P, DTC, OTA, RSS, SEM,
+SEO, ASO, RTB, SMO, SOHO, SNS, FAQ,
+UTC, GMT, TMT, ACG, VCR, CD, VCD,
+DVD, AV, TV, MTV, MV, VOD, DJ, FM,
+IM, USB, OCR, POS, RGB, QA, QC, LCD,
 LED, IBM, ASCII, UTF, GBK, SD, HD,
 HDMI, VGA, VR, AR, MR, LBS, LAN,
 WLAN, WAN, WPA, WPAN, HTTP, HTTPS,
@@ -380,8 +381,8 @@ SHA, SAML, OAUTH, LDAP, PAM, PKI,
 RAID, PCI, PCIE, CMOS, BMC, BIOS,
 IPMI, UEFI, FDDI, FIFO, FILO, LIFO,
 HDD, SATA, SCSI, SAS, SSD, UPS, HBA,
-HUB, NC, NFS, NAS, ETL, ELT, WS,
-WSS, KV, UA, JS, PHP, ASP, ROM,
+HUB, NC, NFS, NAS, ETL, ELT, AJAX,
+WS, WSS, KV, UA, JS, PHP, ASP, ROM,
 BYOK, BYOD, FS, REST, EOF, EOT, JIT,
 SOAP, ISP, ICP, CDN, BGP, TLD, FQDN,
 WWW, W3C, TTL, DHCP, NTP, PPP, SNMP,
@@ -1085,7 +1086,7 @@ RACI, VUCA
 ### 五字词汇解释
 
 ```markdown
-精神SPA - 通过某些活动或体验来放松心灵、减轻精神压力
+精神SPA - 通过活动或体验来放松心灵、减轻精神压力
 大数据分析 - 利用先进的分析技术从大规模数据集中提取信息和洞察
 大数据杀熟 - 利用用户数据分析，对老用户采取更高价格或不利条件的行为
 延迟满足感 - 推迟立即满足欲望以获得更大的未来回报的心理感受
@@ -1334,6 +1335,9 @@ UP主 - 网络视频平台的内容创作者，上传者
 内包 - 公司内部承接项目或任务，不交给外部供应商
 总包 - 在工程和建筑行业中的总承包商 / 个人总年收入，包括工资、奖金、股票、福利等
 推演 - 在既定情境下逻辑推理未来可能发生的事件
+军阀 - 在政治动荡时期通过军事力量控制地区的统治者
+财阀 - 具有巨大财富和政治、经济影响力的家族或集团
+学阀 - 在学术界具有较大影响力和控制力的个人或集体
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -1714,6 +1718,7 @@ NVM - Never Mind 没关系，别在意
 BBQ - Barbecue 烧烤
 PK - Player Kill 玩家间对战
 WLB - Work-Life Balance 工作生活平衡，劳逸平衡
+SPA - Solus Par Aqua 健康在水中，水疗美容养生
 AOE - Area of Effect 范围性作用
 WC - Water Closet 抽水马桶，厕所
 ID - Identity Document 身份证件 / Identifier 标识符
@@ -2211,6 +2216,7 @@ NFS - Network File System 网络文件系统
 NAS - Network Attached Storage 网络附接存储
 ETL - Extract, Transform, Load 提取，转换，加载，在加载前对数据进行清洗加工
 ELT - Extract, Load, Transform 提取，加载，转换，对加载后的数据进行处理
+AJAX - Asynchronous JavaScript and XML 异步JavaScript与XML技术
 WS - WebSocket 浏览器与服务器之间的双向网络通信协议
 WSS - WebSocket Secure 双向网络通信协议的安全版本
 KV - Key-Value 键值对，NoSQL数据存储模式，每个数据值都对应一个唯一的键
@@ -3292,6 +3298,9 @@ UP主 - Uploader / Content creator
 内包 - In-house / In-sourcing
 总包 - General contractor / Total annual compensation
 推演 - Deductive reasoning
+军阀 - Warlord
+财阀 - Plutocrat
+学阀 - Scholar-tyrant
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
