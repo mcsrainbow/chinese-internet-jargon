@@ -1718,7 +1718,7 @@ NVM - Never Mind 没关系，别在意
 BBQ - Barbecue 烧烤
 PK - Player Kill 玩家间对战
 WLB - Work-Life Balance 工作生活平衡，劳逸平衡
-SPA - Solus Par Aqua 健康在水中，水疗美容养生
+SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 AOE - Area of Effect 范围性作用
 WC - Water Closet 抽水马桶，厕所
 ID - Identity Document 身份证件 / Identifier 标识符
@@ -1940,7 +1940,7 @@ KR - South Korea 韩国
 RUS - Russia 俄罗斯
 SGP - Singapore 新加坡
 RMB - Rénmínbì 人民币(拼音)
-CNY - Rénmínbì 人民币(拼音)
+CNY - Chinese Yuan 人民币
 VISA - Visa 签证
 IMF - International Monetary Fund 国际货币基金组织
 ISBN - International Standard Book Number 国际标准书号
