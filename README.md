@@ -230,7 +230,8 @@ QR码, UP主, 大V, 主R
 做市商, 语料库, 做题家, 高可用, 安慰剂,
 建设性, 奶头乐, 苦行僧, 婆罗门, 过拟合,
 仁波切, 千禧年, 人效比, 正反馈, 负反馈,
-现象学, 艾滋病, 渐冻症
+现象学, 艾滋病, 渐冻症, 令牌化, 假名化,
+匿名化
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -268,7 +269,8 @@ QR码, UP主, 大V, 主R
 资本主义, 共产主义, 社会主义, 自由主义,
 民族主义, 社会博弈, 文以载道, 道法术器,
 点线面体, 魑魅魍魉, 绥靖政策, 情绪价值,
-炉边谈话, 零日漏洞, 实体清单, 帕金森病
+炉边谈话, 零日漏洞, 实体清单, 帕金森病,
+数据脱敏
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -1443,6 +1445,9 @@ Z世代 - 1995至2010年间出生的人群
 现象学 - 哲学流派，强调事物本身，认为意识总是指向某些事物，每一表象都是某物的表象，意识也是某物的意识
 艾滋病 - 获得性免疫缺陷综合征
 渐冻症 - 肌萎缩性脊髓侧索硬化症
+令牌化 - 将可读的数据替换为难以理解的符号
+假名化 - 用假标识符替换数据中的直接标识符，隐藏数据主体的真实身份
+匿名化 - 移除或修改能识别个体的数据信息，使数据主体无法被追踪或识别
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1592,6 +1597,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 零日漏洞 - 零时差漏洞，尚未公开且没有补丁的安全漏洞
 实体清单 - 美国为维护其国家安全利益而设立的贸易黑名单
 帕金森病 - 运动减弱僵直综合征，遗传性慢性运动神经退化疾病
+数据脱敏 - 数据漂白，修改或隐藏敏感和隐私数据，并确保数据仍然可用于分析
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1957,7 +1963,7 @@ NBA - National Basketball Association 美国篮球协会
 CBA - Chinese Basketball Association 中国篮球协会
 ICAC - Independent Commission Against Corruption 廉政公署
 FBI - Federal Bureau of Investigation 美国联邦调查局
-CIA - Central Intelligence Agency 美国中央情报局
+CIA - Central Intelligence Agency 美国中央情报局 / Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
 OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
 BBC - British Broadcasting Corporation 英国广播公司
@@ -3414,6 +3420,9 @@ Z世代 - Generation Z
 现象学 - Phenomenology
 艾滋病 - Acquired immunodeficiency syndrome
 渐冻症 - Amyotrophic lateral sclerosis
+令牌化 - Tokenization
+假名化 - Pseudonymization
+匿名化 - Anonymization
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -3563,6 +3572,7 @@ T型人才 - T-shaped talent
 零日漏洞 - Zero-day vulnerability
 实体清单 - Entity list
 帕金森病 - Parkinson's disease
+数据脱敏 - Data masking
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
