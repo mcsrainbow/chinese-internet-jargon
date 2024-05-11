@@ -231,7 +231,7 @@ QR码, UP主, 大V, 主R
 建设性, 奶头乐, 苦行僧, 婆罗门, 过拟合,
 仁波切, 千禧年, 人效比, 正反馈, 负反馈,
 现象学, 艾滋病, 渐冻症, 令牌化, 假名化,
-匿名化
+匿名化, 幂等性
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -286,12 +286,14 @@ QR码, UP主, 大V, 主R
 六边形战士, 观察者偏见, 二极管思维,
 庞加莱回归, 无政府主义, 历史局限性,
 非普适范式, 他人即地狱, 何不食肉糜,
-社会管道化, 阿茲海默症
+社会管道化, 阿茲海默症, 伯努利原理,
+鲁珀特之泪
 
 官僚资本主义, 机械唯物主义, 辩证唯物主义,
 劣币驱逐良币, 半结构化数据, 非结构化数据,
 天时地利人和, 品牌记忆系统, 心智切割利器,
-利维坦最优解, 雷普利症候群, 不确定性原理
+利维坦最优解, 雷普利症候群, 不确定性原理,
+蔡加尼克效应
 
 斯德哥尔摩症候, 奥卡姆剃刀定律,
 邓宁克鲁格效应, 相关不蕴涵因果
@@ -330,7 +332,7 @@ ETC, COD, Q&A, R&D, C&B, PIN, PII,
 KA, CS, OU, VC, PE, IPO, BIZ, BU,
 BG, BP, BD, RFP, HQ, UI, GUI, CLI,
 UE, UX, UED, VI, VIP, IDE, NPC, NTR,
-RPG, RPA, MBTI, VS, PR, IP, MCN,
+RPG, RPA, MBTI, VS, PR, GR, IP, MCN,
 UGC, PGC, OGC, CPC, CPM, CPA, CPS,
 CPT, OSS, CAC, TCO, CTR, SMB, WOM,
 KPI, OKR, ROI, ROE, APR, IRR, NPV,
@@ -339,28 +341,28 @@ ARPPU, GMV, CLV, CVR, PCU, GPM, DSR,
 SKU, GDP, CPI, WTO, WHO, GPS, CNMD,
 UN, EU, PRC, CCP, USA, CN, CHN, HK,
 US, USD, USDT, UK, JP, KR, RUS, SGP,
-RMB, CNY, VISA, IMF, ISBN, IOC, PLA,
-NBA, CBA, ICAC, FBI, CIA, FDA, OPEC,
-BBC, CNN, VOA, EMS, PICC, BOC, ICBC,
-CBC, CMB, BOCOM, CMCC, CUCC, CTCC,
-DNA, KFC, ET, UFO, RIP, ICU, SARS,
-AIDS, HIV, PTSD, KOC, KOL, CBD, BAT,
-BBA, B2C, C2C, B2B, O2O, P2P, DTC,
-OTA, RSS, SEM, SEO, ASO, RTB, SMO,
-SOHO, SNS, FAQ, UTC, GMT, TMT, ACG,
-VCR, CD, VCD, DVD, AV, TV, MTV, MV,
-VOD, DJ, FM, IM, USB, OCR, POS, RGB,
-QA, QC, LCD, LED, IBM, ASCII, UTF,
-GBK, SD, HD, HDMI, VGA, VR, AR, MR,
-LBS, LAN, WLAN, WAN, WPA, WPAN,
-HTTP, HTTPS, IoT, BI, BE, BA, AI,
-AIGC, AGI, LLM, GPT, NLP, CPU, GPU,
-DPU, DNS, VPN, SSL, TLS, MFA, OTP,
-CA, DV, OV, EV, DLP, GDPR, PIA,
-DPIA, BIA, SOA, NFC, HA, ABS, SUV,
-MPV, LRT, CRH, WLTP, CLTP, NOA, FSD,
-SSO, ISO, API, CCTV, IaaS, PaaS,
-SaaS, KISS
+RMB, CNY, VISA, NGO, NPO, IMF, ISBN,
+IOC, PLA, NBA, CBA, ICAC, FBI, CIA,
+FDA, OPEC, BBC, CNN, VOA, EMS, PICC,
+BOC, ICBC, CBC, CMB, BOCOM, CMCC,
+CUCC, CTCC, DNA, KFC, ET, UFO, RIP,
+ICU, SARS, AIDS, HIV, PTSD, KOC,
+KOL, CBD, BAT, BBA, B2C, C2C, B2B,
+O2O, P2P, DTC, OTA, RSS, SEM, SEO,
+ASO, RTB, SMO, SOHO, SNS, FAQ, UTC,
+GMT, TMT, ACG, VCR, CD, VCD, DVD,
+AV, TV, MTV, MV, VOD, DJ, FM, IM,
+USB, OCR, POS, RGB, QA, QC, LCD,
+LED, IBM, ASCII, UTF, GBK, SD, HD,
+HDMI, VGA, VR, AR, MR, LBS, LAN,
+WLAN, WAN, WPA, WPAN, HTTP, HTTPS,
+IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
+GPT, NLP, CPU, GPU, DPU, DNS, VPN,
+SSL, TLS, MFA, OTP, CA, DV, OV, EV,
+DLP, GDPR, PIA, DPIA, BIA, SOA, NFC,
+HA, ABS, SUV, MPV, LRT, CRH, WLTP,
+CLTP, NOA, FSD, SSO, ISO, API, CCTV,
+IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1452,6 +1454,7 @@ Z世代 - 1995至2010年间出生的人群
 令牌化 - 将可读的数据替换为难以理解的符号
 假名化 - 用假标识符替换数据中的直接标识符，隐藏数据主体的真实身份
 匿名化 - 移除或修改能识别个体的数据信息，使数据主体无法被追踪或识别
+幂等性 - 任意多次执行所产生的影响均与一次执行的影响相同，不用担心重复执行会对系统造成改变
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1647,6 +1650,8 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 何不食肉糜 - 用以指责上层对下层苦难的无知和漠视
 社会管道化 - 社会结构、组织、流程高度规范化和标准化，限制了社会成员的行为、机会、选择和发展方向
 阿茲海默症 - 阿尔茨海默病，老年痴呆，大脑和脊髓细胞神经元退化疾病
+伯努利原理 - 液体或气体在流动时，速度增加会使压力降低
+鲁珀特之泪 - 冰水中快速冷却凝结的玻璃液滴，尾部脆弱但头部极为坚硬
 
 官僚资本主义 - 资本主义变体，政府官僚控制经济资源
 机械唯物主义 - 用古典力学解释一切自然现象的观点，把物质的物理、化学和生物的性质都归结为力学的性质
@@ -1660,6 +1665,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 利维坦最优解 - 在组织或社会中寻求最大共同利益的最佳解决方案
 雷普利症候群 - 陷入了提升身份的欲望而不断说谎，以致于最终自己也难以分清究竟是真实还是谎言，而生活在幻想中
 不确定性原理 - 海森堡测不准原理，无法同时精确知晓一个系统的所有属性
+蔡加尼克效应 - 相较于已经完成的工作，人们更容易记得未完成或被打断的工作
 
 斯德哥尔摩症候 - 人质情结，受害者对施暴者产生好感的心理状态
 奥卡姆剃刀定律 - 简约法则，解释问题应尽量保持简单
@@ -1896,6 +1902,7 @@ RPA - Robotic Process Automation 机器人流程自动化
 MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
 VS - Versus 对抗，相对 / Visual Studio (Microsoft IDE)
 PR - Public Relations 公共关系 / Pull Request 合并请求(软件开发)
+GR - Government Relations 政府关系
 IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
 MCN - Multi-Channel Network 多频道网络(网红经纪公司)
 UGC - User Generated Content 用户生成内容
@@ -1959,6 +1966,8 @@ SGP - Singapore 新加坡
 RMB - Rénmínbì 人民币(拼音)
 CNY - Chinese Yuan 人民币
 VISA - Visa 签证
+NGO - Non-Governmental Organization 非政府组织
+NPO - Non-Profit Organization 非营利组织
 IMF - International Monetary Fund 国际货币基金组织
 ISBN - International Standard Book Number 国际标准书号
 IOC - International Olympic Committee 国际奥委会
@@ -3431,6 +3440,7 @@ Z世代 - Generation Z
 令牌化 - Tokenization
 假名化 - Pseudonymization
 匿名化 - Anonymization
+幂等性 - Idempotence
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -3626,6 +3636,8 @@ T型人才 - T-shaped talent
 何不食肉糜 - Let them eat cake
 社会管道化 - Social pipelining
 阿茲海默症 - Alzheimer's disease
+伯努利原理 - Bernoulli's principle
+鲁珀特之泪 - Prince Rupert's drop
 
 官僚资本主义 - Bureaucratic capitalism
 机械唯物主义 - Mechanistic materialism
@@ -3639,6 +3651,7 @@ T型人才 - T-shaped talent
 利维坦最优解 - Leviathan solution
 雷普利症候群 - Ripley syndrome
 不确定性原理 - Uncertainty principle
+蔡加尼克效应 - Zeigarnik effect
 
 斯德哥尔摩症候 - Stockholm syndrome
 奥卡姆剃刀定律 - Occam's razor
