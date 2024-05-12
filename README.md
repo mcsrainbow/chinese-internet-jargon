@@ -209,7 +209,7 @@ QR码, UP主, 大V, 主R
 回滚, 临期, 人月, 极致, 塔尖, 轻奢, 重奢,
 顶奢, 维密, 主义, 白牌, 内包, 总包, 推演,
 军阀, 财阀, 学阀, 定金, 订金, 手办, 公仔,
-函数, 映射, 拟合, 方差
+函数, 映射, 拟合, 方差, 逆商
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -268,13 +268,13 @@ QR码, UP主, 大V, 主R
 混沌系统, 均值回归, 唯物主义, 唯心主义,
 熵增定律, 粉饰太平, 文艺复兴, 封建主义,
 资本主义, 共产主义, 社会主义, 自由主义,
-民族主义, 社会博弈, 文以载道, 道法术器,
-点线面体, 魑魅魍魉, 绥靖政策, 情绪价值,
-炉边谈话, 零日漏洞, 实体清单, 帕金森病,
-数据脱敏, 连续数据, 离散数据, 线性规划,
-曲线拟合, 线性回归, 逻辑回归, 方差分析,
-定序回归, 泊松回归, 生存回归, 神经网络,
-数据挖掘, 数据清洗
+民族主义, 机会主义, 修正主义, 社会博弈,
+文以载道, 道法术器, 点线面体, 魑魅魍魉,
+绥靖政策, 情绪价值, 炉边谈话, 零日漏洞,
+实体清单, 帕金森病, 数据脱敏, 连续数据,
+离散数据, 线性规划, 曲线拟合, 线性回归,
+逻辑回归, 方差分析, 定序回归, 泊松回归,
+生存回归, 神经网络, 数据挖掘, 数据清洗
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -315,8 +315,8 @@ LOL, PS, MTD, QTD, YTD, WIP, DDL,
 NP, THX, IDK, IDC, BFF, XOXO, OIC,
 JK, ILY, OFC, LMK, KK, CU, CP, GG,
 AFK, TTYL, BYOB, NVM, BBQ, PK, WLB,
-SPA, AOE, WC, ID, IC, IQ, EQ, CV,
-FPV, IT, PC, OS, TEL, FAX, APP,
+SPA, AOE, WC, ID, IC, IQ, EQ, AQ,
+CV, FPV, IT, PC, OS, TEL, FAX, APP,
 WiFi, AC, AP, WAP, PPT, PDF, CAD,
 WPS, BBS, YOLO, FOMO, PUA, ABC,
 LGBT, LGBTQ+, AM, BC, TM, MAX, MIN,
@@ -1355,6 +1355,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 映射 - 一个集合到另一个集合的元素间的对应关系，用于数据转换
 拟合 - 通过数学函数逼近数据点，揭示变量间的关系，用于预测未来数据
 方差 - 描述数据点偏离平均值程度的统计量，反映数据的波动大小
+逆商 - 逆境商数，面对挫折、压力，摆脱困境、超越困难的能力
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -1603,6 +1604,8 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 社会主义 - 强调社会平等和国家对生产资料控制的制度
 自由主义 - 政治哲学，强调个体自由、市场自由和法治
 民族主义 - 强调民族共同体和民族利益的意识形态
+机会主义 - 投机主义，以自利为主要驱动力，为了达到目的无视规则的行为策略
+修正主义 - 在国际共产主义运动中以马克思主义为旗号，歪曲、篡改、否定马克思主义基本原则的资产阶级思潮
 社会博弈 - 利用博弈论解释和指导社会行为和决策
 文以载道 - 文学、艺术作品承载和传递道德、哲理或情感
 道法术器 - 道教修行的法则和工具 / 管理的层次结构，使命（道）、规则（法）、技能（术）、工具（器）
@@ -1770,6 +1773,7 @@ ID - Identity Document 身份证件 / Identifier 标识符
 IC - Intelligent Card 智能卡
 IQ - Intelligence Quotient 智力商数，智商
 EQ - Emotional Quotient 情感商数，情商
+AQ - Adversity Quotient 逆境商数，逆商
 CV - Curriculum Vitae 个人履历 / Computer Vision 计算机视觉
 FPV - First-Person View 第一人称视角
 IT - Information Technology 信息技术
@@ -3360,6 +3364,7 @@ UP主 - Uploader / Content creator
 映射 - Mapping
 拟合 - Fitting
 方差 - Variance
+逆商 - Adversity quotient (AQ)
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
@@ -3608,6 +3613,8 @@ T型人才 - T-shaped talent
 社会主义 - Socialism
 自由主义 - Liberalism
 民族主义 - Nationalism
+机会主义 - Opportunism
+修正主义 - Revisionism
 社会博弈 - Social game theory
 文以载道 - Literature is the vehicle of ideas
 道法术器 - Taoist Practice / Hierarchical management
