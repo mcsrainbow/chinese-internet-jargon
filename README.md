@@ -179,7 +179,7 @@
 
 ```markdown
 985工程, 211工程, All in, A/B测试,
-QR码, UP主, 大V, 主R
+QR码, UP主, 大V, 主R, I人, E人
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -209,7 +209,8 @@ QR码, UP主, 大V, 主R
 回滚, 临期, 人月, 极致, 塔尖, 轻奢, 重奢,
 顶奢, 维密, 主义, 白牌, 内包, 总包, 推演,
 军阀, 财阀, 学阀, 定金, 订金, 手办, 公仔,
-函数, 映射, 拟合, 方差, 逆商
+函数, 映射, 拟合, 方差, 逆商, 社牛, 社恐,
+丁克, 团建, 躺平
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -232,7 +233,8 @@ QR码, UP主, 大V, 主R
 建设性, 奶头乐, 苦行僧, 婆罗门, 过拟合,
 仁波切, 千禧年, 人效比, 正反馈, 负反馈,
 现象学, 艾滋病, 渐冻症, 令牌化, 假名化,
-匿名化, 幂等性, 自变量, 因变量
+匿名化, 幂等性, 自变量, 因变量, 钝感力,
+仪式感, 回旋镖, 空窗期
 
 社区团购, 图灵完备, 输送人才, 自我价值,
 消费升级, 消费降级, 借假修真, 信息屏障,
@@ -274,7 +276,10 @@ QR码, UP主, 大V, 主R
 实体清单, 帕金森病, 数据脱敏, 连续数据,
 离散数据, 线性规划, 曲线拟合, 线性回归,
 逻辑回归, 方差分析, 定序回归, 泊松回归,
-生存回归, 神经网络, 数据挖掘, 数据清洗
+生存回归, 神经网络, 数据挖掘, 数据清洗,
+向上社交, 向下兼容, 三观不合, 以偏概全,
+偷换概念, 非黑即白, 诉诸中庸, 迷信权威,
+不当类比, 自相矛盾, 循环论证
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -291,7 +296,7 @@ QR码, UP主, 大V, 主R
 庞加莱回归, 无政府主义, 历史局限性,
 非普适范式, 他人即地狱, 何不食肉糜,
 社会管道化, 阿茲海默症, 伯努利原理,
-鲁珀特之泪
+鲁珀特之泪, 讨好型人格
 
 官僚资本主义, 机械唯物主义, 辩证唯物主义,
 劣币驱逐良币, 半结构化数据, 非结构化数据,
@@ -319,15 +324,15 @@ SPA, AOE, WC, ID, IC, IQ, EQ, AQ,
 CV, FPV, IT, PC, OS, TEL, FAX, APP,
 WiFi, AC, AP, WAP, PPT, PDF, CAD,
 WPS, BBS, YOLO, FOMO, PUA, ABC,
-LGBT, LGBTQ+, AM, BC, TM, MAX, MIN,
-IMP, EXP, AJ, LV, SOS, No., G, K,
-KG, T, Y, M, KM, CM, MM, L, ML, W,
-KW, H, S, HP, B, KB, MB, GB, TB, PB,
-HR, HRBP, HRM, HRD, HCM, PM, PMO,
-PO, OD, CEO, COO, CFO, CTO, CIO,
-CMO, CSO, CDO, VP, SVP, AVP, GM, BM,
-MD, AD, OP, TS, JD, BS, MS, MBA,
-DBA, PhD, SCI, IEEE, IETF, IEC,
+LGBT, LGBTQ+, DINK, AM, BC, TM, MAX,
+MIN, IMP, EXP, AJ, LV, SOS, No., G,
+K, KG, T, Y, M, KM, CM, MM, L, ML,
+W, KW, H, S, HP, B, KB, MB, GB, TB,
+PB, HR, HRBP, HRM, HRD, HCM, PM,
+PMO, PO, OD, CEO, COO, CFO, CTO,
+CIO, CMO, CSO, CDO, VP, SVP, AVP,
+GM, BM, MD, AD, OP, TS, JD, BS, MS,
+MBA, DBA, PhD, SCI, IEEE, IETF, IEC,
 IANA, SAT, GRE, GMAT, GPA, IELTS,
 TOEFL, BEC, CET, KET, PET, FCE, CAE,
 CPE, OA, CRM, SCRM, ERP, CMS, SCM,
@@ -1154,6 +1159,8 @@ QR码 - 快速响应矩阵图码，二维码
 UP主 - 网络视频平台的内容创作者，上传者
 大V - 在网络平台上获得个人认证标识(Verified)，粉丝众多且具有影响力的用户
 主R - 实际执行和做事的人，RACI责任分配矩阵中的Responsible
+I人 - MBTI中的Introversion，偏好内向、喜安静、思考、深度交往的个体
+E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往的个体
 
 熵减 - 系统从混乱向有序转变，情况变好
 熵增 - 系统从有序向混乱转变，情况恶化
@@ -1257,7 +1264,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 异构 - 由多个不同类型元素组成的系统
 高定 - 高端时尚领域的高品质定制产品
 逆天 - 违背常规，超乎寻常 / 违背天意
-能量 - 精神活力、积极情绪、追求目标的动力、面对困难的信心等内在精神状态和对外界活动的积极性
+能量 - 积极情绪、活力、动力、信心等内在精神状态和对外界活动的积极性
 非遗 - 非物质文化遗产，无形文化资产，对地区文化传承有重要意义的行为或表现
 达观 - 介于悲观和乐观之间的第三种态度，顺其自然，随遇而安
 前向 - 未来导向的规划或发展，侧重前瞻性策略
@@ -1356,6 +1363,11 @@ UP主 - 网络视频平台的内容创作者，上传者
 拟合 - 通过数学函数逼近数据点，揭示变量间的关系，用于预测未来数据
 方差 - 描述数据点偏离平均值程度的统计量，反映数据的波动大小
 逆商 - 逆境商数，面对挫折、压力，摆脱困境、超越困难的能力
+社牛 - 在社交场合表现积极和出众的人
+社恐 - 在社交场合感到焦虑和恐慌的人
+丁克 - 有收入和生育能力却选择不生育的人
+团建 - 通过集体活动增强团队凝聚力
+躺平 - 选择最低限度劳动和社会参与的生活态度
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -1405,7 +1417,7 @@ Z世代 - 1995至2010年间出生的人群
 世界观 - 个人或群体对世界本质、结构和存在的理解
 多巴胺 - 神经递质，与快感、奖励和动机调节相关
 内啡肽 - 大脑产生的天然止痛和愉悦化合物
-边界感 - 个人能够识别和尊重自己与他人的界限
+边界感 - 交往有分寸，能识别和尊重自己与他人的界限
 信息差 - 不同个体或团体之间的信息不对称
 暗物质 - 物理学中影响宇宙结构的未知物质
 引力波 - 由于质量加速运动产生的时空波动
@@ -1466,6 +1478,10 @@ Z世代 - 1995至2010年间出生的人群
 幂等性 - 任意多次执行所产生的影响均与一次执行的影响相同，不用担心重复执行会对系统造成改变
 自变量 - 在实验或分析中主动改变的变量
 因变量 - 受自变量影响而变化的结果变量
+钝感力 - 迟钝的力量，对不利信息或情绪影响不过于敏感的能力
+仪式感 - 通过仪式增强生活事件的意义和价值
+回旋镖 - 行动或言论结果最终反作用于自身
+空窗期 - 个体情感恢复和自我评估的过渡期
 
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
@@ -1631,6 +1647,17 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 神经网络 - 由大量相互连接的节点组成的模型，能够学习和模拟复杂的函数关系，模仿人脑的处理模式
 数据挖掘 - 从大规模数据集中提取有用信息
 数据清洗 - 通过修正错误和去除重复项提升数据质量
+向上社交 - 主动与社会经验或地位较高的人群建立联系
+向下兼容 - 能够与社会经验或地位较低的人群有效沟通
+三观不合 - 世界观、人生观、价值观存在分歧
+以偏概全 - 一种逻辑谬误，以部分情况错误推断整体
+偷换概念 - 一种逻辑谬误，在论证中蓄意改变语词的涵义
+非黑即白 - 一种逻辑谬误，假两难推理，只见两端不见中间的极端化思维
+诉诸中庸 - 一种逻辑谬误，认为最佳解、真相必然在两极端之间
+迷信权威 - 一种逻辑谬误，诉诸权威，过度信仰权威意见而忽视自我判断
+不当类比 - 一种逻辑谬误，错误类比，弱类比，使用不恰当的类比推论而得出不恰当的结论
+自相矛盾 - 一种逻辑错误，命题自我冲突或自我推翻而缺乏说服力
+循环论证 - 一种逻辑错误，用来证明论题的论据本身的真实性要依靠论题来证明
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1678,6 +1705,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 阿茲海默症 - 阿尔茨海默病，老年痴呆，大脑和脊髓细胞神经元退化疾病
 伯努利原理 - 液体或气体在流动时，速度增加会使压力降低
 鲁珀特之泪 - 冰水中快速冷却凝结的玻璃液滴，尾部脆弱但头部极为坚硬
+讨好型人格 - 过度追求他人认可和喜爱，忽视自身合理需求的人格特征
 
 官僚资本主义 - 资本主义变体，政府官僚控制经济资源
 机械唯物主义 - 用古典力学解释一切自然现象的观点，把物质的物理、化学和生物的性质都归结为力学的性质
@@ -1797,6 +1825,7 @@ PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打
 ABC - American-Born Chinese 出生在美国的华裔 / Agriculture Bank of China 中国农业银行
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
+DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
 AM - Ante Meridiem 上午(拉丁文)
 BC - Before Christ 公元前
 TM - Trademark 商标
@@ -3163,6 +3192,8 @@ QR码 - Quick response code
 UP主 - Uploader / Content creator
 大V - Verified influencer
 主R - Responsible (R of RACI chart)
+I人 - Introvert
+E人 - Extravert
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
@@ -3365,6 +3396,11 @@ UP主 - Uploader / Content creator
 拟合 - Fitting
 方差 - Variance
 逆商 - Adversity quotient (AQ)
+社牛 - Social butterfly
+社恐 - Social anxiety / Social phobia
+丁克 - Dual Income, No Kids (DINK)
+团建 - Team building
+躺平 - Lie down / Couch potato
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
@@ -3475,6 +3511,10 @@ Z世代 - Generation Z
 幂等性 - Idempotence
 自变量 - Independent variable / Explanatory variable
 因变量 - Dependent Variable / Response variable
+钝感力 - Insensitivity
+仪式感 - Sense of ritual
+回旋镖 - Boomerang effect
+空窗期 - Gap
 
 社区团购 - Community group buying
 图灵完备 - Turing complete
@@ -3640,6 +3680,17 @@ T型人才 - T-shaped talent
 神经网络 - Neural network
 数据挖掘 - Data mining
 数据清洗 - Data cleaning
+向上社交 - Social climbing
+向下兼容 - Social compatibility
+三观不合 - Incompatible views
+以偏概全 - Hasty generalization / Overgeneralization
+偷换概念 - Verbal fallacies / Conceptual equivocation
+非黑即白 - False dilemma / Black-or-white
+诉诸中庸 - Argument to moderation
+迷信权威 - Appeal to authority
+不当类比 - False analogy / Weak analogy
+自相矛盾 - Fallacy of inconsistency / Self-contradiction
+循环论证 - Circular argument / Circular reasoning
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
@@ -3687,6 +3738,7 @@ T型人才 - T-shaped talent
 阿茲海默症 - Alzheimer's disease
 伯努利原理 - Bernoulli's principle
 鲁珀特之泪 - Prince Rupert's drop
+讨好型人格 - People-pleaser
 
 官僚资本主义 - Bureaucratic capitalism
 机械唯物主义 - Mechanistic materialism
