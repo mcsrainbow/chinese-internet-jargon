@@ -3510,7 +3510,7 @@ Z世代 - Generation Z
 匿名化 - Anonymization
 幂等性 - Idempotence
 自变量 - Independent variable / Explanatory variable
-因变量 - Dependent Variable / Response variable
+因变量 - Dependent variable / Response variable
 钝感力 - Insensitivity
 仪式感 - Sense of ritual
 回旋镖 - Boomerang effect
