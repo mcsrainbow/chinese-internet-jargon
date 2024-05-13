@@ -276,7 +276,8 @@ QR码, UP主, 大V, 主R, I人, E人
 实体清单, 帕金森病, 数据脱敏, 连续数据,
 离散数据, 线性规划, 曲线拟合, 线性回归,
 逻辑回归, 方差分析, 定序回归, 泊松回归,
-生存回归, 神经网络, 数据挖掘, 数据清洗,
+生存回归, 神经网络, 机器学习, 深度学习,
+强化学习, 迁移学习, 数据挖掘, 数据清洗,
 向上社交, 向下兼容, 三观不合, 以偏概全,
 偷换概念, 非黑即白, 诉诸中庸, 迷信权威,
 不当类比, 自相矛盾, 循环论证
@@ -284,25 +285,26 @@ QR码, UP主, 大V, 主R, I人, E人
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
 登门槛效应, 恩格尔系数, 渐进式框架,
-非对称加密, 结构化数据, 巴纳姆效应,
-集体潜意识, 普鲁士教育, 建构式教育,
-启发式教育, 传授式教育, 填鸭式教育,
-既得利益者, 习得性无助, 规则类怪谈,
-薛定谔的猫, 宇称不守恒, 替代性成瘾,
-主观能动性, 主人翁意识, 原教旨主义,
-路西法效应, 社会化死亡, 表演型人格,
-贝叶斯概率, 忒修斯之船, 吸引力法则,
-六边形战士, 观察者偏见, 二极管思维,
-庞加莱回归, 无政府主义, 历史局限性,
-非普适范式, 他人即地狱, 何不食肉糜,
-社会管道化, 阿茲海默症, 伯努利原理,
-鲁珀特之泪, 讨好型人格
+非对称加密, 结构化数据, 无监督学习,
+大语言模型, 巴纳姆效应, 集体潜意识,
+普鲁士教育, 建构式教育, 启发式教育,
+传授式教育, 填鸭式教育, 既得利益者,
+习得性无助, 规则类怪谈, 薛定谔的猫,
+宇称不守恒, 替代性成瘾, 主观能动性,
+主人翁意识, 原教旨主义, 路西法效应,
+社会化死亡, 表演型人格, 贝叶斯概率,
+忒修斯之船, 吸引力法则, 六边形战士,
+观察者偏见, 二极管思维, 庞加莱回归,
+无政府主义, 历史局限性, 非普适范式,
+他人即地狱, 何不食肉糜, 社会管道化,
+阿茲海默症, 伯努利原理, 鲁珀特之泪,
+讨好型人格
 
 官僚资本主义, 机械唯物主义, 辩证唯物主义,
 劣币驱逐良币, 半结构化数据, 非结构化数据,
-天时地利人和, 品牌记忆系统, 心智切割利器,
-利维坦最优解, 雷普利症候群, 不确定性原理,
-蔡加尼克效应
+卷积神经网络, 天时地利人和, 品牌记忆系统,
+心智切割利器, 利维坦最优解, 雷普利症候群,
+不确定性原理, 蔡加尼克效应
 
 斯德哥尔摩症候, 奥卡姆剃刀定律,
 邓宁克鲁格效应, 相关不蕴涵因果
@@ -366,12 +368,12 @@ LED, IBM, ASCII, UTF, GBK, SD, HD,
 HDMI, VGA, VR, AR, MR, LBS, LAN,
 WLAN, WAN, WPA, WPAN, HTTP, HTTPS,
 IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
-GPT, NLP, CPU, GPU, DPU, DNS, VPN,
-SSL, TLS, MFA, OTP, CA, DV, OV, EV,
-DLP, GDPR, PIA, DPIA, BIA, SOA, NFC,
-HA, ABS, SUV, MPV, LRT, CRH, WLTP,
-CLTP, NOA, FSD, SSO, ISO, API, CCTV,
-IaaS, PaaS, SaaS, KISS
+GPT, MoE, NLP, CPU, GPU, DPU, DNS,
+VPN, SSL, TLS, MFA, OTP, CA, DV, OV,
+EV, DLP, GDPR, PIA, DPIA, BIA, SOA,
+NFC, HA, ABS, SUV, MPV, LRT, CRH,
+WLTP, CLTP, NOA, FSD, SSO, ISO, API,
+CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1647,6 +1649,10 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 泊松回归 - 分析和预测计数数据，适用于稀有事件的频率分析
 生存回归 - 预测时间至事件发生的分析方法，适用于临床试验
 神经网络 - 由大量相互连接的节点组成的模型，能够学习和模拟复杂的函数关系，模仿人脑的处理模式
+机器学习 - 使用算法和统计模型让计算机从数据中自动学习和改进
+深度学习 - 通过模拟人脑结构的深层神经网络来处理和分析各种复杂数据
+强化学习 - 通过不断的试错和环境反馈，训练算法以最大化其在特定任务中的表现
+迁移学习 - 将已经训练好的模型应用到新的、但相关的任务上，减少额外训练的需要
 数据挖掘 - 从大规模数据集中提取有用信息
 数据清洗 - 通过修正错误和去除重复项提升数据质量
 向上社交 - 主动与社会经验或地位较高的人群建立联系
@@ -1672,6 +1678,8 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 渐进式框架 - 只使用核心功能，仅在需要时增加额外的功能或插件的设计理念
 非对称加密 - 加密和解密使用一对公钥和私钥
 结构化数据 - 严格格式化存储的数据，如数据库中的表数据
+无监督学习 - 在没有标签的数据集中，算法自行识别数据中的模式和结构
+大语言模型 - 基于大规模文本数据训练，能理解和生成自然语言的超大型深度学习模型
 巴纳姆效应 - 人们容易相信广泛且模糊的人格描述暗示，认为这些描述非常符合自己，如占星学、心理测验
 集体潜意识 - 心理学概念，指人类共享的、遗传的记忆和想法
 普鲁士教育 - 强调严格纪律和服从权威
@@ -1715,6 +1723,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 劣币驱逐良币 - 劣币进入流通领域之后，消费者收藏贵金属含量高的良币，导致良币被驱逐出流通，泛指价值不高的东西会把价值较高的东西挤出流通领域
 半结构化数据 - 结构松散的数据，如XML、JSON文件
 非结构化数据 - 无固定格式的数据，如视频、图片、文本
+卷积神经网络 - 深度学习模型，通过卷积层(信号滤波器)处理数据，能有效识别图像中的局部特征
 天时地利人和 - 成功需要时机、地点和人的和谐配合
 品牌记忆系统 - 建立品牌形象和信息在消费者心中的记忆机制
 心智切割利器 - 高效影响或改变人们思考方式的方法或工具
@@ -2133,6 +2142,7 @@ AIGC - AI Generated Content 人工智能生成内容
 AGI - Artificial General Intelligence 通用人工智能
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
+MoE - Mixture of Experts 混合专家模型，让模型以远低于传统密集模型的计算成本进行预训练的机器学习技术
 NLP - Natural Language Processing 自然语言处理
 CPU - Central Processing Unit 中央处理器 / PUA的别称
 GPU - Graphics Processing Unit 图形处理器
@@ -3682,6 +3692,10 @@ T型人才 - T-shaped talent
 泊松回归 - Poisson regression
 生存回归 - Survival regression
 神经网络 - Neural network
+机器学习 - Machine learning
+深度学习 - Deep learning
+强化学习 - Reinforcement learning
+迁移学习 - Transfer learning
 数据挖掘 - Data mining
 数据清洗 - Data cleaning
 向上社交 - Social climbing
@@ -3707,6 +3721,8 @@ T型人才 - T-shaped talent
 渐进式框架 - Progressive framework
 非对称加密 - Asymmetric encryption
 结构化数据 - Structured data
+无监督学习 - Unsupervised learning
+大语言模型 - Large language model
 巴纳姆效应 - Barnum effect
 集体潜意识 - Collective unconscious
 普鲁士教育 - Prussian education
@@ -3750,6 +3766,7 @@ T型人才 - T-shaped talent
 劣币驱逐良币 - Gresham's Law / Bad money drives out good
 半结构化数据 - Semi-structured data
 非结构化数据 - Unstructured data
+卷积神经网络 - Convolutional neural networks
 天时地利人和 - Favorable timing, geographical convenience, and human harmony
 品牌记忆系统 - Brand memory system
 心智切割利器 - Mental model segmentation tool
