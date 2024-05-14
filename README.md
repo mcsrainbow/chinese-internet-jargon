@@ -3805,7 +3805,7 @@ T型人才 - T-shaped talent
 雷普利症候群 - Ripley syndrome
 不确定性原理 - Uncertainty principle
 蔡加尼克效应 - Zeigarnik effect
-会计师事务所 - Accounting firms / Accounting association  / Accounting network
+会计师事务所 - Accounting firms / Accounting association / Accounting network
 
 斯德哥尔摩症候 - Stockholm syndrome
 奥卡姆剃刀定律 - Occam's razor
