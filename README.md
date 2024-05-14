@@ -1879,7 +1879,7 @@ B - Byte 字节 / Bit 比特 / Billion 十亿
 KB - Kilobyte 千字节，1 KB = 1024 Bytes / Knowledge Base 知识库
 MB - Megabyte 兆字节，1 MB = 1024 KB
 GB - Gigabyte 吉字节，1 GB = 1024 MB
-TB - Terabyte 太字节，1 TB = 1024 GB
+TB - Terabyte 太字节，1 TB = 1024 GB / Team Building 团队建设
 PB - Petabyte 拍字节，1 PB = 1024 TB
 HR - Human Resources 人力资源
 HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
