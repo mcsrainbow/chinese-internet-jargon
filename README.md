@@ -314,68 +314,72 @@ QR码, UP主, 大V, 主R, I人, E人
 ### 英文缩写列表(通用)
 
 ```markdown
-DIY, EMO, OMG, OT, FW, CC, BCC,
+DIY, EMO, OMG, PK, OT, FW, CC, BCC,
 RSVP, FYI, FYR, ASAP, BR, ETA, EOD,
 EOW, COB, N/A, TBD, TBC, TBH, JIC,
-BRB, BRT, IMO, RE:, BTW, NB, TYT,
-NRN, WFH, OOO, PTO, AL, ATM, AKA,
-LOL, PS, MTD, QTD, YTD, WIP, DDL,
-NP, THX, IDK, IDC, BFF, XOXO, OIC,
-JK, ILY, OFC, LMK, KK, CU, CP, GG,
-AFK, TTYL, BYOB, NVM, BBQ, PK, WLB,
-SPA, AOE, WC, ID, IC, IQ, EQ, AQ,
-FQ, CV, FPV, IT, PC, OS, TEL, FAX,
-APP, WiFi, AC, AP, WAP, PPT, PDF,
-CAD, WPS, BBS, YOLO, FOMO, PUA, ABC,
-LGBT, LGBTQ+, DINK, AM, BC, TM, MAX,
-MIN, IMP, EXP, AJ, LV, SOS, No., G,
-K, KG, T, Y, M, KM, CM, MM, L, ML,
-W, KW, H, S, HP, B, KB, MB, GB, TB,
-PB, HR, HRBP, HRM, HRD, HCM, PM,
-PMO, PO, OD, CEO, COO, CFO, CTO,
-CIO, CMO, CSO, CDO, VP, SVP, AVP,
-GM, BM, MD, AD, OP, TS, JD, BS, MS,
-MBA, DBA, PhD, SCI, IEEE, IETF, IEC,
-IANA, SAT, GRE, GMAT, GPA, IELTS,
-TOEFL, BEC, CET, KET, PET, FCE, CAE,
-CPE, OA, CRM, SCRM, ERP, CMS, SCM,
-BOSS, MIS, DB, ODM, OEM, OBM, POV,
-ETC, COD, Q&A, R&D, C&B, PIN, PII,
-KA, CS, OU, VC, PE, IPO, BIZ, BU,
-BG, BP, BD, RFP, HQ, UI, GUI, CLI,
-UE, UX, UED, VI, VIP, IDE, NPC, NTR,
-RPG, RPA, MBTI, VS, PR, GR, IP, MCN,
-UGC, PGC, OGC, CPC, CPM, CPA, CPS,
-CPT, OSS, CAC, TCO, CTR, SMB, WOM,
-KPI, OKR, ROI, ROE, APR, IRR, NPV,
-PBP, DAU, WAU, MAU, PV, UV, ARPU,
-ARPPU, GMV, CLV, CVR, PCU, GPM, DSR,
-SKU, GDP, CPI, WTO, WHO, GPS, CNMD,
-UN, EU, PRC, CCP, USA, CN, CHN, HK,
-US, USD, USDT, UK, JP, KR, RUS, SGP,
-RMB, CNY, VISA, NGO, NPO, IMF, ISBN,
-IOC, PLA, NBA, CBA, ICAC, FBI, CIA,
-FDA, OPEC, BBC, CNN, VOA, EMS, PICC,
-BOC, ICBC, CBC, CMB, BOCOM, CMCC,
-CUCC, CTCC, DNA, RNA, DHA, KFC, ET,
-UFO, RIP, ICU, SARS, AIDS, HIV,
-PTSD, KOC, KOL, CBD, BAT, BBA, B2C,
-C2C, B2B, O2O, P2P, DTC, OTA, RSS,
-SEM, SEO, ASO, RTB, SMO, SOHO, SNS,
-FAQ, UTC, GMT, TMT, ACG, VCR, CD,
-VCD, DVD, AV, TV, MTV, MV, VOD, DJ,
-FM, IM, USB, OCR, POS, RGB, QA, QC,
-CRT, LCD, LED, IBM, ASCII, UTF, GBK,
-SD, HD, HDMI, VGA, VR, AR, MR, LBS,
-LAN, WLAN, WAN, WPA, WPAN, HTTP,
-HTTPS, IoT, BI, BE, BA, AI, AIGC,
-AGI, LLM, GPT, MoE, NLP, CPU, GPU,
-DPU, DNS, VPN, SSL, TLS, MFA, OTP,
-CA, DV, OV, EV, DLP, GDPR, PIA,
-DPIA, BIA, SOA, NFC, HA, ABS, SUV,
-MPV, PHEV, LRT, CRH, WLTP, CLTP,
-HUD, AUD, NOA, FSD, SSO, ISO, API,
-CCTV, IaaS, PaaS, SaaS, KISS
+BRB, BRT, IMO, RE:, BTW, OMW, NB,
+TYT, NRN, WFH, OOO, PTO, AL, ATM,
+AKA, LOL, PS, MTD, QTD, YTD, WIP,
+DDL, NP, THX, TKS, THKS, TY, PLS,
+PLZ, IDK, IDC, WTF, STFU, FML, GF,
+BF, BFF, XOXO, OIC, JK, ILY, OFC,
+LMK, KK, CU, CP, GG, AFK, TTYL,
+BYOB, NVM, BBQ, PDA, NSFW, FTW, HBD,
+HMU, SMH, AYCE, BOGO, OCD, TGIF, FB,
+IG, WLB, SPA, AOE, WC, ID, IC, IQ,
+EQ, AQ, FQ, CV, FPV, IT, PC, OS,
+TEL, FAX, APP, WiFi, AC, AP, WAP,
+PPT, PDF, CAD, WPS, BBS, YOLO, FOMO,
+PUA, ABC, LGBT, LGBTQ+, DINK, AM,
+BC, TM, MAX, MIN, IMP, EXP, AJ, LV,
+SOS, No., G, K, KG, T, Y, M, KM, CM,
+MM, L, ML, W, KW, H, S, HP, B, KB,
+MB, GB, TB, PB, HR, HRBP, HRM, HRD,
+HCM, PM, PMO, PO, OD, CEO, COO, CFO,
+CTO, CIO, CMO, CSO, CDO, VP, SVP,
+AVP, GM, BM, MD, AD, OP, TS, JD, BS,
+MS, MBA, DBA, PhD, SCI, IEEE, IETF,
+IEC, IANA, SAT, GRE, GMAT, GPA,
+IELTS, TOEFL, BEC, CET, KET, PET,
+FCE, CAE, CPE, OA, CRM, SCRM, ERP,
+CMS, SCM, BOSS, MIS, DB, ODM, OEM,
+OBM, POV, ETC, COD, Q&A, R&D, C&B,
+PIN, PII, KA, CS, OU, VC, PE, IPO,
+BIZ, BU, BG, BP, BD, RFP, HQ, UI,
+GUI, CLI, UE, UX, UED, VI, VIP, IDE,
+NPC, NTR, RPG, RPA, MBTI, VS, PR,
+GR, IP, MCN, UGC, PGC, OGC, CPC,
+CPM, CPA, CPS, CPT, OSS, CAC, TCO,
+CTR, SMB, WOM, KPI, OKR, ROI, ROE,
+APR, IRR, NPV, PBP, DAU, WAU, MAU,
+PV, UV, ARPU, ARPPU, GMV, CLV, CVR,
+PCU, GPM, DSR, SKU, GDP, CPI, WTO,
+WHO, GPS, CNMD, UN, EU, PRC, CCP,
+USA, CN, CHN, HK, US, USD, USDT, UK,
+JP, KR, RUS, SGP, RMB, CNY, VISA,
+NGO, NPO, IMF, ISBN, IOC, PLA, NBA,
+CBA, ICAC, FBI, CIA, FDA, OPEC, BBC,
+CNN, VOA, EMS, PICC, BOC, ICBC, CBC,
+CMB, BOCOM, CMCC, CUCC, CTCC, DNA,
+RNA, DHA, KFC, ET, UFO, RIP, ICU,
+SARS, AIDS, HIV, PTSD, KOC, KOL,
+CBD, BAT, BBA, B2C, C2C, B2B, O2O,
+P2P, DTC, OTA, RSS, SEM, SEO, ASO,
+RTB, SMO, SOHO, SNS, FAQ, UTC, GMT,
+TMT, ACG, VCR, CD, VCD, DVD, AV, TV,
+MTV, MV, VOD, DJ, FM, IM, USB, OCR,
+POS, RGB, QA, QC, CRT, LCD, LED,
+IBM, ASCII, UTF, GBK, SD, HD, HDMI,
+VGA, VR, AR, MR, LBS, LAN, WLAN,
+WAN, WPA, WPAN, HTTP, HTTPS, IoT,
+BI, BE, BA, AI, AIGC, AGI, LLM, GPT,
+MoE, NLP, CPU, GPU, DPU, DNS, VPN,
+SSL, TLS, MFA, OTP, CA, DV, OV, EV,
+DLP, GDPR, PIA, DPIA, BIA, SOA, NFC,
+HA, ABS, SUV, MPV, PHEV, LRT, CRH,
+WLTP, CLTP, HUD, AUD, NOA, FSD, SSO,
+ISO, API, CCTV, IaaS, PaaS, SaaS,
+KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -1754,6 +1758,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 DIY - Do It Yourself 自己动手
 EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
+PK - Player Kill 玩家间对战
 OT - Overtime 加班
 FW - Forward 转发(邮件) / Firewall 防火墙
 CC - Carbon Copy 抄送(邮件) / Challenge Collapsar 挑战黑洞，网络攻击方式 / Common Criteria 通用标准
@@ -1777,6 +1782,7 @@ BRT - Be Right There 马上到 / Bus Rapid Transit 快速公交系统
 IMO - In My Opinion 个人观点
 RE: - Regarding 关于(邮件)
 BTW - By The Way 顺便说一下
+OMW - On My Way 我已经在路上了
 NB - Nota Bene 注意，划重点(拉丁文)
 TYT - Take Your Time 不用急，慢慢来
 NRN - No Reply Necessary 无需回复
@@ -1795,8 +1801,19 @@ WIP - Work In Progress 进行中的工作
 DDL - Deadline 截止期限
 NP - No Problem 没问题
 THX - Thanks 谢谢
+TKS - Thanks 谢谢
+THKS - Thanks 谢谢
+TY - Thank You 谢谢你
+PLS - Please 请
+PLZ - Please 请
+TMI - Too Much Information 太多讯息，不要再说了
 IDK - I Don’t Know 我不知道
 IDC - I Don’t Care 我不在乎 / Internet Data Center 互联网数据中心
+WTF - What The Fuck 靠，什么鬼
+STFU - Shut The Fuck Up 闭嘴
+FML - Fuck My Life 我真倒霉
+GF - Girlfriend 女朋友
+BF - Boyfriend 男朋友
 BFF - Best Friends Forever 永远的好朋友
 XOXO - Hugs and Kisses 拥抱和亲吻
 OIC - Oh I See 哦我明白了
@@ -1813,7 +1830,18 @@ TTYL - Talk To You Later 稍后聊
 BYOB - Bring Your Own Bottle 自带酒水
 NVM - Never Mind 没关系，别在意
 BBQ - Barbecue 烧烤
-PK - Player Kill 玩家间对战
+PDA - Public Displays of Affection 在公共场合秀恩爱
+NSFW - Not Safe For Work 办公室不宜
+FTW - For The Win 为了胜利，太棒了
+HBD - Happy Birthday 生日快乐
+HMU - Hit Me Up 联系我
+SMH - Shake My Head 我摇头，失望
+AYCE - All You Can Eat 任你吃，自助餐
+BOGO - Buy One, Get One 买一送一
+OCD - Obsessive Compulsive Disorder 强迫症
+TGIF - Thank God It's Friday 感谢上帝今天是星期五
+FB - Facebook 脸书，社交网络应用
+IG - Instagram 图片社交应用
 WLB - Work-Life Balance 工作生活平衡，劳逸平衡
 SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 AOE - Area of Effect 范围性作用
