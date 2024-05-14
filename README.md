@@ -373,9 +373,9 @@ AGI, LLM, GPT, MoE, NLP, CPU, GPU,
 DPU, DNS, VPN, SSL, TLS, MFA, OTP,
 CA, DV, OV, EV, DLP, GDPR, PIA,
 DPIA, BIA, SOA, NFC, HA, ABS, SUV,
-MPV, LRT, CRH, WLTP, CLTP, HUD, AUD,
-NOA, FSD, SSO, ISO, API, CCTV, IaaS,
-PaaS, SaaS, KISS
+MPV, PHEV, LRT, CRH, WLTP, CLTP,
+HUD, AUD, NOA, FSD, SSO, ISO, API,
+CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -2178,6 +2178,7 @@ HA - High Availability 高可用性
 ABS - Anti-lock Braking System 防抱死制动系统
 SUV - Sport Utility Vehicle 运动型多用途车
 MPV - Multi-Purpose Vehicle 多功能休旅车
+PHEV - Plug-in Hybrid Electric Vehicle 插电式混合动力汽车，混动
 LRT - Light Rail Transit 轻轨运输系统
 CRH - China Railway High-speed 中国铁路高速列车
 WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
