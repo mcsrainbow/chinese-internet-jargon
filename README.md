@@ -357,25 +357,25 @@ RMB, CNY, VISA, NGO, NPO, IMF, ISBN,
 IOC, PLA, NBA, CBA, ICAC, FBI, CIA,
 FDA, OPEC, BBC, CNN, VOA, EMS, PICC,
 BOC, ICBC, CBC, CMB, BOCOM, CMCC,
-CUCC, CTCC, DNA, KFC, ET, UFO, RIP,
-ICU, SARS, AIDS, HIV, PTSD, KOC,
-KOL, CBD, BAT, BBA, B2C, C2C, B2B,
-O2O, P2P, DTC, OTA, RSS, SEM, SEO,
-ASO, RTB, SMO, SOHO, SNS, FAQ, UTC,
-GMT, TMT, ACG, VCR, CD, VCD, DVD,
-AV, TV, MTV, MV, VOD, DJ, FM, IM,
-USB, OCR, POS, RGB, QA, QC, CRT,
-LCD, LED, IBM, ASCII, UTF, GBK, SD,
-HD, HDMI, VGA, VR, AR, MR, LBS, LAN,
-WLAN, WAN, WPA, WPAN, HTTP, HTTPS,
-IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
-GPT, MoE, NLP, CPU, GPU, DPU, DNS,
-VPN, SSL, TLS, MFA, OTP, CA, DV, OV,
-EV, DLP, GDPR, PIA, DPIA, BIA, SOA,
-NFC, HA, ABS, SUV, MPV, LRT, CRH,
-WLTP, CLTP, HUD, AUD, NOA, FSD, SSO,
-ISO, API, CCTV, IaaS, PaaS, SaaS,
-KISS
+CUCC, CTCC, DNA, RNA, DHA, KFC, ET,
+UFO, RIP, ICU, SARS, AIDS, HIV,
+PTSD, KOC, KOL, CBD, BAT, BBA, B2C,
+C2C, B2B, O2O, P2P, DTC, OTA, RSS,
+SEM, SEO, ASO, RTB, SMO, SOHO, SNS,
+FAQ, UTC, GMT, TMT, ACG, VCR, CD,
+VCD, DVD, AV, TV, MTV, MV, VOD, DJ,
+FM, IM, USB, OCR, POS, RGB, QA, QC,
+CRT, LCD, LED, IBM, ASCII, UTF, GBK,
+SD, HD, HDMI, VGA, VR, AR, MR, LBS,
+LAN, WLAN, WAN, WPA, WPAN, HTTP,
+HTTPS, IoT, BI, BE, BA, AI, AIGC,
+AGI, LLM, GPT, MoE, NLP, CPU, GPU,
+DPU, DNS, VPN, SSL, TLS, MFA, OTP,
+CA, DV, OV, EV, DLP, GDPR, PIA,
+DPIA, BIA, SOA, NFC, HA, ABS, SUV,
+MPV, LRT, CRH, WLTP, CLTP, HUD, AUD,
+NOA, FSD, SSO, ISO, API, CCTV, IaaS,
+PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -2066,7 +2066,9 @@ BOCOM - Bank of Communications 交通银行
 CMCC - China Mobile Communications Corporation 中国移动通信集团，中国移动
 CUCC - China Unicom Communications Corporation 中国联合网络通信集团，中国联通
 CTCC - China Telecom Communications Corporation 中国电信集团，中国电信
-DNA - DeoxyriboNucleic Acid 脱氧核糖核酸
+DNA - DeoxyriboNucleic Acid 脱氧核糖核酸，生物大分子，组成遗传指令，引导生物发育与生命机能运作
+RNA - RiboNucleic Acid 核糖核酸，生物大分子，在遗传编码、翻译、调控、基因表达等过程中发挥作用
+DHA - Docosahexaenoic Acid 二十二碳六烯酸，脑黄金，大脑和视网膜的重要组成成分
 KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
 ET - Extra Terrestrial 外星人
 UFO - Unidentified Flying Object 不明飞行物
