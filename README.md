@@ -1676,6 +1676,8 @@ AL - Annual Leave 年假
 ATM - At The Moment 此刻 / Automated Teller Machine 自动柜员机
 AKA - Also Known As 也就是，亦称，也被称为
 LOL - Laugh Out Loud 大声笑出来 / League of Legends 英雄联盟(游戏)
+LMAO - Laugh My Ass Off 笑掉我屁股
+ASL - Age, Sex, Location 年龄，性别，所在地 / American Sign Language 美国手语
 PS - P.S. Postscript 附言，补充说明 / Adobe Photoshop 图像处理软件 / PlayStation 日本索尼的游戏机
 MTD - Month to Date 从月初到今天
 QTD - Quarter to Date 从季度初到今天
