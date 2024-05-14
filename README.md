@@ -313,121 +313,11 @@ QR码, UP主, 大V, 主R, I人, E人
 
 ### 英文缩写列表(通用)
 
-```markdown
-DIY, EMO, OMG, PK, OT, FW, CC, BCC,
-RSVP, FYI, FYR, ASAP, BR, ETA, EOD,
-EOW, COB, N/A, TBD, TBC, TBH, JIC,
-BRB, BRT, IMO, RE:, BTW, OMW, NB,
-TYT, NRN, WFH, OOO, PTO, AL, ATM,
-AKA, LOL, PS, MTD, QTD, YTD, WIP,
-DDL, NP, THX, TKS, THKS, TY, PLS,
-PLZ, IDK, IDC, WTF, STFU, FML, GF,
-BF, BFF, XOXO, OIC, JK, ILY, OFC,
-LMK, KK, CU, CP, GG, AFK, TTYL,
-BYOB, NVM, BBQ, PDA, NSFW, FTW, HBD,
-HMU, SMH, AYCE, BOGO, OCD, TGIF, FB,
-IG, WLB, SPA, AOE, WC, ID, IC, IQ,
-EQ, AQ, FQ, CV, FPV, IT, PC, OS,
-TEL, FAX, APP, WiFi, AC, AP, WAP,
-PPT, PDF, CAD, WPS, BBS, YOLO, FOMO,
-PUA, ABC, LGBT, LGBTQ+, DINK, AM,
-BC, TM, MAX, MIN, IMP, EXP, AJ, LV,
-SOS, No., G, K, KG, T, Y, M, KM, CM,
-MM, L, ML, W, KW, H, S, HP, B, KB,
-MB, GB, TB, PB, HR, HRBP, HRM, HRD,
-HCM, PM, PMO, PO, OD, CEO, COO, CFO,
-CTO, CIO, CMO, CSO, CDO, VP, SVP,
-AVP, GM, BM, MD, AD, OP, TS, JD, BS,
-MS, MBA, DBA, PhD, SCI, IEEE, IETF,
-IEC, IANA, SAT, GRE, GMAT, GPA,
-IELTS, TOEFL, BEC, CET, KET, PET,
-FCE, CAE, CPE, OA, CRM, SCRM, ERP,
-CMS, SCM, BOSS, MIS, DB, ODM, OEM,
-OBM, POV, ETC, COD, Q&A, R&D, C&B,
-PIN, PII, KA, CS, OU, VC, PE, IPO,
-BIZ, BU, BG, BP, BD, RFP, HQ, UI,
-GUI, CLI, UE, UX, UED, VI, VIP, IDE,
-NPC, NTR, RPG, MMORPG, RPA, MBTI,
-VS, PR, GR, IP, MCN, UGC, PGC, OGC,
-CPC, CPM, CPA, CPS, CPT, OSS, CAC,
-TCO, CTR, SMB, WOM, KPI, OKR, ROI,
-ROE, APR, IRR, NPV, PBP, DAU, WAU,
-MAU, PV, UV, ARPU, ARPPU, GMV, CLV,
-CVR, PCU, GPM, DSR, SKU, GDP, CPI,
-WTO, WHO, GPS, CNMD, UN, EU, PRC,
-CCP, USA, CN, CHN, HK, US, USD,
-USDT, UK, JP, KR, RUS, SGP, RMB,
-CNY, VISA, NGO, NPO, IMF, ISBN, IOC,
-PLA, NBA, CBA, ICAC, FBI, CIA, FDA,
-OPEC, BBC, CNN, VOA, EMS, PICC, BOC,
-ICBC, CBC, CMB, BOCOM, CMCC, CUCC,
-CTCC, DNA, RNA, DHA, KFC, ET, UFO,
-RIP, ICU, SARS, AIDS, HIV, PTSD,
-KOC, KOL, CBD, BAT, BBA, B2C, C2C,
-B2B, O2O, P2P, DTC, OTA, RSS, SEM,
-SEO, ASO, RTB, SMO, SOHO, SNS, FAQ,
-UTC, GMT, TMT, ACG, VCR, CD, VCD,
-DVD, AV, TV, MTV, MV, VOD, DJ, FM,
-IM, USB, OCR, POS, RGB, QA, QC, CRT,
-LCD, LED, IBM, ASCII, UTF, GBK, SD,
-HD, HDMI, VGA, VR, AR, MR, LBS, LAN,
-WLAN, WAN, WPA, WPAN, HTTP, HTTPS,
-IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
-GPT, MoE, NLP, CPU, GPU, DPU, DNS,
-VPN, SSL, TLS, MFA, OTP, CA, DV, OV,
-EV, DLP, GDPR, PIA, DPIA, BIA, SOA,
-NFC, HA, ABS, SUV, MPV, PHEV, LRT,
-CRH, WLTP, CLTP, HUD, AUD, NOA, FSD,
-SSO, ISO, API, CCTV, IaaS, PaaS,
-SaaS, KISS
-```
+> DIY, EMO, OMG, PK, OT, FW, CC, BCC, RSVP, FYI, FYR, ASAP, BR, ETA, EOD, EOW, COB, N/A, TBD, TBC, TBH, JIC, BRB, BRT, IMO, RE:, BTW, OMW, NB, TYT, NRN, WFH, OOO, PTO, AL, ATM, AKA, LOL, PS, MTD, QTD, YTD, WIP, DDL, NP, THX, TKS, THKS, TY, PLS, PLZ, TMI, IDK, IDC, WTF, STFU, FML, GF, BF, BFF, XOXO, OIC, JK, ILY, OFC, LMK, KK, CU, CP, GG, AFK, TTYL, BYOB, NVM, BBQ, PDA, NSFW, FTW, HBD, HMU, SMH, AYCE, BOGO, OCD, TGIF, FB, IG, WLB, SPA, AOE, WC, ID, IC, IQ, EQ, AQ, FQ, CV, FPV, IT, PC, OS, TEL, FAX, APP, WiFi, AC, AP, WAP, PPT, PDF, CAD, WPS, BBS, YOLO, FOMO, PUA, ABC, LGBT, LGBTQ+, DINK, AM, BC, TM, MAX, MIN, IMP, EXP, AJ, LV, SOS, No., G, K, KG, T, Y, M, KM, CM, MM, L, ML, W, KW, H, S, HP, B, KB, MB, GB, TB, PB, HR, HRBP, HRM, HRD, HCM, PM, PMO, PO, OD, CEO, COO, CFO, CTO, CIO, CMO, CSO, CDO, VP, SVP, AVP, GM, BM, MD, AD, OP, TS, JD, BS, MS, MBA, DBA, PhD, SCI, IEEE, IETF, IEC, IANA, SAT, GRE, GMAT, GPA, IELTS, TOEFL, BEC, CET, KET, PET, FCE, CAE, CPE, MIT, UC, UCB, UCLA, UCSD, UCSC, HYP, USC, CMU, NYU, BYU, SMU, GWU, WFU, OSU, UMN, NCSU, FSU, SLU, HKU, HKUST, CUHK, HKBU, CityU, NTU, ANU, UNSW, UCL, LSE, UBC, UQ, OA, CRM, SCRM, ERP, CMS, SCM, BOSS, MIS, DB, ODM, OEM, OBM, POV, ETC, COD, Q&A, R&D, C&B, PIN, PII, KA, CS, OU, VC, PE, IPO, BIZ, BU, BG, BP, BD, RFP, HQ, UI, GUI, CLI, UE, UX, UED, VI, VIP, IDE, NPC, NTR, RPG, MMORPG, RPA, MBTI, VS, PR, GR, IP, MCN, UGC, PGC, OGC, CPC, CPM, CPA, CPS, CPT, OSS, CAC, TCO, CTR, SMB, WOM, KPI, OKR, ROI, ROE, APR, IRR, NPV, PBP, DAU, WAU, MAU, PV, UV, ARPU, ARPPU, GMV, CLV, CVR, PCU, GPM, DSR, SKU, GDP, CPI, WTO, WHO, GPS, CNMD, UN, EU, PRC, CCP, USA, CN, CHN, HK, US, USD, USDT, UK, JP, KR, RUS, SGP, RMB, CNY, VISA, NGO, NPO, IMF, ISBN, IOC, PLA, NBA, CBA, ICAC, FBI, CIA, FDA, OPEC, BBC, CNN, VOA, EMS, PICC, BOC, ICBC, CBC, CMB, BOCOM, CMCC, CUCC, CTCC, DNA, RNA, DHA, KFC, ET, UFO, RIP, ICU, SARS, AIDS, HIV, PTSD, KOC, KOL, CBD, BAT, BBA, B2C, C2C, B2B, O2O, P2P, DTC, OTA, RSS, SEM, SEO, ASO, RTB, SMO, SOHO, SNS, FAQ, UTC, GMT, TMT, ACG, VCR, CD, VCD, DVD, AV, TV, MTV, MV, VOD, DJ, FM, IM, USB, OCR, POS, RGB, QA, QC, CRT, LCD, LED, IBM, ASCII, UTF, GBK, SD, HD, HDMI, VGA, VR, AR, MR, LBS, LAN, WLAN, WAN, WPA, WPAN, HTTP, HTTPS, IoT, BI, BE, BA, AI, AIGC, AGI, LLM, GPT, MoE, NLP, CPU, GPU, DPU, DNS, VPN, SSL, TLS, MFA, OTP, CA, DV, OV, EV, DLP, GDPR, PIA, DPIA, BIA, SOA, NFC, HA, ABS, SUV, MPV, PHEV, LRT, CRH, WLTP, CLTP, HUD, AUD, NOA, FSD, SSO, ISO, API, CCTV, IaaS, PaaS, SaaS, KISS
 
 ### 英文缩写列表(术语)
 
-```markdown
-OLAP, OLTP, BFS, DFS, NN, DM, DL,
-DW, YOLO, EDA, DevOps, CI/CD, I/O,
-SWE, SRE, DEV, SIT, UAT, PRE, PROD,
-CaC, IaC, SLA, SLO, SLI, MTBF, MTTR,
-MTTA, MTTF, ITIL, ITSM, APM, DR,
-CDP, BCP, RTO, RPO, NOC, NIC, MQ,
-QPS, TPS, BPS, PPS, QoS, RCA, SQL,
-CURD, DDL, DML, DQL, DCL, TCL, DSL,
-JDBC, ODBC, URI, URL, ARN, DLL, K8S,
-i18n, ORI, eBPF, JDK, JRE, JVM, SDK,
-UUID, DBMS, RDBMS, POSIX, SSH, SCP,
-SFTP, LB, SLB, ALB, NLB, CLB, NAT,
-GW, GFW, XP, MD5, BLOB, SAST, DAST,
-VPC, DP, DVI, OSPF, CGI, CNNIC, AES,
-DES, SHA, SAML, OAUTH, LDAP, PAM,
-PKI, RAID, PCI, PCIE, CMOS, BMC,
-BIOS, IPMI, UEFI, FDDI, FIFO, FILO,
-LIFO, HDD, SATA, SCSI, SAS, SSD,
-MBR, UPS, HBA, HUB, NC, NFS, NAS,
-ETL, ELT, AJAX, WS, WSS, KV, UA, JS,
-PHP, ASP, ROM, BYOK, BYOD, FS, REST,
-EOF, EOT, EOL, JIT, SOAP, ISP, ICP,
-CDN, BGP, TLD, FQDN, WWW, W3C, TTL,
-DHCP, NTP, PPP, SNMP, OSI, RFC,
-CIDR, GC, RPC, TCP, UDP, FTP, TFTP,
-ICMP, SMTP, POP, IMAP, VRRP, ARP,
-SYN, ACK, FDD, COM, GSM, TDMA, CDMA,
-FDMA, AGP, CRBT, PSU, PDU, SCU, OMC,
-EDR, LLT, VCS, DSF, CMNET, STS, SAN,
-PAP, NCU, MTU, LCP, MPLS, LDP, IDEA,
-GEO, AS, ARQ, FTTH, LLC, RDP, RDT,
-CRC, SIM, CUDA, XML, HTML, XHTML,
-CSS, SDN, SDWAN, VM, KVM, RDS, IAM,
-ACL, DAC, MAC, RBAC, ABAC, IDS, IPS,
-CVE, SASE, SIEM, SOC, UEM, UIM, UTM,
-MAM, MDM, DOM, BOM, CORS, XSS, CSRF,
-ORM, ADT, IPC, DoS, DDoS, OOP, JWT,
-LVS, WAF, WBS, RBS, OBS, RAM, BRD,
-MRD, PRD, SOP, TDD, BDD, DDD, SDLC,
-CAP, ACID, BASE, MVC, MVVM, PoC,
-MVP, SOW, SME, CCB, COE, SDC, PDCA,
-SIPOC, SWOT, RACI, VUCA
-```
+> OLAP, OLTP, BFS, DFS, NN, DM, DL, DW, YOLO, EDA, DevOps, CI/CD, I/O, SWE, SRE, DEV, SIT, UAT, PRE, PROD, CaC, IaC, SLA, SLO, SLI, MTBF, MTTR, MTTA, MTTF, ITIL, ITSM, APM, DR, CDP, BCP, RTO, RPO, NOC, NIC, MQ, QPS, TPS, IOPS, OPS, RPS, BPS, PPS, QoS, RCA, SQL, CURD, DDL, DML, DQL, DCL, TCL, DSL, JDBC, ODBC, URI, URL, ARN, DLL, K8S, i18n, ORI, eBPF, JDK, JRE, JVM, SDK, UUID, DBMS, RDBMS, TSDB, POSIX, SSH, SCP, SFTP, LB, SLB, ALB, NLB, CLB, NAT, GW, GFW, XP, MD5, BLOB, SAST, DAST, VPC, DP, DVI, OSPF, CGI, CNNIC, AES, DES, SHA, SAML, OAUTH, LDAP, PAM, PKI, RAID, PCI, PCIE, CMOS, BMC, BIOS, IPMI, UEFI, FDDI, FIFO, FILO, LIFO, HDD, SATA, SCSI, SAS, SSD, MBR, UPS, HBA, HUB, NC, NFS, NAS, ETL, ELT, AJAX, WS, WSS, KV, UA, JS, PHP, ASP, ROM, BYOK, BYOD, FS, REST, EOF, EOT, EOL, JIT, SOAP, ISP, ICP, CDN, BGP, TLD, FQDN, WWW, W3C, TTL, DHCP, NTP, PPP, SNMP, OSI, RFC, CIDR, GC, RPC, TCP, UDP, FTP, TFTP, ICMP, SMTP, POP, IMAP, VRRP, ARP, SYN, ACK, FDD, COM, GSM, TDMA, CDMA, FDMA, AGP, CRBT, PSU, PDU, SCU, OMC, EDR, LLT, VCS, DSF, CMNET, STS, SAN, PAP, NCU, MTU, LCP, MPLS, LDP, IDEA, GEO, AS, ARQ, FTTH, LLC, RDP, RDT, CRC, SIM, CUDA, XML, HTML, XHTML, CSS, SDN, SDWAN, VM, KVM, GNU, GCC, GDB, GPL, LGPL, BSD, ECS, EC2, ASK, EKS, EBS, RDS, IAM, ACL, DAC, MAC, RBAC, ABAC, IDS, IPS, CVE, SASE, SIEM, SOC, UEM, UIM, UTM, MAM, MDM, DOM, BOM, CORS, XSS, CSRF, ORM, ADT, IPC, DoS, DDoS, OOP, JWT, LVS, WAF, WBS, RBS, OBS, RAM, BRD, MRD, PRD, SOP, TDD, BDD, DDD, SDLC, CAP, ACID, BASE, MVC, MVVM, PoC, MVP, SOW, SME, CCB, COE, SDC, PDCA, SIPOC, SWOT, RACI, VUCA
 
 ## 词汇解释
 
@@ -1960,6 +1850,37 @@ PET - Preliminary English Test 剑桥通用英语五级考试的第二级，初�
 FCE - First Certificate in English 剑桥通用英语五级考试的第三级，独立水平
 CAE - C1 Advanced / Certificate in Advanced English 剑桥通用英语五级考试的第四级，流利水平
 CPE - Certificate of Proficiency in English 剑桥通用英语五级考试的第五级，熟练水平
+MIT - Massachusetts Institute of Technology 麻省理工学院 / MIT License MIT许可证
+UC - University of California 加利福尼亚大学，加州大学
+UCB - University of California, Berkeley 加州大学伯克利分校
+UCLA - University of California, Los Angeles 加州大学洛杉矶分校
+UCSD - University of California, San Diego 加州大学圣地亚哥分校
+UCSC - University of California, Santa Cruz 加利福尼亚大学圣克鲁斯分校
+HYP - Harvard Yal Princeton 哈佛，耶鲁，普林斯顿
+USC - University of Southern California 南加州大学
+CMU - Carnegie Mellon University 卡内基梅隆大学
+NYU - New York University 纽约大学
+BYU - Brigham Young University 杨百翰大学
+SMU - Southern Methodist University 南卫理公会大学
+GWU - George Washington University 乔治华盛顿大学
+WFU - Wake Forest University 维克森林大学
+OSU - The Ohio State University 俄亥俄州立大学
+UMN - University of Minnesota, Twin Cities 明尼苏达大学双城分校
+NCSU - North Carolina State University 北卡罗莱纳州立大学
+FSU - Florida State University 佛罗里达州立大学
+SLU - Saint Louis University 圣路易斯大学
+HKU - The University of Hong Kong 香港大学
+HKUST - The Hong Kong University of Science and Technology 香港科技大学
+CUHK  - The Chinese University of Hong Kong 香港中文大学
+HKBU - Hong Kong Baptist University 香港浸会大学
+CityU - City University of Hong Kong 香港城市大学
+NTU - Nanyang Technological University 南洋理工大学
+ANU - The Australian National University 澳大利亚国立大学
+UNSW - The University of New South Wales 新南威尔士大学
+UCL - University College London 伦敦大学学院
+LSE - The London School of Economics and Political Science 伦敦政治经济学院
+UBC - University of British Columbia 英属哥伦比亚大学
+UQ - The University of Queensland 昆士兰大学
 OA - Office Automation 办公自动化
 CRM - Customer Relationship Management 客户关系管理
 SCRM - Social Customer Relationship Management 社会化客户关系管理
@@ -2064,7 +1985,7 @@ CN - China 中国
 CHN - China 中国
 HK - Hong Kong 香港
 US - United States 美国
-USD - United States Dollar 美元
+USD - United States Dollar 美元 / University of San Diego 圣地亚哥大学
 USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
 UK - United Kingdom 英国
 JP - Japan 日本
@@ -2276,6 +2197,9 @@ NIC - Network Information Center 网络信息中心
 MQ - Message Queue 消息队列
 QPS - Queries Per Second 每秒查询次数
 TPS - Transactions Per Second 每秒事务数
+IOPS - Input/Output Operations Per Second 每秒输入输出量
+OPS - Operations Per Second 每秒操作数 / Operations 运维
+RPS - Requests Per Second 每秒请求数
 BPS - Bytes Per Second 每秒字节数
 PPS - Packages Per Second 每秒数据包数
 QoS - Quality of Service 服务质量(网络)
@@ -2305,6 +2229,7 @@ SDK - Software Development Kit 软件开发工具包
 UUID - Universally Unique Identifier 通用唯一识别码
 DBMS - Database Management System 数据库管理系统
 RDBMS - Relational Database Management System 关系数据库管理系统
+TSDB - Lindorm Time Series Database 时间序列数据库，时序数据库
 POSIX - Portable Operating System Interface 可移植操作系统接口
 SSH - Secure Shell 安全外壳协议
 SCP - Secure Copy Protocol 安全复制协议
@@ -2409,7 +2334,7 @@ IMAP - Internet Message Access Protocol 互联网消息访问协议
 VRRP - Virtual Router Redundancy Protocol 虚拟路由冗余协议，用于提高网络可靠性的容错协议
 ARP - Address Resolution Protocol 地址解析协议
 SYN - Synchronize Sequence Numbers 同步序列编号
-ACK - Acknowledgement 确认
+ACK - Acknowledgement 确认 / Container Service for Kubernetes 阿里云容器服务Kubernetes版
 FDD - Floopy Disk Drive 软盘驱动器 / Frequency-Division Duplexing 频分双工
 COM - Component Object Model 组件对象模型 / Company 公司 / Communication 通信
 GSM - Global System for Mobile Communications 移动通信全球系统
@@ -2454,6 +2379,17 @@ SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
 VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
+GNU - GNU's Not Unix 完全自由的操作系统，“GNU不是Unix”的递归缩写
+GCC - GNU Compiler Collection GNU编译器套件
+GDB - GNU debugger GNU调试器
+GPL - GNU General Public License GNU通用公共许可协议
+LGPL - GNU Lesser General Public License 更宽松的GNU通用公共许可协议
+BSD - Berkeley Software Distribution 伯克利软件包 / BSD License BSD许可证
+ECS - Elastic Compute Service 弹性计算服务，云服务器 / Amazon Elastic Container Service 亚马逊弹性容器编排服务
+EC2 - Amazon Elastic Compute Cloud 亚马逊弹性计算云
+ASK - Container Service for Kubernetes Serverless 阿里云容器服务Kubernetes无服务器版
+EKS - Amazon Elastic Kubernetes Service  亚马逊弹性Kubernetes服务
+EBS - Elastic Block Storage 弹性块存储
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
 ACL - Access Control Lists 访问控制列表
