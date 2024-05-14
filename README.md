@@ -3421,7 +3421,7 @@ E人 - Extravert
 智商 - Intelligence quotient (IQ)
 情商 - Emotional quotient (EQ)
 逆商 - Adversity quotient (AQ)
-财商 - Financial Quotient (FQ)
+财商 - Financial quotient (FQ)
 社牛 - Social butterfly
 社恐 - Social anxiety / Social phobia
 丁克 - Dual Income, No Kids (DINK)
