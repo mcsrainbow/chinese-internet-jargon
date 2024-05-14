@@ -1385,7 +1385,7 @@ E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往
 佛系 - 平和、淡然、随缘的生活态度
 油腻 - 不注重身材保养、举止庸俗、油嘴滑舌的中年形象
 硬核 - 技术含量高、专业性强、难度大、有挑战性的事物
-副本 - 游戏中独立于主世界的特殊任务场景的复制 / 数据或文件的复制
+副本 - 游戏中独立于主世界的特殊任务场景的复制 / 数据或文件的复制品
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -3469,7 +3469,7 @@ E人 - Extravert
 佛系 - Zen attitude
 油腻 - Greasy
 硬核 - Hardcore
-副本 - Instance dungeon / Copy
+副本 - Instance dungeon / Replica
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
