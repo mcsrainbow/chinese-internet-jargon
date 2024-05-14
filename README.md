@@ -2044,7 +2044,7 @@ BOCOM - Bank of Communications 交通银行
 HSBC - The Hongkong and Shanghai Banking Corporation Limited 香港和上海银行有限公司，汇丰银行
 EDPK - EY, Deloitte, PwC, KPMG 著名的四个会计师事务所，安永、德勤、普华永道、毕马威
 EY - Ernst & Young 安永会计师事务所
-DTT - Deloitte Touche Tohmatsu 德勤会计师事务所，英国
+DTT - Deloitte Touche Tohmatsu 德勤会计师事务所
 PwC - PricewaterhouseCoopers 罗兵咸永道，普华永道会计师事务所
 KPMG - Klynveld Peat Marwick Goerdeler 毕马威会计师事务所
 CMCC - China Mobile Communications Corporation 中国移动通信集团，中国移动
