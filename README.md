@@ -311,14 +311,6 @@ QR码, UP主, 大V, 主R, I人, E人
 邓宁克鲁格效应, 相关不蕴涵因果
 ```
 
-### 英文缩写列表(通用)
-
-> DIY, EMO, OMG, PK, OT, FW, CC, BCC, RSVP, FYI, FYR, ASAP, BR, ETA, EOD, EOW, COB, N/A, TBD, TBC, TBH, JIC, BRB, BRT, IMO, RE:, BTW, OMW, NB, TYT, NRN, WFH, OOO, PTO, AL, ATM, AKA, LOL, PS, MTD, QTD, YTD, WIP, DDL, NP, THX, TKS, THKS, TY, PLS, PLZ, TMI, IDK, IDC, WTF, STFU, FML, GF, BF, BFF, XOXO, OIC, JK, ILY, OFC, LMK, KK, CU, CP, GG, AFK, TTYL, BYOB, NVM, BBQ, PDA, NSFW, FTW, HBD, HMU, SMH, AYCE, BOGO, OCD, TGIF, FB, IG, WLB, SPA, AOE, WC, ID, IC, IQ, EQ, AQ, FQ, CV, FPV, IT, PC, OS, TEL, FAX, APP, WiFi, AC, AP, WAP, PPT, PDF, CAD, WPS, BBS, YOLO, FOMO, PUA, ABC, LGBT, LGBTQ+, DINK, AM, BC, TM, MAX, MIN, IMP, EXP, AJ, LV, SOS, No., G, K, KG, T, Y, M, KM, CM, MM, L, ML, W, KW, H, S, HP, B, KB, MB, GB, TB, PB, HR, HRBP, HRM, HRD, HCM, PM, PMO, PO, OD, CEO, COO, CFO, CTO, CIO, CMO, CSO, CDO, VP, SVP, AVP, GM, BM, MD, AD, OP, TS, JD, BS, MS, MBA, DBA, PhD, SCI, IEEE, IETF, IEC, IANA, SAT, GRE, GMAT, GPA, IELTS, TOEFL, BEC, CET, KET, PET, FCE, CAE, CPE, MIT, UC, UCB, UCLA, UCSD, UCSC, HYP, USC, CMU, NYU, BYU, SMU, GWU, WFU, OSU, UMN, NCSU, FSU, SLU, HKU, HKUST, CUHK, HKBU, CityU, NTU, ANU, UNSW, UCL, LSE, UBC, UQ, OA, CRM, SCRM, ERP, CMS, SCM, BOSS, MIS, DB, ODM, OEM, OBM, POV, ETC, COD, Q&A, R&D, C&B, PIN, PII, KA, CS, OU, VC, PE, IPO, BIZ, BU, BG, BP, BD, RFP, HQ, UI, GUI, CLI, UE, UX, UED, VI, VIP, IDE, NPC, NTR, RPG, MMORPG, RPA, MBTI, VS, PR, GR, IP, MCN, UGC, PGC, OGC, CPC, CPM, CPA, CPS, CPT, OSS, CAC, TCO, CTR, SMB, WOM, KPI, OKR, ROI, ROE, APR, IRR, NPV, PBP, DAU, WAU, MAU, PV, UV, ARPU, ARPPU, GMV, CLV, CVR, PCU, GPM, DSR, SKU, GDP, CPI, WTO, WHO, GPS, CNMD, UN, EU, PRC, CCP, USA, CN, CHN, HK, US, USD, USDT, UK, JP, KR, RUS, SGP, RMB, CNY, VISA, NGO, NPO, IMF, ISBN, IOC, PLA, NBA, CBA, ICAC, FBI, CIA, FDA, OPEC, BBC, CNN, VOA, EMS, PICC, BOC, ICBC, CBC, CMB, BOCOM, CMCC, CUCC, CTCC, DNA, RNA, DHA, KFC, ET, UFO, RIP, ICU, SARS, AIDS, HIV, PTSD, KOC, KOL, CBD, BAT, BBA, B2C, C2C, B2B, O2O, P2P, DTC, OTA, RSS, SEM, SEO, ASO, RTB, SMO, SOHO, SNS, FAQ, UTC, GMT, TMT, ACG, VCR, CD, VCD, DVD, AV, TV, MTV, MV, VOD, DJ, FM, IM, USB, OCR, POS, RGB, QA, QC, CRT, LCD, LED, IBM, ASCII, UTF, GBK, SD, HD, HDMI, VGA, VR, AR, MR, LBS, LAN, WLAN, WAN, WPA, WPAN, HTTP, HTTPS, IoT, BI, BE, BA, AI, AIGC, AGI, LLM, GPT, MoE, NLP, CPU, GPU, DPU, DNS, VPN, SSL, TLS, MFA, OTP, CA, DV, OV, EV, DLP, GDPR, PIA, DPIA, BIA, SOA, NFC, HA, ABS, SUV, MPV, PHEV, LRT, CRH, WLTP, CLTP, HUD, AUD, NOA, FSD, SSO, ISO, API, CCTV, IaaS, PaaS, SaaS, KISS
-
-### 英文缩写列表(术语)
-
-> OLAP, OLTP, BFS, DFS, NN, DM, DL, DW, YOLO, EDA, DevOps, CI/CD, I/O, SWE, SRE, DEV, SIT, UAT, PRE, PROD, CaC, IaC, SLA, SLO, SLI, MTBF, MTTR, MTTA, MTTF, ITIL, ITSM, APM, DR, CDP, BCP, RTO, RPO, NOC, NIC, MQ, QPS, TPS, IOPS, OPS, RPS, BPS, PPS, QoS, RCA, SQL, CURD, DDL, DML, DQL, DCL, TCL, DSL, JDBC, ODBC, URI, URL, ARN, DLL, K8S, i18n, ORI, eBPF, JDK, JRE, JVM, SDK, UUID, DBMS, RDBMS, TSDB, POSIX, SSH, SCP, SFTP, LB, SLB, ALB, NLB, CLB, NAT, GW, GFW, XP, MD5, BLOB, SAST, DAST, VPC, DP, DVI, OSPF, CGI, CNNIC, AES, DES, SHA, SAML, OAUTH, LDAP, PAM, PKI, RAID, PCI, PCIE, CMOS, BMC, BIOS, IPMI, UEFI, FDDI, FIFO, FILO, LIFO, HDD, SATA, SCSI, SAS, SSD, MBR, UPS, HBA, HUB, NC, NFS, NAS, ETL, ELT, AJAX, WS, WSS, KV, UA, JS, PHP, ASP, ROM, BYOK, BYOD, FS, REST, EOF, EOT, EOL, JIT, SOAP, ISP, ICP, CDN, BGP, TLD, FQDN, WWW, W3C, TTL, DHCP, NTP, PPP, SNMP, OSI, RFC, CIDR, GC, RPC, TCP, UDP, FTP, TFTP, ICMP, SMTP, POP, IMAP, VRRP, ARP, SYN, ACK, FDD, COM, GSM, TDMA, CDMA, FDMA, AGP, CRBT, PSU, PDU, SCU, OMC, EDR, LLT, VCS, DSF, CMNET, STS, SAN, PAP, NCU, MTU, LCP, MPLS, LDP, IDEA, GEO, AS, ARQ, FTTH, LLC, RDP, RDT, CRC, SIM, CUDA, XML, HTML, XHTML, CSS, SDN, SDWAN, VM, KVM, GNU, GCC, GDB, GPL, LGPL, BSD, ECS, EC2, ASK, EKS, EBS, RDS, IAM, ACL, DAC, MAC, RBAC, ABAC, IDS, IPS, CVE, SASE, SIEM, SOC, UEM, UIM, UTM, MAM, MDM, DOM, BOM, CORS, XSS, CSRF, ORM, ADT, IPC, DoS, DDoS, OOP, JWT, LVS, WAF, WBS, RBS, OBS, RAM, BRD, MRD, PRD, SOP, TDD, BDD, DDD, SDLC, CAP, ACID, BASE, MVC, MVVM, PoC, MVP, SOW, SME, CCB, COE, SDC, PDCA, SIPOC, SWOT, RACI, VUCA
-
 ## 词汇解释
 
 ### 二字词汇解释
@@ -1871,7 +1863,7 @@ FSU - Florida State University 佛罗里达州立大学
 SLU - Saint Louis University 圣路易斯大学
 HKU - The University of Hong Kong 香港大学
 HKUST - The Hong Kong University of Science and Technology 香港科技大学
-CUHK  - The Chinese University of Hong Kong 香港中文大学
+CUHK - The Chinese University of Hong Kong 香港中文大学
 HKBU - Hong Kong Baptist University 香港浸会大学
 CityU - City University of Hong Kong 香港城市大学
 NTU - Nanyang Technological University 南洋理工大学
@@ -2388,7 +2380,7 @@ BSD - Berkeley Software Distribution 伯克利软件包 / BSD License BSD许可�
 ECS - Elastic Compute Service 弹性计算服务，云服务器 / Amazon Elastic Container Service 亚马逊弹性容器编排服务
 EC2 - Amazon Elastic Compute Cloud 亚马逊弹性计算云
 ASK - Container Service for Kubernetes Serverless 阿里云容器服务Kubernetes无服务器版
-EKS - Amazon Elastic Kubernetes Service  亚马逊弹性Kubernetes服务
+EKS - Amazon Elastic Kubernetes Service 亚马逊弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
