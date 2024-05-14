@@ -211,7 +211,7 @@ QR码, UP主, 大V, 主R, I人, E人
 军阀, 财阀, 学阀, 定金, 订金, 手办, 公仔,
 函数, 映射, 拟合, 方差, 智商, 情商, 逆商,
 财商, 社牛, 社恐, 丁克, 团建, 躺平, 上头,
-下头, 丧系, 佛系, 油腻, 硬核, 副本
+下头, 丧系, 佛系, 油腻, 硬核, 副本, 四大
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -305,7 +305,7 @@ QR码, UP主, 大V, 主R, I人, E人
 劣币驱逐良币, 半结构化数据, 非结构化数据,
 卷积神经网络, 天时地利人和, 品牌记忆系统,
 心智切割利器, 利维坦最优解, 雷普利症候群,
-不确定性原理, 蔡加尼克效应
+不确定性原理, 蔡加尼克效应, 会计师事务所
 
 斯德哥尔摩症候, 奥卡姆剃刀定律,
 邓宁克鲁格效应, 相关不蕴涵因果
@@ -1268,6 +1268,7 @@ E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往
 油腻 - 不注重身材保养、举止庸俗、油嘴滑舌的中年形象
 硬核 - 技术含量高、专业性强、难度大、有挑战性的事物
 副本 - 游戏中独立于主世界的特殊任务场景的复制 / 数据或文件的复制品
+四大 - 著名的四个会计师事务所，安永(EY)、德勤(Deloitte)、普华永道(PwC)、毕马威(KPMG)
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -1628,6 +1629,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 雷普利症候群 - 陷入了提升身份的欲望而不断说谎，以致于最终自己也难以分清究竟是真实还是谎言，而生活在幻想中
 不确定性原理 - 海森堡测不准原理，无法同时精确知晓一个系统的所有属性
 蔡加尼克效应 - 相较于已经完成的工作，人们更容易记得未完成或被打断的工作
+会计师事务所 - 依法独立承担注册会计师业务的中介服务机构，主要业务为审计、税务和咨询三大块
 
 斯德哥尔摩症候 - 人质情结，受害者对施暴者产生好感的心理状态
 奥卡姆剃刀定律 - 简约法则，解释问题应尽量保持简单
@@ -1814,7 +1816,7 @@ CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
 VP - Vice President 副总裁
 SVP - Senior Vice President 高级副总裁
 AVP - Assistant Vice President 助理副总裁
-GM - General Manager 总经理
+GM - General Manager 总经理 / Game Master 游戏管理员 / General Motors 通用汽车
 BM - Branch Manager 部门经理
 MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
 AD - Assistant Director 助理总监 / Anno Domini 公元(拉丁文) / Advertising 广告 / Active Directory 活动目录
@@ -2012,6 +2014,12 @@ ICBC - Industrial and Commercial Bank of China 中国工商银行
 CBC - China Construction Bank 中国建设银行
 CMB - China Merchants Bank 中国招商银行
 BOCOM - Bank of Communications 交通银行
+HSBC - The Hongkong and Shanghai Banking Corporation Limited 香港和上海银行有限公司，汇丰银行
+EDPK - EY, Deloitte, PwC, KPMG 著名的四个会计师事务所，安永、德勤、普华永道、毕马威
+EY - Ernst & Young 安永会计师事务所
+DTT - Deloitte Touche Tohmatsu 德勤会计师事务所，英国
+PwC - PricewaterhouseCoopers 罗兵咸永道，普华永道会计师事务所
+KPMG - Klynveld Peat Marwick Goerdeler 毕马威会计师事务所
 CMCC - China Mobile Communications Corporation 中国移动通信集团，中国移动
 CUCC - China Unicom Communications Corporation 中国联合网络通信集团，中国联通
 CTCC - China Telecom Communications Corporation 中国电信集团，中国电信
@@ -3404,6 +3412,7 @@ E人 - Extravert
 油腻 - Greasy
 硬核 - Hardcore
 副本 - Instance dungeon / Replica
+四大 - Big Four, EDPK (EY, Deloitte, PwC, KPMG)
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
@@ -3764,6 +3773,7 @@ T型人才 - T-shaped talent
 雷普利症候群 - Ripley syndrome
 不确定性原理 - Uncertainty principle
 蔡加尼克效应 - Zeigarnik effect
+会计师事务所 - Accounting firms / Accounting association  / Accounting network
 
 斯德哥尔摩症候 - Stockholm syndrome
 奥卡姆剃刀定律 - Occam's razor
