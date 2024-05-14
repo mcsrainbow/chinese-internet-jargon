@@ -210,7 +210,8 @@ QR码, UP主, 大V, 主R, I人, E人
 顶奢, 维密, 主义, 白牌, 内包, 总包, 推演,
 军阀, 财阀, 学阀, 定金, 订金, 手办, 公仔,
 函数, 映射, 拟合, 方差, 智商, 情商, 逆商,
-社牛, 社恐, 丁克, 团建, 躺平, 上头, 下头
+财商, 社牛, 社恐, 丁克, 团建, 躺平, 上头,
+下头
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -323,9 +324,9 @@ NP, THX, IDK, IDC, BFF, XOXO, OIC,
 JK, ILY, OFC, LMK, KK, CU, CP, GG,
 AFK, TTYL, BYOB, NVM, BBQ, PK, WLB,
 SPA, AOE, WC, ID, IC, IQ, EQ, AQ,
-CV, FPV, IT, PC, OS, TEL, FAX, APP,
-WiFi, AC, AP, WAP, PPT, PDF, CAD,
-WPS, BBS, YOLO, FOMO, PUA, ABC,
+FQ, CV, FPV, IT, PC, OS, TEL, FAX,
+APP, WiFi, AC, AP, WAP, PPT, PDF,
+CAD, WPS, BBS, YOLO, FOMO, PUA, ABC,
 LGBT, LGBTQ+, DINK, AM, BC, TM, MAX,
 MIN, IMP, EXP, AJ, LV, SOS, No., G,
 K, KG, T, Y, M, KM, CM, MM, L, ML,
@@ -1368,6 +1369,7 @@ E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往
 智商 - 智力商数，智力测验成绩和同年龄被试成绩相比的指数
 情商 - 情绪商数，自我认识、了解、控制情绪的能力指数
 逆商 - 逆境商数，面对挫折、压力，摆脱困境、超越困难的能力
+财商 - 金融智商，认识、创造和管理财富的能力，包括观念、知识、行为三个方面
 社牛 - 在社交场合表现积极和出众的人
 社恐 - 在社交场合感到焦虑和恐慌的人
 丁克 - 有收入和生育能力却选择不生育的人
@@ -1817,6 +1819,7 @@ IC - Intelligent Card 智能卡
 IQ - Intelligence Quotient 智力商数，智商
 EQ - Emotional Quotient 情感商数，情商
 AQ - Adversity Quotient 逆境商数，逆商
+FQ - Financial Quotient 金融智商，财商
 CV - Curriculum Vitae 个人履历 / Computer Vision 计算机视觉
 FPV - First-Person View 第一人称视角
 IT - Information Technology 信息技术
@@ -3418,6 +3421,7 @@ E人 - Extravert
 智商 - Intelligence quotient (IQ)
 情商 - Emotional quotient (EQ)
 逆商 - Adversity quotient (AQ)
+财商 - Financial Quotient (FQ)
 社牛 - Social butterfly
 社恐 - Social anxiety / Social phobia
 丁克 - Dual Income, No Kids (DINK)
