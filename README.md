@@ -1715,7 +1715,7 @@ GG - Good Game 好游戏，认输
 AFK - Away From Keyboard 离开键盘
 TTYL - Talk To You Later 稍后聊
 BYOB - Bring Your Own Bottle 自带酒水
-NVM - Never Mind 没关系，别在意
+NVM - Never Mind 没关系，别在意 / Node.js Version Manager Node版本管理器
 BBQ - Barbecue 烧烤
 PDA - Public Displays of Affection 在公共场合秀恩爱
 NSFW - Not Safe For Work 办公室不宜
@@ -1734,7 +1734,7 @@ SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 AOE - Area of Effect 范围性作用
 WC - Water Closet 抽水马桶，厕所
 ID - Identity Document 身份证件 / Identifier 标识符
-IC - Intelligent Card 智能卡
+IC - Intelligent Card 智能卡 / Imperial College London 英国帝国理工学院
 IQ - Intelligence Quotient 智力商数，智商
 EQ - Emotional Quotient 情感商数，情商
 AQ - Adversity Quotient 逆境商数，逆商
@@ -1847,21 +1847,46 @@ FCE - First Certificate in English 剑桥通用英语五级考试的第三级，
 CAE - C1 Advanced / Certificate in Advanced English 剑桥通用英语五级考试的第四级，流利水平
 CPE - Certificate of Proficiency in English 剑桥通用英语五级考试的第五级，熟练水平
 MIT - Massachusetts Institute of Technology 麻省理工学院 / MIT License MIT许可证
+HYP - Harvard Yal Princeton 哈佛，耶鲁，普林斯顿
+JHU - The Johns Hopkins University 约翰斯霍普金斯大学
+NWU - Northwestern University 西北大学(美国)
+WUSTL - Washington University in St. Louis 圣路易斯华盛顿大学
 UC - University of California 加利福尼亚大学，加州大学
 UCB - University of California, Berkeley 加州大学伯克利分校
 UCLA - University of California, Los Angeles 加州大学洛杉矶分校
+UCSB - University of California, Santa Barbara 加州大学圣巴巴拉分校
 UCSD - University of California, San Diego 加州大学圣地亚哥分校
 UCSC - University of California, Santa Cruz 加利福尼亚大学圣克鲁斯分校
-HYP - Harvard Yal Princeton 哈佛，耶鲁，普林斯顿
+CIT - California Institute of Technology 加州理工学院
+RPI - Rensselaer Polytechnic Institute 伦斯勒理工学院 / Retail Price Index 零售物价指数
+UIUC - University of Illinois Urbana-Champaign 伊利诺伊大学厄巴纳香槟分校
+NEU - Northeastern University 东北大学(美国)
+UFL - University of Florida 佛罗里达大学
 USC - University of Southern California 南加州大学
 CMU - Carnegie Mellon University 卡内基梅隆大学
+UVa - University of Virginia 弗吉尼亚大学
+WFU - Wake Forest University 维克森林大学
+UNC - University of North Carolina at Chapel Hill 北卡罗来纳大学教堂山分校
 NYU - New York University 纽约大学
+W&M - William & Mary 威廉与玛丽学院
+UMD - University of Maryland, College Park 马里兰大学科利奇帕克分校，马里兰大学帕克分校
+CWRU - Case Western Reserve University 凯斯西储大学
 BYU - Brigham Young University 杨百翰大学
 SMU - Southern Methodist University 南卫理公会大学
 GWU - George Washington University 乔治华盛顿大学
-WFU - Wake Forest University 维克森林大学
 OSU - The Ohio State University 俄亥俄州立大学
+WPI - Worcester Polytechnic Institute 伍斯特理工学院
 UMN - University of Minnesota, Twin Cities 明尼苏达大学双城分校
+TAMU - Texas A&M University 得克萨斯农工大学
+VT - Virginia Tech 弗吉尼亚理工大学 / Virtualization Technology 虚拟化技术
+AU - American University 美利坚大学
+IUB - Indiana University Bloomington 印第安纳大学伯明顿分校
+MSU - Michigan State University 密西根州立大学
+MU - Miami University, Oxford 迈阿密大学牛津分校
+TCU - Texas Christian University 得克萨斯克里斯汀大学 / Transmission Control Unit 自动变速箱控制单元
+DU - University of Denver 丹佛大学
+SBU - The State University of New York at Stony Brook 纽约州立大学石溪分校
+UVM - University of Vermont 佛蒙特大学
 NCSU - North Carolina State University 北卡罗莱纳州立大学
 FSU - Florida State University 佛罗里达州立大学
 SLU - Saint Louis University 圣路易斯大学
@@ -1870,10 +1895,12 @@ HKUST - The Hong Kong University of Science and Technology 香港科技大学
 CUHK - The Chinese University of Hong Kong 香港中文大学
 HKBU - Hong Kong Baptist University 香港浸会大学
 CityU - City University of Hong Kong 香港城市大学
+PolyU - The Hong Kong Polytechnic University 香港理工大学
 NTU - Nanyang Technological University 南洋理工大学
 ANU - The Australian National University 澳大利亚国立大学
 UNSW - The University of New South Wales 新南威尔士大学
 UCL - University College London 伦敦大学学院
+KCL - King's College London 伦敦国王学院
 LSE - The London School of Economics and Political Science 伦敦政治经济学院
 UBC - University of British Columbia 英属哥伦比亚大学
 UQ - The University of Queensland 昆士兰大学
@@ -1904,7 +1931,7 @@ VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育 / Property Executive 物业主管
 IPO - Initial Public Offering 首次公开募股
 BIZ - Business 商业，业务
-BU - Business Unit 业务单元
+BU - Business Unit 业务单元 / Boston University 波士顿大学
 BG - Business Group 业务集团
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
@@ -2133,6 +2160,10 @@ SOA - Service-Oriented Architecture 面向服务的架构
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
 HA - High Availability 高可用性
 ABS - Anti-lock Braking System 防抱死制动系统
+MT - Manual Transmission 手动变速器 / Main Tank 主坦克，负责承受敌人伤害的游戏职业
+AT - Automatic Transmission 自动变速箱
+DCT - Dual Clutch Transmission 双离合变速箱
+CVT - Continuously Variable Transmission 连续可变传动，无级变速箱
 SUV - Sport Utility Vehicle 运动型多用途车
 MPV - Multi-Purpose Vehicle 多功能休旅车
 PHEV - Plug-in Hybrid Electric Vehicle 插电式混合动力汽车，混动
@@ -2173,7 +2204,7 @@ I/O - Input/Output 输入/输出
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
 SRE - Site Reliability Engineering 站点可靠性工程 / Site Reliability Engineer 站点可靠性工程师
 DEV - Development 开发(环境)
-SIT - System Integration Testing 系统集成测试(环境)
+SIT - System Integration Testing 系统集成测试(环境) / Stevens Institute of Technology 史蒂文斯理工学院
 UAT - User Acceptance Testing 用户验收测试(环境)
 PRE - Pre-production 预生产(环境)，灰度(环境)
 PROD - Production 生产(环境)
@@ -2345,7 +2376,7 @@ CDMA - Code Division Multiple Aceess 码分多址
 FDMA - Frequency Division Multiple Address 频分多址
 AGP - Accelerated Graphics Port 加速图形接口
 CRBT - Color Ring Back Tone 彩铃回音
-PSU - Power Supply Unit 电源供应器
+PSU - Power Supply Unit 电源供应器 / Pennsylvania State University 宾夕法尼亚州立大学
 PDU - Power Distribution Unit 电源分配单元 / Protocol Data Unit 协议数据单元
 SCU - Service Control Unit 业务控制单元 / Storage Capacity Unit 存储容量单元 / Sichuan University 四川大学
 OMC - Operation Maintenance Center 操作维护中心
@@ -2420,6 +2451,7 @@ ADT - Abstract Data Type 抽象数据类型
 IPC - Inter-Process Communication 进程间通信
 DoS - Denial of Service 拒绝服务 / DOS, Disk Operating System 磁盘操作系统
 DDoS - Distributed Denial of Service 分布式拒绝服务
+APT - Advanced Persistent Threat 高级长期威胁 / Advanced Package Tool 高级包管理工具
 OOP - Object-Oriented Programming 面向对象程序设计
 JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
 LVS - Linux Virtual Server Linux虚拟服务器
