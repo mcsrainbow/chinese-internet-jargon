@@ -210,7 +210,7 @@ QR码, UP主, 大V, 主R, I人, E人
 顶奢, 维密, 主义, 白牌, 内包, 总包, 推演,
 军阀, 财阀, 学阀, 定金, 订金, 手办, 公仔,
 函数, 映射, 拟合, 方差, 智商, 情商, 逆商,
-社牛, 社恐, 丁克, 团建, 躺平
+社牛, 社恐, 丁克, 团建, 躺平, 上头, 下头
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -280,7 +280,7 @@ QR码, UP主, 大V, 主R, I人, E人
 强化学习, 迁移学习, 数据挖掘, 数据清洗,
 向上社交, 向下兼容, 三观不合, 以偏概全,
 偷换概念, 非黑即白, 诉诸中庸, 迷信权威,
-不当类比, 自相矛盾, 循环论证
+不当类比, 自相矛盾, 循环论证, 量化投资
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -363,17 +363,17 @@ O2O, P2P, DTC, OTA, RSS, SEM, SEO,
 ASO, RTB, SMO, SOHO, SNS, FAQ, UTC,
 GMT, TMT, ACG, VCR, CD, VCD, DVD,
 AV, TV, MTV, MV, VOD, DJ, FM, IM,
-USB, OCR, POS, RGB, QA, QC, LCD,
-LED, IBM, ASCII, UTF, GBK, SD, HD,
-HDMI, VGA, VR, AR, MR, LBS, LAN,
+USB, OCR, POS, RGB, QA, QC, CRT,
+LCD, LED, IBM, ASCII, UTF, GBK, SD,
+HD, HDMI, VGA, VR, AR, MR, LBS, LAN,
 WLAN, WAN, WPA, WPAN, HTTP, HTTPS,
 IoT, BI, BE, BA, AI, AIGC, AGI, LLM,
 GPT, MoE, NLP, CPU, GPU, DPU, DNS,
 VPN, SSL, TLS, MFA, OTP, CA, DV, OV,
 EV, DLP, GDPR, PIA, DPIA, BIA, SOA,
 NFC, HA, ABS, SUV, MPV, LRT, CRH,
-WLTP, CLTP, NOA, FSD, SSO, ISO, API,
-CCTV, IaaS, PaaS, SaaS, KISS
+WLTP, CLTP, HUD, NOA, FSD, SSO, ISO,
+API, CCTV, IaaS, PaaS, SaaS, KISS
 ```
 
 ### 英文缩写列表(术语)
@@ -396,31 +396,31 @@ DVI, OSPF, CGI, CNNIC, AES, DES,
 SHA, SAML, OAUTH, LDAP, PAM, PKI,
 RAID, PCI, PCIE, CMOS, BMC, BIOS,
 IPMI, UEFI, FDDI, FIFO, FILO, LIFO,
-HDD, SATA, SCSI, SAS, SSD, UPS, HBA,
-HUB, NC, NFS, NAS, ETL, ELT, AJAX,
-WS, WSS, KV, UA, JS, PHP, ASP, ROM,
-BYOK, BYOD, FS, REST, EOF, EOT, EOL,
-JIT, SOAP, ISP, ICP, CDN, BGP, TLD,
-FQDN, WWW, W3C, TTL, DHCP, NTP, PPP,
-SNMP, OSI, RFC, CIDR, GC, RPC, TCP,
-UDP, FTP, TFTP, ICMP, SMTP, POP,
-IMAP, VRRP, ARP, SYN, ACK, FDD, COM,
-GSM, TDMA, CDMA, FDMA, AGP, CRBT,
-PSU, PDU, SCU, OMC, EDR, LLT, VCS,
-DSF, CMNET, STS, SAN, PAP, NCU, MTU,
-LCP, MPLS, LDP, IDEA, GEO, AS, ARQ,
-FTTH, LLC, RDP, RDT, CRC, SIM, CUDA,
-XML, HTML, XHTML, CSS, SDN, SDWAN,
-VM, KVM, RDS, IAM, ACL, DAC, MAC,
-RBAC, ABAC, IDS, IPS, CVE, SASE,
-SIEM, SOC, UEM, UIM, UTM, MAM, MDM,
-DOM, BOM, CORS, XSS, CSRF, ORM, ADT,
-IPC, DoS, DDoS, OOP, JWT, LVS, WAF,
-WBS, RBS, OBS, RAM, BRD, MRD, PRD,
-SOP, TDD, BDD, DDD, SDLC, CAP, ACID,
-BASE, MVC, MVVM, PoC, MVP, SOW, SME,
-CCB, COE, SDC, PDCA, SIPOC, SWOT,
-RACI, VUCA
+HDD, SATA, SCSI, SAS, SSD, MBR, UPS,
+HBA, HUB, NC, NFS, NAS, ETL, ELT,
+AJAX, WS, WSS, KV, UA, JS, PHP, ASP,
+ROM, BYOK, BYOD, FS, REST, EOF, EOT,
+EOL, JIT, SOAP, ISP, ICP, CDN, BGP,
+TLD, FQDN, WWW, W3C, TTL, DHCP, NTP,
+PPP, SNMP, OSI, RFC, CIDR, GC, RPC,
+TCP, UDP, FTP, TFTP, ICMP, SMTP,
+POP, IMAP, VRRP, ARP, SYN, ACK, FDD,
+COM, GSM, TDMA, CDMA, FDMA, AGP,
+CRBT, PSU, PDU, SCU, OMC, EDR, LLT,
+VCS, DSF, CMNET, STS, SAN, PAP, NCU,
+MTU, LCP, MPLS, LDP, IDEA, GEO, AS,
+ARQ, FTTH, LLC, RDP, RDT, CRC, SIM,
+CUDA, XML, HTML, XHTML, CSS, SDN,
+SDWAN, VM, KVM, RDS, IAM, ACL, DAC,
+MAC, RBAC, ABAC, IDS, IPS, CVE,
+SASE, SIEM, SOC, UEM, UIM, UTM, MAM,
+MDM, DOM, BOM, CORS, XSS, CSRF, ORM,
+ADT, IPC, DoS, DDoS, OOP, JWT, LVS,
+WAF, WBS, RBS, OBS, RAM, BRD, MRD,
+PRD, SOP, TDD, BDD, DDD, SDLC, CAP,
+ACID, BASE, MVC, MVVM, PoC, MVP,
+SOW, SME, CCB, COE, SDC, PDCA,
+SIPOC, SWOT, RACI, VUCA
 ```
 
 ## 词汇解释
@@ -1372,6 +1372,8 @@ E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往
 丁克 - 有收入和生育能力却选择不生育的人
 团建 - 通过集体活动增强团队凝聚力
 躺平 - 选择最低限度劳动和社会参与的生活态度
+上头 - 令人兴奋、冲动、上瘾、着迷
+下头 - 令人反感、失望、恶心、扫兴
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -1666,6 +1668,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 不当类比 - 逻辑谬误，错误类比，弱类比，使用不恰当的类比推论而得出不恰当的结论
 自相矛盾 - 逻辑错误，命题自我冲突或自我推翻而缺乏说服力
 循环论证 - 逻辑错误，用来证明论题的论据本身的真实性要依靠论题来证明
+量化投资 - 以数据为基础、以模型为核心、以程序化交易为工具的投资方法
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -1961,7 +1964,7 @@ UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
 VIP - Very Important Person 重要人物 / Virtual IP Address 虚拟IP地址
-IDE - Integrated Development Environment 集成开发环境(软件开发)
+IDE - Integrated Development Environment 集成开发环境(软件开发) / Integrated Drive Electronics 电子集成驱动器(硬盘)
 NPC - Non-Player Character 非玩家角色
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
 RPG - Role-Playing Game 角色扮演游戏 / Rocket-Propelled Grenade 火箭推进榴弹，火箭弹
@@ -2112,6 +2115,7 @@ POS - Point Of Sale 销售点终端
 RGB - Red Green Blue 红绿蓝
 QA - Quality Assurance 质量保证(测试)
 QC - Quality Control 质量控制
+CRT - Cathode Ray Tube 阴极射线管，显像管
 LCD - Liquid Crystal Display 液晶显示
 LED - Light Emitting Diode 发光二极管
 IBM - International Business Machines Corporation 国际商业机器公司
@@ -2141,7 +2145,7 @@ AI - Artificial Intelligence 人工智能
 AIGC - AI Generated Content 人工智能生成内容
 AGI - Artificial General Intelligence 通用人工智能
 LLM - Large Language Model 大型语言模型
-GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
+GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型 / GUID Partition Table 全局唯一标识分区表
 MoE - Mixture of Experts 混合专家模型，让模型以远低于传统密集模型的计算成本进行预训练的机器学习技术
 NLP - Natural Language Processing 自然语言处理
 CPU - Central Processing Unit 中央处理器 / PUA的别称
@@ -2172,6 +2176,8 @@ LRT - Light Rail Transit 轻轨运输系统
 CRH - China Railway High-speed 中国铁路高速列车
 WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
 CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
+HUD - Head-Up Display 抬头显示器
+AUD - Audio 音频 / Australian Dollar 澳大利亚元，澳元
 NOA - Navigate on Autopilot 领航辅助驾驶
 FSD - Full Self-Driving 完全自动驾驶
 SSO - Single Sign-On 单点登录(认证服务)
@@ -2303,6 +2309,7 @@ SATA - Serial Advanced Technology Attachment 串行高级技术附件，串行�
 SCSI - Small Computer System Interface 小型计算机系统接口
 SAS - Serial Attached SCSI 串行连接SCSI
 SSD - Solid-State Drive 固态驱动器 / Solid-State Disk 固态硬盘
+MBR - Master Boot Record 主引导记录，分区表
 UPS - Uninterruptible Power Supply 不间断电源
 HBA - Host Bus Adapter 主机总线适配器
 HUB - Hub 集线器
@@ -3415,6 +3422,8 @@ E人 - Extravert
 丁克 - Dual Income, No Kids (DINK)
 团建 - Team building
 躺平 - Lie down / Couch potato
+上头 - Addictive
+下头 - Disgusting
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
@@ -3709,6 +3718,7 @@ T型人才 - T-shaped talent
 不当类比 - False analogy / Weak analogy
 自相矛盾 - Fallacy of inconsistency / Self-contradiction
 循环论证 - Circular argument / Circular reasoning
+量化投资 - Quantitative investment
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
