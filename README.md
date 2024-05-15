@@ -302,7 +302,7 @@ QR码, UP主, 大V, 主R, I人, E人, C位
 无政府主义, 历史局限性, 非普适范式,
 他人即地狱, 何不食肉糜, 社会管道化,
 阿茲海默症, 伯努利原理, 鲁珀特之泪,
-讨好型人格
+讨好型人格, 单电子宇宙
 
 官僚资本主义, 机械唯物主义, 辩证唯物主义,
 劣币驱逐良币, 半结构化数据, 非结构化数据,
@@ -1627,6 +1627,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 伯努利原理 - 液体或气体在流动时，速度增加会使压力降低
 鲁珀特之泪 - 冰水中快速冷却凝结的玻璃液滴，尾部脆弱但头部极为坚硬
 讨好型人格 - 过度追求他人认可和喜爱，忽视自身合理需求的人格特征
+单电子宇宙 - 物理学假设，当前宇宙是由单个电子在时空中来回穿梭，参与了整个宇宙内所有的事件而形成的
 
 官僚资本主义 - 资本主义变体，政府官僚控制经济资源
 机械唯物主义 - 用古典力学解释一切自然现象的观点，把物质的物理、化学和生物的性质都归结为力学的性质
@@ -1748,7 +1749,7 @@ WLB - Work-Life Balance 工作生活平衡，劳逸平衡
 SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 WC - Water Closet 抽水马桶，厕所
 ID - Identity Document 身份证件 / Identifier 标识符
-IC - Intelligent Card 智能卡 / Imperial College London 英国帝国理工学院
+IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡 / Imperial College London 英国帝国理工学院
 IQ - Intelligence Quotient 智力商数，智商
 EQ - Emotional Quotient 情感商数，情商
 AQ - Adversity Quotient 逆境商数，逆商
@@ -2023,6 +2024,7 @@ IMF - International Monetary Fund 国际货币基金组织
 ISBN - International Standard Book Number 国际标准书号
 IOC - International Olympic Committee 国际奥委会
 PLA - People's Liberation Army of China 中国人民解放军
+NFL - National Football League 全国橄榄球联盟(美国)
 NBA - National Basketball Association 美国篮球协会
 CBA - Chinese Basketball Association 中国篮球协会
 ICAC - Independent Commission Against Corruption 廉政公署
@@ -2417,7 +2419,7 @@ VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
 GNU - GNU's Not Unix 完全自由的操作系统，"GNU不是Unix"的递归缩写
 GCC - GNU Compiler Collection GNU编译器套件
-GDB - GNU debugger GNU调试器
+GDB - GNU Debugger GNU调试器
 GPL - GNU General Public License GNU通用公共许可协议
 LGPL - GNU Lesser General Public License 更宽松的GNU通用公共许可协议
 BSD - Berkeley Software Distribution 伯克利软件包 / BSD License BSD许可证
@@ -3806,6 +3808,7 @@ T型人才 - T-shaped talent
 伯努利原理 - Bernoulli's principle
 鲁珀特之泪 - Prince Rupert's drop
 讨好型人格 - People-pleaser
+单电子宇宙 - One-electron universe
 
 官僚资本主义 - Bureaucratic capitalism
 机械唯物主义 - Mechanistic materialism
