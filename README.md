@@ -2120,6 +2120,7 @@ BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业
 AI - Artificial Intelligence 人工智能
 AIGC - AI Generated Content 人工智能生成内容
 AGI - Artificial General Intelligence 通用人工智能
+RAG - Retrieval Augmented Generation 检索增强生成
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型 / GUID Partition Table 全局唯一标识分区表
 MoE - Mixture of Experts 混合专家模型，让模型以远低于传统密集模型的计算成本进行预训练的机器学习技术
