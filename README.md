@@ -2067,7 +2067,7 @@ ASO - App Store Optimization 应用商店优化
 RTB - Real-Time Bidding 实时竞价
 SMO - Social Media Optimization 社交媒体优化
 SOHO - Small Office Home Office 家居办公
-SNS - Social Networking Services 社会性网络服务
+SNS - Social Networking Services 社会性网络服务 / Simple Notification Service 简单消息服务
 FAQ - Frequently Asked Questions 常见问题解答
 UTC - Coordinated Universal Time 协调世界时间，世界统一时间
 GMT - Greenwich Mean Time 格林尼治标准时间
@@ -2258,6 +2258,7 @@ SLB - Server Load Balancer 服务器负载均衡
 ALB - Application Load Balancer 应用负载均衡
 NLB - Network Load Balancer 网络负载均衡
 CLB - Classic Load Balancer 经典负载均衡
+ELB - Elastic Load Balancing 弹性负载均衡
 NAT - Network Address Translation 网络地址转换
 GW - Gateway 网关
 GFW - Great Firewall 防火长城，中国国家防火墙
@@ -2353,7 +2354,7 @@ IMAP - Internet Message Access Protocol 互联网消息访问协议
 VRRP - Virtual Router Redundancy Protocol 虚拟路由冗余协议，用于提高网络可靠性的容错协议
 ARP - Address Resolution Protocol 地址解析协议
 SYN - Synchronize Sequence Numbers 同步序列编号
-ACK - Acknowledgement 确认 / Container Service for Kubernetes 阿里云容器服务Kubernetes版
+ACK - Acknowledgement 确认 / Container Service for Kubernetes 容器服务Kubernetes版
 FDD - Floopy Disk Drive 软盘驱动器 / Frequency-Division Duplexing 频分双工
 COM - Component Object Model 组件对象模型 / Company 公司 / Communication 通信
 GSM - Global System for Mobile Communications 移动通信全球系统
@@ -2405,10 +2406,13 @@ GDB - GNU debugger GNU调试器
 GPL - GNU General Public License GNU通用公共许可协议
 LGPL - GNU Lesser General Public License 更宽松的GNU通用公共许可协议
 BSD - Berkeley Software Distribution 伯克利软件包 / BSD License BSD许可证
-ECS - Elastic Compute Service 弹性计算服务，云服务器 / Amazon Elastic Container Service 亚马逊弹性容器编排服务
-EC2 - Amazon Elastic Compute Cloud 亚马逊弹性计算云
-ASK - Container Service for Kubernetes Serverless 阿里云容器服务Kubernetes无服务器版
-EKS - Amazon Elastic Kubernetes Service 亚马逊弹性Kubernetes服务
+AWS - Amazon Web Services 亚马逊云计算服务
+ECS - Elastic Compute Service/Server 弹性计算服务，云服务器 / Elastic Container Service 弹性容器编排服务
+EC2 - Elastic Compute Cloud 弹性计算云
+S3 - Simple Storage Service 简单存储服务
+SQS - Simple Queue Service 简单队列服务
+ASK - Container Service for Kubernetes Serverless 容器服务Kubernetes无服务器版
+EKS - Elastic Kubernetes Service 弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
