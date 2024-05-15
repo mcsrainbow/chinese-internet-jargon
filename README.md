@@ -1890,7 +1890,6 @@ LMU - LMU Munich, University of Munich / Ludwig-Maximilians-Universität Münche
 UCSD - University of California, San Diego 加州大学圣地亚哥分校
 UW - University of Washington 华盛顿大学
 UIUC - University of Illinois Urbana-Champaign 伊利诺伊大学厄巴纳香槟分校
-VT - Virtualization Technology 虚拟化技术
 OA - Office Automation 办公自动化
 CRM - Customer Relationship Management 客户关系管理
 SCRM - Social Customer Relationship Management 社会化客户关系管理
@@ -2397,6 +2396,7 @@ XHTML - Extensible Hypertext Markup Language 可扩展超文本标记语言
 CSS - Cascading Style Sheets 层叠样式表
 SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
+VT - Virtualization Technology 虚拟化技术
 VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
 GNU - GNU's Not Unix 完全自由的操作系统，“GNU不是Unix”的递归缩写
