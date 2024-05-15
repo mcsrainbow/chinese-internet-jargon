@@ -1699,7 +1699,9 @@ PLZ - Please 请
 TMI - Too Much Information 太多讯息，不要再说了
 IDK - I Don’t Know 我不知道
 IDC - I Don’t Care 我不在乎 / Internet Data Center 互联网数据中心
-WTF - What The Fuck 靠，什么鬼
+WTF - What The Fuck 我靠，搞什么
+WTH - What The Hell 我晕，什么鬼
+GFY - Go Fuck Yourself 滚开，去你的
 STFU - Shut The Fuck Up 闭嘴
 FML - Fuck My Life 我真倒霉
 GF - Girlfriend 女朋友
