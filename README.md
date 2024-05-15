@@ -1772,6 +1772,7 @@ AOE - Area of Effect 范围性作用
 AM - Ante Meridiem 上午(拉丁文)
 BC - Before Christ 公元前
 TM - Trademark 商标
+R - Registered 已注册
 MAX - Maximum 最大
 MIN - Minimum 最小
 IMP - Import 进口，导入
