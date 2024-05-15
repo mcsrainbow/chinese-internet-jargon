@@ -1848,62 +1848,43 @@ CAE - C1 Advanced / Certificate in Advanced English 剑桥通用英语五级考�
 CPE - Certificate of Proficiency in English 剑桥通用英语五级考试的第五级，熟练水平
 MIT - Massachusetts Institute of Technology 麻省理工学院 / MIT License MIT许可证
 HYP - Harvard Yal Princeton 哈佛，耶鲁，普林斯顿
-JHU - The Johns Hopkins University 约翰斯霍普金斯大学
-NWU - Northwestern University 西北大学(美国)
-WUSTL - Washington University in St. Louis 圣路易斯华盛顿大学
-UC - University of California 加利福尼亚大学，加州大学
+ETH - Eidgenössische Technische Hochschule Zürich 苏黎世联邦理工学院 / Ethereum 以太坊加密货币
+NUS - National University of Singapore 新加坡国立大学
+UCL - University College London 伦敦大学学院
 UCB - University of California, Berkeley 加州大学伯克利分校
-UCLA - University of California, Los Angeles 加州大学洛杉矶分校
-UCSB - University of California, Santa Barbara 加州大学圣巴巴拉分校
-UCSD - University of California, San Diego 加州大学圣地亚哥分校
-UCSC - University of California, Santa Cruz 加利福尼亚大学圣克鲁斯分校
 CIT - California Institute of Technology 加州理工学院
-RPI - Rensselaer Polytechnic Institute 伦斯勒理工学院 / Retail Price Index 零售物价指数
-UIUC - University of Illinois Urbana-Champaign 伊利诺伊大学厄巴纳香槟分校
-NEU - Northeastern University 东北大学(美国)
-UFL - University of Florida 佛罗里达大学
-USC - University of Southern California 南加州大学
-CMU - Carnegie Mellon University 卡内基梅隆大学
-UVa - University of Virginia 弗吉尼亚大学
-WFU - Wake Forest University 维克森林大学
-UNC - University of North Carolina at Chapel Hill 北卡罗来纳大学教堂山分校
-NYU - New York University 纽约大学
-W&M - William & Mary 威廉与玛丽学院
-UMD - University of Maryland, College Park 马里兰大学科利奇帕克分校，马里兰大学帕克分校
-CWRU - Case Western Reserve University 凯斯西储大学
-BYU - Brigham Young University 杨百翰大学
-SMU - Southern Methodist University 南卫理公会大学
-GWU - George Washington University 乔治华盛顿大学
-OSU - The Ohio State University 俄亥俄州立大学
-WPI - Worcester Polytechnic Institute 伍斯特理工学院
-UMN - University of Minnesota, Twin Cities 明尼苏达大学双城分校
-TAMU - Texas A&M University 得克萨斯农工大学
-VT - Virginia Tech 弗吉尼亚理工大学 / Virtualization Technology 虚拟化技术
-AU - American University 美利坚大学
-IUB - Indiana University Bloomington 印第安纳大学伯明顿分校
-MSU - Michigan State University 密西根州立大学
-MU - Miami University, Oxford 迈阿密大学牛津分校
-TCU - Texas Christian University 得克萨斯克里斯汀大学 / Transmission Control Unit 自动变速箱控制单元
-DU - University of Denver 丹佛大学
-SBU - The State University of New York at Stony Brook 纽约州立大学石溪分校
-UVM - University of Vermont 佛蒙特大学
-NCSU - North Carolina State University 北卡罗莱纳州立大学
-FSU - Florida State University 佛罗里达州立大学
-SLU - Saint Louis University 圣路易斯大学
+PKU - Peking University 北京大学
+THU - Tsinghua University 清华大学
+USYD - The University of Sydney 悉尼大学
+UNSW - The University of New South Wales 新南威尔士大学
+NTU - Nanyang Technological University 南洋理工大学
 HKU - The University of Hong Kong 香港大学
 HKUST - The Hong Kong University of Science and Technology 香港科技大学
 CUHK - The Chinese University of Hong Kong 香港中文大学
 HKBU - Hong Kong Baptist University 香港浸会大学
 CityU - City University of Hong Kong 香港城市大学
 PolyU - The Hong Kong Polytechnic University 香港理工大学
-NTU - Nanyang Technological University 南洋理工大学
+JHU - The Johns Hopkins University 约翰斯霍普金斯大学
+UTokyo - University of Tokyo 东京大学
+UCLA - University of California, Los Angeles 加州大学洛杉矶分校
+UoM - The University of Manchester 曼彻斯特大学
+UMich - University of Michigan 密歇根大学
 ANU - The Australian National University 澳大利亚国立大学
-UNSW - The University of New South Wales 新南威尔士大学
-UCL - University College London 伦敦大学学院
+UBC - University of British Columbia 英属哥伦比亚大学，不列颠哥伦比亚大学
+EPFL - École polytechnique fédérale de Lausanne 洛桑联邦理工学院
+TUM - Technische Universität München 慕尼黑工业大学
+NYU - New York University 纽约大学
 KCL - King's College London 伦敦国王学院
-LSE - The London School of Economics and Political Science 伦敦政治经济学院
-UBC - University of British Columbia 英属哥伦比亚大学
 UQ - The University of Queensland 昆士兰大学
+LSE - The London School of Economics and Political Science 伦敦政治经济学院
+NU - Northwestern University 西北大学(美国)
+CMU - Carnegie Mellon University 卡内基梅隆大学
+UvA - Universiteit van Amsterdam 阿姆斯特丹大学
+LMU - Ludwig-Maximilians-Universität München 慕尼黑大学
+UCSD - University of California, San Diego 加州大学圣地亚哥分校
+UW - University of Washington 华盛顿大学
+UIUC - University of Illinois Urbana-Champaign 伊利诺伊大学厄巴纳香槟分校
+VT - Virtualization Technology 虚拟化技术
 OA - Office Automation 办公自动化
 CRM - Customer Relationship Management 客户关系管理
 SCRM - Social Customer Relationship Management 社会化客户关系管理
@@ -1931,7 +1912,7 @@ VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育 / Property Executive 物业主管
 IPO - Initial Public Offering 首次公开募股
 BIZ - Business 商业，业务
-BU - Business Unit 业务单元 / Boston University 波士顿大学
+BU - Business Unit 业务单元
 BG - Business Group 业务集团
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
@@ -2008,7 +1989,7 @@ CN - China 中国
 CHN - China 中国
 HK - Hong Kong 香港
 US - United States 美国
-USD - United States Dollar 美元 / University of San Diego 圣地亚哥大学
+USD - United States Dollar 美元
 USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
 UK - United Kingdom 英国
 JP - Japan 日本
@@ -2204,7 +2185,7 @@ I/O - Input/Output 输入/输出
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
 SRE - Site Reliability Engineering 站点可靠性工程 / Site Reliability Engineer 站点可靠性工程师
 DEV - Development 开发(环境)
-SIT - System Integration Testing 系统集成测试(环境) / Stevens Institute of Technology 史蒂文斯理工学院
+SIT - System Integration Testing 系统集成测试(环境)
 UAT - User Acceptance Testing 用户验收测试(环境)
 PRE - Pre-production 预生产(环境)，灰度(环境)
 PROD - Production 生产(环境)
@@ -2376,7 +2357,7 @@ CDMA - Code Division Multiple Aceess 码分多址
 FDMA - Frequency Division Multiple Address 频分多址
 AGP - Accelerated Graphics Port 加速图形接口
 CRBT - Color Ring Back Tone 彩铃回音
-PSU - Power Supply Unit 电源供应器 / Pennsylvania State University 宾夕法尼亚州立大学
+PSU - Power Supply Unit 电源供应器
 PDU - Power Distribution Unit 电源分配单元 / Protocol Data Unit 协议数据单元
 SCU - Service Control Unit 业务控制单元 / Storage Capacity Unit 存储容量单元 / Sichuan University 四川大学
 OMC - Operation Maintenance Center 操作维护中心
