@@ -179,7 +179,7 @@
 
 ```markdown
 985工程, 211工程, All in, A/B测试,
-QR码, UP主, 大V, 主R, I人, E人
+QR码, UP主, 大V, 主R, I人, E人, C位
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -211,7 +211,8 @@ QR码, UP主, 大V, 主R, I人, E人
 军阀, 财阀, 学阀, 定金, 订金, 手办, 公仔,
 函数, 映射, 拟合, 方差, 智商, 情商, 逆商,
 财商, 社牛, 社恐, 丁克, 团建, 躺平, 上头,
-下头, 丧系, 佛系, 油腻, 硬核, 副本, 四大
+下头, 丧系, 佛系, 油腻, 硬核, 副本, 四大,
+递归
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -1051,6 +1052,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 主R - 实际执行和做事的人，RACI责任分配矩阵中的Responsible
 I人 - MBTI中的Introversion，偏好内向、喜安静、思考、深度交往的个体
 E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往的个体
+C位 - 中间、重要、核心位置
 
 熵减 - 系统从混乱向有序转变，情况变好
 熵增 - 系统从有序向混乱转变，情况恶化
@@ -1269,6 +1271,7 @@ E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往
 硬核 - 技术含量高、专业性强、难度大、有挑战性的事物
 副本 - 游戏中独立于主世界的特殊任务场景的复制 / 数据或文件的复制品
 四大 - 著名的四个会计师事务所，安永(EY)、德勤(Deloitte)、普华永道(PwC)、毕马威(KPMG)
+递归 - 在定义中反复调用其自身
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -1731,7 +1734,6 @@ FB - Facebook 脸书，社交网络应用
 IG - Instagram 图片社交应用
 WLB - Work-Life Balance 工作生活平衡，劳逸平衡
 SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
-AOE - Area of Effect 范围性作用
 WC - Water Closet 抽水马桶，厕所
 ID - Identity Document 身份证件 / Identifier 标识符
 IC - Intelligent Card 智能卡 / Imperial College London 英国帝国理工学院
@@ -1749,7 +1751,7 @@ FAX - Facsimile 传真
 APP - Application 应用程序
 WiFi - Wireless Fidelity 无线保真技术，无线网络协议
 AC - Access Controller 网络控制器
-AP - Access Point 网络接入点
+AP - Access Point 网络接入点 / Attack Power 法术输出(游戏)
 WAP - Wireless Access Point 无线网络接入点
 PPT - PowerPoint 微软演示文稿
 PDF - Portable Document Format 便携式文档格式
@@ -1763,6 +1765,10 @@ ABC - American-Born Chinese 出生在美国的华裔 / Agriculture Bank of China
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
+HP - Health Points 生命值，血量 / Horse Power 马力 / Hewlett-Packard Company 惠普公司
+MP - Magic Points 魔法值，蓝条
+ADC - Attack Damage Carry/Core 伤害输出核心
+AOE - Area of Effect 范围性作用
 AM - Ante Meridiem 上午(拉丁文)
 BC - Before Christ 公元前
 TM - Trademark 商标
@@ -1789,7 +1795,6 @@ W - Watt 瓦，瓦特 / Week 周
 KW - Kilowatt 千瓦
 H - Hour 小时
 S - Second 秒
-HP - Health Points 生命值，血量 / Horse Power 马力 / Hewlett-Packard Company 惠普公司
 B - Byte 字节 / Bit 比特 / Billion 十亿
 KB - Kilobyte 千字节，1 KB = 1024 Bytes / Knowledge Base 知识库
 MB - Megabyte 兆字节，1 MB = 1024 KB
@@ -1819,7 +1824,7 @@ AVP - Assistant Vice President 助理副总裁
 GM - General Manager 总经理 / Game Master 游戏管理员 / General Motors 通用汽车
 BM - Branch Manager 部门经理
 MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
-AD - Assistant Director 助理总监 / Anno Domini 公元(拉丁文) / Advertising 广告 / Active Directory 活动目录
+AD - Assistant Director 助理总监 / Attack Damage 伤害输出(游戏) / Anno Domini 公元(拉丁文) / Advertising 广告 / Active Directory 活动目录
 OP - Operations 运营 / Operator 操作员
 TS - Technical Support 技术支持
 JD - Job Description 职位描述
@@ -1846,9 +1851,10 @@ PET - Preliminary English Test 剑桥通用英语五级考试的第二级，初�
 FCE - First Certificate in English 剑桥通用英语五级考试的第三级，独立水平
 CAE - C1 Advanced / Certificate in Advanced English 剑桥通用英语五级考试的第四级，流利水平
 CPE - Certificate of Proficiency in English 剑桥通用英语五级考试的第五级，熟练水平
+QS - Quacquarelli Symonds (World University Rankings) 英国国际教育市场咨询公司，QS世界大学排名
 MIT - Massachusetts Institute of Technology 麻省理工学院 / MIT License MIT许可证
 HYP - Harvard Yal Princeton 哈佛，耶鲁，普林斯顿
-ETH - Eidgenössische Technische Hochschule Zürich 苏黎世联邦理工学院 / Ethereum 以太坊加密货币
+ETH - ETH Zurich, Swiss Federal Institute of Technology Zurich 苏黎世联邦理工学院 / Ethereum 以太坊加密货币
 NUS - National University of Singapore 新加坡国立大学
 UCL - University College London 伦敦大学学院
 UCB - University of California, Berkeley 加州大学伯克利分校
@@ -1871,8 +1877,8 @@ UoM - The University of Manchester 曼彻斯特大学
 UMich - University of Michigan 密歇根大学
 ANU - The Australian National University 澳大利亚国立大学
 UBC - University of British Columbia 英属哥伦比亚大学，不列颠哥伦比亚大学
-EPFL - École polytechnique fédérale de Lausanne 洛桑联邦理工学院
-TUM - Technische Universität München 慕尼黑工业大学
+EPFL - École polytechnique fédérale de Lausanne 洛桑联邦理工学院(法语)
+TUM - Technical University of Munich 慕尼黑工业大学
 NYU - New York University 纽约大学
 KCL - King's College London 伦敦国王学院
 UQ - The University of Queensland 昆士兰大学
@@ -1880,7 +1886,7 @@ LSE - The London School of Economics and Political Science 伦敦政治经济学
 NU - Northwestern University 西北大学(美国)
 CMU - Carnegie Mellon University 卡内基梅隆大学
 UvA - Universiteit van Amsterdam 阿姆斯特丹大学
-LMU - Ludwig-Maximilians-Universität München 慕尼黑大学
+LMU - LMU Munich, University of Munich / Ludwig-Maximilians-Universität München 慕尼黑大学(德语)
 UCSD - University of California, San Diego 加州大学圣地亚哥分校
 UW - University of Washington 华盛顿大学
 UIUC - University of Illinois Urbana-Champaign 伊利诺伊大学厄巴纳香槟分校
@@ -3208,6 +3214,7 @@ UP主 - Uploader / Content creator
 主R - Responsible (R of RACI chart)
 I人 - Introvert
 E人 - Extravert
+C位 - Center / Carry / Core
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
@@ -3426,6 +3433,7 @@ E人 - Extravert
 硬核 - Hardcore
 副本 - Instance dungeon / Replica
 四大 - Big Four, EDPK (EY, Deloitte, PwC, KPMG)
+递归 - Recursive
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
