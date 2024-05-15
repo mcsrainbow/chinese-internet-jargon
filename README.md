@@ -284,7 +284,7 @@ QR码, UP主, 大V, 主R, I人, E人, C位
 偷换概念, 非黑即白, 诉诸中庸, 迷信权威,
 不当类比, 自相矛盾, 循环论证, 量化投资,
 拿到结果, 敌意归因, 刎颈之交, 角色扮演,
-心理韧性
+心理韧性, 提示工程
 
 金丝雀发布, 第一性原理, 供应链攻击,
 社会工程学, 旁观者效应, 幸存者偏差,
@@ -1576,6 +1576,7 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 刎颈之交 - 情同手足、生死之交的挚友
 角色扮演 - 扮演特定角色以体验不同的身份和情境
 心理韧性 - 面对压力、逆境和挑战时表现出的坚韧和适应能力
+提示工程 - 设计和优化文本提示以引导语言模型生成所需输出
 
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
@@ -2131,6 +2132,7 @@ BE - Business Enablement 商业赋能
 BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业务) / Business Analytics 商业分析(围绕数据)
 AI - Artificial Intelligence 人工智能
 AIGC - AI Generated Content 人工智能生成内容
+GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图像、音频等内容，模仿和创造新内容
 AGI - Artificial General Intelligence 通用人工智能
 RAG - Retrieval Augmented Generation 检索增强生成
 LLM - Large Language Model 大型语言模型
@@ -3753,6 +3755,7 @@ T型人才 - T-shaped talent
 刎颈之交 - Blood brother
 角色扮演 - Role-playing
 心理韧性 - Psychological resilience
+提示工程 - Prompt engineering
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
