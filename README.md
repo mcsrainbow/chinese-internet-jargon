@@ -212,7 +212,7 @@ QR码, UP主, 大V, 主R, I人, E人, C位
 函数, 映射, 拟合, 方差, 智商, 情商, 逆商,
 财商, 社牛, 社恐, 丁克, 团建, 躺平, 上头,
 下头, 丧系, 佛系, 油腻, 硬核, 副本, 四大,
-递归
+递归, 内涵, 外延, 口嗨
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -1281,6 +1281,9 @@ C位 - 中间、重要、核心位置
 副本 - 游戏中独立于主世界的特殊任务场景的复制 / 数据或文件的复制品
 四大 - 著名的四个会计师事务所，安永(EY)、德勤(Deloitte)、普华永道(PwC)、毕马威(KPMG)
 递归 - 在定义中反复调用其自身
+内涵 - 事物或概念的内在意义、核心内容和本质特征，例如人的定义
+外延 - 概念所涵盖的对象范围，适用的具体事物实例，例如整个人类
+口嗨 - 随意说大话或夸张炫耀，发表不负责任的言论
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -3482,6 +3485,9 @@ C位 - Center / Carry / Core
 副本 - Instance dungeon / Replica
 四大 - Big Four, EDPK (EY, Deloitte, PwC, KPMG)
 递归 - Recursive
+内涵 - Connotation
+外延 - Extension
+口嗨 - Talking Big / Keyboard Warrior
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
