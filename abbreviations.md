@@ -689,7 +689,8 @@ REST - Representational State Transfer 表现层状态转化，应用程序接�
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 EOL - End-of-Life 产品寿命结束 / Encyclopedia of Life 生命百科全书
-JIT - Just-In-Time 即时(编译)，实时(编译)
+JIT - Just-In-Time 即时编译，实时编译，即时生产
+LLVM - Low Level Virtual Machine 底层虚拟机，生成高效机器代码的开源编译器框架
 SOAP - Simple Object Access Protocol 简单对象访问协议
 ISP - Internet Service Provider 互联网服务提供商
 ICP - Internet Content Provider 互联网内容提供商
@@ -717,7 +718,7 @@ ICMP - Internet Control Message Protocol 互联网控制消息协议
 SMTP - Simple Mail Transfer Protocol 简单邮件传输协议
 POP - Post Office Protocol 邮局协议
 IMAP - Internet Message Access Protocol 互联网消息访问协议
-VRRP - Virtual Router Redundancy Protocol 虚拟路由冗余协议，用于提高网络可靠性的容错协议
+VRRP - Virtual Router Redundancy Protocol 虚拟路由冗余协议，提高网络可靠性的容错协议
 ARP - Address Resolution Protocol 地址解析协议
 SYN - Synchronize Sequence Numbers 同步序列编号
 ACK - Acknowledgement 确认 / Container Service for Kubernetes 容器服务Kubernetes版
