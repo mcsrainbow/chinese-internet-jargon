@@ -1681,9 +1681,9 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 相关不蕴涵因果 - 相关不代表因果，单纯的相关性不直接说明因果关系
 ```
 
-### 英文缩写解释(通用)
+### [英文缩写解释(通用)](https://github.com/mcsrainbow/chinese-internet-jargon/blob/main/abbreviations.md#%E8%8B%B1%E6%96%87%E7%BC%A9%E5%86%99%E8%A7%A3%E9%87%8A%E9%80%9A%E7%94%A8)
 
-### 英文缩写解释(术语)
+### [英文缩写解释(术语)](https://github.com/mcsrainbow/chinese-internet-jargon/blob/main/abbreviations.md#%E8%8B%B1%E6%96%87%E7%BC%A9%E5%86%99%E8%A7%A3%E9%87%8A%E6%9C%AF%E8%AF%AD)
 
 ## 词汇翻译
 
