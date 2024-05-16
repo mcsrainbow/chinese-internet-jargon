@@ -1281,7 +1281,7 @@ C位 - 中间、重要、核心位置
 副本 - 游戏中独立于主世界的特殊任务场景的复制 / 数据或文件的复制品
 四大 - 著名的四个会计师事务所，安永(EY)、德勤(Deloitte)、普华永道(PwC)、毕马威(KPMG)
 递归 - 在定义中反复调用其自身
-内涵 - 事物或概念的内在意义、核心内容和本质特征，例如人的定义
+内涵 - 事物或概念的内在意义、核心内容和本质特征，例如人的定义 / 隐喻、反讽
 外延 - 概念所涵盖的对象范围，适用的具体事物实例，例如整个人类
 口嗨 - 随意说大话或夸张炫耀，发表不负责任的言论
 
@@ -3485,7 +3485,7 @@ C位 - Center / Carry / Core
 副本 - Instance dungeon / Replica
 四大 - Big Four, EDPK (EY, Deloitte, PwC, KPMG)
 递归 - Recursive
-内涵 - Connotation
+内涵 - Connotation / Metaphor
 外延 - Extension
 口嗨 - Talking Big / Keyboard Warrior
 
