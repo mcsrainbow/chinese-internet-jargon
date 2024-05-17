@@ -2580,7 +2580,7 @@ C位 - Center / Carry / Core
 对冲 - Hedging
 范式 - Paradigm
 内耗 - Internal friction
-刻奇 - Quirkiness
+刻奇 - Kitsch / Quirkiness
 冥想 - Meditation
 群氓 - Mob mentality
 脱敏 - Desensitization
