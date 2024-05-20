@@ -366,7 +366,7 @@ RUS - Russia 俄罗斯
 SGP - Singapore 新加坡
 RMB - Rénmínbì 人民币(拼音)
 CNY - Chinese Yuan 人民币
-VISA - Visa 签证
+VISA - Visa 签证 / 信用卡品牌(美国)
 NGO - Non-Governmental Organization 非政府组织
 NPO - Non-Profit Organization 非营利组织
 IMF - International Monetary Fund 国际货币基金组织
