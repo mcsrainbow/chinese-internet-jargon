@@ -163,6 +163,7 @@ AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
 LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
 SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
 No. - Number 号码
+L - Layer 层 / Level 级别
 G - Gram 克
 K - Kilo 千
 KG - Kilogram 千克，公斤
