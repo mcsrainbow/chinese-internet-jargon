@@ -317,8 +317,7 @@ HQ - Headquarters 公司总部
 UI - User Interface 用户界面
 GUI - Graphical User Interface 图形用户界面
 CLI - Command-Line Interface 命令行界面
-UE - User Experience 用户体验
-UX - User Experience 用户体验
+UE/UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
 VIP - Very Important Person 重要人物 / Virtual IP Address 虚拟IP地址
