@@ -454,6 +454,7 @@ UFO - Unidentified Flying Object 不明飞行物
 RIP - Rest In Peace 安息 / Routing Information Protocol 路由信息协议
 ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
 ICQ - I Seek You 我找你，即时通讯软件(以色列)
+IRC - Internet Relay Chat 互联网中继聊天，基于TCP和SSL协议
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
 HIV - Human Immunodeficiency Virus 人类免疫缺陷病毒，艾滋病毒
