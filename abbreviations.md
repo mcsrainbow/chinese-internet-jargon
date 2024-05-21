@@ -378,6 +378,8 @@ PCU - Peak Concurrent Users 最高并发用户
 GPM - GMV Per Mille 千次交易总额 / Gallons Per Minute 加仑每分钟
 DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
 BOT - Bot 机器人 / Back On Topic 回到主题 / Build–Operate–Transfer 建设-经营-转让，政府基建商业模式
+IMAX - Image Maximum 巨幕(电影)
+IMDb - Internet Movie Database 互联网电影数据库
 FAB - Feature, Advantage, Benefit 特色，优势，收益
 USP - Unique Selling Proposition 独特的销售主张，卖点
 SP - Sales Promotion 促销
@@ -385,6 +387,8 @@ FOC - Free of Charge 免费
 SKU - Stock Keeping Unit 库存单位(产品)
 GDP - Gross Domestic Product 国内生产总值
 CPI - Consumer Price Index 消费者物价指数 / Cost Performance Index 成本绩效指数
+PPI - Producer Price Index 生产物价指数
+PMI - Purchasing Managers' Index 采购经理人指数
 WTO - World Trade Organization 世界贸易组织
 WHO - World Health Organization 世界卫生组织
 GPS - Global Positioning System 全球卫星定位系统(美国国防部)
@@ -422,6 +426,7 @@ PLA - People's Liberation Army of China 中国人民解放军
 NFL - National Football League 全国橄榄球联盟(美国)
 NBA - National Basketball Association 美国篮球协会
 CBA - Chinese Basketball Association 中国篮球协会
+FIFA - Fédération Internationale de Football Association 国际足球联合会(法语)，国际足联
 ICAC - Independent Commission Against Corruption 廉政公署
 FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局 / Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
@@ -455,6 +460,7 @@ ET - Extra Terrestrial 外星人
 UFO - Unidentified Flying Object 不明飞行物
 RIP - Rest In Peace 安息 / Routing Information Protocol 路由信息协议
 ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
+CT - Computed Tomography 计算机体层成像，计算机断层扫描 / X-Ray Computed Tomography X射线计算机断层扫描
 ICQ - I Seek You 我找你，即时通讯软件(以色列)
 IRC - Internet Relay Chat 互联网中继聊天，基于TCP和SSL协议
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
@@ -494,6 +500,7 @@ DVD - Digital Versatile Disc 数字多功能光盘
 AV - Audio Video 音频视频 / Adult Video 成人视频
 TV - Television 电视
 MTV - Music Television 音乐电视
+KTV - Karaoke TV 卡拉OK(日英文杂名)，视唱空间
 MV - Music Video 音乐视频
 VOD - Video On Demand 视频点播
 DJ - Disc Jockey 碟片骑师
@@ -576,6 +583,7 @@ PP - Polypropylene 聚丙烯，常用于盆、桶、瓶、餐盒
 PU - Polyurethane 聚氨酯，人造皮革
 ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
+F1 - Formula One 一级方程式赛车
 MT - Manual Transmission 手动变速器 / Main Tank 主坦克，负责承受敌人伤害的游戏职业 / Metric Ton 公吨，1000千克
 AT - Automatic Transmission 自动变速箱
 DCT - Dual Clutch Transmission 双离合变速箱

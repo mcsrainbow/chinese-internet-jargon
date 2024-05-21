@@ -179,7 +179,8 @@
 
 ```markdown
 985工程, 211工程, All in, A/B测试,
-QR码, UP主, 大V, 主R, I人, E人, C位
+QR码, UP主, 大V, 主R, I人, E人, C位,
+B超
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -212,7 +213,7 @@ QR码, UP主, 大V, 主R, I人, E人, C位
 函数, 映射, 拟合, 方差, 智商, 情商, 逆商,
 财商, 社牛, 社恐, 丁克, 团建, 躺平, 上头,
 下头, 丧系, 佛系, 油腻, 硬核, 副本, 四大,
-递归, 内涵, 外延, 口嗨, 环比, 同比
+递归, 内涵, 外延, 口嗨, 环比, 同比, 量贩
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -1063,6 +1064,7 @@ UP主 - 网络视频平台的内容创作者，上传者
 I人 - MBTI中的Introversion，偏好内向、喜安静、思考、深度交往的个体
 E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往的个体
 C位 - 中间、重要、核心位置
+B超 - B型医学超声检查
 
 熵减 - 系统从混乱向有序转变，情况变好
 熵增 - 系统从有序向混乱转变，情况恶化
@@ -1287,6 +1289,7 @@ C位 - 中间、重要、核心位置
 口嗨 - 随意说大话或夸张炫耀，发表不负责任的言论
 环比 - 与前期相比，如月度环比、季度环比
 同比 - 与去年同期相比，某个特定统计段今年与去年之间的比较，如年度同比
+量贩 - 大量批发的超市(日文)
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -2430,6 +2433,7 @@ UP主 - Uploader / Content creator
 I人 - Introvert
 E人 - Extravert
 C位 - Center / Carry / Core
+B超 - Brightness-mode medical ultrasound
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
@@ -2654,6 +2658,7 @@ C位 - Center / Carry / Core
 口嗨 - Talking Big / Keyboard Warrior
 环比 - Last Period (LP)
 同比 - Same Period Last Year (SPLY)
+量贩 - Hypermarket
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
