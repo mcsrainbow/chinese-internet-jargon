@@ -163,7 +163,6 @@ AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
 LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
 SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
 No. - Number 号码
-L - Layer 层 / Level 级别
 G - Gram 克
 K - Kilo 千
 KG - Kilogram 千克，公斤
@@ -175,7 +174,7 @@ CBM - Cubic Meter 立方米
 KM - Kilometer 千米，公里 / Knowledge Management 知识管理
 CM - Centimeter 厘米
 MM - Millimeter 毫米
-L - Liter 升
+L - Liter 升 / Layer 层 / Level 级别
 ML - Milliliter 毫升 / Machine Learning 机器学习
 W - Watt 瓦，瓦特 / Week 周
 KW - Kilowatt 千瓦
