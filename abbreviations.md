@@ -482,6 +482,7 @@ SNS - Social Networking Services 社会性网络服务 / Simple Notification Ser
 FAQ - Frequently Asked Questions 常见问题解答
 UTC - Coordinated Universal Time 协调世界时间，世界统一时间
 GMT - Greenwich Mean Time 格林尼治标准时间
+CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
 TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
 ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
 VCR - Video Cassette Recorder 录像机(视频片断)
