@@ -674,6 +674,7 @@ eBPF - extened Berkeley Packet Filter 扩展的伯克利包过滤器，允许在
 JDK - Java Development Kit Java开发工具包
 JRE - Java Runtime Environment Java运行时环境
 JVM - Java Virtual Machine Java虚拟机
+JSP - Java Server Pages Java服务器网页
 SDK - Software Development Kit 软件开发工具包
 UUID - Universally Unique Identifier 通用唯一识别码
 DBMS - Database Management System 数据库管理系统
