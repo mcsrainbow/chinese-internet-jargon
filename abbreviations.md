@@ -74,8 +74,8 @@ THX/TKS/THKS - Thanks 谢谢
 TY - Thank You 谢谢你
 Pls/Plz - Please 请
 TMI - Too Much Information 太多讯息，不要再说了
-IDK - I Don’t Know 我不知道
-IDC - I Don’t Care 我不在乎 / Internet Data Center 互联网数据中心
+IDK - I Don't Know 我不知道
+IDC - I Don't Care 我不在乎 / Internet Data Center 互联网数据中心
 WTF - What The Fuck 我靠，搞什么
 WTH - What The Hell 我晕，什么鬼
 GFY - Go Fuck Yourself 滚开，去你的
