@@ -293,9 +293,10 @@ MOQ - Minimum Order Quantity 最小订货量
 POD - Port of Destination 目的港
 POL - Port of Loading 装货港
 POV - Point of View 观点 / Proof of Value 价值证明
-ETC - etc. et cetera 等等(拉丁文) / Electronic Toll Collection 不停车电子计费
-IE - i.e. id est 换句话说(拉丁文) / Internet Explorer 网页浏览器(微软)
+etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
+i.e. - id est 换句话说(拉丁文)
+viz. - videlicet 也就是(拉丁文)
 COD - Cash On Delivery 货到付款
 Q&A - Question and Answer 问与答
 R&D - Research and Development 研究和开发
@@ -329,7 +330,8 @@ RPG - Role-Playing Game 角色扮演游戏 / Rocket-Propelled Grenade 火箭推�
 MMORPG - Massively Multiplayer Online Role-Playing Game 大型多人在线角色扮演游戏
 RPA - Robotic Process Automation 机器人流程自动化
 MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
-VS - Versus 对抗，相对 / Visual Studio (Microsoft IDE)
+VS - Versus 对抗，相对 / Visual Studio (微软)
+IE - Internet Explorer 网页浏览器(微软)
 PR - Public Relations 公共关系 / Pull Request 合并请求(软件开发)
 GR - Government Relations 政府关系
 IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
@@ -572,6 +574,7 @@ HA - High Availability 高可用性
 PVC - Polyvinyl Chloride 聚氯乙烯，工程塑料，常用于板材、管材、门窗
 PP - Polypropylene 聚丙烯，常用于盆、桶、瓶、餐盒
 PU - Polyurethane 聚氨酯，人造皮革
+ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
 MT - Manual Transmission 手动变速器 / Main Tank 主坦克，负责承受敌人伤害的游戏职业 / Metric Ton 公吨，1000千克
 AT - Automatic Transmission 自动变速箱
