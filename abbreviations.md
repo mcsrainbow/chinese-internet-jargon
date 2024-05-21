@@ -748,6 +748,8 @@ UA - User Agent 用户代理
 JS - JavaScript 可在浏览器端执行的编程语言
 PHP - Hypertext Preprocessor 超文本预处理器，编程语言
 ASP - Active Server Page 动态服务器网页 / Average Selling Price 平均销售价格
+MSDN - Microsoft Developer Network 微软开发者网络
+WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
 ROM - Read-Only Memory 只读内存
 BYOK - Bring Your Own Key 自带密钥
 BYOD - Bring Your Own Device 自带设备
