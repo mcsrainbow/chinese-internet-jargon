@@ -178,6 +178,7 @@ L - Liter 升 / Layer 层 / Level 级别
 ML - Milliliter 毫升 / Machine Learning 机器学习
 W - Watt 瓦，瓦特 / Week 周
 KW - Kilowatt 千瓦
+P - Power 匹，马力，0.735千瓦 / Page 页
 H - Hour 小时
 S - Second 秒
 B - Byte 字节 / Bit 比特 / Billion 十亿
