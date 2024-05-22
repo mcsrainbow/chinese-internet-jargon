@@ -509,7 +509,7 @@ IM - Instant Messaging 即时消息
 USB - Universal Serial Bus 通用串行总线
 OCR - Optical Character Recognition 光学字符识别
 RGB - Red Green Blue 红绿蓝
-POS - Point Of Sale 销售点终端
+POS - Point of Sale 销售点终端
 PW - Packed Weight 包装重量
 QA - Quality Assurance 质量保证(测试)
 QC - Quality Control 质量控制
@@ -765,8 +765,8 @@ FS - File System 文件系统
 REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
-EOM - End Of Message 标示消息的结束
-EOL - End-of-Life 产品寿命结束 / Encyclopedia of Life 生命百科全书
+EOM - End of Message 标示消息的结束
+EOL - End of Life 产品寿命结束 / Encyclopedia of Life 生命百科全书
 JIT - Just-In-Time 即时编译，实时编译，即时生产，按需生产
 LLVM - Low Level Virtual Machine 底层虚拟机，生成高效机器代码的开源编译器框架
 SOAP - Simple Object Access Protocol 简单对象访问协议
@@ -911,7 +911,7 @@ ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离
 BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
 MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
-PoC - Proof of Concept 概念验证 / POC, Point Of Contact 首要联系人
+PoC - Proof of Concept 概念验证 / POC, Point of Contact 首要联系人
 MVP - Minimum Viable Product 最小可行性产品 / Most Valuable Player 最有价值选手
 SOW - Statement of Work 工作说明书
 SME - Subject Matter Expert 主题专家，领域专家
