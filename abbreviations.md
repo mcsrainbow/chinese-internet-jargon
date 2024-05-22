@@ -948,7 +948,7 @@ SPC - Statistical Process Control 统计过程控制
 FMEA - Failure Mode and Effects Analysis 故障模式及影响分析
 AQL - Acceptable Quality Level 可接受质量水平
 GMP - Good Manufacturing Practice 良好生产规范
-PPM - Parts Per Million 百万分之几的零件不良率
+PPM - Parts Per Million 百万分之几(零件不良率)
 CAPA - Corrective and Preventive Action 纠正和预防措施
 SCADA - Supervisory Control And Data Acquisition 数据采集与监视控制系统
 BOT - Build, Operate, Transfer 建设、经营、转让，政府基建商业模式
