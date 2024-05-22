@@ -21,6 +21,7 @@ FYU - For Your Use 供你使用
 RFD - Request For Discussion 请求讨论
 RFI - Request For Information 请求资讯
 TCC - Teleconference Call 电话会议
+IAM - In A Meeting 会议中
 TLDR - TL;DR, Too Long; Didn't Read 太长了，没有阅读
 TLTR - Too Long To Read 太长了，无法阅读
 FWIW - For What It's Worth 对其价值而言，无论如何，不管有没有用
@@ -240,7 +241,7 @@ CPE - Certificate of Proficiency in English 剑桥通用英语五级考试的第
 QS - Quacquarelli Symonds (World University Rankings) 英国国际教育市场咨询公司，QS世界大学排名
 MIT - Massachusetts Institute of Technology 麻省理工学院 / MIT License MIT许可证
 HYP - Harvard Yal Princeton 哈佛，耶鲁，普林斯顿
-ETH - ETH Zurich, Swiss Federal Institute of Technology Zurich 苏黎世联邦理工学院 / Ethereum 以太坊加密货币
+ETH - Ethereum 以太坊加密货币 / ETH Zurich, Swiss Federal Institute of Technology Zurich 苏黎世联邦理工学院
 NUS - National University of Singapore 新加坡国立大学
 UCL - University College London 伦敦大学学院
 UCB - University of California, Berkeley 加州大学伯克利分校
@@ -564,6 +565,8 @@ NLP - Natural Language Processing 自然语言处理
 CPU - Central Processing Unit 中央处理器 / PUA的别称
 GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
+NPU - Neural network Processing Unit 神经网络处理器
+TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
 DNS - Domain Name System 域名系统
 VPN - Virtual Private Network 虚拟专用网
 SSL - Secure Sockets Layer 安全套接层
@@ -875,7 +878,7 @@ ASK - Container Service for Kubernetes Serverless 容器服务Kubernetes无服�
 EKS - Elastic Kubernetes Service 弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
 RDS - Relational Database Service 关系型数据库服务
-IAM - Identity and Access Management 身份与访问管理 / In A Meeting 会议中
+IAM - Identity and Access Management 身份与访问管理
 KMS - Key Management Service 密钥管理服务
 ACL - Access Control Lists 访问控制列表
 DAC - Discretionary Access Control 自主访问控制
