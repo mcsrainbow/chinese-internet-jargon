@@ -339,11 +339,24 @@ MCN - Multi-Channel Network 多频道网络(网红经纪公司)
 UGC - User Generated Content 用户生成内容
 PGC - Professionally Generated Content 专业生成内容
 OGC - Officially Generated Content 官方生成内容
-CPC - Cost Per Click 单次点击成本
-CPM - Cost Per Mille 千次展示成本
-CPA - Cost Per Action 每行动成本 / Certified Public Accountant 注册会计师
 CPS - Cost Per Sales 按销售额付费
 CPT - Cost Per Time 按时长付费 / Curricular Practical Training 课程实习训练，美国政府给予的临时就业许可
+CPA - Cost Per Action 每行动成本 / Certified Public Accountant 注册会计师
+OCPA - Optimized Cost Per Action 优化后每行动成本
+CPC - Cost Per Click 单次点击成本
+OCPC - Optimized Cost Per Click 优化后单次点击成本
+CPM - Cost Per Mille 千次展示成本
+OCPM - Optimized Cost Per Mille 优化后千次展示成本
+IPM - Interactions Per Minute 每分钟互动数(送礼、点赞、评论、分享)
+OPM - Orders Per Mille 千次展示成交订单数
+GMV - Gross Merchandise Value 商品总价值
+GPM - GMV Per Mille 千次展示成交金额 / Gallons Per Minute 加仑每分钟
+ARPU - Average Revenue Per User 每用户平均收入
+ARPPU - Average Revenue Per Paying User 每付费用户平均收益
+CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
+CVR - Conversion Rate 转化率
+PCU - Peak Concurrent Users 最高并发用户
+DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
 OSS - Open-Source Software 开源软件 / Object Storage Service 对象存储服务 / Operation Support Systems 运营支持系统
 CAC - Customer Acquisition Cost 获取单个顾客的成本
 TCO - Total Cost of Ownership 总体拥有成本
@@ -369,14 +382,6 @@ WAU - Weekly Active Users 周活跃用戶数
 MAU - Monthly Active Users 月活跃用户
 PV - Page Views 页面浏览量
 UV - Unique Visitors 独立访客数
-ARPU - Average Revenue Per User 每用户平均收入
-ARPPU - Average Revenue Per Paying User 每付费用户平均收益
-GMV - Gross Merchandise Value 商品总价值
-CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
-CVR - Conversion Rate 转化率
-PCU - Peak Concurrent Users 最高并发用户
-GPM - GMV Per Mille 千次交易总额 / Gallons Per Minute 加仑每分钟
-DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
 BOT - Bot 机器人 / Back On Topic 回到主题 / Build–Operate–Transfer 建设-经营-转让，政府基建商业模式
 IMAX - Image Maximum 巨幕(电影)
 IMDb - Internet Movie Database 互联网电影数据库
