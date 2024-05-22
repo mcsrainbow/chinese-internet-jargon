@@ -474,9 +474,9 @@ ET - Extra Terrestrial 外星人
 UFO - Unidentified Flying Object 不明飞行物
 RIP - Rest In Peace 安息 / Routing Information Protocol 路由信息协议
 ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
-CT - Computed Tomography 计算机体层成像，计算机断层扫描 / X-Ray Computed Tomography X射线计算机断层扫描
+CT - Computed Tomography 计算机体层成像，计算机断层扫描 / X-Ray Computed Tomography X射线计算机断层扫描，X光
 ICQ - I Seek You 我找你，即时通讯软件(以色列)
-IRC - Internet Relay Chat 互联网中继聊天，基于TCP和SSL协议
+IRC - Internet Relay Chat 互联网中继聊天
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
 HIV - Human Immunodeficiency Virus 人类免疫缺陷病毒，艾滋病毒
@@ -485,6 +485,7 @@ KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
 BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
+BMW - Bayerische Motoren Werke Aktiengesellschaft 巴伐利亚引擎制造股份有限公司(德语)
 BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
 B2C - Business to Consumer 企业对消费者，如京东
 C2C - Consumer to Consumer 消费者对消费者，如淘宝 / Copy to China 复制到中国
