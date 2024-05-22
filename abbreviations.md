@@ -324,7 +324,6 @@ BG - Business Group 业务集团
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
 RFP - Request For Proposal 需求建议书，招标书
-BOT - Build–Operate–Transfer 建设-经营-转让，政府基建商业模式
 HQ - Headquarters 公司总部
 UI - User Interface 用户界面
 GUI - Graphical User Interface 图形用户界面
@@ -952,6 +951,7 @@ GMP - Good Manufacturing Practice 良好生产规范
 PPM - Parts Per Million 百万分之几的零件不良率
 CAPA - Corrective and Preventive Action 纠正和预防措施
 SCADA - Supervisory Control And Data Acquisition 数据采集与监视控制系统
+BOT - Build, Operate, Transfer 建设、经营、转让，政府基建商业模式
 SOW - Statement of Work 工作说明书
 SME - Subject Matter Expert 主题专家，领域专家
 CCB - Change Control Board 变更控制委员会
