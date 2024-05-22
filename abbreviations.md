@@ -605,6 +605,7 @@ CRH - China Railway High-speed 中国铁路高速列车
 WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
 CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
 HUD - Head-Up Display 抬头显示器
+RPM - Revolutions Per Minute 每分钟转速
 AUD - Audio 音频 / Australian Dollar 澳大利亚元，澳元
 NOA - Navigate on Autopilot 领航辅助驾驶
 FSD - Full Self-Driving 完全自动驾驶
@@ -623,8 +624,13 @@ KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的�
 ```markdown
 CC - Challenge Collapsar 挑战黑洞，网络攻击方式
 RSVP - Resource Reservation Protocol 资源预留协议
-NVM - Node.js Version Manager Node.js版本管理
 YOLO - You Only Look Once 你只看一次，计算机视觉领域实时对象检测算法
+NVM - Node.js Version Manager Node.js版本管理器
+NPM - Node Package Manager Node包管理器
+RPM - Red Hat Package Manager 红帽包管理器
+YUM - Yellow dog Updater, Modified 基于RPM的包管理工具
+PyPI - Python Package Index Python软件包索引
+CPAN - Comprehensive Perl Archive Network Perl综合档案网，Perl程序库
 OLAP - OnLine Analysis Processing 联机分析处理
 OLTP - Online Transaction Processing 联机事务处理
 BFS - Breadth First Search 广度优先搜索
@@ -634,6 +640,7 @@ CNN - Convolutional Neural Networks 卷积神经网络
 DM - Data Mining 数据挖掘 / Direct Message 直接消息，私信
 DL - Deep Learning 深度学习
 DW - Data Warehouse 数据仓库
+EDI - Electronic Data Interchange 电子数据交换
 EDA - Electronic Design Automation 电子设计自动化，超大规模集成电路芯片的功能设计工具
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
@@ -932,6 +939,7 @@ MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
 PoC - Proof of Concept 概念验证 / POC, Point of Contact 首要联系人
 MVP - Minimum Viable Product 最小可行性产品 / Most Valuable Player 最有价值选手
+BPM - Business Process Management 业务流程管理
 PDM - Product Data Management 产品数据管理
 CAM - Computer Aided Manufacturing 计算机辅助制造
 CAE - Computer Aided Engineering 计算机辅助工程
