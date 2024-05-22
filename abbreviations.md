@@ -484,7 +484,7 @@ KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
 BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
-BMW - Bayerische Motoren Werke Aktiengesellschaft 巴伐利亚引擎制造股份有限公司(德语)
+BMW - Bayerische Motoren Werke Aktiengesellschaft 巴伐利亚引擎制造股份有限公司(德语)，宝马
 BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
 B2C - Business to Consumer 企业对消费者，如京东
 C2C - Consumer to Consumer 消费者对消费者，如淘宝 / Copy to China 复制到中国
