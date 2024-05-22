@@ -765,6 +765,7 @@ NAS - Network Attached Storage 网络附接存储
 ETL - Extract, Transform, Load 提取，转换，加载，在加载前对数据进行清洗加工
 ELT - Extract, Load, Transform 提取，加载，转换，对加载后的数据进行处理
 AJAX - Asynchronous JavaScript and XML 异步JavaScript与XML技术
+XHR - XMLHttpRequest 将HTTP请求从浏览器异步传输到服务器的JavaScript类
 WS - WebSocket 浏览器与服务器之间的双向网络通信协议
 WSS - WebSocket Secure 双向网络通信协议的安全版本
 KV - Key-Value 键值对，NoSQL数据存储模式，每个数据值都对应一个唯一的键
