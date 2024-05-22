@@ -7,21 +7,20 @@ DIY - Do It Yourself 自己动手
 EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
 PK - Player Kill 玩家间对战
-OT - Overtime 加班 / Open Top 开顶箱
+OT - Overtime 加班
 PT - Part-time 兼职
 FW - Forward 转发(邮件) / Firewall 防火墙
-CC - Carbon Copy 抄送(邮件) / Challenge Collapsar 挑战黑洞，网络攻击方式 / Common Criteria 通用标准
+CC - Carbon Copy 抄送(邮件) / Common Criteria 通用标准
 BCC - Blind Carbon Copy 秘密抄送(邮件)
 ATTN - Attention 经办人，相关人员
-RSVP - Répondez S'il Vous Plaît 请回复(法语) / Resource Reservation Protocol 资源预留协议
+RSVP - Répondez S'il Vous Plaît 请回复(法语)
 Encl. - Enclosure 附件(邮件)
 FYI - For Your Information 供你参考
 FYR - For Your Reference 供你参考
 FYU - For Your Use 供你使用
 RFD - Request For Discussion 请求讨论
 RFI - Request For Information 请求资讯
-TCC - Teleconference Call 电话会议 / Try, Confirm, Cancel 预处理、确认、撤销，事务操作
-TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧 / Technology, Entertainment, Design 技术、娱乐、设计，非营利机构(美国)
+TCC - Teleconference Call 电话会议
 TLDR - TL;DR, Too Long; Didn't Read 太长了，没有阅读
 TLTR - Too Long To Read 太长了，无法阅读
 FWIW - For What It's Worth 对其价值而言，无论如何，不管有没有用
@@ -99,7 +98,7 @@ AFK - Away From Keyboard 离开键盘
 TTYL - Talk To You Later 稍后聊
 CWYL - Chat With You Later 稍后聊
 BYOB - Bring Your Own Bottle 自带酒水
-NVM - Never Mind 没关系，别在意 / Node.js Version Manager Node版本管理器
+NVM - Never Mind 没关系，别在意
 BBQ - Barbecue 烧烤
 PDA - Public Displays of Affection 在公共场合秀恩爱
 NSFW - Not Safe For Work 办公室不宜
@@ -112,11 +111,13 @@ BOGO - Buy One, Get One 买一送一
 OCD - Obsessive Compulsive Disorder 强迫症
 TGIF - Thank God It's Friday 感谢上帝今天是星期五
 LET - Leaving Early Today 今天早点走
+BOT - Back On Topic 回到主题 / Bot 机器人
 FB - Facebook 脸书，社交网络应用
 IG - Instagram 图片社交应用
 WLB - Work-Life Balance 工作生活平衡，劳逸平衡
 SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 WC - Water Closet 抽水马桶，厕所
+TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧 / Technology, Entertainment, Design 技术、娱乐、设计，非营利机构(美国)
 ID - Identity Document 身份证件 / Identifier 标识符
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡 / Imperial College London 英国帝国理工学院
 IQ - Intelligence Quotient 智力商数，智商
@@ -137,7 +138,6 @@ AP - Access Point 网络接入点 / Attack Power 法术输出(游戏)
 WAP - Wireless Access Point 无线网络接入点
 PPT - PowerPoint 微软演示文稿
 PDF - Portable Document Format 便携式文档格式
-CAD - Computer-Aided Design 计算机辅助设计
 WPS - Writer, Presentation, Spreadsheets 文字、演示、表格
 BBS - Bulletin Board System 电子公告板 / Be Back Soon 很快回来
 YOLO - You Only Live Once 你只活一次
@@ -277,14 +277,21 @@ UCSD - University of California, San Diego 加州大学圣地亚哥分校
 UW - University of Washington 华盛顿大学
 UIUC - University of Illinois Urbana-Champaign 伊利诺伊大学厄巴纳香槟分校
 OA - Office Automation 办公自动化
+PLM - Product Lifecycle Management 产品生命周期管理
+ERP - Enterprise Resource Planning 企业资源计划，管理人、财、货
+MES - Manufacturing Execution System 制造执行系统，管理车间
+CAD - Computer Aided Design 计算机辅助设计
+SCM - Supply Chain Management 供应链管理
 CRM - Customer Relationship Management 客户关系管理
 SCRM - Social Customer Relationship Management 社会化客户关系管理
-ERP - Enterprise Resource Planning 企业资源计划，整合企业流程的营运管理软件
+BIM - Building Information Modeling 建筑信息模型
+GIS - Geographic Information System 地理信息系统
+QMS - Quality Management System 质量管理系统
 CMS - Content Management System 内容管理系统
-SCM - Supply Chain Management 供应链管理
 BOSS - Business Operation Support System 业务运营支持系统
 MIS - Management Information Systems 管理信息系统
-DB - Database 数据库
+BOM - Bill of Material 物料清单
+BOP - Bill of Process 工艺流程清单 / Balance of Payments 国际收支
 ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
 OEM - Original Equipment Manufacturer 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
 OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
@@ -292,7 +299,7 @@ MRP - Material Requirements Planning 物料需求计划
 MOQ - Minimum Order Quantity 最小订货量
 POD - Port of Destination 目的港
 POL - Port of Loading 装货港
-POV - Point of View 观点 / Proof of Value 价值证明
+POV - Point of View shot 主观镜头 / Point of View 观点 / Proof of Value 价值证明
 etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
@@ -306,6 +313,7 @@ PII - Personal Identifiable Information 个人身份信息
 KA - Key Accounts 重点客户，大卖场
 CS - Customer Service 客户服务 / Computer Science 计算机科学 / Client-Server 客户端与服务器 / Counter-Strike 反恐精英(游戏)
 OU - Organizational Unit 组织单位
+DeFi - Decentralized Finance 去中心化金融
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育 / Property Executive 物业主管
 IPO - Initial Public Offering 首次公开募股
@@ -315,6 +323,7 @@ BG - Business Group 业务集团
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
 RFP - Request For Proposal 需求建议书，招标书
+BOT - Build–Operate–Transfer 建设-经营-转让，政府基建商业模式
 HQ - Headquarters 公司总部
 UI - User Interface 用户界面
 GUI - Graphical User Interface 图形用户界面
@@ -332,7 +341,7 @@ RPA - Robotic Process Automation 机器人流程自动化
 MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
 VS - Versus 对抗，相对 / Visual Studio (微软)
 IE - Internet Explorer 网页浏览器(微软)
-PR - Public Relations 公共关系 / Pull Request 合并请求(软件开发)
+PR - Public Relations 公共关系
 GR - Government Relations 政府关系
 IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
 MCN - Multi-Channel Network 多频道网络(网红经纪公司)
@@ -382,7 +391,6 @@ WAU - Weekly Active Users 周活跃用戶数
 MAU - Monthly Active Users 月活跃用户
 PV - Page Views 页面浏览量
 UV - Unique Visitors 独立访客数
-BOT - Bot 机器人 / Back On Topic 回到主题 / Build–Operate–Transfer 建设-经营-转让，政府基建商业模式
 IMAX - Image Maximum 巨幕(电影)
 IMDb - Internet Movie Database 互联网电影数据库
 FAB - Feature, Advantage, Benefit 特色，优势，收益
@@ -434,12 +442,12 @@ CBA - Chinese Basketball Association 中国篮球协会
 FIFA - Fédération Internationale de Football Association 国际足球联合会(法语)，国际足联
 ICAC - Independent Commission Against Corruption 廉政公署
 FBI - Federal Bureau of Investigation 美国联邦调查局
-CIA - Central Intelligence Agency 美国中央情报局 / Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
+CIA - Central Intelligence Agency 美国中央情报局
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
 CCC/3C - China Compulsory Certification 中国强制性产品认证
 OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
 BBC - British Broadcasting Corporation 英国广播公司
-CNN - Cable News Network 美国有线新闻网络 / Convolutional Neural Networks 卷积神经网络
+CNN - Cable News Network 美国有线新闻网络
 VOA - Voice of America 美国之音
 EMS - Express Mail Service 快递邮政服务
 PICC - The People's Insurance Company of China 中国人民保险公司
@@ -518,14 +526,6 @@ POS - Point of Sale 销售点终端
 PW - Packed Weight 包装重量
 QA - Quality Assurance 质量保证(测试)
 QC - Quality Control 质量控制
-SQC - Statistical Quality Control 统计质量控制
-TQM - Total Quality Management 全面质量管理
-SPC - Statistical Process Control 统计过程控制
-FMEA - Failure Mode and Effects Analysis 故障模式及影响分析
-AQL - Acceptable Quality Level 可接受质量水平
-GMP - Good Manufacturing Practice 良好生产规范
-PPM - Parts Per Million 百万分之几的零件不良率
-CAPA - Corrective and Preventive Action 纠正和预防措施
 CRT - Cathode Ray Tube 阴极射线管，显像管
 LCD - Liquid Crystal Display 液晶显示
 LED - Light Emitting Diode 发光二极管
@@ -539,7 +539,7 @@ HDMI - High Definition Multimedia Interface 高清晰多媒体接口
 VGA - Video Graphics Array 视频图形阵列
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
-MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Merge Request 合并请求(软件开发) / Measurement Report 测量报告 / MapReduce 映射规约
+MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Measurement Report 测量报告
 LBS - Location Based Service 基于位置的服务
 LAN - Local Area Network 局域网
 WLAN - Wireless Local Area Network 无线局域网
@@ -573,7 +573,8 @@ OTP - One-Time Password 一次性密码 / On The Phone 在通话中 / O.T.P. One
 CA - Certificate Authority 证书授权 / Air China 中国国际航空
 DV - Digital Video 数码摄像机 / Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
-EV - Extended Validation 扩展验证(证书) / Electric Vehicle 电动汽车
+EV - Electric Vehicle 电动汽车 / Extended Validation 扩展验证(证书)
+DB - Database 数据库
 DLP - Data Loss Prevention 数据泄漏防护
 GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
 PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
@@ -617,15 +618,19 @@ KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的�
 ## 英文缩写解释(术语)
 
 ```markdown
+CC - Challenge Collapsar 挑战黑洞，网络攻击方式
+RSVP - Resource Reservation Protocol 资源预留协议
+NVM - Node.js Version Manager Node.js版本管理
+YOLO - You Only Look Once 你只看一次，计算机视觉领域实时对象检测算法
 OLAP - OnLine Analysis Processing 联机分析处理
 OLTP - Online Transaction Processing 联机事务处理
 BFS - Breadth First Search 广度优先搜索
 DFS - Depth First Search 深度优先搜索 / Distributed File System 分布式文件系统
 NN - Neural Network 神经网络
+CNN - Convolutional Neural Networks 卷积神经网络
 DM - Data Mining 数据挖掘 / Direct Message 直接消息，私信
 DL - Deep Learning 深度学习
 DW - Data Warehouse 数据仓库
-YOLO - You Only Look Once 你只看一次，计算机视觉领域实时对象检测算法
 EDA - Electronic Design Automation 电子设计自动化，超大规模集成电路芯片的功能设计工具
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
@@ -639,6 +644,8 @@ PRE - Pre-production 预生产(环境)，灰度(环境)
 PROD - Production 生产(环境)
 CaC - Configuration as Code 配置即代码
 IaC - Infrastructure as Code 基础设施即代码
+PR - Pull Request 合并请求(软件开发)
+MR - Merge Request 合并请求(软件开发) / MapReduce 映射规约
 SLA - Service-Level Agreement 服务水平协议，对用户的承诺和补偿范围
 SLO - Service-Level Objective 服务水平目标，达成承诺所需的性能目标
 SLI - Service-Level Indicator 服务水平指标，性能目标的实际测量数据
@@ -673,6 +680,7 @@ DML - Data Manipulation Language 数据操纵语言，包括INSERT, UPDATE, DELE
 DQL - Data Query Language 数据查询语言，包括SELECT
 DCL - Data Control Language 数据控制语言，包括GRANT, REVOKE
 TCL - Transaction Control Language 事务控制语言，包括COMMIT, ROLLBACK, SAVEPOINT, SET TRANSACTION
+TCC - Try, Confirm, Cancel 预处理、确认、撤销，事务操作
 DSL - Domain-Specific Language 领域特定语言
 JDBC - Java Database Connectivity Java数据库连接
 ODBC - Open Database Connectivity 开放数据库连接
@@ -831,6 +839,7 @@ MTU - Maximum Transmission Unit 最大传输单元
 LCP - Link Control Protocol 链路控制协议
 MPLS - Multi-Protocol Label Switching 多协议标签交换
 LDP - Label Distribution Protocol 标签分发协议
+MQTT - Message Queuing Telemetry Transport 消息队列遥测传输协议
 IDEA - International Data Encryption Algorithm 国际数据加密算法
 GEO - Geostationary Earth Orbit 地球静止轨道，地球赤道同步轨道 / Geography 地理 / Gene Expression Omnibus 高通量基因表达数据库
 AS - Autonomous System 自治系统
@@ -885,7 +894,7 @@ UTM - Unified Threat Management 统一威胁管理
 MAM - Mobile Application Management 移动应用管理
 MDM - Mobile Device Management 移动设备管理
 DOM - Document Object Model 文档对象模型
-BOM - Browser Object Model 浏览器对象模型
+BOM - Browser Object Model 浏览器对象
 CORS - Cross-Origin Resource Sharing 跨域资源共享
 XSS - Cross-Site Scripting 跨站脚本
 CSRF - Cross-Site Request Forgery 跨站请求伪造
@@ -911,6 +920,7 @@ TDD - Test-Drive Development 测试驱动开发 / Time Division Duplexing 时分
 BDD - Behavior-Driven Development 行为驱动开发
 DDD - Domain-Driven Design 领域驱动设计
 SDLC - Software Development Life Cycle 软件开发生命周期
+CIA - Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
 CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
 ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
 BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
@@ -918,6 +928,26 @@ MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
 PoC - Proof of Concept 概念验证 / POC, Point of Contact 首要联系人
 MVP - Minimum Viable Product 最小可行性产品 / Most Valuable Player 最有价值选手
+PDM - Product Data Management 产品数据管理
+CAM - Computer Aided Manufacturing 计算机辅助制造
+CAE - Computer Aided Engineering 计算机辅助工程
+CAPP - Computer Aided Process Planning 计算机辅助工艺过程设计
+APS - Advanced Planning and Scheduling 高级计划与排程
+CPDM - Collaborative Product Definition Management 协同产品定义管理
+WMS - Warehouse Management System 仓库管理系统
+WCS - Warehouse Control System 仓库控制系统
+PLC - Programmable Logic Controller 可编程逻辑控制器
+DCS - Distributed Control System 分布式控制系统
+TCM - Total Cost Management 全面成本管理
+TQM - Total Quality Management 全面质量管理
+SQC - Statistical Quality Control 统计质量控制
+SPC - Statistical Process Control 统计过程控制
+FMEA - Failure Mode and Effects Analysis 故障模式及影响分析
+AQL - Acceptable Quality Level 可接受质量水平
+GMP - Good Manufacturing Practice 良好生产规范
+PPM - Parts Per Million 百万分之几的零件不良率
+CAPA - Corrective and Preventive Action 纠正和预防措施
+SCADA - Supervisory Control And Data Acquisition 数据采集与监视控制系统
 SOW - Statement of Work 工作说明书
 SME - Subject Matter Expert 主题专家，领域专家
 CCB - Change Control Board 变更控制委员会
@@ -929,4 +959,3 @@ SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、
 RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
 VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊
 ```
-
