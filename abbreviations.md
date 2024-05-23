@@ -6,10 +6,9 @@
 DIY - Do It Yourself 自己动手
 EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
-PK - Player Kill 玩家间对战
 OT - Overtime 加班
 PT - Part-time 兼职
-FW - Forward 转发(邮件) / Firewall 防火墙
+FW - Forward 转发(邮件)
 CC - Carbon Copy 抄送(邮件) / Common Criteria 通用标准
 BCC - Blind Carbon Copy 秘密抄送(邮件)
 ATTN - Attention 经办人，相关人员
@@ -31,7 +30,7 @@ FTE - Full-time Employee 全职雇员
 PTE - Part-time Employee 兼职雇员
 ASAP - As Soon As Possible 尽快
 BID - Break It Down 细分，明细
-BR - Best Regards 诚挚的问候 / Base Rate 基准利率
+BR - Best Regards 诚挚的问候
 ETA - Estimated Time of Arrival 预计到达时间
 ETD - Estimated Time of Departure 预计起飞时间，预计离港时间
 EOD - End of Day 工作日结束时
@@ -45,7 +44,7 @@ TBA - To Be Announced 待公布
 TBH - To Be Honest 说实话
 JIC - Just in Case 以防万一
 BRB - Be Right Back 马上回来
-BRT - Be Right There 马上到 / Bus Rapid Transit 快速公交系统
+BRT - Be Right There 马上到
 IMO - In My Opinion 个人观点
 RE: - Regarding 关于(邮件)
 BTW - By The Way 顺便说一下
@@ -59,23 +58,23 @@ PTO - Paid Time Off 带薪休假
 AL - Annual Leave 年假
 ATM - At The Moment 此刻 / Automated Teller Machine 自动柜员机
 AKA - Also Known As 也就是，亦称，也被称为
-LOL - Laugh Out Loud 大声笑出来 / League of Legends 英雄联盟(游戏)
+LOL - Laugh Out Loud 大声笑出来
 LMAO - Laugh My Ass Off 笑掉我屁股
 ASL - Age, Sex, Location 年龄，性别，所在地 / American Sign Language 美国手语
-PS - P.S. Postscript 附言，补充说明 / Adobe Photoshop 图像处理软件 / PlayStation 日本索尼的游戏机 / Polystyrene 聚苯乙烯，常用于建材、玩具、文具、家电、一次性餐具
+PS - P.S. Postscript 附言，补充说明 / PlayStation 日本索尼的游戏机
 MTD - Month to Date 从月初到今天
 QTD - Quarter to Date 从季度初到今天
 YTD - Year to Date 从年初到今天
 WIP - Work In Progress 进行中的工作
 DDL - Deadline 截止期限
 NP - No Problem 没问题
-TIA - Thanks In Advance 先谢了，劳驾 / Transient Ischaemic Attack 短暂性脑缺血发作
+TIA - Thanks In Advance 先谢了，劳驾
 THX/TKS/THKS - Thanks 谢谢
 TY - Thank You 谢谢你
 Pls/Plz - Please 请
 TMI - Too Much Information 太多讯息，不要再说了
 IDK - I Don't Know 我不知道
-IDC - I Don't Care 我不在乎 / Internet Data Center 互联网数据中心
+IDC - I Don't Care 我不在乎
 WTF - What The Fuck 我靠，搞什么
 WTH - What The Hell 我晕，什么鬼
 GFY - Go Fuck Yourself 滚开，去你的
@@ -93,7 +92,7 @@ OFC - Of Course 当然
 LMK - Let Me Know 让我知道
 KK - Okay 好的
 CU - See You 再见
-CP - Coupling 配对 / Content Provider 内容提供商 / Copy 复制
+CP - Coupling 配对 / Copy 复制
 GG - Good Game 好游戏，认输
 AFK - Away From Keyboard 离开键盘
 TTYL - Talk To You Later 稍后聊
@@ -113,89 +112,80 @@ OCD - Obsessive Compulsive Disorder 强迫症
 TGIF - Thank God It's Friday 感谢上帝今天是星期五
 LET - Leaving Early Today 今天早点走
 BOT - Back On Topic 回到主题 / Bot 机器人
-FB - Facebook 脸书，社交网络应用
-IG - Instagram 图片社交应用
+BBS - Be Back Soon 很快回来 / Bulletin Board System 电子公告板
+YOLO - You Only Live Once 你只活一次
+FOMO - Fear of Missing Out 害怕错过
+PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
+NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
+ABC - American-Born Chinese 出生在美国的华裔
+LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
+LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
+DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
 WLB - Work-Life Balance 工作生活平衡，劳逸平衡
 SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 WC - Water Closet 抽水马桶，厕所
-TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧 / Technology, Entertainment, Design 技术、娱乐、设计，非营利机构(美国)
-ID - Identity Document 身份证件 / Identifier 标识符
-IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡 / Imperial College London 英国帝国理工学院
+BGM - Background Music 背景音乐
+SM - Sadomasochism 性虐恋，施虐与受虐
+TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧
+AM - a.m. Ante Meridiem 上午(拉丁文)
+PM - p.m. Post Meridiem 下午(拉丁文)
+BC - Before Christ 基督前，公元前
+AD - Anno Domini 在主之年(拉丁文)，公元
+ET - Extra Terrestrial 外星人
+UFO - Unidentified Flying Object 不明飞行物
+MVP - Most Valuable Player 最有价值选手
+RIP - Rest In Peace 安息
+POC - Point of Contact 首要联系人
+OTP - On The Phone 在通话中 / O.T.P. One True Pair 天生一对
+SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
+POV - Point of View shot 主观镜头 / Point of View 观点
 IQ - Intelligence Quotient 智力商数，智商
 EQ - Emotional Quotient 情感商数，情商
 AQ - Adversity Quotient 逆境商数，逆商
 FQ - Financial Quotient 金融智商，财商
-CV - Curriculum Vitae 个人履历 / Computer Vision 计算机视觉
-FPV - First-Person View 第一人称视角
-IT - Information Technology 信息技术
-PC - Personal Computer 个人计算机
-OS - Operating System 操作系统
-TEL - Telephone 电话
-FAX - Facsimile 传真
-APP - Application 应用程序
-WiFi - Wireless Fidelity 无线保真技术，无线网络协议
-AC - Access Controller 网络控制器 / A/C, Air Conditioning 空气调节，空调
-AP - Access Point 网络接入点 / Attack Power 法术输出(游戏)
-WAP - Wireless Access Point 无线网络接入点
-PPT - PowerPoint 微软演示文稿
-PDF - Portable Document Format 便携式文档格式
-WPS - Writer, Presentation, Spreadsheets 文字、演示、表格
-BBS - Bulletin Board System 电子公告板 / Be Back Soon 很快回来
-YOLO - You Only Live Once 你只活一次
-FOMO - Fear of Missing Out 害怕错过
-PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
-ABC - American-Born Chinese 出生在美国的华裔 / Agriculture Bank of China 中国农业银行
-LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
-LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
-DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
-HP - Health Points 生命值，血量 / Horse Power 马力 / Hewlett-Packard Company 惠普公司
+MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
+```
+
+```markdown
+PK - Player Kill 玩家间对战
+VS - Versus 对抗，相对
+GM - Game Master 游戏管理员
+NPC - Non-Player Character 非玩家角色
+RPG - Role-Playing Game 角色扮演游戏 / Rocket-Propelled Grenade 火箭推进榴弹，火箭弹
+MMORPG - Massively Multiplayer Online Role-Playing Game 大型多人在线角色扮演游戏
+WoW - World of Warcraft 魔兽世界
+DotA - Defense of the Ancients 遗迹保卫战，刀塔
+LOL - League of Legends 英雄联盟
+PUBG - PlayerUnknown's Battlegrounds 绝地求生，吃鸡
+CS - Counter-Strike 反恐精英
+CF - Crossfire 穿越火线
+HP - Health Points 生命值，血量
 MP - Magic Points 魔法值，蓝条
+AD - Attack Damage 伤害输出
+AP - Attack Power 法术输出
 ADC - Attack Damage Carry/Core 伤害输出核心
+MT - Main Tank 主坦克，负责承受敌人伤害
 AOE - Area of Effect 范围性作用
-AM - Ante Meridiem 上午(拉丁文)
-BC - Before Christ 公元前
-TM - Trademark 商标
-R - Registered 已注册
-MAX - Maximum 最大
-MIN - Minimum 最小
-IMP - Import 进口，导入
-EXP - Export 出口，导出 / Experience 经验 / Exploit 漏洞利用
+IMAX - Image Maximum 巨幕(电影)
+IMDb - Internet Movie Database 互联网电影数据库
+DJ - Disc Jockey 碟片骑师
+FB - Facebook 脸书，社交网络应用
+IG - Instagram 图片社交应用
 AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
 LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
-SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
-No. - Number 号码
-G - Gram 克
-K - Kilo 千
-KG - Kilogram 千克，公斤
-T - Ton 吨
-Y - Year 年
-Q - Quarter 季度
-M - Meter 米 / Minute 分钟 / Month 月 / Million 百万
-CBM - Cubic Meter 立方米
-KM - Kilometer 千米，公里 / Knowledge Management 知识管理
-CM - Centimeter 厘米
-MM - Millimeter 毫米
-L - Liter 升 / Layer 层 / Level 级别
-ML - Milliliter 毫升 / Machine Learning 机器学习
-W - Watt 瓦，瓦特 / Week 周
-KW - Kilowatt 千瓦
-P - Power 匹，马力，0.735千瓦 / Page 页
-H - Hour 小时
-S - Second 秒
-B - Byte 字节 / Bit 比特 / Billion 十亿
-KB - Kilobyte 千字节，1 KB = 1024 Bytes / Knowledge Base 知识库
-MB - Megabyte 兆字节，1 MB = 1024 KB
-GB - Gigabyte 吉字节，1 GB = 1024 MB
-TB - Terabyte 太字节，1 TB = 1024 GB / Team Building 团队建设
-PB - Petabyte 拍字节，1 PB = 1024 TB
+KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
+```
+
+```markdown
 HR - Human Resources 人力资源
 HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
 HRM - Human Resource Manager 人力资源经理
 HRD - Human Resource Development 人力资源开发 / Human Resource Director 人力资源总监
 HCM - Human Capital Management 人力资本管理，对员工的技能、知识和能力进行投资、管理和评估
-PM - Project Manager 项目经理 / Post Meridiem 下午(拉丁文) / Product Manager 产品经理 / Production Manager 生产经理
+PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
 PO - Product Owner 产品负责人 / Purchase Order 采购订单
+PE - Property Executive 物业主管
 OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
 CEO - Chief Executive Officer 首席执行官
 COO - Chief Operated Officer 首席运营官 / Country of Origin 原产国
@@ -208,24 +198,35 @@ CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
 VP - Vice President 副总裁
 SVP - Senior Vice President 高级副总裁
 AVP - Assistant Vice President 助理副总裁
-GM - General Manager 总经理 / Game Master 游戏管理员 / General Motors 通用汽车
+GM - General Manager 总经理
 BM - Branch Manager 部门经理
 MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
-AD - Assistant Director 助理总监 / Attack Damage 伤害输出(游戏) / Anno Domini 公元(拉丁文) / Advertising 广告 / Active Directory 活动目录
+AD - Assistant Director 助理总监 / Advertising 广告
 OP - Operations 运营 / Operator 操作员
 TS - Technical Support 技术支持
 JD - Job Description 职位描述
-BS - Bachelor of Science 理学学士 / Brainstorming 头脑风暴 / Browser-Server 浏览器与服务器 / Basic Station 基站
+CV - Curriculum Vitae 个人履历
+BS - Brainstorming 头脑风暴
+TB - Team Building 团队建设
+etc. - et cetera 等等(拉丁文)
+e.g. - exempli gratia 例如(拉丁文)
+i.e. - id est 换句话说(拉丁文)
+viz. - videlicet 也就是(拉丁文)
+Q&A - Question and Answer 问与答
+R&D - Research and Development 研究和开发
+C&B - Compensation and Benefits 薪酬和福利
+```
+
+```markdown
+CS - Computer Science 计算机科学
+BS - Bachelor of Science 理学学士
 MS - Master of Science 理学硕士
 MBA - Master of Business Administration 工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
 PhD - Doctor of Philosophy 哲学博士，研究博士
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
-IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
-IETF - Internet Engineering Task Force 互联网工程任务组
-IEC - International Electrotechnical Commission 国际电工委员会
-IANA - Internet Assigned Numbers Authority 互联网号码分配局
 SAT - Scholastic Assessment Test 学术能力评估测试，美国高考
+CPT - Curricular Practical Training 课程实习训练，美国政府给予的临时就业许可
 GRE - Graduate Record Examinations 美国研究生入学考试
 GMAT - Graduate Management Admission Test 美国研究生管理科入学考试
 GPA - Grade Point Average 平均成绩点数，绩点
@@ -234,29 +235,23 @@ TOEFL - Test of English as a Foreign Language 对非英语国家留学生的英�
 BEC - Cambridge Business English Certificate 剑桥商务英语证书
 CET - College English Test 大学英语四六级考试 / Central European Time 欧洲中部时间
 KET - Key English Test 剑桥通用英语五级考试的第一级，入门水平
-PET - Preliminary English Test 剑桥通用英语五级考试的第二级，初级水平 / Polyethylene Terephthalate 聚对苯二甲酸乙二酯，聚酯，的确良，涤纶，常用于矿泉水瓶、碳酸饮料瓶、塑料绳、绝缘膜、包装
+PET - Preliminary English Test 剑桥通用英语五级考试的第二级，初级水平
 FCE - First Certificate in English 剑桥通用英语五级考试的第三级，独立水平
 CAE - C1 Advanced / Certificate in Advanced English 剑桥通用英语五级考试的第四级，流利水平
 CPE - Certificate of Proficiency in English 剑桥通用英语五级考试的第五级，熟练水平
 QS - Quacquarelli Symonds (World University Rankings) 英国国际教育市场咨询公司，QS世界大学排名
 MIT - Massachusetts Institute of Technology 麻省理工学院 / MIT License MIT许可证
 HYP - Harvard Yal Princeton 哈佛，耶鲁，普林斯顿
-ETH - Ethereum 以太坊加密货币 / ETH Zurich, Swiss Federal Institute of Technology Zurich 苏黎世联邦理工学院
+IC - Imperial College London 英国帝国理工学院
+ETH - ETH Zurich, Swiss Federal Institute of Technology Zurich 苏黎世联邦理工学院
+UPenn - University of Pennsylvania 宾夕法尼亚大学
 NUS - National University of Singapore 新加坡国立大学
 UCL - University College London 伦敦大学学院
 UCB - University of California, Berkeley 加州大学伯克利分校
 CIT - California Institute of Technology 加州理工学院
-PKU - Peking University 北京大学
-THU - Tsinghua University 清华大学
 USYD - The University of Sydney 悉尼大学
 UNSW - The University of New South Wales 新南威尔士大学
 NTU - Nanyang Technological University 南洋理工大学
-HKU - The University of Hong Kong 香港大学
-HKUST - The Hong Kong University of Science and Technology 香港科技大学
-CUHK - The Chinese University of Hong Kong 香港中文大学
-HKBU - Hong Kong Baptist University 香港浸会大学
-CityU - City University of Hong Kong 香港城市大学
-PolyU - The Hong Kong Polytechnic University 香港理工大学
 JHU - The Johns Hopkins University 约翰斯霍普金斯大学
 UTokyo - University of Tokyo 东京大学
 UCLA - University of California, Los Angeles 加州大学洛杉矶分校
@@ -277,46 +272,64 @@ LMU - LMU Munich, University of Munich / Ludwig-Maximilians-Universität Münche
 UCSD - University of California, San Diego 加州大学圣地亚哥分校
 UW - University of Washington 华盛顿大学
 UIUC - University of Illinois Urbana-Champaign 伊利诺伊大学厄巴纳香槟分校
-OA - Office Automation 办公自动化
-PLM - Product Lifecycle Management 产品生命周期管理
-ERP - Enterprise Resource Planning 企业资源计划，管理人、财、货
-MES - Manufacturing Execution System 制造执行系统，管理车间
-CAD - Computer Aided Design 计算机辅助设计
-SCM - Supply Chain Management 供应链管理
-CRM - Customer Relationship Management 客户关系管理
-SCRM - Social Customer Relationship Management 社会化客户关系管理
-BIM - Building Information Modeling 建筑信息模型
-GIS - Geographic Information System 地理信息系统
-QMS - Quality Management System 质量管理系统
-CMS - Content Management System 内容管理系统
-BOSS - Business Operation Support System 业务运营支持系统
-MIS - Management Information Systems 管理信息系统
-BOM - Bill of Material 物料清单
-BOP - Bill of Process 工艺流程清单 / Balance of Payments 国际收支
-ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
-OEM - Original Equipment Manufacturer 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
-OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
-MRP - Material Requirements Planning 物料需求计划
-MOQ - Minimum Order Quantity 最小订货量
-POD - Port of Destination 目的港
-POL - Port of Loading 装货港
-POV - Point of View shot 主观镜头 / Point of View 观点 / Proof of Value 价值证明
-etc. - et cetera 等等(拉丁文)
-e.g. - exempli gratia 例如(拉丁文)
-i.e. - id est 换句话说(拉丁文)
-viz. - videlicet 也就是(拉丁文)
-COD - Cash On Delivery 货到付款
-Q&A - Question and Answer 问与答
-R&D - Research and Development 研究和开发
-C&B - Compensation and Benefits 薪酬和福利
-PIN - Personal Identification Number 个人识别码
-PII - Personal Identifiable Information 个人身份信息
+PKU - Peking University 北京大学，北大
+THU - Tsinghua University 清华大学，清华
+USTC - University of Science and Technology of China 中国科学技术大学，中科大
+UCAS - University of Chinese Academy of Sciences 中国科学院大学，国科大
+SCU - Sichuan University 四川大学，川大
+UESTC - University of Electronic Science and Technology of China 电子科技大学，电子科大
+HKU - The University of Hong Kong 香港大学
+HKUST - The Hong Kong University of Science and Technology 香港科技大学
+CUHK - The Chinese University of Hong Kong 香港中文大学
+HKBU - Hong Kong Baptist University 香港浸会大学
+CityU - City University of Hong Kong 香港城市大学
+PolyU - The Hong Kong Polytechnic University 香港理工大学
+```
+
+```markdown
+MAX - Maximum 最大
+MIN - Minimum 最小
+IMP - Import 进口，导入
+EXP - Export 出口，导出 / Experience 经验 / Exploit 漏洞利用
+TM - Trademark 商标
+R - Registered 已注册
+No. - Numéro 编号(法语)
+G - Gram 克 / Gigabyte 吉字节
+K - Kilo 千 / Kilobyte 千字节
+KG - Kilogram 千克，公斤
+T - Ton 吨 / Terabyte 太字节
+MT - Metric Ton 公吨，1000千克
+Y - Year 年
+Q - Quarter 季度
+M - Meter 米 / Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节
+SQM - Square Meter 平方米
+CBM - Cubic Meter 立方米
+KM - Kilometer 千米，公里
+CM - Centimeter 厘米
+MM - Millimeter 毫米
+L - Liter 升 / Layer 层 / Level 级别
+ML - Milliliter 毫升 / Machine Learning 机器学习
+W - Watt 瓦，瓦特 / Week 周
+KW - Kilowatt 千瓦
+P - Power 匹，马力，0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节
+HP - Horse Power 马力
+H - Hour 小时
+S - Second 秒
+b - bit 位，比特
+B - Byte 字节 ，1 Byte = 8 bits / Billion 十亿
+KB - Kilobyte 千字节，1 KB = 1024 Bytes
+MB - Megabyte 兆字节，1 MB = 1024 KB
+GB - Gigabyte 吉字节，1 GB = 1024 MB
+TB - Terabyte 太字节，1 TB = 1024 GB
+PB - Petabyte 拍字节，1 PB = 1024 TB
+```
+
+```markdown
 KA - Key Accounts 重点客户，大卖场
-CS - Customer Service 客户服务 / Computer Science 计算机科学 / Client-Server 客户端与服务器 / Counter-Strike 反恐精英(游戏)
+CS - Customer Service 客户服务
 OU - Organizational Unit 组织单位
-DeFi - Decentralized Finance 去中心化金融
 VC - Venture Capital 风险投资
-PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育 / Property Executive 物业主管
+PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育
 IPO - Initial Public Offering 首次公开募股
 BIZ - Business 商业，业务
 BU - Business Unit 业务单元
@@ -331,25 +344,16 @@ CLI - Command-Line Interface 命令行界面
 UE/UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
-VIP - Very Important Person 重要人物 / Virtual IP Address 虚拟IP地址
-IDE - Integrated Development Environment 集成开发环境(软件开发) / Integrated Drive Electronics 电子集成驱动器(硬盘)
-NPC - Non-Player Character 非玩家角色
-NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
-RPG - Role-Playing Game 角色扮演游戏 / Rocket-Propelled Grenade 火箭推进榴弹，火箭弹
-MMORPG - Massively Multiplayer Online Role-Playing Game 大型多人在线角色扮演游戏
-RPA - Robotic Process Automation 机器人流程自动化
-MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
-VS - Versus 对抗，相对 / Visual Studio (微软)
-IE - Internet Explorer 网页浏览器(微软)
+IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
+VIP - Very Important Person 重要人物 / Virtual IP address 虚拟IP地址
 PR - Public Relations 公共关系
 GR - Government Relations 政府关系
-IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
 MCN - Multi-Channel Network 多频道网络(网红经纪公司)
 UGC - User Generated Content 用户生成内容
 PGC - Professionally Generated Content 专业生成内容
 OGC - Officially Generated Content 官方生成内容
 CPS - Cost Per Sales 按销售额付费
-CPT - Cost Per Time 按时长付费 / Curricular Practical Training 课程实习训练，美国政府给予的临时就业许可
+CPT - Cost Per Time 按时长付费
 CPA - Cost Per Action 每行动成本 / Certified Public Accountant 注册会计师
 OCPA - Optimized Cost Per Action 优化后每行动成本
 CPC - Cost Per Click 单次点击成本
@@ -366,11 +370,10 @@ CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来�
 CVR - Conversion Rate 转化率
 PCU - Peak Concurrent Users 最高并发用户
 DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
-OSS - Open-Source Software 开源软件 / Object Storage Service 对象存储服务 / Operation Support Systems 运营支持系统
 CAC - Customer Acquisition Cost 获取单个顾客的成本
 TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
-SMB - Small and Midsize Business 中小型企业市场 / Server Message Block 服务器消息块，网络文件共享协议
+SMB - Small and Midsize Business 中小型企业市场
 WOM - Word-of-Mouth Marketing 口碑营销
 TOS - Terms of Service 服务条款
 MoM - Month Over Month / Month On Month 月度环比，月增率，财务指标
@@ -382,6 +385,7 @@ KPI - Key Performance Indicator 关键绩效指标
 OKR - Objectives and Key Results 目标与关键结果
 ROI - Return on Investment 投资回报率
 ROE - Return On Equity 净资产收益率 ，盈利能力指标，衡量相对于股东权益的投资回报
+BR - Base Rate 基准利率
 APR - Annual Percentage Rate 年利率
 IRR - Internal Rate of Return 内部收益率
 NPV - Net Present Value 净现值
@@ -391,8 +395,6 @@ WAU - Weekly Active Users 周活跃用戶数
 MAU - Monthly Active Users 月活跃用户
 PV - Page Views 页面浏览量
 UV - Unique Visitors 独立访客数
-IMAX - Image Maximum 巨幕(电影)
-IMDb - Internet Movie Database 互联网电影数据库
 FAB - Feature, Advantage, Benefit 特色，优势，收益
 USP - Unique Selling Proposition 独特的销售主张，卖点
 SP - Sales Promotion 促销
@@ -402,6 +404,84 @@ GDP - Gross Domestic Product 国内生产总值
 CPI - Consumer Price Index 消费者物价指数 / Cost Performance Index 成本绩效指数
 PPI - Producer Price Index 生产物价指数
 PMI - Purchasing Managers' Index 采购经理人指数
+KOC - Key Opinion Consumer 关键意见消费者
+KOL - Key Opinion Leader 关键意见领袖
+CBD - Central Business District 中央商务区，城市经济活动的核心地区
+BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
+B2C - Business to Consumer 企业对消费者，如京东
+C2C - Consumer to Consumer 消费者对消费者，如淘宝 / Copy to China 复制到中国
+B2B - Business to Business 企业对企业，如阿里巴巴
+O2O - Online to Offline 线上到线下，如美团
+P2P - Person to Person 个人对个人(互联网金融借贷平台) / Peer-to-Peer 点对点(网络技术架构)
+DTC - Direct to Customer 直接面向消费者
+RSS - Really Simple Syndication 简易信息聚合
+SEM - Search Engine Marketing 搜索引擎营销
+SEO - Search Engine Optimization 搜索引擎优化
+ASO - App Store Optimization 应用商店优化
+RTB - Real-Time Bidding 实时竞价
+SMO - Social Media Optimization 社交媒体优化
+SOHO - Small Office Home Office 家居办公
+SNS - Social Networking Services 社会性网络服务
+OTA - Online Travel Agency 在线旅游机构
+FAQ - Frequently Asked Questions 常见问题解答
+TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
+ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
+```
+
+```markdown
+OA - Office Automation 办公自动化
+RPA - Robotic Process Automation 机器人流程自动化
+PLM - Product Lifecycle Management 产品生命周期管理
+ERP - Enterprise Resource Planning 企业资源计划，管理人、财、货
+MES - Manufacturing Execution System 制造执行系统，管理车间
+CAD - Computer Aided Design 计算机辅助设计
+SCM - Supply Chain Management 供应链管理
+KB - Knowledge Base 知识库
+KM - Knowledge Management 知识管理
+CRM - Customer Relationship Management 客户关系管理
+SCRM - Social Customer Relationship Management 社会化客户关系管理
+BIM - Building Information Modeling 建筑信息模型
+GIS - Geographic Information System 地理信息系统
+QA - Quality Assurance 质量保证(测试)
+QC - Quality Control 质量控制
+QMS - Quality Management System 质量管理系统
+CMS - Content Management System 内容管理系统
+OSS - Operation Support Systems 运营支持系统
+BOSS - Business Operation Support System 业务运营支持系统
+MIS - Management Information Systems 管理信息系统
+LLC - Limited Liability Company 有限责任公司
+BOM - Bill of Material 物料清单
+BOP - Bill of Process 工艺流程清单 / Balance of Payments 国际收支
+ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
+OEM - Original Equipment Manufacturer 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
+OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
+MRP - Material Requirements Planning 物料需求计划
+MOQ - Minimum Order Quantity 最小订货量
+COD - Cash On Delivery 货到付款
+POD - Port of Destination 目的港
+POL - Port of Loading 装货港
+POS - Point of Sale 销售点终端
+PW - Packed Weight 包装重量
+```
+
+```markdown
+CN/CHN - China 中国
+HK - Hong Kong 香港
+US - United States 美国
+UK - United Kingdom 英国
+JP - Japan 日本
+KR - South Korea 韩国
+RUS - Russia 俄罗斯
+SGP - Singapore 新加坡
+RMB - Rénmínbì 人民币(拼音)
+CNY - Chinese Yuan 人民币
+USD - United States Dollar 美元
+USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
+ETH - Ethereum 以太坊加密货币
+DeFi - Decentralized Finance 去中心化金融
+AU - AUS, Australia 澳大利亚
+AUD - Australian Dollar 澳大利亚元，澳元
+POV - Proof of Value 价值证明
 WTO - World Trade Organization 世界贸易组织
 WHO - World Health Organization 世界卫生组织
 GPS - Global Positioning System 全球卫星定位系统(美国国防部)
@@ -411,18 +491,6 @@ EU - European Union 欧盟
 PRC - People's Republic of China 中华人民共和国
 CCP - Chinese Communist Party 中国共产党
 USA - United States of America 美利坚合众国，美国
-CN/CHN - China 中国
-HK - Hong Kong 香港
-US - United States 美国
-USD - United States Dollar 美元
-USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
-UK - United Kingdom 英国
-JP - Japan 日本
-KR - South Korea 韩国
-RUS - Russia 俄罗斯
-SGP - Singapore 新加坡
-RMB - Rénmínbì 人民币(拼音)
-CNY - Chinese Yuan 人民币
 VISA - Visa 签证 / 信用卡品牌(美国)
 NGO - Non-Governmental Organization 非政府组织
 NPO - Non-Profit Organization 非营利组织
@@ -440,7 +508,8 @@ NFL - National Football League 全国橄榄球联盟(美国)
 NBA - National Basketball Association 美国篮球协会
 CBA - Chinese Basketball Association 中国篮球协会
 FIFA - Fédération Internationale de Football Association 国际足球联合会(法语)，国际足联
-ICAC - Independent Commission Against Corruption 廉政公署
+ICAC - Independent Commission Against Corruption 廉政公署(香港)
+HKBN - Hong Kong Broadband Network 香港宽频网络
 FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
@@ -449,14 +518,19 @@ OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
 BBC - British Broadcasting Corporation 英国广播公司
 CNN - Cable News Network 美国有线新闻网络
 VOA - Voice of America 美国之音
+TED - Technology, Entertainment, Design 技术、娱乐、设计，以TED大会著称的非营利机构(美国)
 EMS - Express Mail Service 快递邮政服务
 PICC - The People's Insurance Company of China 中国人民保险公司
 BOC - Bank of China 中国银行
 ICBC - Industrial and Commercial Bank of China 中国工商银行
 CBC - China Construction Bank 中国建设银行
+ABC - Agriculture Bank of China 中国农业银行
 CMB - China Merchants Bank 中国招商银行
 BOCOM - Bank of Communications 交通银行
 HSBC - The Hongkong and Shanghai Banking Corporation Limited 香港和上海银行有限公司，汇丰银行
+IBM - International Business Machines Corporation 国际商业机器公司
+HP - Hewlett-Packard Company 惠普公司
+GM - General Motors 通用汽车
 EDPK - EY, Deloitte, PwC, KPMG 著名的四个会计师事务所，安永、德勤、普华永道、毕马威
 EY - Ernst & Young 安永会计师事务所
 DTT - Deloitte Touche Tohmatsu 德勤会计师事务所
@@ -465,51 +539,26 @@ KPMG - Klynveld Peat Marwick Goerdeler 毕马威会计师事务所
 CMCC - China Mobile Communications Corporation 中国移动通信集团，中国移动
 CUCC - China Unicom Communications Corporation 中国联合网络通信集团，中国联通
 CTCC - China Telecom Communications Corporation 中国电信集团，中国电信
+```
+
+```markdown
 DNA - DeoxyriboNucleic Acid 脱氧核糖核酸，生物大分子，组成遗传指令，引导生物发育与生命机能运作
 RNA - RiboNucleic Acid 核糖核酸，生物大分子，在遗传编码、翻译、调控、基因表达等过程中发挥作用
 DHA - Docosahexaenoic Acid 二十二碳六烯酸，脑黄金，大脑和视网膜的重要组成成分
-KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
-ET - Extra Terrestrial 外星人
-UFO - Unidentified Flying Object 不明飞行物
-RIP - Rest In Peace 安息 / Routing Information Protocol 路由信息协议
 ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
 CT - Computed Tomography 计算机体层成像，计算机断层扫描 / X-Ray Computed Tomography X射线计算机断层扫描，X光
-ICQ - I Seek You 我找你，即时通讯软件(以色列)
-IRC - Internet Relay Chat 互联网中继聊天
+TIA - Transient Ischaemic Attack 短暂性脑缺血发作
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
 HIV - Human Immunodeficiency Virus 人类免疫缺陷病毒，艾滋病毒
 PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
-KOC - Key Opinion Consumer 关键意见消费者
-KOL - Key Opinion Leader 关键意见领袖
-CBD - Central Business District 中央商务区，城市经济活动的核心地区
-BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
-BMW - Bayerische Motoren Werke Aktiengesellschaft 巴伐利亚引擎制造股份有限公司(德语)，宝马
-BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
-B2C - Business to Consumer 企业对消费者，如京东
-C2C - Consumer to Consumer 消费者对消费者，如淘宝 / Copy to China 复制到中国
-B2B - Business to Business 企业对企业，如阿里巴巴
-O2O - Online to Offline 线上到线下，如美团
-P2P - Person to Person 个人对个人(互联网金融借贷平台) / Peer-to-Peer 点对点(网络技术架构)
-DTC - Direct to Customer 直接面向消费者
-OTA - Over The Air 远程(升级) / Online Travel Agency 在线旅游机构
-RSS - Really Simple Syndication 简易信息聚合
-SEM - Search Engine Marketing 搜索引擎营销
-SEO - Search Engine Optimization 搜索引擎优化
-ASO - App Store Optimization 应用商店优化
-RTB - Real-Time Bidding 实时竞价
-SMO - Social Media Optimization 社交媒体优化
-SOHO - Small Office Home Office 家居办公
-SNS - Social Networking Services 社会性网络服务 / Simple Notification Service 简单消息服务
-FAQ - Frequently Asked Questions 常见问题解答
-UTC - Coordinated Universal Time 协调世界时间，世界统一时间
-GMT - Greenwich Mean Time 格林尼治标准时间
-CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
-TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
-ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
+```
+
+```markdown
 VCR - Video Cassette Recorder 录像机(视频片断)
 CD - Compact Disc 影音光盘
 VCD - Video Compact Disc 影音光盘
+DV - Digital Video 数码摄像机
 DVD - Digital Versatile Disc 数字多功能光盘
 AV - Audio Video 音频视频 / Adult Video 成人视频
 TV - Television 电视
@@ -517,20 +566,99 @@ MTV - Music Television 音乐电视
 KTV - Karaoke TV 卡拉OK(日英文杂名)，视唱空间
 MV - Music Video 音乐视频
 VOD - Video On Demand 视频点播
-DJ - Disc Jockey 碟片骑师
 FM - Frequency Modulation Broadcast 调频广播
+OTA - Over The Air 远程(升级)
+BMW - Bayerische Motoren Werke Aktiengesellschaft 巴伐利亚引擎制造股份有限公司(德语)，宝马
+BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
+EV - Electric Vehicle 电动汽车
+A/C - Air Conditioning 空气调节，空调
+ETC - Electronic Toll Collection 不停车电子计费
+ABS - Anti-lock Braking System 防抱死制动系统
+F1 - Formula One 一级方程式赛车
+MT - Manual Transmission 手动变速器
+AT - Automatic Transmission 自动变速箱
+DCT - Dual Clutch Transmission 双离合变速箱
+CVT - Continuously Variable Transmission 连续可变传动，无级变速箱
+SUV - Sport Utility Vehicle 运动型多用途车
+MPV - Multi-Purpose Vehicle 多功能休旅车
+PHEV - Plug-in Hybrid Electric Vehicle 插电式混合动力汽车，混动
+LRT - Light Rail Transit 轻轨运输系统
+BRT - Bus Rapid Transit 快速公交系统
+CRH - China Railway High-speed 中国铁路高速列车
+WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
+CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
+HUD - Head-Up Display 抬头显示器
+RPM - Revolutions Per Minute 每分钟转速
+AUD - Audio 音频
+NOA - Navigate on Autopilot 领航辅助驾驶
+FSD - Full Self-Driving 完全自动驾驶
+PVC - Polyvinyl Chloride 聚氯乙烯，工程塑料，常用于板材、管材、门窗
+PU - Polyurethane 聚氨酯，人造皮革
+PET - Polyethylene Terephthalate 聚对苯二甲酸乙二酯，聚酯，的确良，涤纶，常用于矿泉水瓶、碳酸饮料瓶、塑料绳、绝缘膜、包装
+PP - Polypropylene 聚丙烯，常用于盆、桶、瓶、餐盒
+PS - Polystyrene 聚苯乙烯，常用于建材、玩具、文具、家电、一次性餐具
+```
+
+```markdown
+ID - Identity Document 身份证件 / Identifier 标识符
+FPV - First-Person View 第一人称视角
+IT - Information Technology 信息技术
+IDC - Internet Data Center 互联网数据中心
+CP - Content Provider 内容提供商
+PC - Personal Computer 个人计算机
+PIN - Personal Identification Number 个人识别码
+PII - Personal Identifiable Information 个人身份信息
+FW - Firewall 防火墙
+OS - Operating System 操作系统
 IM - Instant Messaging 即时消息
+ICQ - I Seek You 我找你，即时通讯软件(以色列)
+IRC - Internet Relay Chat 互联网中继聊天
+DB - Database 数据库
+AD - Active Directory 活动目录(Windows服务器)
+CS - Client-Server 客户端与服务器
+BS - Browser-Server 浏览器与服务器 / Basic Station 基站
+TEL - Telephone 电话
+FAX - Facsimile 传真
+NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
+APP - Application 应用程序
+PPT - PowerPoint 演示文稿(微软)
+PDF - Portable Document Format 便携式文档格式
+WPS - Word Processing System / Writer, Presentation, Spreadsheets 文字处理系统(金山软件) / 文字、演示、表格
+PS - Adobe Photoshop 图像处理软件
+IDE - Integrated Development Environment 集成开发环境(软件开发)
+VS - Visual Studio (微软IDE)
+IE - Internet Explorer 网页浏览器(微软)
+WiFi - Wireless Fidelity 无线保真技术，无线网络协议
+AC - Access Controller 网络控制器
+AP - Access Point 网络接入点
+WAP - Wireless Access Point 无线网络接入点
+LBS - Location Based Service 基于位置的服务
+LAN - Local Area Network 局域网
+WLAN - Wireless Local Area Network 无线局域网
+WAN - Wide Area Network 广域网
+WPA - WiFi Protected Access WiFi访问保护
+WPAN - Wireless Personal Area Network 无线个人网
+HTTP - HyperText Transfer Protocol 超文本传输协议
+HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
+IoT - Internet of Things 物联网
+SSO - Single Sign-On 单点登录(认证服务)
+API - Application Programming Interface 应用程序接口
+ISO - International Organization for Standardization 国际标准化组织
+IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
+CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
+IaaS - Infrastructure as a Service 基础设施即服务
+PaaS - Platform as a Service 平台即服务
+SaaS - Software as a Service 软件即服务
+KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
+UTC - Coordinated Universal Time 协调世界时间，世界统一时间
+GMT - Greenwich Mean Time 格林尼治标准时间
+CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
 USB - Universal Serial Bus 通用串行总线
 OCR - Optical Character Recognition 光学字符识别
 RGB - Red Green Blue 红绿蓝
-POS - Point of Sale 销售点终端
-PW - Packed Weight 包装重量
-QA - Quality Assurance 质量保证(测试)
-QC - Quality Control 质量控制
 CRT - Cathode Ray Tube 阴极射线管，显像管
 LCD - Liquid Crystal Display 液晶显示
 LED - Light Emitting Diode 发光二极管
-IBM - International Business Machines Corporation 国际商业机器公司
 ASCII - American Standard Code for Information Interchange 美国信息交换标准代码
 UTF - Unicode Transformation Format 针对Unicode的可变长度字符编码
 GBK - Guójiā Biāozhǔn Kuòzhǎn 国家标准扩展(拼音)
@@ -541,15 +669,6 @@ VGA - Video Graphics Array 视频图形阵列
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Measurement Report 测量报告
-LBS - Location Based Service 基于位置的服务
-LAN - Local Area Network 局域网
-WLAN - Wireless Local Area Network 无线局域网
-WAN - Wide Area Network 广域网
-WPA - WiFi Protected Access WiFi访问保护
-WPAN - Wireless Personal Area Network 无线个人网
-HTTP - HyperText Transfer Protocol 超文本传输协议
-HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
-IoT - Internet of Things 物联网
 BI - Business Intelligence 商业智能
 BE - Business Enablement 商业赋能
 BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业务) / Business Analytics 商业分析(围绕数据)
@@ -559,8 +678,9 @@ GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图�
 AGI - Artificial General Intelligence 通用人工智能
 RAG - Retrieval Augmented Generation 检索增强生成
 LLM - Large Language Model 大型语言模型
-GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型 / GUID Partition Table 全局唯一标识分区表
+GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 MoE - Mixture of Experts 混合专家模型，让模型以远低于传统密集模型的计算成本进行预训练的机器学习技术
+IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
 NLP - Natural Language Processing 自然语言处理
 CPU - Central Processing Unit 中央处理器 / PUA的别称
 GPU - Graphics Processing Unit 图形处理器
@@ -568,67 +688,36 @@ DPU - Data Processing Unit 数据处理器
 NPU - Neural network Processing Unit 神经网络处理器
 TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
 DNS - Domain Name System 域名系统
+HA - High Availability 高可用性
+SOA - Service-Oriented Architecture 面向服务的架构
 VPN - Virtual Private Network 虚拟专用网
 SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
 MFA - Multifactor Authentication 多因素身份验证
-OTP - One-Time Password 一次性密码 / On The Phone 在通话中 / O.T.P. One True Pair 天生一对
+OTP - One-Time Password 一次性密码
 CA - Certificate Authority 证书授权 / Air China 中国国际航空
-DV - Digital Video 数码摄像机 / Domain Validation 域名验证(证书)
+DV - Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
-EV - Electric Vehicle 电动汽车 / Extended Validation 扩展验证(证书)
-DB - Database 数据库
+EV - Extended Validation 扩展验证(证书)
 DLP - Data Loss Prevention 数据泄漏防护
 GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
 PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
 DPIA - Data Protection Impact Assessment 数据保护影响评估，评估是否符合GDPR
 NDA - Non-disclosure Agreement 保密合约
 BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
-SOA - Service-Oriented Architecture 面向服务的架构
-NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
-HA - High Availability 高可用性
-PVC - Polyvinyl Chloride 聚氯乙烯，工程塑料，常用于板材、管材、门窗
-PP - Polypropylene 聚丙烯，常用于盆、桶、瓶、餐盒
-PU - Polyurethane 聚氨酯，人造皮革
-ETC - Electronic Toll Collection 不停车电子计费
-ABS - Anti-lock Braking System 防抱死制动系统
-F1 - Formula One 一级方程式赛车
-MT - Manual Transmission 手动变速器 / Main Tank 主坦克，负责承受敌人伤害的游戏职业 / Metric Ton 公吨，1000千克
-AT - Automatic Transmission 自动变速箱
-DCT - Dual Clutch Transmission 双离合变速箱
-CVT - Continuously Variable Transmission 连续可变传动，无级变速箱
-SUV - Sport Utility Vehicle 运动型多用途车
-MPV - Multi-Purpose Vehicle 多功能休旅车
-PHEV - Plug-in Hybrid Electric Vehicle 插电式混合动力汽车，混动
-LRT - Light Rail Transit 轻轨运输系统
-CRH - China Railway High-speed 中国铁路高速列车
-WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
-CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
-HUD - Head-Up Display 抬头显示器
-RPM - Revolutions Per Minute 每分钟转速
-AUD - Audio 音频 / Australian Dollar 澳大利亚元，澳元
-NOA - Navigate on Autopilot 领航辅助驾驶
-FSD - Full Self-Driving 完全自动驾驶
-SSO - Single Sign-On 单点登录(认证服务)
-ISO - International Organization for Standardization 国际标准化组织
-API - Application Programming Interface 应用程序接口
-CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
-IaaS - Infrastructure as a Service 基础设施即服务
-PaaS - Platform as a Service 平台即服务
-SaaS - Software as a Service 软件即服务
-KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
 ```
 
 ## 英文缩写解释(术语)
 
 ```markdown
-CC - Challenge Collapsar 挑战黑洞，网络攻击方式
 RSVP - Resource Reservation Protocol 资源预留协议
+CV - Computer Vision 计算机视觉
 YOLO - You Only Look Once 你只看一次，计算机视觉领域实时对象检测算法
 NVM - Node.js Version Manager Node.js版本管理器
 NPM - Node Package Manager Node包管理器
 RPM - Red Hat Package Manager 红帽包管理器
 YUM - Yellow dog Updater, Modified 基于RPM的包管理工具
+APT - Advanced Package Tool 高级包管理工具
 PyPI - Python Package Index Python软件包索引
 CPAN - Comprehensive Perl Archive Network Perl综合档案网，Perl程序库
 OLAP - OnLine Analysis Processing 联机分析处理
@@ -757,12 +846,15 @@ FDDI - Fiber Distributed Data Interface 光纤分布式数据接口
 FIFO - First In First Out 先进先出，队列的特征
 FILO - First In Last Out 先进后出，栈的特征
 LIFO - Last In First Out 后进先出，栈的特征
+FDD - Floopy Disk Drive 软盘驱动器
 HDD - Hard Disk Drive 硬盘驱动器
+IDE - Integrated Drive Electronics 电子集成驱动器(硬盘)
 SATA - Serial Advanced Technology Attachment 串行高级技术附件，串行接口
 SCSI - Small Computer System Interface 小型计算机系统接口
 SAS - Serial Attached SCSI 串行连接SCSI
 SSD - Solid-State Drive 固态驱动器 / Solid-State Disk 固态硬盘
 MBR - Master Boot Record 主引导记录，分区表
+GPT - GUID Partition Table 全局唯一标识分区表
 UPS - Uninterruptible Power Supply 不间断电源
 HBA - Host Bus Adapter 主机总线适配器
 HUB - Hub 集线器
@@ -782,6 +874,7 @@ PHP - Hypertext Preprocessor 超文本预处理器，编程语言
 ASP - Active Server Page 动态服务器网页 / Average Selling Price 平均销售价格
 MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
+RAM - Random Access Memory 随机存取存储器，内存
 ROM - Read-Only Memory 只读内存
 BYOK - Bring Your Own Key 自带密钥
 BYOD - Bring Your Own Device 自带设备
@@ -791,7 +884,7 @@ EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 EOM - End of Message 标示消息的结束
 EOL - End of Life 产品寿命结束 / Encyclopedia of Life 生命百科全书
-JIT - Just-In-Time 即时编译，实时编译，即时生产，按需生产
+JIT - Just-In-Time 即时编译，实时编译 / 即时生产，按需生产
 LLVM - Low Level Virtual Machine 底层虚拟机，生成高效机器代码的开源编译器框架
 SOAP - Simple Object Access Protocol 简单对象访问协议
 ISP - Internet Service Provider 互联网服务提供商
@@ -808,10 +901,14 @@ NTP - Network Time Protocol 网络时间协议
 PPP - Point-to-Point Protocol 点对点协议
 SNMP - Simple Network Management Protocol 简单网络管理协议
 OSI - Open System Interconnection Model 开放式系统互联模型
+IETF - Internet Engineering Task Force 互联网工程任务组
 RFC - Request for Comments 请求意见稿(互联网工程任务组发布)
+IEC - International Electrotechnical Commission 国际电工委员会
+IANA - Internet Assigned Numbers Authority 互联网号码分配局
 CIDR - Classless Inter-Domain Routing 无类别域间路由，可提高路由效率的IP地址分配方法，使用网络/掩码的形式表示网段, 如192.168.1.0/255.255.255.0或192.168.1.0/24
 GC - Garbage Collection 垃圾回收
 RPC - Remote Procedure Call 远程过程调用协议
+RIP - Routing Information Protocol 路由信息协议
 TCP - Transmission Control Protocol 传输控制协议
 UDP - User Datagram Protocol 用户数据报协议
 QUIC - Quick UDP Internet Connection 快速UDP互联网连接，QUIC = HTTP/2 + TLS + UDP，提供几乎等同于TCP连接的可靠性，更低的延迟和更高的吞吐量
@@ -819,15 +916,17 @@ FTP - File Transfer Protocol 文件传输协议
 TFTP - Trivial File Transfer Protocol 简单文件传输协议
 ICMP - Internet Control Message Protocol 互联网控制消息协议
 SMTP - Simple Mail Transfer Protocol 简单邮件传输协议
+SMB - Server Message Block 服务器消息块，网络文件共享协议
 POP - Post Office Protocol 邮局协议
 IMAP - Internet Message Access Protocol 互联网消息访问协议
 VRRP - Virtual Router Redundancy Protocol 虚拟路由冗余协议，提高网络可靠性的容错协议
 ARP - Address Resolution Protocol 地址解析协议
 SYN - Synchronize Sequence Numbers 同步序列编号
-ACK - Acknowledgement 确认 / Container Service for Kubernetes 容器服务Kubernetes版
-FDD - Floopy Disk Drive 软盘驱动器 / Frequency-Division Duplexing 频分双工
+ACK - Acknowledgement 确认
 COM - Component Object Model 组件对象模型 / Company 公司 / Communication 通信
 GSM - Global System for Mobile Communications 移动通信全球系统
+FDD - Frequency-Division Duplexing 频分双工
+TDD - Time Division Duplexing 时分双工
 TDMA - Time Division Multiple Access 时分多址
 CDMA - Code Division Multiple Aceess 码分多址
 FDMA - Frequency Division Multiple Address 频分多址
@@ -835,7 +934,7 @@ AGP - Accelerated Graphics Port 加速图形接口
 CRBT - Color Ring Back Tone 彩铃回音
 PSU - Power Supply Unit 电源供应器
 PDU - Power Distribution Unit 电源分配单元 / Protocol Data Unit 协议数据单元
-SCU - Service Control Unit 业务控制单元 / Storage Capacity Unit 存储容量单元 / Sichuan University 四川大学
+SCU - Service Control Unit 业务控制单元 / Storage Capacity Unit 存储容量单元
 OMC - Operation Maintenance Center 操作维护中心
 EDR - Event Data Recorder 事故资料记录器，黑匣子 / Endpoint Detection and Response 端点检测与响应
 LLT - Low Latency Transport 低延迟传输 / Low Level Test 低层次测试，自测
@@ -856,7 +955,7 @@ GEO - Geostationary Earth Orbit 地球静止轨道，地球赤道同步轨道 / 
 AS - Autonomous System 自治系统
 ARQ - Automatic Repeat Request 自动重传请求
 FTTH - Fiber To The Home 光纤到户
-LLC - Limited Liability Company 有限责任公司 / Logical Link Control 逻辑链路控制
+LLC - Logical Link Control 逻辑链路控制
 RDP - Remote Desktop Protocol 远程桌面协议
 RDT - Reliable Data Transfer 可靠数据传输
 CRC - Cyclic Redundancy Check 循环冗余校验
@@ -881,7 +980,10 @@ AWS - Amazon Web Services 亚马逊云计算服务
 ECS - Elastic Compute Service/Server 弹性计算服务，云服务器 / Elastic Container Service 弹性容器编排服务
 EC2 - Elastic Compute Cloud 弹性计算云
 S3 - Simple Storage Service 简单存储服务
+OSS - Object Storage Service 对象存储服务 / Open-Source Software 开源软件
 SQS - Simple Queue Service 简单队列服务
+SNS - Simple Notification Service 简单消息服务
+ACK - Container Service for Kubernetes 容器服务Kubernetes版
 ASK - Container Service for Kubernetes Serverless 容器服务Kubernetes无服务器版
 EKS - Elastic Kubernetes Service 弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
@@ -912,9 +1014,10 @@ CSRF - Cross-Site Request Forgery 跨站请求伪造
 ORM - Object Relational Mapping 对象关系映射
 ADT - Abstract Data Type 抽象数据类型
 IPC - Inter-Process Communication 进程间通信
+CC - Challenge Collapsar 挑战黑洞，网络攻击方式
 DoS - Denial of Service 拒绝服务 / DOS, Disk Operating System 磁盘操作系统
 DDoS - Distributed Denial of Service 分布式拒绝服务
-APT - Advanced Persistent Threat 高级长期威胁 / Advanced Package Tool 高级包管理工具
+APT - Advanced Persistent Threat 高级长期威胁
 OOP - Object-Oriented Programming 面向对象程序设计
 JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
 LVS - Linux Virtual Server Linux虚拟服务器
@@ -922,23 +1025,19 @@ WAF - Web Application Firewall 网站应用防火墙
 WBS - Work Breakdown Structure 工作分解结构
 RBS - Risk Breakdown Structure 风险分解结构
 OBS - Organizational Breakdown Structure 组织分解结构
-RAM - Responsibility Assignment Matrix 责任分配矩阵 / Random Access Memory 随机存取存储器，内存
+RAM - Responsibility Assignment Matrix 责任分配矩阵
 BRD - Business Requirement Document 商业需求文档，概念阶段
 MRD - Market Requirement Document 市场需求文档，定位阶段
 PRD - Product Requirement Document 产品需求文档，图纸阶段 / Production 生产(环境)
 SOP - Standard Operating Procedure 标准操作流程
-TDD - Test-Drive Development 测试驱动开发 / Time Division Duplexing 时分双工
+TDD - Test-Drive Development 测试驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
 DDD - Domain-Driven Design 领域驱动设计
 SDLC - Software Development Life Cycle 软件开发生命周期
-CIA - Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
-CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
-ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
-BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
 MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
-PoC - Proof of Concept 概念验证 / POC, Point of Contact 首要联系人
-MVP - Minimum Viable Product 最小可行性产品 / Most Valuable Player 最有价值选手
+PoC - Proof of Concept 概念验证
+MVP - Minimum Viable Product 最小可行性产品
 BPM - Business Process Management 业务流程管理
 PDM - Product Data Management 产品数据管理
 CAM - Computer Aided Manufacturing 计算机辅助制造
@@ -966,6 +1065,13 @@ SME - Subject Matter Expert 主题专家，领域专家
 CCB - Change Control Board 变更控制委员会
 COE - Center of Excellence 卓越中心，整合优化企业内部的资源和能力
 SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
+```
+
+```markdown
+CIA - Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
+CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
+ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
+BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
 PDCA - Plan, Do, Check, Action 计划、执行、检查、总结，持续改进的循环方法论
 SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程、输出、客户，组织系统模型
 SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
