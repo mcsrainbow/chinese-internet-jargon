@@ -301,7 +301,7 @@ T - Ton 吨 / Terabyte 太字节
 MT - Metric Ton 公吨，1000千克
 N - Number (任意)数量 / No 否
 Y - Year 年 / Yes 是
-Q - Quarter 季度
+Q - Quarter 季度 / Cute 可爱 / Cue 点名，提示
 M - Meter 米 / Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节
 SQM - Square Meter 平方米
 CBM - Cubic Meter 立方米
