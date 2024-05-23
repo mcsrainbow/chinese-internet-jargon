@@ -710,7 +710,7 @@ RGB - Red Green Blue 红绿蓝
 CRT - Cathode Ray Tube 阴极射线管，显像管
 LCD - Liquid Crystal Display 液晶显示
 LED - Light Emitting Diode 发光二极管
-SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480
+SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480 / Secure Digital Memory Card 安全数码卡
 HD - High Definition 高清晰度，720p，16:9宽高比分辨率1280x720
 HDMI - High Definition Multimedia Interface 高清晰多媒体接口
 VGA - Video Graphics Array 视频图形阵列
@@ -890,6 +890,8 @@ MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
 RAM - Random Access Memory 随机存取存储器，内存
 ROM - Read-Only Memory 只读内存
+DDR - DDR SDRAM, Double Data Rate Synchronous Dynamic Random Access Memory 双数据率同步动态随机存储器
+LPDDR - Low Power DDR SDRAM 低功耗双数据率同步动态随机存储器，用于移动设备
 BYOK - Bring Your Own Key 自带密钥
 BYOD - Bring Your Own Device 自带设备
 FS - File System 文件系统
