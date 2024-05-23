@@ -397,6 +397,7 @@ PV - Page Views 页面浏览量
 UV - Unique Visitors 独立访客数
 FAB - Feature, Advantage, Benefit 特色，优势，收益
 USP - Unique Selling Proposition 独特的销售主张，卖点
+MR - Market Research 市场研究 / Measurement Report 测量报告
 SP - Sales Promotion 促销
 FOC - Free of Charge 免费
 SKU - Stock Keeping Unit 库存单位(产品)
@@ -601,11 +602,6 @@ PS - Polystyrene 聚苯乙烯，常用于建材、玩具、文具、家电、一
 
 ```markdown
 ID - Identity Document 身份证件 / Identifier 标识符
-IT - Information Technology 信息技术
-PC - Personal Computer 个人计算机
-PIN - Personal Identification Number 个人识别码
-PII - Personal Identifiable Information 个人身份信息
-OS - Operating System 操作系统
 IM - Instant Messaging 即时消息，即时聊天(软件)
 TEL - Telephone 电话
 FAX - Facsimile 传真
@@ -615,12 +611,20 @@ PPT - PowerPoint 演示文稿(微软)
 PDF - Portable Document Format 便携式文档格式
 WPS - Word Processing System / Writer, Presentation, Spreadsheets 文字处理系统(金山软件) / 文字、演示、表格
 PS - Adobe Photoshop 图像处理软件
+IT - Information Technology 信息技术
+PC - Personal Computer 个人计算机
+PIN - Personal Identification Number 个人识别码
+PII - Personal Identifiable Information 个人身份信息
+OS - Operating System 操作系统
+DB - Database 数据库
+FW - Firewall 防火墙
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
-MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Measurement Report 测量报告
+MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合
 BI - Business Intelligence 商业智能
 BE - Business Enablement 商业赋能
 BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业务) / Business Analytics 商业分析(围绕数据)
+NLP - Natural Language Processing 自然语言处理
 AI - Artificial Intelligence 人工智能
 AIGC - AI Generated Content 人工智能生成内容
 GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图像、音频等内容，模仿和创造新内容
@@ -630,7 +634,6 @@ LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 MoE - Mixture of Experts 混合专家模型，让模型以远低于传统密集模型的计算成本进行预训练的机器学习技术
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
-NLP - Natural Language Processing 自然语言处理
 IoT - Internet of Things 物联网
 ISO - International Organization for Standardization 国际标准化组织
 IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
@@ -646,10 +649,8 @@ CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中
 FPV - First-Person View 第一人称视角
 IDC - Internet Data Center 互联网数据中心
 CP - Content Provider 内容提供商
-FW - Firewall 防火墙
 ICQ - I Seek You 我找你，即时通讯软件(以色列)
 IRC - Internet Relay Chat 互联网中继聊天
-DB - Database 数据库
 AD - Active Directory 活动目录(Windows服务器)
 CS - Client-Server 客户端与服务器
 BS - Browser-Server 浏览器与服务器 / Basic Station 基站
@@ -670,26 +671,10 @@ HTTP - HyperText Transfer Protocol 超文本传输协议
 HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
 SSO - Single Sign-On 单点登录(认证服务)
 API - Application Programming Interface 应用程序接口
-CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
 IaaS - Infrastructure as a Service 基础设施即服务
 PaaS - Platform as a Service 平台即服务
 SaaS - Software as a Service 软件即服务
 KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
-USB - Universal Serial Bus 通用串行总线
-OCR - Optical Character Recognition 光学字符识别
-RGB - Red Green Blue 红绿蓝
-CRT - Cathode Ray Tube 阴极射线管，显像管
-LCD - Liquid Crystal Display 液晶显示
-LED - Light Emitting Diode 发光二极管
-SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480
-HD - High Definition 高清晰度，720p，16:9宽高比分辨率1280x720
-HDMI - High Definition Multimedia Interface 高清晰多媒体接口
-VGA - Video Graphics Array 视频图形阵列
-CPU - Central Processing Unit 中央处理器 / PUA的别称
-GPU - Graphics Processing Unit 图形处理器
-DPU - Data Processing Unit 数据处理器
-NPU - Neural network Processing Unit 神经网络处理器
-TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
 DNS - Domain Name System 域名系统
 HA - High Availability 高可用性
 SOA - Service-Oriented Architecture 面向服务的架构
@@ -708,6 +693,25 @@ BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难�
 GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
 PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
 DPIA - Data Protection Impact Assessment 数据保护影响评估，评估是否符合GDPR
+CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
+```
+
+```markdown
+USB - Universal Serial Bus 通用串行总线
+OCR - Optical Character Recognition 光学字符识别
+RGB - Red Green Blue 红绿蓝
+CRT - Cathode Ray Tube 阴极射线管，显像管
+LCD - Liquid Crystal Display 液晶显示
+LED - Light Emitting Diode 发光二极管
+SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480
+HD - High Definition 高清晰度，720p，16:9宽高比分辨率1280x720
+HDMI - High Definition Multimedia Interface 高清晰多媒体接口
+VGA - Video Graphics Array 视频图形阵列
+CPU - Central Processing Unit 中央处理器 / PUA的别称
+GPU - Graphics Processing Unit 图形处理器
+DPU - Data Processing Unit 数据处理器
+NPU - Neural network Processing Unit 神经网络处理器
+TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
 ```
 
 ## 英文缩写解释(术语)
