@@ -601,22 +601,12 @@ PS - Polystyrene 聚苯乙烯，常用于建材、玩具、文具、家电、一
 
 ```markdown
 ID - Identity Document 身份证件 / Identifier 标识符
-FPV - First-Person View 第一人称视角
 IT - Information Technology 信息技术
-IDC - Internet Data Center 互联网数据中心
-CP - Content Provider 内容提供商
 PC - Personal Computer 个人计算机
 PIN - Personal Identification Number 个人识别码
 PII - Personal Identifiable Information 个人身份信息
-FW - Firewall 防火墙
 OS - Operating System 操作系统
-IM - Instant Messaging 即时消息
-ICQ - I Seek You 我找你，即时通讯软件(以色列)
-IRC - Internet Relay Chat 互联网中继聊天
-DB - Database 数据库
-AD - Active Directory 活动目录(Windows服务器)
-CS - Client-Server 客户端与服务器
-BS - Browser-Server 浏览器与服务器 / Basic Station 基站
+IM - Instant Messaging 即时消息，即时聊天(软件)
 TEL - Telephone 电话
 FAX - Facsimile 传真
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
@@ -625,47 +615,6 @@ PPT - PowerPoint 演示文稿(微软)
 PDF - Portable Document Format 便携式文档格式
 WPS - Word Processing System / Writer, Presentation, Spreadsheets 文字处理系统(金山软件) / 文字、演示、表格
 PS - Adobe Photoshop 图像处理软件
-IDE - Integrated Development Environment 集成开发环境(软件开发)
-VS - Visual Studio (微软IDE)
-IE - Internet Explorer 网页浏览器(微软)
-WiFi - Wireless Fidelity 无线保真技术，无线网络协议
-AC - Access Controller 网络控制器
-AP - Access Point 网络接入点
-WAP - Wireless Access Point 无线网络接入点
-LBS - Location Based Service 基于位置的服务
-LAN - Local Area Network 局域网
-WLAN - Wireless Local Area Network 无线局域网
-WAN - Wide Area Network 广域网
-WPA - WiFi Protected Access WiFi访问保护
-WPAN - Wireless Personal Area Network 无线个人网
-HTTP - HyperText Transfer Protocol 超文本传输协议
-HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
-IoT - Internet of Things 物联网
-SSO - Single Sign-On 单点登录(认证服务)
-API - Application Programming Interface 应用程序接口
-ISO - International Organization for Standardization 国际标准化组织
-IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
-CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
-IaaS - Infrastructure as a Service 基础设施即服务
-PaaS - Platform as a Service 平台即服务
-SaaS - Software as a Service 软件即服务
-KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
-UTC - Coordinated Universal Time 协调世界时间，世界统一时间
-GMT - Greenwich Mean Time 格林尼治标准时间
-CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
-USB - Universal Serial Bus 通用串行总线
-OCR - Optical Character Recognition 光学字符识别
-RGB - Red Green Blue 红绿蓝
-CRT - Cathode Ray Tube 阴极射线管，显像管
-LCD - Liquid Crystal Display 液晶显示
-LED - Light Emitting Diode 发光二极管
-ASCII - American Standard Code for Information Interchange 美国信息交换标准代码
-UTF - Unicode Transformation Format 针对Unicode的可变长度字符编码
-GBK - Guójiā Biāozhǔn Kuòzhǎn 国家标准扩展(拼音)
-SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480
-HD - High Definition 高清晰度，720p，16:9宽高比分辨率1280x720
-HDMI - High Definition Multimedia Interface 高清晰多媒体接口
-VGA - Video Graphics Array 视频图形阵列
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合 / Market Research 市场研究 / Measurement Report 测量报告
@@ -682,6 +631,60 @@ GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练�
 MoE - Mixture of Experts 混合专家模型，让模型以远低于传统密集模型的计算成本进行预训练的机器学习技术
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
 NLP - Natural Language Processing 自然语言处理
+IoT - Internet of Things 物联网
+ISO - International Organization for Standardization 国际标准化组织
+IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
+ASCII - American Standard Code for Information Interchange 美国信息交换标准代码
+UTF - Unicode Transformation Format 针对Unicode的可变长度字符编码
+GBK - Guójiā Biāozhǔn Kuòzhǎn 国家标准扩展(拼音)
+UTC - Coordinated Universal Time 协调世界时间，世界统一时间
+GMT - Greenwich Mean Time 格林尼治标准时间
+CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
+```
+
+```markdown
+FPV - First-Person View 第一人称视角
+IDC - Internet Data Center 互联网数据中心
+CP - Content Provider 内容提供商
+FW - Firewall 防火墙
+ICQ - I Seek You 我找你，即时通讯软件(以色列)
+IRC - Internet Relay Chat 互联网中继聊天
+DB - Database 数据库
+AD - Active Directory 活动目录(Windows服务器)
+CS - Client-Server 客户端与服务器
+BS - Browser-Server 浏览器与服务器 / Basic Station 基站
+IDE - Integrated Development Environment 集成开发环境(软件开发)
+VS - Visual Studio (微软IDE)
+IE - Internet Explorer 网页浏览器(微软)
+WiFi - Wireless Fidelity 无线保真技术，无线网络协议
+AC - Access Controller 网络控制器
+AP - Access Point 网络接入点
+WAP - Wireless Access Point 无线网络接入点
+LBS - Location Based Service 基于位置的服务
+LAN - Local Area Network 局域网
+WLAN - Wireless Local Area Network 无线局域网
+WAN - Wide Area Network 广域网
+WPA - WiFi Protected Access WiFi访问保护
+WPAN - Wireless Personal Area Network 无线个人网
+HTTP - HyperText Transfer Protocol 超文本传输协议
+HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
+SSO - Single Sign-On 单点登录(认证服务)
+API - Application Programming Interface 应用程序接口
+CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
+IaaS - Infrastructure as a Service 基础设施即服务
+PaaS - Platform as a Service 平台即服务
+SaaS - Software as a Service 软件即服务
+KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
+USB - Universal Serial Bus 通用串行总线
+OCR - Optical Character Recognition 光学字符识别
+RGB - Red Green Blue 红绿蓝
+CRT - Cathode Ray Tube 阴极射线管，显像管
+LCD - Liquid Crystal Display 液晶显示
+LED - Light Emitting Diode 发光二极管
+SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480
+HD - High Definition 高清晰度，720p，16:9宽高比分辨率1280x720
+HDMI - High Definition Multimedia Interface 高清晰多媒体接口
+VGA - Video Graphics Array 视频图形阵列
 CPU - Central Processing Unit 中央处理器 / PUA的别称
 GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
@@ -700,11 +703,11 @@ DV - Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
 EV - Extended Validation 扩展验证(证书)
 DLP - Data Loss Prevention 数据泄漏防护
+NDA - Non-disclosure Agreement 保密合约
+BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
 GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
 PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
 DPIA - Data Protection Impact Assessment 数据保护影响评估，评估是否符合GDPR
-NDA - Non-disclosure Agreement 保密合约
-BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
 ```
 
 ## 英文缩写解释(术语)
