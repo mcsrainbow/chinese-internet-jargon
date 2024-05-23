@@ -371,6 +371,7 @@ CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来�
 CVR - Conversion Rate 转化率
 PCU - Peak Concurrent Users 最高并发用户
 DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
+ASP - Average Selling Price 平均销售价格
 CAC - Customer Acquisition Cost 获取单个顾客的成本
 TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
@@ -613,11 +614,6 @@ IM - Instant Messaging 即时消息，即时聊天(软件)
 TEL - Telephone 电话
 FAX - Facsimile 传真
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
-APP - Application 应用程序
-PPT - PowerPoint 演示文稿(微软)
-PDF - Portable Document Format 便携式文档格式
-WPS - Word Processing System / Writer, Presentation, Spreadsheets 文字处理系统(金山软件) / 文字、演示、表格
-PS - Adobe Photoshop 图像处理软件
 IT - Information Technology 信息技术
 PC - Personal Computer 个人计算机
 PIN - Personal Identification Number 个人识别码
@@ -625,6 +621,46 @@ PII - Personal Identifiable Information 个人身份信息
 OS - Operating System 操作系统
 DB - Database 数据库
 FW - Firewall 防火墙
+PS - Adobe Photoshop 图像处理软件
+APP - Application 应用程序
+TXT - Text 文本
+DOC - Document 文档
+XLS - Excel Spreadsheet 电子表格(微软)
+PPT - PowerPoint 演示文稿(微软)
+PDF - Portable Document Format 便携式文档格式
+DAT - Data 数据
+WPS - Word Processing System / Writer, Presentation, Spreadsheets 文字处理系统(金山软件) / 文字、演示、表格
+BMP - Bitmap 位图，图形文件格式
+GIF - Graphics Interchange Format 图像互换格式，位图图形文件格式
+JPG - JPEG, Joint Photographic Experts Group 联合图像专家小组，有损图像压缩标准
+PNG - Portable Network Graphics 便携式网络图形，无损压缩的位图图形文件格式
+WebP - Google开发的旨在加快图片加载速度的图片格式，与JPEG格式相比，相同图片质量仅需约1/3文件大小，与PNG相比约1/2
+MPEG - Moving Picture Experts Group 动态影像专家小组，运动图像压缩算法
+SWF - ShockWave Flash 冲击波闪光灯 / Small Web Format 小型网页格式，Adobe Flash文件格式
+PSD - Photoshop Document 图像处理软件Photoshop的专用格式
+CSS - Cascading Style Sheets 层叠样式表
+APK - Android Package 安卓程序包
+EXE - Executable 可执行
+DLL - Dynamic Link Library 动态链接库
+TMP - TEMP, Temporary 临时
+CFG - CONF, Configuration 配置
+INI - Initial 初始化，配置
+PEM - Privacy-Enhanced Mail 隐私增强邮件，密钥文件格式
+GZ - GZIP, GNU Zip 文件压缩格式
+JAR - Java Archive Java归档文件，以ZIP格式构建
+WAR - Web Application Archive Web应用程序归档
+TAR - Tape Archive 磁带存档
+TTF - TrueType 由美国苹果公司和微软公司共同开发的电脑轮廓字体类型标准
+JS - JavaScript 可在浏览器端执行的编程语言
+PHP - Hypertext Preprocessor 超文本预处理器，编程语言
+ASP - Active Server Page 动态服务器网页
+JSP - Java Server Pages Java服务器网页
+HTML - HyperText Markup Language 超文本标记语言
+XHTML - Extensible Hypertext Markup Language 可扩展超文本标记语言
+JSON - JavaScript Object Notation JavaScript对象表示法，轻量级的数据交换格式
+YAML - YML, YAML Ain't a Markup Language "YAML不是一种标记语言"的递归缩写，可读性高，用来表达数据序列化的格式
+XML - EXtensible Markup Language 可扩展标记语言
+TOML - Tom's Obvious, Minimal Language 汤姆的浅显的、极简的语言，配置文件格式
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合
@@ -800,7 +836,6 @@ ODBC - Open Database Connectivity 开放数据库连接
 URI - Uniform Resource Identifier 统一资源标识符
 URL - Uniform Resource Locator 统一资源定位符
 ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
-DLL - Dynamic Link Library 动态链接库
 K8S - Kubernetes 容器编排平台
 i18n - internationalization 国际化与本地化
 ORI - Container Runtime Interface 容器运行时接口
@@ -808,7 +843,6 @@ eBPF - extened Berkeley Packet Filter 扩展的伯克利包过滤器，允许在
 JDK - Java Development Kit Java开发工具包
 JRE - Java Runtime Environment Java运行时环境
 JVM - Java Virtual Machine Java虚拟机
-JSP - Java Server Pages Java服务器网页
 SDK - Software Development Kit 软件开发工具包
 UUID - Universally Unique Identifier 通用唯一识别码
 DBMS - Database Management System 数据库管理系统
@@ -883,9 +917,6 @@ WS - WebSocket 浏览器与服务器之间的双向网络通信协议
 WSS - WebSocket Secure 双向网络通信协议的安全版本
 KV - Key-Value 键值对，NoSQL数据存储模式，每个数据值都对应一个唯一的键
 UA - User Agent 用户代理
-JS - JavaScript 可在浏览器端执行的编程语言
-PHP - Hypertext Preprocessor 超文本预处理器，编程语言
-ASP - Active Server Page 动态服务器网页 / Average Selling Price 平均销售价格
 MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
 RAM - Random Access Memory 随机存取存储器，内存
@@ -977,10 +1008,6 @@ RDT - Reliable Data Transfer 可靠数据传输
 CRC - Cyclic Redundancy Check 循环冗余校验
 SIM - Subscriber Identity Module 用户身份模块
 CUDA - Compute Unified Device Architecture 统一计算架构
-XML - EXtensible Markup Language 可扩展标记语言
-HTML - HyperText Markup Language 超文本标记语言
-XHTML - Extensible Hypertext Markup Language 可扩展超文本标记语言
-CSS - Cascading Style Sheets 层叠样式表
 SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
 VT - Virtualization Technology 虚拟化技术
