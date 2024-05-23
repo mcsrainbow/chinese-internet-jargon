@@ -134,7 +134,7 @@ AD - Anno Domini 在主之年(拉丁文)，公元
 ET - Extra Terrestrial 外星人
 UFO - Unidentified Flying Object 不明飞行物
 MVP - Most Valuable Player 最有价值选手
-RIP - Rest In Peace 安息
+R.I.P. - Requiescat In Pace 安息吧(拉丁文) / RIP, Rest In Peace 安息吧
 POC - Point of Contact 首要联系人
 OTP - On The Phone 在通话中 / O.T.P. One True Pair 天生一对
 SOS - Morse Code Distress Signal 国际摩尔斯电码求救信号，三短三长三短
@@ -513,6 +513,7 @@ ICAC - Independent Commission Against Corruption 廉政公署(香港)
 HKBN - Hong Kong Broadband Network 香港宽频网络
 FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局
+FR - FdR, Federal Reserve 联邦储备局，美联储
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
 CCC/3C - China Compulsory Certification 中国强制性产品认证
 OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
@@ -521,6 +522,11 @@ CNN - Cable News Network 美国有线新闻网络
 VOA - Voice of America 美国之音
 TED - Technology, Entertainment, Design 技术、娱乐、设计，以TED大会著称的非营利机构(美国)
 EMS - Express Mail Service 快递邮政服务
+AA - American Airlines 美国航空，美航
+UA - United Airlines 联合航空，美联航
+CA - Air China 中国国际航空，国航
+CZ - China Southern Airlines 中国南方航空公司，南航
+MU - China Eastern Airlines 中国东方航空公司，东航
 PICC - The People's Insurance Company of China 中国人民保险公司
 BOC - Bank of China 中国银行
 ICBC - Industrial and Commercial Bank of China 中国工商银行
@@ -683,7 +689,7 @@ SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
 MFA - Multifactor Authentication 多因素身份验证
 OTP - One-Time Password 一次性密码
-CA - Certificate Authority 证书授权 / Air China 中国国际航空
+CA - Certificate Authority 证书授权
 DV - Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
 EV - Extended Validation 扩展验证(证书)
