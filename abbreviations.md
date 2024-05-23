@@ -299,7 +299,8 @@ K - Kilo 千 / Kilobyte 千字节
 KG - Kilogram 千克，公斤
 T - Ton 吨 / Terabyte 太字节
 MT - Metric Ton 公吨，1000千克
-Y - Year 年
+N - Number (任意)数量 / No 否
+Y - Year 年 / Yes 是
 Q - Quarter 季度
 M - Meter 米 / Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节
 SQM - Square Meter 平方米
