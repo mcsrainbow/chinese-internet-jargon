@@ -303,20 +303,21 @@ MT - Metric Ton 公吨，1000千克
 N - Number (任意)数量 / No 否
 Y - Year 年 / Yes 是
 Q - Quarter 季度 / Cute 可爱 / Cue 点名，提示
-M - Meter 米 / Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节
+M - Meter 米 / Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节 / Medium 中
 SQM - Square Meter 平方米
 CBM - Cubic Meter 立方米
 KM - Kilometer 千米，公里
 CM - Centimeter 厘米
 MM - Millimeter 毫米
-L - Liter 升 / Layer 层 / Level 级别
+X - Extra 额外 / Kiss 亲吻 / Twitter 推特
+L - Liter 升 / Layer 层 / Level 级别 / Large 大
 ML - Milliliter 毫升 / Machine Learning 机器学习
 W - Watt 瓦，瓦特 / Week 周
 KW - Kilowatt 千瓦
-P - Power 匹，马力，0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节
+P - Power 匹，马力，0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加
 HP - Horse Power 马力
 H - Hour 小时
-S - Second 秒
+S - Second 秒 / Service 服务 / Small 小 / Super 超级
 b - bit 位，比特
 B - Byte 字节 ，1 Byte = 8 bits / Billion 十亿
 KB - Kilobyte 千字节，1 KB = 1024 Bytes
