@@ -8,6 +8,7 @@ EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
 OT - Overtime 加班
 PT - Part-time 兼职
+FT - Full-time 全职
 FW - Forward 转发(邮件)
 CC - Carbon Copy 抄送(邮件) / Common Criteria 通用标准
 BCC - Blind Carbon Copy 秘密抄送(邮件)
@@ -149,6 +150,7 @@ MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四�
 ```markdown
 PK - Player Kill 玩家间对战
 VS - Versus 对抗，相对
+IMBA - Imbanlance 不平衡，过于强大
 GM - Game Master 游戏管理员
 NPC - Non-Player Character 非玩家角色
 RPG - Role-Playing Game 角色扮演游戏 / Rocket-Propelled Grenade 火箭推进榴弹，火箭弹
@@ -220,14 +222,26 @@ C&B - Compensation and Benefits 薪酬和福利
 ```markdown
 CS - Computer Science 计算机科学
 DS - Data Science 数据科学
-BS - Bachelor of Science 理学学士
-MS - Master of Science 理学硕士
-MBA - Master of Business Administration 工商管理硕士
-DBA - Doctor of Business Administration 工商管理博士 / Database Administrator 数据库管理员
+BA - Bachelor of Arts 文学士
+BS/BSc - Bachelor of Science 理学士
+LLB - Bachelor of Laws 法学士
+BEng - Bachelor of Engineering 工学士
+MA - Master of Arts 文学硕士
+MS/MSc - Master of Science 理学硕士
+LLM - Master of Laws 法学硕士
+MEng - Master of Engineering 工程硕士
+Mphil - Master of Philosophy 哲学硕士，研究硕士
 PhD - Doctor of Philosophy 哲学博士，研究博士
+MSF - Master of Science in Finance 金融硕士
+MBA - Master of Business Administration 工商管理硕士
+EMBA - Executive Master Of Business Administration 高层管理人员工商管理硕士
+DBA - Doctor of Business Administration 工商管理博士
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
-SAT - Scholastic Assessment Test 学术能力评估测试，美国高考
+PS - Personal Statement 个人陈述
+EC - Extracurricular Activities 课外活动
 CPT - Curricular Practical Training 课程实习训练，美国政府给予的临时就业许可
+SAT - Scholastic Assessment Test 学术能力评估测试，美国高考
+ACT - American College Test 美国大学入学考试，美国高考
 GRE - Graduate Record Examinations 美国研究生入学考试
 GMAT - Graduate Management Admission Test 美国研究生管理科入学考试
 GPA - Grade Point Average 平均成绩点数，绩点
@@ -264,6 +278,7 @@ EPFL - École polytechnique fédérale de Lausanne 洛桑联邦理工学院(法�
 TUM - Technical University of Munich 慕尼黑工业大学
 NYU - New York University 纽约大学
 KCL - King's College London 伦敦国王学院
+Edin - The University of Edinburgh 爱丁堡大学
 UQ - The University of Queensland 昆士兰大学
 LSE - The London School of Economics and Political Science 伦敦政治经济学院
 NU - Northwestern University 西北大学(美国)
@@ -285,6 +300,7 @@ CUHK - The Chinese University of Hong Kong 香港中文大学
 HKBU - Hong Kong Baptist University 香港浸会大学
 CityU - City University of Hong Kong 香港城市大学
 PolyU - The Hong Kong Polytechnic University 香港理工大学
+WCU - Wild Chicken University 野鸡大学
 ```
 
 ```markdown
@@ -624,6 +640,7 @@ PIN - Personal Identification Number 个人识别码
 PII - Personal Identifiable Information 个人身份信息
 OS - Operating System 操作系统
 DB - Database 数据库
+DBA - Database Administrator 数据库管理员
 FW - Firewall 防火墙
 PS - Adobe Photoshop 图像处理软件
 APP - Application 应用程序
