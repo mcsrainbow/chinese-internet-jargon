@@ -54,17 +54,21 @@ OMW - On My Way 我已经在路上了
 NB - Nota Bene 注意，划重点(拉丁文)
 TYT - Take Your Time 不用急，慢慢来
 NRN - No Reply Necessary 无需回复
+WC - Water Closet 抽水马桶，厕所
+MNC - Mother Nature Calls 大自然母亲的呼唤，要上厕所
+WLB - Work-Life Balance 工作生活平衡，劳逸平衡
 WFH - Work From Home 在家工作
 OOO - Out of Office 不上班，不在办公室
 PTO - Paid Time Off 带薪休假
 AL - Annual Leave 年假
+SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 ATM - At The Moment 此刻 / Automated Teller Machine 自动柜员机
 ATST - At The Same Time 同时
 AKA - Also Known As 也就是，亦称，也被称为
 LOL - Laugh Out Loud 大声笑出来
 LMAO - Laugh My Ass Off 笑掉我屁股
 ASL - Age, Sex, Location 年龄，性别，所在地 / American Sign Language 美国手语
-PS - P.S. Postscript 附言，补充说明 / PlayStation 日本索尼的游戏机
+PS - P.S. Postscript 附言，补充说明
 MTD - Month to Date 从月初到今天
 QTD - Quarter to Date 从季度初到今天
 YTD - Year to Date 从年初到今天
@@ -81,6 +85,7 @@ ATB - All The Best 一切顺利，一切都是最好的
 AFAIK - As Far As I Know 据我所知
 KIT - Keep In Touch 保持联系
 JFF - Just For Fun 只是为了好玩，闹着玩
+JK - Just Kidding 只是开玩笑
 JDI - Just Do It 勇敢去做，干就完了
 JAM - Just A Minute 等一下，就一分钟
 TMI - Too Much Information 太多讯息，不要再说了
@@ -91,6 +96,7 @@ WTF - What The Fuck 我靠，搞什么
 WTH - What The Hell 我晕，什么鬼
 GFY - Go Fuck Yourself 滚开，去你的
 STFU - Shut The Fuck Up 闭嘴
+BN - Bad News 坏消息
 SH - Shit Happens 糟糕的事情总是难免会发生，世事无常
 FML - Fuck My Life 我真倒霉
 STBY - Sucks To Be You 你真不幸
@@ -117,7 +123,6 @@ BF - Boyfriend 男朋友
 BFF - Best Friends Forever 永远的好朋友
 XOXO - Hugs and Kisses 拥抱和亲吻
 OIC - Oh I See 哦我明白了
-JK - Just Kidding 只是开玩笑 / jyoshikoukousei 日本女高中生校服(日文罗马音)
 ILY - I Love You 我爱你
 OFC - Of Course 当然
 LMK - Let Me Know 让我知道
@@ -154,7 +159,6 @@ BBT - Be Back Tomorrow 明天回来
 BOL - Best of luck 祝你好运
 BG - Background 背景
 BGM - Background Music 背景音乐
-BN - Bad News 坏消息
 B/C - Because 因为
 COS - Because 因为
 BBQ - Barbecue 烧烤
@@ -166,16 +170,13 @@ ADDR - Address 地址
 YOLO - You Only Live Once 你只活一次
 FOMO - Fear of Missing Out 害怕错过
 PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
+SM - Sadomasochism 性虐恋，施虐与受虐
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
-ABC - American-Born Chinese 出生在美国的华裔
+JK - jyoshikoukousei 日本女高中生校服(日文罗马音)
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
-WLB - Work-Life Balance 工作生活平衡，劳逸平衡
-SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
-WC - Water Closet 抽水马桶，厕所
-MNC - Mother Nature Calls 大自然母亲的呼唤，要上厕所
-SM - Sadomasochism 性虐恋，施虐与受虐
+ABC - American-Born Chinese 出生在美国的华裔
 TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧
 AM - a.m. Ante Meridiem 上午(拉丁文)
 PM - p.m. Post Meridiem 下午(拉丁文)
@@ -197,6 +198,7 @@ MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四�
 ```
 
 ```markdown
+PS - PlayStation 日本索尼的游戏机
 PK - Player Kill 玩家间对战
 VS - Versus 对抗，相对
 IMBA - Imbanlance 不平衡，过于强大
