@@ -236,6 +236,7 @@ MSF - Master of Science in Finance 金融硕士
 MBA - Master of Business Administration 工商管理硕士
 EMBA - Executive Master Of Business Administration 高层管理人员工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士
+EDP - Executive Development Programs 高层经理人进修项目
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
 PS - Personal Statement 个人陈述
 EC - Extracurricular Activities 课外活动
