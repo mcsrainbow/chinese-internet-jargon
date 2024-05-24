@@ -96,6 +96,7 @@ STBY - Sucks To Be You 你真不幸
 WIIFM - What's In It For Me 我能从中得到什么好处
 NMP - Not My Problem 不是我的问题
 NOYB - None of Your Business 跟你没关系
+YDKM - You Don't Know Me 你不懂我
 MYOB - Mind Your Own Business 先管好你自己的事儿
 AYOR - At Your Own Risk 由你自己负责
 CMIIW - Correct Me If I'm Wrong 如果我错了请纠正
@@ -135,6 +136,7 @@ NP - No Problem 没问题
 PDA - Public Displays of Affection 在公共场合秀恩爱
 NSFW - Not Safe For Work 办公室不宜
 FTW - For The Win 为了胜利，太棒了
+YTB = You're The Best 你是最棒的
 HBD - Happy Birthday 生日快乐
 HMU - Hit Me Up 联系我
 SMH - Shake My Head 我摇头，失望
