@@ -107,7 +107,7 @@ YDKM - You Don't Know Me 你不懂我
 MYOB - Mind Your Own Business 先管好你自己的事儿
 AYOR - At Your Own Risk 由你自己负责
 CMIIW - Correct Me If I'm Wrong 如果我错了请纠正
-DLTM - Don't lie to me 别对我说谎
+DLTM - Don't Lie To Me 别对我说谎
 DBEYR - Don't Believe Everything You Read 别什么都信，尽信书不如无书
 SITD - Still In The Dark 仍然不清楚，仍然不知道
 DIKU - Do I Know You 我认识你吗
