@@ -6,7 +6,7 @@
 DIY - Do It Yourself 自己动手
 EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
-OT - Overtime 加班
+OT - Overtime 加班 / Off Topic 跑题了
 PT - Part-time 兼职
 FT - Full-time 全职
 FW - Forward 转发(邮件)
@@ -15,6 +15,7 @@ BCC - Blind Carbon Copy 秘密抄送(邮件)
 ATTN - Attention 经办人，相关人员
 RSVP - Répondez S'il Vous Plaît 请回复(法语)
 Encl. - Enclosure 附件(邮件)
+MTF - More To Follow 还有更多
 FYI - For Your Information 供你参考
 FYR - For Your Reference 供你参考
 FYU - For Your Use 供你使用
@@ -27,6 +28,7 @@ TLTR - Too Long To Read 太长了，无法阅读
 FWIW - For What It's Worth 对其价值而言，无论如何，不管有没有用
 DOE - Depending On Experience 视工作经验而言
 B4 - Before 之前
+M8 - Mate 兄弟，哥们
 FTE - Full-time Employee 全职雇员
 PTE - Part-time Employee 兼职雇员
 ASAP - As Soon As Possible 尽快
@@ -44,9 +46,8 @@ TBC - To Be Confirmed 待确认
 TBA - To Be Announced 待公布
 TBH - To Be Honest 说实话
 JIC - Just in Case 以防万一
-BRB - Be Right Back 马上回来
-BRT - Be Right There 马上到
 IMO - In My Opinion 个人观点
+MOO - My Own Opinion 我自己认为
 RE: - Regarding 关于(邮件)
 BTW - By The Way 顺便说一下
 OMW - On My Way 我已经在路上了
@@ -68,11 +69,20 @@ QTD - Quarter to Date 从季度初到今天
 YTD - Year to Date 从年初到今天
 WIP - Work In Progress 进行中的工作
 DDL - Deadline 截止期限
-NP - No Problem 没问题
 TIA - Thanks In Advance 先谢了，劳驾
 THX/TKS/THKS - Thanks 谢谢
 TY - Thank You 谢谢你
+TYVM - Thank You Very Much 非常感谢
 Pls/Plz - Please 请
+NFS - Not For Sale 不出售
+AML - All My Love 我所有的爱
+ATB - All The Best 最好的
+ATST - At The Same Time 同时
+AFAIK -  As Far As I Know 据我所知
+KIT - Keep In Touch 保持联系
+JFF - Just For Fun 只是为了好玩，闹着玩
+JDI - Just Do It 勇敢去做，干就完了
+JAM - Just A Minute 等一下，就一分钟
 TMI - Too Much Information 太多讯息，不要再说了
 IDK - I Don't Know 我不知道
 IDC - I Don't Care 我不在乎
@@ -80,8 +90,27 @@ WTF - What The Fuck 我靠，搞什么
 WTH - What The Hell 我晕，什么鬼
 GFY - Go Fuck Yourself 滚开，去你的
 STFU - Shut The Fuck Up 闭嘴
+SH - Shit Happens 糟糕的事情总是难免会发生，世事无常
 FML - Fuck My Life 我真倒霉
+STBY - Sucks To Be You 你真不幸
 WIIFM - What's In It For Me 我能从中得到什么好处
+NMP - Not My Problem 不是我的问题
+NOYB - None of Your Business 跟你没关系
+MYOB - Mind Your Own Business 先管好你自己的事儿
+AYOR - At Your Own Risk 由你自己负责
+CMIIW - Correct Me If I'm Wrong 如果我错了请纠正
+DLTM - Don't lie to me 别对我说谎
+DBEYR - Don't Believe Everything You Read 别什么都信，尽信书不如无书
+DKDC - Don't Know, Don't Care 不知道，不关心
+SITD - Still In The Dark 仍然不清楚，仍然不知道
+DIKU - Do I Know You 我认识你吗
+DILLIGAS - Do I Look Like I Give A Shit 我看起来像是在乎的人吗
+IRL - In Real Life 在现实生活中
+RBTL - Read Between The Lines 体会言外之意
+CIO - Check It Out 看看吧，检查一下
+CMB - Call Me Back 给我回电话
+CMON - Come On 拜托
+POS - Parents Over Shoulder 父母在旁，不便说话
 GF - Girlfriend 女朋友
 BF - Boyfriend 男朋友
 BFF - Best Friends Forever 永远的好朋友
@@ -93,14 +122,16 @@ OFC - Of Course 当然
 LMK - Let Me Know 让我知道
 KK - Okay 好的
 CU - See You 再见
+CYA - See Ya 再见
+CUL - See You Later 一会见
+TTYL - Talk To You Later 稍后聊
+CWYL - Chat With You Later 稍后聊
 CP - Coupling 配对 / Copy 复制
 GG - Good Game 好游戏，认输
 AFK - Away From Keyboard 离开键盘
-TTYL - Talk To You Later 稍后聊
-CWYL - Chat With You Later 稍后聊
 BYOB - Bring Your Own Bottle 自带酒水
 NVM - Never Mind 没关系，别在意
-BBQ - Barbecue 烧烤
+NP - No Problem 没问题
 PDA - Public Displays of Affection 在公共场合秀恩爱
 NSFW - Not Safe For Work 办公室不宜
 FTW - For The Win 为了胜利，太棒了
@@ -113,7 +144,23 @@ OCD - Obsessive Compulsive Disorder 强迫症
 TGIF - Thank God It's Friday 感谢上帝今天是星期五
 LET - Leaving Early Today 今天早点走
 BOT - Back On Topic 回到主题 / Bot 机器人
+BRB - Be Right Back 马上回来
+BRT - Be Right There 马上到
 BBS - Be Back Soon 很快回来 / Bulletin Board System 电子公告板
+BBL - Be Back Later 一会回来
+BBT - Be Back Tomorrow 明天回来
+BOL - Best of luck 祝你好运
+BG - Background 背景
+BGM - Background Music 背景音乐
+BN - Bad News 坏消息
+B/C - Because 因为
+COS - Because 因为
+BBQ - Barbecue 烧烤
+BDAY - Birthday 生日
+KB - Keyboard 键盘
+MSG - Message 信息
+MGMT - Management 管理
+ADDR - Address 地址
 YOLO - You Only Live Once 你只活一次
 FOMO - Fear of Missing Out 害怕错过
 PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
@@ -125,7 +172,7 @@ DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生�
 WLB - Work-Life Balance 工作生活平衡，劳逸平衡
 SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 WC - Water Closet 抽水马桶，厕所
-BGM - Background Music 背景音乐
+MNC - Mother Nature Calls 大自然母亲的呼唤，要上厕所
 SM - Sadomasochism 性虐恋，施虐与受虐
 TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧
 AM - a.m. Ante Meridiem 上午(拉丁文)
@@ -351,11 +398,12 @@ OU - Organizational Unit 组织单位
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育
 IPO - Initial Public Offering 首次公开募股
-BIZ - Business 商业，业务
+Biz - Business 商业，业务
 BU - Business Unit 业务单元
 BG - Business Group 业务集团
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
+BAU - Business As Usual 正常营业
 RFP - Request For Proposal 需求建议书，招标书
 HQ - Headquarters 公司总部
 UI - User Interface 用户界面
