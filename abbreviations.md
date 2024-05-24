@@ -611,6 +611,7 @@ PS - Polystyrene 聚苯乙烯，常用于建材、玩具、文具、家电、一
 ```markdown
 ID - Identity Document 身份证件 / Identifier 标识符
 IM - Instant Messaging 即时消息，即时聊天(软件)
+DM - Direct Message 直接消息，私信
 TEL - Telephone 电话
 FAX - Facsimile 传真
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
@@ -773,10 +774,10 @@ CPAN - Comprehensive Perl Archive Network Perl综合档案网，Perl程序库
 OLAP - OnLine Analysis Processing 联机分析处理
 OLTP - Online Transaction Processing 联机事务处理
 BFS - Breadth First Search 广度优先搜索
-DFS - Depth First Search 深度优先搜索 / Distributed File System 分布式文件系统
+DFS - Depth First Search 深度优先搜索
 NN - Neural Network 神经网络
 CNN - Convolutional Neural Networks 卷积神经网络
-DM - Data Mining 数据挖掘 / Direct Message 直接消息，私信
+DM - Data Mining 数据挖掘
 DL - Deep Learning 深度学习
 DW - Data Warehouse 数据仓库
 EDI - Electronic Data Interchange 电子数据交换
@@ -907,7 +908,6 @@ UPS - Uninterruptible Power Supply 不间断电源
 HBA - Host Bus Adapter 主机总线适配器
 HUB - Hub 集线器
 NC - Network Computer 网络计算机
-NFS - Network File System 网络文件系统
 NAS - Network Attached Storage 网络附接存储
 ETL - Extract, Transform, Load 提取，转换，加载，在加载前对数据进行清洗加工
 ELT - Extract, Load, Transform 提取，加载，转换，对加载后的数据进行处理
@@ -926,6 +926,10 @@ LPDDR - Low Power DDR SDRAM 低功耗双数据率同步动态随机存储器，�
 BYOK - Bring Your Own Key 自带密钥
 BYOD - Bring Your Own Device 自带设备
 FS - File System 文件系统
+NFS - Network File System 网络文件系统
+DFS - Distributed File System 分布式文件系统
+HDFS - Hadoop Distributed File System Hadoop分布式文件系统
+VFS - Virtual File System 虚拟文件系统
 REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
