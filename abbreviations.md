@@ -59,6 +59,7 @@ OOO - Out of Office 不上班，不在办公室
 PTO - Paid Time Off 带薪休假
 AL - Annual Leave 年假
 ATM - At The Moment 此刻 / Automated Teller Machine 自动柜员机
+ATST - At The Same Time 同时
 AKA - Also Known As 也就是，亦称，也被称为
 LOL - Laugh Out Loud 大声笑出来
 LMAO - Laugh My Ass Off 笑掉我屁股
@@ -76,9 +77,8 @@ TYVM - Thank You Very Much 非常感谢
 Pls/Plz - Please 请
 NFS - Not For Sale 不出售
 AML - All My Love 我所有的爱
-ATB - All The Best 最好的
-ATST - At The Same Time 同时
-AFAIK -  As Far As I Know 据我所知
+ATB - All The Best 一切顺利，一切都是最好的
+AFAIK - As Far As I Know 据我所知
 KIT - Keep In Touch 保持联系
 JFF - Just For Fun 只是为了好玩，闹着玩
 JDI - Just Do It 勇敢去做，干就完了
