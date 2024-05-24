@@ -219,6 +219,7 @@ C&B - Compensation and Benefits 薪酬和福利
 
 ```markdown
 CS - Computer Science 计算机科学
+DS - Data Science 数据科学
 BS - Bachelor of Science 理学学士
 MS - Master of Science 理学硕士
 MBA - Master of Business Administration 工商管理硕士
@@ -445,13 +446,14 @@ CRM - Customer Relationship Management 客户关系管理
 SCRM - Social Customer Relationship Management 社会化客户关系管理
 BIM - Building Information Modeling 建筑信息模型
 GIS - Geographic Information System 地理信息系统
-QA - Quality Assurance 质量保证(测试)
+QA - Quality Assurance 质量保证，测试
 QC - Quality Control 质量控制
 QMS - Quality Management System 质量管理系统
 CMS - Content Management System 内容管理系统
-OSS - Operation Support Systems 运营支持系统
+OSS - Operation Support System 运营支持系统
 BOSS - Business Operation Support System 业务运营支持系统
-MIS - Management Information Systems 管理信息系统
+DSS - Decision Support System 决策支持系统
+MIS - Management Information System 管理信息系统
 LLC - Limited Liability Company 有限责任公司
 BOM - Bill of Material 物料清单
 BOP - Bill of Process 工艺流程清单 / Balance of Payments 国际收支
@@ -781,7 +783,7 @@ DM - Data Mining 数据挖掘
 DL - Deep Learning 深度学习
 DW - Data Warehouse 数据仓库
 EDI - Electronic Data Interchange 电子数据交换
-EDA - Electronic Design Automation 电子设计自动化，超大规模集成电路芯片的功能设计工具
+EDA - Electronic Design Automation 电子设计自动化 / Exploratory Data Analysis 探索性数据分析
 DevOps - Development and Operations 开发运维一体化
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 I/O - Input/Output 输入/输出 / Inbound/Outbound 入站/出站
