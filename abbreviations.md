@@ -86,6 +86,7 @@ JAM - Just A Minute 等一下，就一分钟
 TMI - Too Much Information 太多讯息，不要再说了
 IDK - I Don't Know 我不知道
 IDC - I Don't Care 我不在乎
+DKDC - Don't Know, Don't Care 不知道，不在乎
 WTF - What The Fuck 我靠，搞什么
 WTH - What The Hell 我晕，什么鬼
 GFY - Go Fuck Yourself 滚开，去你的
@@ -102,7 +103,6 @@ AYOR - At Your Own Risk 由你自己负责
 CMIIW - Correct Me If I'm Wrong 如果我错了请纠正
 DLTM - Don't lie to me 别对我说谎
 DBEYR - Don't Believe Everything You Read 别什么都信，尽信书不如无书
-DKDC - Don't Know, Don't Care 不知道，不关心
 SITD - Still In The Dark 仍然不清楚，仍然不知道
 DIKU - Do I Know You 我认识你吗
 DILLIGAS - Do I Look Like I Give A Shit 我看起来像是在乎的人吗
