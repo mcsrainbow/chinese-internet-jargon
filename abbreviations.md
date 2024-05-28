@@ -498,6 +498,8 @@ SOHO - Small Office Home Office 家居办公
 SNS - Social Networking Services 社会性网络服务
 OTA - Online Travel Agency 在线旅游机构
 FAQ - Frequently Asked Questions 常见问题解答
+TOC - Table of Content 内容目录
+MOC - Map of Content 内容地图
 TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
 ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
 ```
@@ -655,6 +657,7 @@ EV - Electric Vehicle 电动汽车
 A/C - Air Conditioning 空气调节，空调
 ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
+ECO - Ecology, Conservation, Optimization 生态(环保)、节约(节能)、优化(动力) / Ecosystem 生态系统
 F1 - Formula One 一级方程式赛车
 MT - Manual Transmission 手动变速器
 AT - Automatic Transmission 自动变速箱
