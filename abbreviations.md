@@ -238,6 +238,13 @@ HCM - Human Capital Management 人力资本管理，对员工的技能、知识�
 PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
 PO - Product Owner 产品负责人 / Purchase Order 采购订单
+SM - Scrum Master 敏捷专家，敏捷教练，熟悉敏捷开发模式及敏捷实施流程的人员
+ST - Scrum Team 敏捷团队
+TL - Technique Leader, Teach Lead 技术带头人 / Team Leader, Team Lead 团队负责人
+PB - Product Backlog 产品待办列表，在每个Sprint(冲刺周期)之前，团队从中选择要处理的任务
+SB - Sprint Backlog 迭代待办列表，团队在当前Sprint(冲刺周期)中要完成的任务
+BS - Brainstorming 头脑风暴
+TB - Team Building 团队建设
 PE - Property Executive 物业主管
 OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
 CEO - Chief Executive Officer 首席执行官
@@ -259,8 +266,6 @@ OP - Operations 运营 / Operator 操作员
 TS - Technical Support 技术支持
 JD - Job Description 职位描述
 CV - Curriculum Vitae 个人履历
-BS - Brainstorming 头脑风暴
-TB - Team Building 团队建设
 etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
@@ -684,6 +689,57 @@ PS - Polystyrene 聚苯乙烯，常用于建材、玩具、文具、家电、一
 ```
 
 ```markdown
+FPV - First-Person View 第一人称视角
+IDC - Internet Data Center 互联网数据中心
+CP - Content Provider 内容提供商
+ICQ - I Seek You 我找你，即时通讯软件(以色列)
+IRC - Internet Relay Chat 互联网中继聊天
+AD - Active Directory 活动目录(Windows服务器)
+CS - Client-Server 客户端与服务器
+BS - Browser-Server 浏览器与服务器 / Basic Station 基站
+IDE - Integrated Development Environment 集成开发环境(软件开发)
+VS - Visual Studio (微软IDE)
+IE - Internet Explorer 网页浏览器(微软)
+WiFi - Wireless Fidelity 无线保真技术，无线网络协议
+AC - Access Controller 网络控制器
+AP - Access Point 网络接入点
+WAP - Wireless Access Point 无线网络接入点
+LBS - Location Based Service 基于位置的服务
+LAN - Local Area Network 局域网
+WLAN - Wireless Local Area Network 无线局域网
+WAN - Wide Area Network 广域网
+WPA - WiFi Protected Access WiFi访问保护
+WPAN - Wireless Personal Area Network 无线个人网
+HTTP - HyperText Transfer Protocol 超文本传输协议
+HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
+SSO - Single Sign-On 单点登录(认证服务)
+API - Application Programming Interface 应用程序接口
+IaaS - Infrastructure as a Service 基础设施即服务
+PaaS - Platform as a Service 平台即服务
+SaaS - Software as a Service 软件即服务
+KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
+DNS - Domain Name System 域名系统
+HA - High Availability 高可用性
+SOA - Service-Oriented Architecture 面向服务的架构
+VPN - Virtual Private Network 虚拟专用网
+SSL - Secure Sockets Layer 安全套接层
+TLS - Transport Layer Security 传输层安全性协议
+MFA - Multifactor Authentication 多因素身份验证
+OTP - One-Time Password 一次性密码
+CA - Certificate Authority 证书授权
+DV - Domain Validation 域名验证(证书)
+OV - Organization Validation 组织验证(证书)
+EV - Extended Validation 扩展验证(证书)
+DLP - Data Loss Prevention 数据泄漏防护
+NDA - Non-disclosure Agreement 保密合约
+BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
+GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
+PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
+DPIA - Data Protection Impact Assessment 数据保护影响评估，评估是否符合GDPR
+CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
+```
+
+```markdown
 ID - Identity Document 身份证件 / Identifier 标识符
 IM - Instant Messaging 即时消息，即时聊天(软件)
 DM - Direct Message 直接消息，私信
@@ -763,57 +819,6 @@ GBK - Guójiā Biāozhǔn Kuòzhǎn 国家标准扩展(拼音)
 UTC - Coordinated Universal Time 协调世界时间，世界统一时间
 GMT - Greenwich Mean Time 格林尼治标准时间
 CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
-```
-
-```markdown
-FPV - First-Person View 第一人称视角
-IDC - Internet Data Center 互联网数据中心
-CP - Content Provider 内容提供商
-ICQ - I Seek You 我找你，即时通讯软件(以色列)
-IRC - Internet Relay Chat 互联网中继聊天
-AD - Active Directory 活动目录(Windows服务器)
-CS - Client-Server 客户端与服务器
-BS - Browser-Server 浏览器与服务器 / Basic Station 基站
-IDE - Integrated Development Environment 集成开发环境(软件开发)
-VS - Visual Studio (微软IDE)
-IE - Internet Explorer 网页浏览器(微软)
-WiFi - Wireless Fidelity 无线保真技术，无线网络协议
-AC - Access Controller 网络控制器
-AP - Access Point 网络接入点
-WAP - Wireless Access Point 无线网络接入点
-LBS - Location Based Service 基于位置的服务
-LAN - Local Area Network 局域网
-WLAN - Wireless Local Area Network 无线局域网
-WAN - Wide Area Network 广域网
-WPA - WiFi Protected Access WiFi访问保护
-WPAN - Wireless Personal Area Network 无线个人网
-HTTP - HyperText Transfer Protocol 超文本传输协议
-HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
-SSO - Single Sign-On 单点登录(认证服务)
-API - Application Programming Interface 应用程序接口
-IaaS - Infrastructure as a Service 基础设施即服务
-PaaS - Platform as a Service 平台即服务
-SaaS - Software as a Service 软件即服务
-KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
-DNS - Domain Name System 域名系统
-HA - High Availability 高可用性
-SOA - Service-Oriented Architecture 面向服务的架构
-VPN - Virtual Private Network 虚拟专用网
-SSL - Secure Sockets Layer 安全套接层
-TLS - Transport Layer Security 传输层安全性协议
-MFA - Multifactor Authentication 多因素身份验证
-OTP - One-Time Password 一次性密码
-CA - Certificate Authority 证书授权
-DV - Domain Validation 域名验证(证书)
-OV - Organization Validation 组织验证(证书)
-EV - Extended Validation 扩展验证(证书)
-DLP - Data Loss Prevention 数据泄漏防护
-NDA - Non-disclosure Agreement 保密合约
-BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
-GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
-PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
-DPIA - Data Protection Impact Assessment 数据保护影响评估，评估是否符合GDPR
-CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
 ```
 
 ```markdown
