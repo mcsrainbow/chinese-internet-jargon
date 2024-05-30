@@ -876,8 +876,9 @@ PRE - Pre-production 预生产(环境)，灰度(环境)
 PROD - Production 生产(环境)
 CaC - Configuration as Code 配置即代码
 IaC - Infrastructure as Code 基础设施即代码
-PR - Pull Request 合并请求(软件开发)
-MR - Merge Request 合并请求(软件开发) / MapReduce 映射规约
+CR - Change Request 变更请求 / Code Review 代码评审
+PR - Pull Request 合并请求(代码)
+MR - Merge Request 合并请求(代码) / MapReduce 映射规约
 SLA - Service-Level Agreement 服务水平协议，对用户的承诺和补偿范围
 SLO - Service-Level Objective 服务水平目标，达成承诺所需的性能目标
 SLI - Service-Level Indicator 服务水平指标，性能目标的实际测量数据
