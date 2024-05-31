@@ -830,8 +830,11 @@ RGB - Red Green Blue 红绿蓝
 CRT - Cathode Ray Tube 阴极射线管，显像管
 LCD - Liquid Crystal Display 液晶显示
 LED - Light Emitting Diode 发光二极管
-SD - Standard Definition 标准清晰度，480p，16:9宽高比分辨率854x480 / Secure Digital Memory Card 安全数码卡
-HD - High Definition 高清晰度，720p，16:9宽高比分辨率1280x720
+SD - Standard Definition 标准清晰度，480P，16:9宽高比分辨率854x480 / Secure Digital Memory Card 安全数码卡
+HD - High Definition 高清晰度，720P，16:9宽高比分辨率1280x720
+FHD - Full HD, 全高清，1080P，16:9宽高比分辨率规1920×1080
+QHD - Quad HD, 2K，16:9宽高比分辨率为2560x1440
+UHD - Ultra HD, 超高清，4K，16:9宽高比分辨率为3840×2160
 HDMI - High Definition Multimedia Interface 高清晰多媒体接口
 VGA - Video Graphics Array 视频图形阵列
 CPU - Central Processing Unit 中央处理器 / PUA的别称
