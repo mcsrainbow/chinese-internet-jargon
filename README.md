@@ -3016,7 +3016,7 @@ T型人才 - T-shaped talent
 倒反天罡 - Defying the natural order
 核心力量 - Core strength
 尸位素餐 - Holding a position without fulfilling duties
-事业单位 - Public Institution
+事业单位 - Public institution
 
 金丝雀发布 - Canary release
 第一性原理 - First principles
