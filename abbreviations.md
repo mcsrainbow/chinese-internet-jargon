@@ -753,6 +753,7 @@ PII - Personal Identifiable Information 个人身份信息
 OS - Operating System 操作系统
 DB - Database 数据库
 DBA - Database Administrator 数据库管理员
+CMDB - Configuration Management Database 配置管理数据库，用于储存软硬件资产信息
 FW - Firewall 防火墙
 PS - Adobe Photoshop 图像处理软件
 APP - Application 应用程序
