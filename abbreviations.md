@@ -856,6 +856,7 @@ PyPI - Python Package Index Python软件包索引
 CPAN - Comprehensive Perl Archive Network Perl综合档案网，Perl程序库
 OLAP - OnLine Analysis Processing 联机分析处理
 OLTP - Online Transaction Processing 联机事务处理
+CDC - Change Data Capture 变更数据捕获
 BFS - Breadth First Search 广度优先搜索
 DFS - Depth First Search 深度优先搜索
 NN - Neural Network 神经网络
