@@ -368,7 +368,7 @@ EXP - Export 出口，导出 / Experience 经验 / Exploit 漏洞利用
 TM - Trademark 商标
 R - Registered 已注册
 No. - Numéro 编号(法语)
-G - Gram 克 / Gigabyte 吉字节
+G - Gram 克 / Gigabyte 吉字节 / Generation 代，世代
 K - Kilo 千 / Kilobyte 千字节
 KG - Kilogram 千克，公斤
 T - Ton 吨 / Terabyte 太字节
