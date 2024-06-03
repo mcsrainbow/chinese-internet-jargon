@@ -625,6 +625,7 @@ HSBC - The Hongkong and Shanghai Banking Corporation Limited 香港和上海银�
 IBM - International Business Machines Corporation 国际商业机器公司
 HP - Hewlett-Packard Company 惠普公司
 GM - General Motors 通用汽车
+SAP - Systemanalyse Programmentwicklung 系统分析程序开发(德语)，思爱普，德国软件企业
 EDPK - EY, Deloitte, PwC, KPMG 著名的四个会计师事务所，安永、德勤、普华永道、毕马威
 EY - Ernst & Young 安永会计师事务所
 DTT - Deloitte Touche Tohmatsu 德勤会计师事务所
