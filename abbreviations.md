@@ -274,6 +274,7 @@ viz. - videlicet 也就是(拉丁文)
 Q&A - Question and Answer 问与答
 R&D - Research and Development 研究和开发
 C&B - Compensation and Benefits 薪酬和福利
+EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员工的心理和行为问题，提高工作绩效
 ```
 
 ```markdown
