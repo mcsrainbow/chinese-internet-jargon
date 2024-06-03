@@ -587,6 +587,10 @@ IMDG - International Maritime Dangerous Goods 国际海运危险品规则
 IATA - International Air Transport Association 国际航空运输协会
 ISBN - International Standard Book Number 国际标准书号
 IOC - International Olympic Committee 国际奥委会
+ESG - Environmental, Social and Governance 环境、社会和企业治理
+SASB - Sustainability Accounting Standards Board 可持续会计准则委员会
+TCFD - Task Force on Climate-Related Financial Disclosures 气候相关财务披露工作组
+TNFD - The Taskforce on Nature-related Financial Disclosures 自然相关财务披露工作组
 PLA - People's Liberation Army of China 中国人民解放军
 NFL - National Football League 全国橄榄球联盟(美国)
 NBA - National Basketball Association 美国篮球协会
