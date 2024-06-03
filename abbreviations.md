@@ -673,6 +673,7 @@ F1 - Formula One 一级方程式赛车
 MT - Manual Transmission 手动变速器
 AT - Automatic Transmission 自动变速箱
 DCT - Dual Clutch Transmission 双离合变速箱
+DSG - Direct Shift Gearbox 直接换挡变速箱，大众汽车的双离合变速箱
 CVT - Continuously Variable Transmission 连续可变传动，无级变速箱
 SUV - Sport Utility Vehicle 运动型多用途车
 MPV - Multi-Purpose Vehicle 多功能休旅车
