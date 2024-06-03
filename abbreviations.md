@@ -169,6 +169,7 @@ MGMT - Management 管理
 ADDR - Address 地址
 YOLO - You Only Live Once 你只活一次
 FOMO - Fear of Missing Out 害怕错过
+FIRE - Financial Independence, Retire Early 财务独立，早日退休
 PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
 SM - Sadomasochism 性虐恋，施虐与受虐
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
@@ -681,6 +682,7 @@ RPM - Revolutions Per Minute 每分钟转速
 AUD - Audio 音频
 NOA - Navigate on Autopilot 领航辅助驾驶
 FSD - Full Self-Driving 完全自动驾驶
+CDC - Continuous Damping Control 连续阻尼控制，能自动识别道路状况的汽车减震系统
 PVC - Polyvinyl Chloride 聚氯乙烯，工程塑料，常用于板材、管材、门窗
 PU - Polyurethane 聚氨酯，人造皮革
 PET - Polyethylene Terephthalate 聚对苯二甲酸乙二酯，聚酯，的确良，涤纶，常用于矿泉水瓶、碳酸饮料瓶、塑料绳、绝缘膜、包装
@@ -884,6 +886,7 @@ IaC - Infrastructure as Code 基础设施即代码
 CR - Change Request 变更请求 / Code Review 代码评审
 PR - Pull Request 合并请求(代码)
 MR - Merge Request 合并请求(代码) / MapReduce 映射规约
+SVC - Service 服务
 SLA - Service-Level Agreement 服务水平协议，对用户的承诺和补偿范围
 SLO - Service-Level Objective 服务水平目标，达成承诺所需的性能目标
 SLI - Service-Level Indicator 服务水平指标，性能目标的实际测量数据
