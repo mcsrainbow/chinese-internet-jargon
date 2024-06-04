@@ -12,7 +12,7 @@ FT - Full-time 全职
 FW - Forward 转发(邮件)
 CC - Carbon Copy 抄送(邮件) / Common Criteria 通用标准
 BCC - Blind Carbon Copy 秘密抄送(邮件)
-ATTN - Attention 经办人，相关人员
+Attn: - Attention 经办人，相关人员
 RSVP - Répondez S'il Vous Plaît 请回复(法语)
 Encl. - Enclosure 附件(邮件)
 MTF - More To Follow 还有更多
@@ -47,6 +47,7 @@ TBA - To Be Announced 待公布
 TBH - To Be Honest 说实话
 JIC - Just in Case 以防万一
 IMO - In My Opinion 个人观点
+IMHO - In My Humble Opinion 个人浅见
 MOO - My Own Opinion 我自己认为
 RE: - Regarding 关于(邮件)
 BTW - By The Way 顺便说一下
@@ -80,6 +81,8 @@ TY - Thank You 谢谢你
 TYVM - Thank You Very Much 非常感谢
 Pls/Plz - Please 请
 NFS - Not For Sale 不出售
+MSRP - Manufacturer's Suggested Retail Price 建议售价
+AAR - At Any Rate 任何价格
 AML - All My Love 我所有的爱
 ATB - All The Best 一切顺利，一切都是最好的
 AFAIK - As Far As I Know 据我所知
@@ -130,8 +133,17 @@ KK - Okay 好的
 CU - See You 再见
 CYA - See Ya 再见
 CUL - See You Later 一会见
+CUB - Call You Back 回头打给你
 TTYL - Talk To You Later 稍后聊
 CWYL - Chat With You Later 稍后聊
+ADBB - All Done, Bye-bye 全部完成，再见
+AYDY - Are You Done Yet 你完事了没
+AMOF - As A Matter of Fact 事实是
+AYT - Are You There 你在吗
+AYS - Are You Serious 你认真的吗
+WRU - Where Are You 你在哪
+RUOK - Are You OK 你还好吗
+AH - At Home 在家
 CP - Coupling 配对 / Copy 复制
 GG - Good Game 好游戏，认输
 AFK - Away From Keyboard 离开键盘
@@ -141,7 +153,7 @@ NP - No Problem 没问题
 PDA - Public Displays of Affection 在公共场合秀恩爱
 NSFW - Not Safe For Work 办公室不宜
 FTW - For The Win 为了胜利，太棒了
-YTB = You're The Best 你是最棒的
+YTB - You're The Best 你是最棒的
 HBD - Happy Birthday 生日快乐
 HMU - Hit Me Up 联系我
 SMH - Shake My Head 我摇头，失望
@@ -164,9 +176,14 @@ COS - Because 因为
 BBQ - Barbecue 烧烤
 BDAY - Birthday 生日
 KB - Keyboard 键盘
+DIR - Direction 指导，方向
 MSG - Message 信息
+MGR - Manager 经理
 MGMT - Management 管理
-ADDR - Address 地址
+DEPT - Department 部门
+ADD/ADR/ADDR - Address 地址
+Approx. - Approximate 大约
+RPS - Rock Paper Scissors 石头剪刀布
 YOLO - You Only Live Once 你只活一次
 FOMO - Fear of Missing Out 害怕错过
 FIRE - Financial Independence, Retire Early 财务独立，早日退休
@@ -223,15 +240,19 @@ MP - Magic Points 魔法值，蓝条
 AD - Attack Damage 伤害输出
 AP - Attack Power 法术输出
 ADC - Attack Damage Carry/Core 伤害输出核心
-MT - Main Tank 主坦克，负责承受敌人伤害
+MT - T, Main Tank 主坦克，负责承受敌人伤害
 AOE - Area of Effect 范围性作用
+DPS - Damage Per Second 每秒产生伤害
+PVP - Player VS Player 玩家间对战
+PVE - Player VS Environment 玩家对战环境(副本)
+PVC - Player VS Computer 玩家对战电脑
 IMAX - Image Maximum 巨幕(电影)
 IMDb - Internet Movie Database 互联网电影数据库
 DJ - Disc Jockey 碟片骑师
 FB - Facebook 脸书，社交网络应用
 IG - Instagram 图片社交应用
 AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
-LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
+LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌 / Level 等级
 KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
 ```
 
@@ -272,12 +293,13 @@ OP - Operations 运营 / Operator 操作员
 TS - Technical Support 技术支持
 JD - Job Description 职位描述
 CV - Curriculum Vitae 个人履历
+HC - Headcount 人头数，招聘人数，职员人数
 etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
 viz. - videlicet 也就是(拉丁文)
 Q&A - Question and Answer 问与答
-R&D - Research and Development 研究和开发
+R&D - RD, Research and Development 研究和开发
 C&B - Compensation and Benefits 薪酬和福利
 EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员工的心理和行为问题，提高工作绩效
 ```
@@ -375,6 +397,7 @@ EXP - Export 出口，导出 / Experience 经验 / Exploit 漏洞利用
 TM - Trademark 商标
 R - Registered 已注册
 No. - Numéro 编号(法语)
+C - Center 中心 / Core 核心 / Carry 支撑，主力 / Cao 操(拼音)
 G - Gram 克 / Gigabyte 吉字节 / Generation 代，世代
 K - Kilo 千 / Kilobyte 千字节
 KG - Kilogram 千克，公斤
@@ -383,21 +406,25 @@ MT - Metric Ton 公吨，1000千克
 N - Number (任意)数量 / No 否
 Y - Year 年 / Yes 是
 Q - Quarter 季度 / Cute 可爱 / Cue 点名，提示
-M - Meter 米 / Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节 / Medium 中
-SQM - Square Meter 平方米
-CBM - Cubic Meter 立方米
+X - Extra 额外 / Kiss 亲吻 / Twitter 推特
+M - Meter 米 / Min., Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节 / Medium 中
+SQM - Sq.m, Square Meter 平方米
+CBM - Cu.m, Cubic Meter 立方米
 KM - Kilometer 千米，公里
 CM - Centimeter 厘米
 MM - Millimeter 毫米
-X - Extra 额外 / Kiss 亲吻 / Twitter 推特
+Yd. - Yard 码，1码 = 3英尺 = 0.9144米
+Ft. - Foot 英尺，呎，1英尺 ＝ 12英寸，1英尺 = 0.3048米
+In. - Inch 英寸，1英寸 = 2.54厘米
+Gal - Gallon 加仑，1美制加仑 = 3.785411784升
 L - Liter 升 / Layer 层 / Level 级别 / Large 大
 ML - Milliliter 毫升 / Machine Learning 机器学习
 W - Watt 瓦，瓦特 / Week 周 / Wan(拼音) 万
 KW - Kilowatt 千瓦
 P - Power 匹，马力，0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加
 HP - Horse Power 马力
-H - Hour 小时
-S - Second 秒 / Service 服务 / Small 小 / Super 超级
+H - Hr., Hour 小时
+S - Sec., Second 秒 / Service 服务 / Small 小 / Super 超级
 b - bit 位，比特
 B - Byte 字节 ，1 Byte = 8 bits / Billion 十亿
 KB - Kilobyte 千字节，1 KB = 1024 Bytes
@@ -405,6 +432,25 @@ MB - Megabyte 兆字节，1 MB = 1024 KB
 GB - Gigabyte 吉字节，1 GB = 1024 MB
 TB - Terabyte 太字节，1 TB = 1024 GB
 PB - Petabyte 拍字节，1 PB = 1024 TB
+Jan - January 一月
+Feb - February 二月
+Mar - March 三月
+Apr - April 四月
+May - May 五月
+Jun - June 六月
+Jul - July 七月
+Aug - August 八月
+Sep - September 九月
+Oct - October 十月
+Nov - November 十一月
+Dec - December 十二月
+MON - Mon, Monday 星期一
+TUE - Tue, Tuesday 星期二
+WED - Wed, Wednesday 星期三
+THU - Thu, Thursday 星期四
+FRI - Fri, Friday 星期五
+SAT - Sat, Saturday 星期六
+SUN - Sun, Sunday 星期日
 ```
 
 ```markdown
@@ -489,6 +535,7 @@ SP - Sales Promotion 促销
 FOC - Free of Charge 免费
 SKU - Stock Keeping Unit 库存单位(产品)
 GDP - Gross Domestic Product 国内生产总值
+GNI - Gross National Income 国民总收入，GNI = GDP + 对外要素收入净额(来自国外的要素收入-支付国外的要素收入)
 CPI - Consumer Price Index 消费者物价指数 / Cost Performance Index 成本绩效指数
 PPI - Producer Price Index 生产物价指数
 PMI - Purchasing Managers' Index 采购经理人指数
@@ -653,6 +700,8 @@ RNA - RiboNucleic Acid 核糖核酸，生物大分子，在遗传编码、翻译
 DHA - Docosahexaenoic Acid 二十二碳六烯酸，脑黄金，大脑和视网膜的重要组成成分
 ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
 CT - Computed Tomography 计算机体层成像，计算机断层扫描 / X-Ray Computed Tomography X射线计算机断层扫描，X光
+MRI - Magnetic Resonance Imaging 磁共振成像
+NMR - Nuclear Magnetic Resonance 核磁共振
 TIA - Transient Ischaemic Attack 短暂性脑缺血发作
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
@@ -795,6 +844,7 @@ OS - Operating System 操作系统
 DB - Database 数据库
 DBA - Database Administrator 数据库管理员
 CMDB - Configuration Management Database 配置管理数据库，用于储存软硬件资产信息
+PG - PostgreSQL, Postgres 企业级开源关系数据库
 FW - Firewall 防火墙
 PS - Adobe Photoshop 图像处理软件
 APP - Application 应用程序
