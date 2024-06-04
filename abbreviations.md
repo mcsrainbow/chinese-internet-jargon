@@ -495,7 +495,7 @@ PMI - Purchasing Managers' Index 采购经理人指数
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 KOS - Key Opinion Spreader 关键意见传播者，评测达人
-KOF - Key Opinion Followers 关键意见追随者，忠实粉丝
+KOF - Key Opinion Follower 关键意见追随者，忠实粉丝
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
 BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
 B2C - Business to Consumer 企业对消费者，如京东
