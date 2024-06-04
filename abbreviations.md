@@ -173,7 +173,7 @@ FIRE - Financial Independence, Retire Early 财务独立，早日退休
 PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
 SM - Sadomasochism 性虐恋，施虐与受虐
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
-JK - jyoshikoukousei 日本女高中生校服(日文罗马音)
+JK - Jyoshi Koukousei 日本女高中生校服(日文罗马拼音)
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
@@ -186,6 +186,8 @@ AD - Anno Domini 在主之年(拉丁文)，公元
 ET - Extra Terrestrial 外星人
 UFO - Unidentified Flying Object 不明飞行物
 MVP - Most Valuable Player 最有价值选手
+FMVP - Finals Most Valuable Player (NBA)总决赛最有价值球员
+DPOY - Defensive Player of the Year (NBA)年度最佳防守球员
 R.I.P. - Requiescat In Pace 安息吧(拉丁文) / RIP, Rest In Peace 安息吧
 POC - Point of Contact 首要联系人
 OTP - On The Phone 在通话中 / O.T.P. One True Pair 天生一对
@@ -213,6 +215,9 @@ LOL - League of Legends 英雄联盟
 PUBG - PlayerUnknown's Battlegrounds 绝地求生，吃鸡
 CS - Counter-Strike 反恐精英
 CF - Crossfire 穿越火线
+DNF - Dungeon & Fighter 地下城与勇士
+SNK - Shin Nihon Kikaku(日文罗马拼音) / New Japan Project 新日本企画，代表游戏"拳皇"、"侍魂"、"合金弹头"
+KOF - The King of Fighters 拳皇
 HP - Health Points 生命值，血量
 MP - Magic Points 魔法值，蓝条
 AD - Attack Damage 伤害输出
@@ -387,7 +392,7 @@ MM - Millimeter 毫米
 X - Extra 额外 / Kiss 亲吻 / Twitter 推特
 L - Liter 升 / Layer 层 / Level 级别 / Large 大
 ML - Milliliter 毫升 / Machine Learning 机器学习
-W - Watt 瓦，瓦特 / Week 周
+W - Watt 瓦，瓦特 / Week 周 / Wan(拼音) 万
 KW - Kilowatt 千瓦
 P - Power 匹，马力，0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加
 HP - Horse Power 马力
@@ -404,11 +409,13 @@ PB - Petabyte 拍字节，1 PB = 1024 TB
 
 ```markdown
 KA - Key Accounts 重点客户，大卖场
+NA - Named Accounts 价值客户
 CS - Customer Service 客户服务
-OU - Organizational Unit 组织单位
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育
 IPO - Initial Public Offering 首次公开募股
+CN - Common Name 公用名
+OU - Organizational Unit 组织单位
 Biz - Business 商业，业务
 BU - Business Unit 业务单元
 BG - Business Group 业务集团
@@ -487,6 +494,8 @@ PPI - Producer Price Index 生产物价指数
 PMI - Purchasing Managers' Index 采购经理人指数
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
+KOS - Key Opinion Spreader 关键意见传播者，评测达人
+KOF - Key Opinion Followers 关键意见追随者，忠实粉丝
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
 BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
 B2C - Business to Consumer 企业对消费者，如京东
@@ -611,7 +620,7 @@ TED - Technology, Entertainment, Design 技术、娱乐、设计，以TED大会�
 EMS - Express Mail Service 快递邮政服务
 AA - American Airlines 美国航空，美航
 UA - United Airlines 联合航空，美联航
-CA - Air China 中国国际航空，国航
+CA - Air China 中国国际航空，国航 / California 加利福尼亚
 CZ - China Southern Airlines 中国南方航空公司，南航
 MU - China Eastern Airlines 中国东方航空公司，东航
 PICC - The People's Insurance Company of China 中国人民保险公司
@@ -623,6 +632,8 @@ CMB - China Merchants Bank 中国招商银行
 BOCOM - Bank of Communications 交通银行
 HSBC - The Hongkong and Shanghai Banking Corporation Limited 香港和上海银行有限公司，汇丰银行
 IBM - International Business Machines Corporation 国际商业机器公司
+AMD - Advanced Micro Devices 超威半导体公司
+ARM - Advanced RISC Machine 高级精简指令集机器 / 半导体设计与软件公司
 HP - Hewlett-Packard Company 惠普公司
 GM - General Motors 通用汽车
 SAP - Systemanalyse Programmentwicklung 系统分析程序开发(德语)，思爱普，德国软件企业
@@ -695,6 +706,27 @@ PU - Polyurethane 聚氨酯，人造皮革
 PET - Polyethylene Terephthalate 聚对苯二甲酸乙二酯，聚酯，的确良，涤纶，常用于矿泉水瓶、碳酸饮料瓶、塑料绳、绝缘膜、包装
 PP - Polypropylene 聚丙烯，常用于盆、桶、瓶、餐盒
 PS - Polystyrene 聚苯乙烯，常用于建材、玩具、文具、家电、一次性餐具
+```
+
+```markdown
+USB - Universal Serial Bus 通用串行总线
+OCR - Optical Character Recognition 光学字符识别
+RGB - Red Green Blue 红绿蓝
+CRT - Cathode Ray Tube 阴极射线管，显像管
+LCD - Liquid Crystal Display 液晶显示
+LED - Light Emitting Diode 发光二极管
+SD - Standard Definition 标准清晰度，480P，16:9宽高比分辨率854x480 / Secure Digital Memory Card 安全数码卡
+HD - High Definition 高清晰度，720P，16:9宽高比分辨率1280x720
+FHD - Full HD, 全高清，1080P，16:9宽高比分辨率规1920×1080
+QHD - Quad HD, 2K，16:9宽高比分辨率为2560x1440
+UHD - Ultra HD, 超高清，4K，16:9宽高比分辨率为3840×2160
+HDMI - High Definition Multimedia Interface 高清晰多媒体接口
+VGA - Video Graphics Array 视频图形阵列
+CPU - Central Processing Unit 中央处理器 / PUA的别称
+GPU - Graphics Processing Unit 图形处理器
+DPU - Data Processing Unit 数据处理器
+NPU - Neural network Processing Unit 神经网络处理器
+TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
 ```
 
 ```markdown
@@ -816,9 +848,12 @@ AIGC - AI Generated Content 人工智能生成内容
 GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图像、音频等内容，模仿和创造新内容
 AGI - Artificial General Intelligence 通用人工智能
 RAG - Retrieval Augmented Generation 检索增强生成
+SFT - Supervised Fine-tuning 有监督微调，在预训练模型的基础上使用带标签的数据进行微调
+RAFT - Retrieval Augmented Fine-tuning 检索增强微调
+RLHF - Reinforcement Learning from Human Feedback 基于人类反馈的强化学习
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
-MoE - Mixture of Experts 混合专家模型，让模型以远低于传统密集模型的计算成本进行预训练的机器学习技术
+MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任务，再由多个子模型以远低于传统密集模型的计算成本进行预训练
 SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本到图像、图像到图像生成模型
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
 IoT - Internet of Things 物联网
@@ -830,27 +865,6 @@ GBK - Guójiā Biāozhǔn Kuòzhǎn 国家标准扩展(拼音)
 UTC - Coordinated Universal Time 协调世界时间，世界统一时间
 GMT - Greenwich Mean Time 格林尼治标准时间
 CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
-```
-
-```markdown
-USB - Universal Serial Bus 通用串行总线
-OCR - Optical Character Recognition 光学字符识别
-RGB - Red Green Blue 红绿蓝
-CRT - Cathode Ray Tube 阴极射线管，显像管
-LCD - Liquid Crystal Display 液晶显示
-LED - Light Emitting Diode 发光二极管
-SD - Standard Definition 标准清晰度，480P，16:9宽高比分辨率854x480 / Secure Digital Memory Card 安全数码卡
-HD - High Definition 高清晰度，720P，16:9宽高比分辨率1280x720
-FHD - Full HD, 全高清，1080P，16:9宽高比分辨率规1920×1080
-QHD - Quad HD, 2K，16:9宽高比分辨率为2560x1440
-UHD - Ultra HD, 超高清，4K，16:9宽高比分辨率为3840×2160
-HDMI - High Definition Multimedia Interface 高清晰多媒体接口
-VGA - Video Graphics Array 视频图形阵列
-CPU - Central Processing Unit 中央处理器 / PUA的别称
-GPU - Graphics Processing Unit 图形处理器
-DPU - Data Processing Unit 数据处理器
-NPU - Neural network Processing Unit 神经网络处理器
-TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
 ```
 
 ## 英文缩写解释(术语)
@@ -1135,6 +1149,7 @@ EBS - Elastic Block Storage 弹性块存储
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
 KMS - Key Management Service 密钥管理服务
+SCP - Service Control Policy 服务控制策略，基于组织的访问控制策略
 ACL - Access Control Lists 访问控制列表
 DAC - Discretionary Access Control 自主访问控制
 MAC - Mandatory Access Control 强制访问控制 / Media Access Control Address 媒体访问控制地址 / Mesage Authentication Code 消息鉴别码
@@ -1182,7 +1197,7 @@ SDLC - Software Development Life Cycle 软件开发生命周期
 MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
 PoC - Proof of Concept 概念验证
-MVP - Minimum Viable Product 最小可行性产品
+MVP - Minimum Viable Product 最小可行产品
 BPM - Business Process Management 业务流程管理
 PDM - Product Data Management 产品数据管理
 CAM - Computer Aided Manufacturing 计算机辅助制造
