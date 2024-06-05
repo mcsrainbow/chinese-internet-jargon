@@ -774,6 +774,7 @@ PU - Polyurethane 聚氨酯，人造皮革
 PET - Polyethylene Terephthalate 聚对苯二甲酸乙二酯，聚酯，的确良，涤纶，常用于矿泉水瓶、碳酸饮料瓶、塑料绳、绝缘膜、包装
 PP - Polypropylene 聚丙烯，常用于盆、桶、瓶、餐盒
 PS - Polystyrene 聚苯乙烯，常用于建材、玩具、文具、家电、一次性餐具
+TNT - Trinitrotoluene 三硝基甲苯，十分稳定的炸药，需要雷管引爆
 ```
 
 ```markdown
