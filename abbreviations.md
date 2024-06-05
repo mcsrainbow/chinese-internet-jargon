@@ -957,6 +957,7 @@ BFS - Breadth First Search 广度优先搜索
 DFS - Depth First Search 深度优先搜索
 YARN - Yet Another Resource Negotiator 又一个资源协调器
 NN - Neural Network 神经网络 / NameNode 名称节点
+DN - DataNode 数据节点
 CNN - Convolutional Neural Networks 卷积神经网络
 DM - Data Mining 数据挖掘
 DL - Deep Learning 深度学习
