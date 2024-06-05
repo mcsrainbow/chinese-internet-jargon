@@ -946,7 +946,7 @@ YOLO - You Only Look Once 你只看一次，计算机视觉领域实时对象检
 NVM - Node.js Version Manager Node.js版本管理器
 NPM - Node Package Manager Node包管理器
 RPM - Red Hat Package Manager 红帽包管理器
-YUM - Yellow dog Updater, Modified 基于RPM的包管理工具
+YUM - Yellow dog Updater, Modified 已修改的黄狗更新程序，基于RPM的包管理工具
 APT - Advanced Package Tool 高级包管理工具
 PyPI - Python Package Index Python软件包索引
 CPAN - Comprehensive Perl Archive Network Perl综合档案网，Perl程序库
@@ -955,7 +955,8 @@ OLTP - Online Transaction Processing 联机事务处理
 CDC - Change Data Capture 变更数据捕获
 BFS - Breadth First Search 广度优先搜索
 DFS - Depth First Search 深度优先搜索
-NN - Neural Network 神经网络
+YARN - Yet Another Resource Negotiator 又一个资源协调器
+NN - Neural Network 神经网络 / NameNode 名称节点
 CNN - Convolutional Neural Networks 卷积神经网络
 DM - Data Mining 数据挖掘
 DL - Deep Learning 深度学习
