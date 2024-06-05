@@ -1174,7 +1174,7 @@ LLT - Low Latency Transport 低延迟传输 / Low Level Test 低层次测试，�
 VCS - Version Control System 版本控制系统
 DSF - Distribute service Framework 分布式服务框架
 CMNET - China Mobile Network 中国移动网
-STS - Security Token Service 安全令牌服务 / Synchronous Transport Signal 同步传输信号
+STS - Security Token Service 安全令牌服务 / StatefulSet 状态集 / Synchronous Transport Signal 同步传输信号
 SAN - Storage Area Network 存储区域网络
 PAP - Password Authentication Protocol 密码认证协议
 NCU - Network Control Unit 网络控制单元
