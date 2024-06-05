@@ -45,14 +45,17 @@ TBD - To Be Determined 待决定
 TBC - To Be Confirmed 待确认
 TBA - To Be Announced 待公布
 TBH - To Be Honest 说实话
+TBQH - To Be Quite Honest 说实话(很诚恳地)
 JIC - Just in Case 以防万一
 IMO - In My Opinion 个人观点
 IMHO - In My Humble Opinion 个人浅见
+IOW - In Other Words 换一种说法
+OTOH - On The Other Hand 另一方面
 MOO - My Own Opinion 我自己认为
 RE: - Regarding 关于(邮件)
 BTW - By The Way 顺便说一下
 OMW - On My Way 我已经在路上了
-NB - Nota Bene 注意，划重点(拉丁文)
+NB - N.B., Nota Bene 注意，划重点(拉丁文)
 TYT - Take Your Time 不用急，慢慢来
 NRN - No Reply Necessary 无需回复
 WC - Water Closet 抽水马桶，厕所
@@ -67,7 +70,9 @@ ATM - At The Moment 此刻 / Automated Teller Machine 自动柜员机
 ATST - At The Same Time 同时
 AKA - Also Known As 也就是，亦称，也被称为
 LOL - Laugh Out Loud 大声笑出来
-LMAO - Laugh My Ass Off 笑掉我屁股
+LGTM - Looks Good To Me 在我看来还不错
+LMAO - Laugh My Ass Off 笑掉我屁股，笑死我了
+LMFAO - Laugh My Fucking Ass Off 笑掉我该死的屁股，笑死我了
 ASL - Age, Sex, Location 年龄，性别，所在地 / American Sign Language 美国手语
 PS - P.S. Postscript 附言，补充说明
 MTD - Month to Date 从月初到今天
@@ -79,6 +84,8 @@ TIA - Thanks In Advance 先谢了，劳驾
 THX/TKS/THKS - Thanks 谢谢
 TY - Thank You 谢谢你
 TYVM - Thank You Very Much 非常感谢
+TYSM - Thank You So Much 非常感谢
+TIL - Today I Learned 今天又学到了新知识
 Pls/Plz - Please 请
 NFS - Not For Sale 不出售
 MSRP - Manufacturer's Suggested Retail Price 建议售价
@@ -99,6 +106,10 @@ WTF - What The Fuck 我靠，搞什么
 WTH - What The Hell 我晕，什么鬼
 GFY - Go Fuck Yourself 滚开，去你的
 STFU - Shut The Fuck Up 闭嘴
+STFW - Search The Fucking Web 自己去网上搜索
+RTFM - Read The Fucking Manual 阅读该死的手册
+GTFO - Get The Fuck Out 滚出去
+PITA - Pain In The Ass 屁股疼，令人讨厌
 BN - Bad News 坏消息
 SH - Shit Happens 糟糕的事情总是难免会发生，世事无常
 FML - Fuck My Life 我真倒霉
@@ -116,6 +127,8 @@ SITD - Still In The Dark 仍然不清楚，仍然不知道
 DIKU - Do I Know You 我认识你吗
 DILLIGAS - Do I Look Like I Give A Shit 我看起来像是在乎的人吗
 IRL - In Real Life 在现实生活中
+WYSIWYG - What You See Is What You Get 所见即所得
+YMMV - Your Mileage May Vary 依实情可能有差别，你的实际旅程可能改变
 RBTL - Read Between The Lines 体会言外之意
 CIO - Check It Out 看看吧，检查一下
 CMB - Call Me Back 给我回电话
@@ -205,6 +218,7 @@ UFO - Unidentified Flying Object 不明飞行物
 MVP - Most Valuable Player 最有价值选手
 FMVP - Finals Most Valuable Player (NBA)总决赛最有价值球员
 DPOY - Defensive Player of the Year (NBA)年度最佳防守球员
+GOAT - Greatest of All Time 史上最強，有史以来最伟大的
 R.I.P. - Requiescat In Pace 安息吧(拉丁文) / RIP, Rest In Peace 安息吧
 POC - Point of Contact 首要联系人
 OTP - On The Phone 在通话中 / O.T.P. One True Pair 天生一对
@@ -305,6 +319,7 @@ EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员
 ```
 
 ```markdown
+K-12: from Kindergarten to 12th grade 基础教育(美国)，从幼儿园到12年级(相当于中国的高三)
 CS - Computer Science 计算机科学
 DS - Data Science 数据科学
 BA - Bachelor of Arts 文学士
@@ -319,7 +334,7 @@ Mphil - Master of Philosophy 哲学硕士，研究硕士
 PhD - Doctor of Philosophy 哲学博士，研究博士
 MSF - Master of Science in Finance 金融硕士
 MBA - Master of Business Administration 工商管理硕士
-EMBA - Executive Master Of Business Administration 高层管理人员工商管理硕士
+EMBA - Executive Master of Business Administration 高层管理人员工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士
 EDP - Executive Development Programs 高层经理人进修项目
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
@@ -331,6 +346,8 @@ ACT - American College Test 美国大学入学考试，美国高考
 GRE - Graduate Record Examinations 美国研究生入学考试
 GMAT - Graduate Management Admission Test 美国研究生管理科入学考试
 GPA - Grade Point Average 平均成绩点数，绩点
+AMI - Association Montessori Internationale 国际蒙台梭利协会
+AMS - American Montessori Society 美国蒙台梭利协会
 IELTS - International English Language Testing System 国际英语语言测试系统，雅思
 TOEFL - Test of English as a Foreign Language 对非英语国家留学生的英语考试，托福
 BEC - Cambridge Business English Certificate 剑桥商务英语证书
@@ -811,6 +828,9 @@ KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的�
 DNS - Domain Name System 域名系统
 HA - High Availability 高可用性
 SOA - Service-Oriented Architecture 面向服务的架构
+ROA - Resource Oriented Architecture 面向资源的架构
+REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
+RPC - Remote Procedure Call 远程过程调用协议
 VPN - Virtual Private Network 虚拟专用网
 SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
@@ -1092,7 +1112,6 @@ NFS - Network File System 网络文件系统
 DFS - Distributed File System 分布式文件系统
 HDFS - Hadoop Distributed File System Hadoop分布式文件系统
 VFS - Virtual File System 虚拟文件系统
-REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 EOM - End of Message 标示消息的结束
@@ -1120,7 +1139,6 @@ IEC - International Electrotechnical Commission 国际电工委员会
 IANA - Internet Assigned Numbers Authority 互联网号码分配局
 CIDR - Classless Inter-Domain Routing 无类别域间路由，可提高路由效率的IP地址分配方法，使用网络/掩码的形式表示网段, 如192.168.1.0/255.255.255.0或192.168.1.0/24
 GC - Garbage Collection 垃圾回收
-RPC - Remote Procedure Call 远程过程调用协议
 RIP - Routing Information Protocol 路由信息协议
 TCP - Transmission Control Protocol 传输控制协议
 UDP - User Datagram Protocol 用户数据报协议
@@ -1176,6 +1194,7 @@ SIM - Subscriber Identity Module 用户身份模块
 CUDA - Compute Unified Device Architecture 统一计算架构
 SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
+SDH - Synchronous Digital Hierarchy 同步数字体系，数字专线，点对点专线
 VT - Virtualization Technology 虚拟化技术
 VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
@@ -1185,11 +1204,12 @@ GDB - GNU Debugger GNU调试器
 GPL - GNU General Public License GNU通用公共许可协议
 LGPL - GNU Lesser General Public License 更宽松的GNU通用公共许可协议
 BSD - Berkeley Software Distribution 伯克利软件包 / BSD License BSD许可证
+OSS - Open-Source Software 开源软件 / Object Storage Service 对象存储服务
+FOSS - Free And Open-Source Software 自由与开源软件
 AWS - Amazon Web Services 亚马逊云计算服务
 ECS - Elastic Compute Service/Server 弹性计算服务，云服务器 / Elastic Container Service 弹性容器编排服务
 EC2 - Elastic Compute Cloud 弹性计算云
 S3 - Simple Storage Service 简单存储服务
-OSS - Object Storage Service 对象存储服务 / Open-Source Software 开源软件
 SQS - Simple Queue Service 简单队列服务
 SNS - Simple Notification Service 简单消息服务
 ACK - Container Service for Kubernetes 容器服务Kubernetes版
