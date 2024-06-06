@@ -360,7 +360,7 @@ CAE - C1 Advanced / Certificate in Advanced English 剑桥通用英语五级考�
 CPE - Certificate of Proficiency in English 剑桥通用英语五级考试的第五级，熟练水平
 QS - Quacquarelli Symonds (World University Rankings) 英国国际教育市场咨询公司，QS世界大学排名
 MIT - Massachusetts Institute of Technology 麻省理工学院 / MIT License MIT许可证
-HYP - Harvard Yal Princeton 哈佛，耶鲁，普林斯顿
+HYP - Harvard, Yale, Princeton 哈佛，耶鲁，普林斯顿
 IC - Imperial College London 英国帝国理工学院
 ETH - ETH Zurich, Swiss Federal Institute of Technology Zurich 苏黎世联邦理工学院
 UPenn - University of Pennsylvania 宾夕法尼亚大学
