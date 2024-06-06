@@ -386,6 +386,7 @@ Edin - The University of Edinburgh 爱丁堡大学
 UQ - The University of Queensland 昆士兰大学
 LSE - The London School of Economics and Political Science 伦敦政治经济学院
 NU - Northwestern University 西北大学(美国)
+NEU - Northeastern University 东北大学(美国)
 CMU - Carnegie Mellon University 卡内基梅隆大学
 UvA - Universiteit van Amsterdam 阿姆斯特丹大学
 LMU - LMU Munich, University of Munich / Ludwig-Maximilians-Universität München 慕尼黑大学(德语)
