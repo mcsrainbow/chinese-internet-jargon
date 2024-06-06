@@ -206,6 +206,7 @@ NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
 JK - Jyoshi Koukousei 日本女高中生校服(日文罗马拼音)
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
+LGBTQI+ - Lesbian, Gay, Bisexual, Transgender, Queer, Intersex 女同性恋、男同性恋、双性恋、跨性别者、酷儿(性取向以及性别认同不同寻常的人)、间性者(双性人、阴阳人)
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
 ABC - American-Born Chinese 出生在美国的华裔
 TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧
@@ -668,7 +669,8 @@ TCFD - Task Force on Climate-Related Financial Disclosures 气候相关财务披
 TNFD - The Taskforce on Nature-related Financial Disclosures 自然相关财务披露工作组
 PLA - People's Liberation Army of China 中国人民解放军
 NFL - National Football League 全国橄榄球联盟(美国)
-NBA - National Basketball Association 美国篮球协会
+NCAA - National Collegiate Athletic Association 全国大学体育协会(美国)
+NBA - National Basketball Association 全国篮球协会(美国)
 CBA - Chinese Basketball Association 中国篮球协会
 FIFA - Fédération Internationale de Football Association 国际足球联合会(法语)，国际足联
 ICAC - Independent Commission Against Corruption 廉政公署(香港)
@@ -748,6 +750,7 @@ EV - Electric Vehicle 电动汽车
 A/C - Air Conditioning 空气调节，空调
 ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
+TCS - Traction Control System 牵引力控制系统
 ECO - Ecology, Conservation, Optimization 生态(环保)、节约(节能)、优化(动力) / Ecosystem 生态系统
 F1 - Formula One 一级方程式赛车
 MT - Manual Transmission 手动变速器
