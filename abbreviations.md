@@ -207,6 +207,7 @@ JK - Jyoshi Koukousei 日本女高中生校服(日文罗马拼音)
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
 LGBTQI+ - Lesbian, Gay, Bisexual, Transgender, Queer, Intersex 女同性恋、男同性恋、双性恋、跨性别者、酷儿(性取向以及性别认同不同寻常的人)、间性者(双性人、阴阳人)
+BLM - Black Lives Matter 黑人的命也是命，黑人生命珍贵，黑命贵
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
 ABC - American-Born Chinese 出生在美国的华裔
 TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧
@@ -241,6 +242,8 @@ GM - Game Master 游戏管理员
 NPC - Non-Player Character 非玩家角色
 RPG - Role-Playing Game 角色扮演游戏 / Rocket-Propelled Grenade 火箭推进榴弹，火箭弹
 MMORPG - Massively Multiplayer Online Role-Playing Game 大型多人在线角色扮演游戏
+MOBA - Multiplayer Online Battle Arena 多人在线战斗竞技场游戏
+FPS - First-Person Shooter 第一人称射击游戏
 WoW - World of Warcraft 魔兽世界
 DotA - Defense of the Ancients 遗迹保卫战，刀塔
 LOL - League of Legends 英雄联盟
@@ -491,6 +494,7 @@ BD - Business Development 商务拓展
 BAU - Business As Usual 正常营业
 RFP - Request For Proposal 需求建议书，招标书
 HQ - Headquarters 公司总部
+UG - User Group 用户组
 UI - User Interface 用户界面
 GUI - Graphical User Interface 图形用户界面
 CLI - Command-Line Interface 命令行界面
@@ -569,6 +573,9 @@ BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
 B2C - Business to Consumer 企业对消费者，如京东
 C2C - Consumer to Consumer 消费者对消费者，如淘宝 / Copy to China 复制到中国
 B2B - Business to Business 企业对企业，如阿里巴巴
+2C - To Consumer 面向消费者
+2B - To Business 面向企业
+2G - To Goverment 面向政府
 O2O - Online to Offline 线上到线下，如美团
 P2P - Person to Person 个人对个人(互联网金融借贷平台) / Peer-to-Peer 点对点(网络技术架构)
 DTC - Direct to Customer 直接面向消费者
@@ -717,6 +724,7 @@ CTCC - China Telecom Communications Corporation 中国电信集团，中国电�
 ```
 
 ```markdown
+SOD - SuperOxide Dismutase 超氧化物歧化酶，抗氧化剂
 DNA - DeoxyriboNucleic Acid 脱氧核糖核酸，生物大分子，组成遗传指令，引导生物发育与生命机能运作
 RNA - RiboNucleic Acid 核糖核酸，生物大分子，在遗传编码、翻译、调控、基因表达等过程中发挥作用
 DHA - Docosahexaenoic Acid 二十二碳六烯酸，脑黄金，大脑和视网膜的重要组成成分
@@ -770,6 +778,7 @@ CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
 HUD - Head-Up Display 抬头显示器
 RPM - Revolutions Per Minute 每分钟转速
 AUD - Audio 音频
+SOD - Start of Delivery 开始交付
 NOA - Navigate on Autopilot 领航辅助驾驶
 FSD - Full Self-Driving 完全自动驾驶
 CDC - Continuous Damping Control 连续阻尼控制，能自动识别道路状况的汽车减震系统
