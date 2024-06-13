@@ -1322,6 +1322,11 @@ PPM - Parts Per Million 百万分之几(零件不良率)
 CAPA - Corrective and Preventive Action 纠正和预防措施
 SCADA - Supervisory Control And Data Acquisition 数据采集与监视控制系统
 BOT - Build, Operate, Transfer 建设、经营、转让，政府基建商业模式
+MTS - Make to Stock 按库存生产
+ATO - Assemble to Order 按订单装配
+MTO - Make to Order 按订单生产
+ETO - Engineer to Order 按订单设计
+CTO - Configure to Order 按订单配置
 SOW - Statement of Work 工作说明书
 SME - Subject Matter Expert 主题专家，领域专家
 CCB - Change Control Board 变更控制委员会
