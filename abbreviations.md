@@ -1301,6 +1301,10 @@ PDM - Product Data Management 产品数据管理
 CAM - Computer Aided Manufacturing 计算机辅助制造
 CAE - Computer Aided Engineering 计算机辅助工程
 CAPP - Computer Aided Process Planning 计算机辅助工艺过程设计
+ASIC - Application Specific Integrated Circuit 专用集成电路
+FPGA - Field Programmable Gate Array 现场可编程逻辑门阵列
+HDL - Hardware Description Language 硬件描述语言
+RTL - Register-Transfer Level 寄存器传输级
 APS - Advanced Planning and Scheduling 高级计划与排程
 CPDM - Collaborative Product Definition Management 协同产品定义管理
 WMS - Warehouse Management System 仓库管理系统
