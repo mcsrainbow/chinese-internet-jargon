@@ -577,9 +577,9 @@ BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
 B2C - Business to Consumer 企业对消费者，如京东
 C2C - Consumer to Consumer 消费者对消费者，如淘宝 / Copy to China 复制到中国
 B2B - Business to Business 企业对企业，如阿里巴巴
-2C - To Consumer 面向消费者
-2B - To Business 面向企业
-2G - To Goverment 面向政府
+ToC - To Consumer 面向消费者
+ToB - To Business 面向企业
+ToG - To Goverment 面向政府
 O2O - Online to Offline 线上到线下，如美团
 P2P - Person to Person 个人对个人(互联网金融借贷平台) / Peer-to-Peer 点对点(网络技术架构)
 DTC - Direct to Customer 直接面向消费者
