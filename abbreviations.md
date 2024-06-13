@@ -247,6 +247,10 @@ FPS - First-Person Shooter 第一人称射击游戏
 WoW - World of Warcraft 魔兽世界
 DotA - Defense of the Ancients 遗迹保卫战，刀塔
 LOL - League of Legends 英雄联盟
+LPL - League of Legends Pro League 英雄联盟职业联赛
+KPL - King Pro League 王者荣耀职业联赛
+KDA - Kill, Death, Assist 击杀、死亡、助攻，KDA score = (Kill + Assist) / Death(0=1)
+BP - Ban, Pick 禁用，挑选
 PUBG - PlayerUnknown's Battlegrounds 绝地求生，吃鸡
 CS - Counter-Strike 反恐精英
 CF - Crossfire 穿越火线
@@ -707,6 +711,12 @@ ABC - Agriculture Bank of China 中国农业银行
 CMB - China Merchants Bank 中国招商银行
 BOCOM - Bank of Communications 交通银行
 HSBC - The Hongkong and Shanghai Banking Corporation Limited 香港和上海银行有限公司，汇丰银行
+HKEX - Hong Kong Exchanges and Clearing Limited 香港交易及结算所有限公司，香港交易所
+LME - London Metal Exchange 伦敦金属交易所
+SSE - Shanghai Stock Exchange 上海证券交易所，上证所，上交所
+SZSE - Shenzhen Stock Exchange 深圳证券交易所，深交所
+NYSE - New York Stock Exchange 纽约证券交易所，纽交所
+SGX - Singapore Exchange 新加坡交易所，新交所
 IBM - International Business Machines Corporation 国际商业机器公司
 AMD - Advanced Micro Devices 超威半导体公司
 ARM - Advanced RISC Machine 高级精简指令集机器 / 半导体设计与软件公司
