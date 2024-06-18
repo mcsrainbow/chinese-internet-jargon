@@ -681,6 +681,8 @@ TCFD - Task Force on Climate-Related Financial Disclosures 气候相关财务披
 TNFD - The Taskforce on Nature-related Financial Disclosures 自然相关财务披露工作组
 PLA - People's Liberation Army of China 中国人民解放军
 NFL - National Football League 全国橄榄球联盟(美国)
+NHL - National Hockey League 国家冰球联盟，北美冰球职业联赛
+MLB - Major League Baseball 职业棒球大联盟(美国)
 NCAA - National Collegiate Athletic Association 全国大学体育协会(美国)
 NBA - National Basketball Association 全国篮球协会(美国)
 CBA - Chinese Basketball Association 中国篮球协会
@@ -1139,6 +1141,7 @@ FS - File System 文件系统
 NFS - Network File System 网络文件系统
 DFS - Distributed File System 分布式文件系统
 HDFS - Hadoop Distributed File System Hadoop分布式文件系统
+NBU - NetBackup Symantec企业级备份管理软件
 VFS - Virtual File System 虚拟文件系统
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
