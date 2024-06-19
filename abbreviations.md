@@ -239,6 +239,8 @@ MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四�
 PS - PlayStation 日本索尼的游戏机
 PK - Player Kill 玩家间对战
 VS - Versus 对抗，相对
+KO - Knock Out 击倒
+TKO - Technical Knockout 技术击倒，选手放弃比赛或裁判、医生判定选手无法继续比赛
 IMBA - Imbanlance 不平衡，过于强大
 GM - Game Master 游戏管理员
 NPC - Non-Player Character 非玩家角色
@@ -645,6 +647,7 @@ HK - Hong Kong 香港
 US - United States 美国
 UK - United Kingdom 英国
 JP - Japan 日本
+TYO - Tokyo 东京(日本)
 KR - South Korea 韩国
 RUS - Russia 俄罗斯
 SGP - Singapore 新加坡
