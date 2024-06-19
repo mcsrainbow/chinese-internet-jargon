@@ -252,6 +252,7 @@ LOL - League of Legends 英雄联盟
 LPL - League of Legends Pro League 英雄联盟职业联赛
 KPL - King Pro League 王者荣耀职业联赛
 KDA - Kill, Death, Assist 击杀、死亡、助攻，KDA score = (Kill + Assist) / Death(0=1)
+ELO - Elo rating system 等级分制度，衡量对弈水平，源于美国物理学家Arpad Elo
 BP - Ban, Pick 禁用，挑选
 PUBG - PlayerUnknown's Battlegrounds 绝地求生，吃鸡
 CS - Counter-Strike 反恐精英
