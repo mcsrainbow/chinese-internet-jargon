@@ -198,6 +198,8 @@ ADD/ADR/ADDR - Address 地址
 Approx. - Approximate 大约
 RPS - Rock Paper Scissors 石头剪刀布
 YOLO - You Only Live Once 你只活一次
+LFG - Let's Fucking Go 冲冲冲
+DYOR - Do Your Own Research 亲自研究，对自己负责
 FOMO - Fear of Missing Out 害怕错过
 FIRE - Financial Independence, Retire Early 财务独立，早日退休
 PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
