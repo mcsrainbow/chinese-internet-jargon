@@ -1241,6 +1241,9 @@ GDB - GNU Debugger GNU调试器
 GPL - GNU General Public License GNU通用公共许可协议
 LGPL - GNU Lesser General Public License 更宽松的GNU通用公共许可协议
 BSD - Berkeley Software Distribution 伯克利软件包 / BSD License BSD许可证
+CC - Creative Commons 知识共享
+BY - Attribution 署名
+NC - Non-Commercial 非商业性使用，如CC BY-NC 4.0
 OSS - Open-Source Software 开源软件 / Object Storage Service 对象存储服务
 FOSS - Free And Open-Source Software 自由与开源软件
 AWS - Amazon Web Services 亚马逊云计算服务
