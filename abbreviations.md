@@ -207,7 +207,7 @@ SM - Sadomasochism 性虐恋，施虐与受虐
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
 JK - Jyoshi Koukousei 日本女高中生校服(日文罗马拼音)
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
-LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(不同寻常者)
+LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(性取向以及性别认同不同寻常的人)
 LGBTQI+ - Lesbian, Gay, Bisexual, Transgender, Queer, Intersex 女同性恋、男同性恋、双性恋、跨性别者、酷儿(性取向以及性别认同不同寻常的人)、间性者(双性人、阴阳人)
 BLM - Black Lives Matter 黑人的命也是命，黑人生命珍贵，黑命贵
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
