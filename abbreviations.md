@@ -693,7 +693,7 @@ NCAA - National Collegiate Athletic Association 全国大学体育协会(美国)
 NBA - National Basketball Association 全国篮球协会(美国)
 CBA - Chinese Basketball Association 中国篮球协会
 FIFA - Fédération Internationale de Football Association 国际足球联合会(法语)，国际足联
-ICAC - Independent Commission Against Corruption 廉政公署(香港)
+ICAC - Independent Commission Against Corruption 反腐独立委员会，廉政公署(香港)
 HKBN - Hong Kong Broadband Network 香港宽频网络
 FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局
