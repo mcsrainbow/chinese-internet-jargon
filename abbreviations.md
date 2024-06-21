@@ -747,6 +747,7 @@ DNA - DeoxyriboNucleic Acid 脱氧核糖核酸，生物大分子，组成遗传�
 RNA - RiboNucleic Acid 核糖核酸，生物大分子，在遗传编码、翻译、调控、基因表达等过程中发挥作用
 DHA - Docosahexaenoic Acid 二十二碳六烯酸，脑黄金，大脑和视网膜的重要组成成分
 ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
+PET - Positron Emission Tomography 正电子发射断层扫描
 CT - Computed Tomography 计算机体层成像，计算机断层扫描 / X-Ray Computed Tomography X射线计算机断层扫描，X光
 MRI - Magnetic Resonance Imaging 磁共振成像
 NMR - Nuclear Magnetic Resonance 核磁共振
