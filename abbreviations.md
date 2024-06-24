@@ -956,6 +956,7 @@ RAG - Retrieval Augmented Generation 检索增强生成
 SFT - Supervised Fine-tuning 有监督微调，在预训练模型的基础上使用带标签的数据进行微调
 RAFT - Retrieval Augmented Fine-tuning 检索增强微调
 RLHF - Reinforcement Learning from Human Feedback 基于人类反馈的强化学习
+AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任务，再由多个子模型以远低于传统密集模型的计算成本进行预训练
@@ -1138,6 +1139,7 @@ KV - Key-Value 键值对，NoSQL数据存储模式，每个数据值都对应一
 UA - User Agent 用户代理
 MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
+MWC - Mobile World Congress 世界移动通信大会
 RAM - Random Access Memory 随机存取存储器，内存
 ROM - Read-Only Memory 只读内存
 DDR - DDR SDRAM, Double Data Rate Synchronous Dynamic Random Access Memory 双数据率同步动态随机存储器
