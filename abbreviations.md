@@ -353,7 +353,11 @@ EDP - Executive Development Programs 高层经理人进修项目
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
 PS - Personal Statement 个人陈述
 EC - Extracurricular Activities 课外活动
-CPT - Curricular Practical Training 课程实习训练，美国政府给予的临时就业许可
+SEVP - Student and Exchange Visitor Program 学生和交流访问者项目
+F1 - F-1 美国留学生签证，F-2 签发给F-1签证持有者的配偶和子女
+H1B - H-1B 美国由雇主出面申请的专业技术类工作签证
+CPT - Curricular Practical Training 课程实习训练，美国临时就业许可，面向课程内容
+OPT - Optional Practical Training 选择性实习训练，美国临时就业许可，面向在校学生
 SAT - Scholastic Assessment Test 学术能力评估测试，美国高考
 ACT - American College Test 美国大学入学考试，美国高考
 GRE - Graduate Record Examinations 美国研究生入学考试
