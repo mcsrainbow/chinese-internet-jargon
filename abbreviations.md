@@ -333,6 +333,7 @@ EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员
 
 ```markdown
 K-12: from Kindergarten to 12th grade 基础教育(美国)，从幼儿园到12年级(相当于中国的高三)
+STEAM - Science, Technology, Engineering, Art, Mathematics 由科学、技术、工程、艺术、数学等学科共同构成的跨学科课程
 CS - Computer Science 计算机科学
 DS - Data Science 数据科学
 BA - Bachelor of Arts 文学士
