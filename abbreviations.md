@@ -1289,6 +1289,7 @@ MAM - Mobile Application Management 移动应用管理
 MDM - Mobile Device Management 移动设备管理
 DOM - Document Object Model 文档对象模型
 BOM - Browser Object Model 浏览器对象
+POM - Project Object Model 项目对象模型
 CORS - Cross-Origin Resource Sharing 跨域资源共享
 XSS - Cross-Site Scripting 跨站脚本
 CSRF - Cross-Site Request Forgery 跨站请求伪造
