@@ -904,8 +904,8 @@ DB - Database 数据库
 DBA - Database Administrator 数据库管理员
 CMDB - Configuration Management Database 配置管理数据库，用于储存软硬件资产信息
 PG - PostgreSQL, Postgres 企业级开源关系数据库
-ES - Elasticsearch 构建在Apache Lucene上的分布式搜索和分析引擎 / Elastic Stack 由Elastic公司开发的Elasticsearch系列产品套件
-ELK - Elasticsearch, Logstash, Kibana 日志采集、分析、可视化的产品组合
+ES - Elasticsearch 构建在Apache Lucene上的分布式搜索和分析引擎 / Elastic Stack 由Elastic公司开发的Elasticsearch相关产品套件
+ELK - Elasticsearch, Logstash, Kibana 日志分析、采集、可视化的产品组合
 FW - Firewall 防火墙
 PS - Adobe Photoshop 图像处理软件
 APP - Application 应用程序
