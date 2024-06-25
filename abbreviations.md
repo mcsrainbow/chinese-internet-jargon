@@ -733,6 +733,7 @@ SGX - Singapore Exchange 新加坡交易所，新交所
 IBM - International Business Machines Corporation 国际商业机器公司
 AMD - Advanced Micro Devices 超威半导体公司
 ARM - Advanced RISC Machine 高级精简指令集机器 / 半导体设计与软件公司
+ASML - Advanced Semiconductor Materials Lithography 高级半导体材料光刻，阿斯麦，荷兰半导体设备制造商
 HP - Hewlett-Packard Company 惠普公司
 GM - General Motors 通用汽车
 SAP - Systemanalyse Programmentwicklung 系统分析程序开发(德语)，思爱普，德国软件企业
