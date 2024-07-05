@@ -881,6 +881,7 @@ CA - Certificate Authority 证书授权
 DV - Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
 EV - Extended Validation 扩展验证(证书)
+OCSP - Online Certificate Status Protocol 在线证书状态协议
 DLP - Data Loss Prevention 数据泄漏防护
 NDA - Non-disclosure Agreement 保密合约
 BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
@@ -1093,6 +1094,11 @@ GFW - Great Firewall 防火长城，中国国家防火墙
 XP - Extreme Programming 极限编程，强调团队合作、快速迭代和高质量的软件交付 / eXPerience (Windows XP)
 MD5 - Message Digest Algorithm 5 消息摘要算法第5版
 BLOB - Binary Large Object 二进制大型对象
+DPG - Digital Project Governance 数字项目治理
+SPG - Security Project Governance 安全项目治理
+DFD - Data Flow Diagram 数据流程图
+SSOT - Single Source of Truth 单一可信源
+SCA - Software Composition Analysis 软件组成分析
 SAST - Static Application Security Testing 静态应用安全测试
 DAST - Dynamic Application Security Testing 动态应用安全测试
 VPC - Virtual Private Cloud 虚拟私有云
@@ -1100,6 +1106,7 @@ DP - DisplayPort 显示端口(数字视频)
 DVI - Digital Visual Interface 数字视频接口
 OSPF - Open Shortest Path First 开放最短路径优先
 CGI - Common Gateway Interface 通用网关接口
+NIST - National Institute of Standards and Technology 国家标准与技术研究院(美国)
 CNNIC - China Internet Network Information Center 中国互联网络信息中心
 CNCF - Cloud Native Computing Foundation 云原生计算基金会
 MIIT - Ministry of Industry and Information Technology 中国工业和信息化部
@@ -1218,6 +1225,7 @@ OMC - Operation Maintenance Center 操作维护中心
 EDR - Event Data Recorder 事故资料记录器，黑匣子 / Endpoint Detection and Response 端点检测与响应
 LLT - Low Latency Transport 低延迟传输 / Low Level Test 低层次测试，自测
 VCS - Version Control System 版本控制系统
+GA - General Availability 正式发布的版本 / Google Analytics Google网站数据分析
 DSF - Distribute service Framework 分布式服务框架
 CMNET - China Mobile Network 中国移动网
 STS - Security Token Service 安全令牌服务 / StatefulSet 状态集 / Synchronous Transport Signal 同步传输信号
@@ -1276,6 +1284,7 @@ DAC - Discretionary Access Control 自主访问控制
 MAC - Mandatory Access Control 强制访问控制 / Media Access Control Address 媒体访问控制地址 / Mesage Authentication Code 消息鉴别码
 RBAC - Role-Based Access Control 基于角色的访问控制
 ABAC - Attribute-Based Access Control 基于属性的访问控制策略
+CQRS - Command Query Responsibility Segregation 命令和查询责任分离
 IDS - Intrusion Detection System 入侵检测系统
 IPS - Intrusion Prevention System 入侵防御系统
 CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞披露
