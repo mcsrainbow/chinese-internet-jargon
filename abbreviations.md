@@ -329,6 +329,19 @@ Q&A - Question and Answer 问与答
 R&D - RD, Research and Development 研究和开发
 C&B - Compensation and Benefits 薪酬和福利
 EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员工的心理和行为问题，提高工作绩效
+CPA - Certified Public Accountant 注册会计师
+CFA - Chartered Financial Analyst 注册金融分析师
+FRM - Financial Risk Manager 金融风险管理师
+PMP - Project Management Professional 项目管理专业认证
+TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
+COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
+CISSP - Certification for Information System Security Professional 信息系统安全专业认证
+CISP - Certified Information Security Professional 注册信息安全专业人员
+CISM - Certified Information Security Manager 注册信息安全经理
+CISA - Certified Information Systems Auditor 注册信息系统审计师
+DAMA - Data Management Association 国际数据管理协会
+DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
+CDMP - Certified for Data Management Professional 数据管理专业认证
 ```
 
 ```markdown
@@ -525,7 +538,7 @@ PGC - Professionally Generated Content 专业生成内容
 OGC - Officially Generated Content 官方生成内容
 CPS - Cost Per Sales 按销售额付费
 CPT - Cost Per Time 按时长付费
-CPA - Cost Per Action 每行动成本 / Certified Public Accountant 注册会计师
+CPA - Cost Per Action 每行动成本
 OCPA - Optimized Cost Per Action 优化后每行动成本
 CPC - Cost Per Click 单次点击成本
 OCPC - Optimized Cost Per Click 优化后单次点击成本
