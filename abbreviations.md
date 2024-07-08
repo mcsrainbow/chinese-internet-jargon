@@ -1094,8 +1094,6 @@ GFW - Great Firewall 防火长城，中国国家防火墙
 XP - Extreme Programming 极限编程，强调团队合作、快速迭代和高质量的软件交付 / eXPerience (Windows XP)
 MD5 - Message Digest Algorithm 5 消息摘要算法第5版
 BLOB - Binary Large Object 二进制大型对象
-DPG - Digital Project Governance 数字项目治理
-SPG - Security Project Governance 安全项目治理
 DFD - Data Flow Diagram 数据流程图
 SSOT - Single Source of Truth 单一可信源
 SCA - Software Composition Analysis 软件组成分析
