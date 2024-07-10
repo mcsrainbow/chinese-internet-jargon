@@ -1374,7 +1374,8 @@ CTO - Configure to Order 按订单配置
 SOW - Statement of Work 工作说明书
 SME - Subject Matter Expert 主题专家，领域专家
 CCB - Change Control Board 变更控制委员会
-COE - Center of Excellence 卓越中心，整合优化企业内部的资源和能力
+COE - Center of Excellence 卓越中心 / Center of Expertise 专家中心
+SSC - Shared Service Center 共享服务中心
 SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
 ```
 
