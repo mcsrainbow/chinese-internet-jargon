@@ -841,6 +841,7 @@ FHD - Full HD, 全高清，1080P，16:9宽高比分辨率规1920×1080
 QHD - Quad HD, 2K，16:9宽高比分辨率为2560x1440
 UHD - Ultra HD, 超高清，4K，16:9宽高比分辨率为3840×2160
 HDMI - High Definition Multimedia Interface 高清晰多媒体接口
+HDR - High Dynamic Range 高动态范围(成像)
 VGA - Video Graphics Array 视频图形阵列
 CPU - Central Processing Unit 中央处理器 / PUA的别称
 GPU - Graphics Processing Unit 图形处理器
