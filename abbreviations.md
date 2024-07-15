@@ -206,6 +206,7 @@ PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打
 SM - Sadomasochism 性虐恋，施虐与受虐
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
 JK - Jyoshi Koukousei 日本女高中生校服(日文罗马拼音)
+MAGA - Make America Great Again 让美国再次伟大
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(性取向以及性别认同不同寻常的人)
 LGBTQI+ - Lesbian, Gay, Bisexual, Transgender, Queer, Intersex 女同性恋、男同性恋、双性恋、跨性别者、酷儿(性取向以及性别认同不同寻常的人)、间性者(双性人、阴阳人)
@@ -591,6 +592,7 @@ GNI - Gross National Income 国民总收入，GNI = GDP + 对外要素收入净�
 CPI - Consumer Price Index 消费者物价指数 / Cost Performance Index 成本绩效指数
 PPI - Producer Price Index 生产物价指数
 PMI - Purchasing Managers' Index 采购经理人指数
+FDI - Foreign Direct Investment 外国直接投资
 KOC - Key Opinion Consumer 关键意见消费者
 KOL - Key Opinion Leader 关键意见领袖
 KOS - Key Opinion Spreader 关键意见传播者，评测达人
