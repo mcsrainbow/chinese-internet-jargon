@@ -659,6 +659,11 @@ POD - Port of Destination 目的港
 POL - Port of Loading 装货港
 POS - Point of Sale 销售点终端
 PW - Packed Weight 包装重量
+ITO - Information Technology Outsourcing 信息技术外包
+KPO - Knowledge Process Outsourcing 知识流程外包
+HRO - Human Resources Outsourcing 人力资源外包
+BPO - Business Process Outsourcing 业务流程外包
+RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
 ```
 
 ```markdown
@@ -888,6 +893,7 @@ SOA - Service-Oriented Architecture 面向服务的架构
 ROA - Resource Oriented Architecture 面向资源的架构
 REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
 RPC - Remote Procedure Call 远程过程调用协议
+gRPC - Google Remote Procedure Call Google远程过程调用协议
 VPN - Virtual Private Network 虚拟专用网
 SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
@@ -1084,7 +1090,9 @@ URL - Uniform Resource Locator 统一资源定位符
 ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
 K8S - Kubernetes 容器编排平台
 i18n - internationalization 国际化与本地化
-ORI - Container Runtime Interface 容器运行时接口
+CRI - Container Runtime Interface 容器运行时接口
+CNI - Container Network Interface 容器网络接口
+CSI - Container Storage Interface 容器存储接口
 eBPF - extened Berkeley Packet Filter 扩展的伯克利包过滤器，允许在操作系统内核中运行沙盒程序
 JDK - Java Development Kit Java开发工具包
 JRE - Java Runtime Environment Java运行时环境
