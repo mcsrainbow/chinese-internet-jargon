@@ -247,14 +247,14 @@ MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四�
 ```
 
 ```
-pls - please 请
-plz - please 请
-ppl - people 人
+pls - Please 请
+plz - Please 请
+ppl - People 人
 k - Okay 好的
-tho - though 虽然，尽管
-em - them 他们
-xfer - transfer 传输
-bday - birthday 生日
+tho - Though 虽然，尽管
+em - Them 他们
+xfer - Transfer 传输
+bday - Birthday 生日
 thx - Thanks 谢谢
 tks - Thanks 谢谢
 thks - Thanks 谢谢
@@ -264,8 +264,8 @@ sux - Sucks 糟透了
 b/c - Because 因为
 w/ - With 和...一起
 w/o - Without 没有
-dunno - dont know 不知道
-kinda - a little bit 有点
+dunno - Don't know 不知道
+kinda - A little bit 有点
 etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
