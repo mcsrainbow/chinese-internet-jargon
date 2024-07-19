@@ -927,6 +927,7 @@ HA - High Availability 高可用性
 SOA - Service-Oriented Architecture 面向服务的架构
 ROA - Resource Oriented Architecture 面向资源的架构
 REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
+SPA - Single-page Application 单页应用
 RPC - Remote Procedure Call 远程过程调用协议
 gRPC - Google Remote Procedure Call Google远程过程调用协议
 VPN - Virtual Private Network 虚拟专用网
