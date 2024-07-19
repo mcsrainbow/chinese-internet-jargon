@@ -1065,7 +1065,7 @@ DL - Deep Learning 深度学习
 DW - Data Warehouse 数据仓库
 EDI - Electronic Data Interchange 电子数据交换
 EDA - Electronic Design Automation 电子设计自动化 / Exploratory Data Analysis 探索性数据分析
-DevOps - Development and Operations 开发运维一体化
+DevOps - Development and Operations 开发运维一体化，面向开发的运维
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 I/O - Input/Output 输入/输出 / Inbound/Outbound 入站/出站
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
