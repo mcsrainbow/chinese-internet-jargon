@@ -6,6 +6,7 @@
 DIY - Do It Yourself 自己动手
 EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
+OMFG - Oh My Fucking God 我的上帝，我的天啦
 OT - Overtime 加班 / Off Topic 跑题了
 PT - Part-time 兼职
 FT - Full-time 全职
@@ -36,6 +37,8 @@ BID - Break It Down 细分，明细
 BR - Best Regards 诚挚的问候
 ETA - Estimated Time of Arrival 预计到达时间
 ETD - Estimated Time of Departure 预计起飞时间，预计离港时间
+ETC - Estimated Time of Completion 预计完成时间
+ETS - Estimated Time of Shipping 预计发货时间
 EOD - End of Day 工作日结束时
 EOW - End of Week 工作周结束时
 COB - Close of Business 营业结束时
@@ -69,9 +72,12 @@ SPA - Solus Par Aqua 健康在水中(拉丁文)，水疗美容养生
 ATM - At The Moment 此刻 / Automated Teller Machine 自动柜员机
 ATST - At The Same Time 同时
 AKA - Also Known As 也就是，亦称，也被称为
+FT - Faint 晕倒
+SP - Support 支持
 LOL - Laugh Out Loud 大声笑出来
 LGTM - Looks Good To Me 在我看来还不错
 LMAO - Laugh My Ass Off 笑掉我屁股，笑死我了
+ROFL - Roll On Floor Laughing 笑翻了
 LMFAO - Laugh My Fucking Ass Off 笑掉我该死的屁股，笑死我了
 ASL - Age, Sex, Location 年龄，性别，所在地 / American Sign Language 美国手语
 PS - P.S. Postscript 附言，补充说明
@@ -81,12 +87,10 @@ YTD - Year to Date 从年初到今天
 WIP - Work In Progress 进行中的工作
 DDL - Deadline 截止期限
 TIA - Thanks In Advance 先谢了，劳驾
-THX/TKS/THKS - Thanks 谢谢
 TY - Thank You 谢谢你
 TYVM - Thank You Very Much 非常感谢
 TYSM - Thank You So Much 非常感谢
 TIL - Today I Learned 今天又学到了新知识
-Pls/Plz - Please 请
 NFS - Not For Sale 不出售
 MSRP - Manufacturer's Suggested Retail Price 建议售价
 AAR - At Any Rate 任何价格
@@ -104,7 +108,13 @@ IDC - I Don't Care 我不在乎
 DKDC - Don't Know, Don't Care 不知道，不在乎
 WTF - What The Fuck 我靠，搞什么
 WTH - What The Hell 我晕，什么鬼
+SOB - Son of a Bitch 婊子养的
+NG - No Good 不好
+NFG - No Fucking Good 不好
+FNG - Fucking New Guy 该死的新手
+KFC - Kill Fucking Customers 杀了该死的顾客
 GFY - Go Fuck Yourself 滚开，去你的
+FU - Fuck You 靠，滚
 STFU - Shut The Fuck Up 闭嘴
 STFW - Search The Fucking Web 自己去网上搜索
 RTFM - Read The Fucking Manual 阅读该死的手册
@@ -184,10 +194,9 @@ BBT - Be Back Tomorrow 明天回来
 BOL - Best of luck 祝你好运
 BG - Background 背景
 BGM - Background Music 背景音乐
-B/C - Because 因为
 COS - Because 因为
+COZ - Because 因为
 BBQ - Barbecue 烧烤
-BDAY - Birthday 生日
 KB - Keyboard 键盘
 DIR - Direction 指导，方向
 MSG - Message 信息
@@ -196,6 +205,7 @@ MGMT - Management 管理
 DEPT - Department 部门
 ADD/ADR/ADDR - Address 地址
 Approx. - Approximate 大约
+RGDS - Regards 问候
 RPS - Rock Paper Scissors 石头剪刀布
 YOLO - You Only Live Once 你只活一次
 LFG - Let's Fucking Go 冲冲冲
@@ -234,6 +244,32 @@ EQ - Emotional Quotient 情感商数，情商
 AQ - Adversity Quotient 逆境商数，逆商
 FQ - Financial Quotient 金融智商，财商
 MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
+```
+
+```
+pls - please 请
+plz - please 请
+ppl - people 人
+k - Okay 好的
+tho - though 虽然，尽管
+em - them 他们
+xfer - transfer 传输
+bday - birthday 生日
+thx - Thanks 谢谢
+tks - Thanks 谢谢
+thks - Thanks 谢谢
+sup - What's up 怎么了
+sry - Sorry 不好意思
+sux - Sucks 糟透了
+b/c - Because 因为
+w/ - With 和...一起
+w/o - Without 没有
+dunno - dont know 不知道
+kinda - a little bit 有点
+etc. - et cetera 等等(拉丁文)
+e.g. - exempli gratia 例如(拉丁文)
+i.e. - id est 换句话说(拉丁文)
+viz. - videlicet 也就是(拉丁文)
 ```
 
 ```markdown
@@ -322,10 +358,6 @@ TS - Technical Support 技术支持
 JD - Job Description 职位描述
 CV - Curriculum Vitae 个人履历
 HC - Headcount 人头数，招聘人数，职员人数
-etc. - et cetera 等等(拉丁文)
-e.g. - exempli gratia 例如(拉丁文)
-i.e. - id est 换句话说(拉丁文)
-viz. - videlicet 也就是(拉丁文)
 Q&A - Question and Answer 问与答
 R&D - RD, Research and Development 研究和开发
 C&B - Compensation and Benefits 薪酬和福利
@@ -616,6 +648,7 @@ RTB - Real-Time Bidding 实时竞价
 SMO - Social Media Optimization 社交媒体优化
 SOHO - Small Office Home Office 家居办公
 SNS - Social Networking Services 社会性网络服务
+SMS - Short Message Service 短消息服务
 OTA - Online Travel Agency 在线旅游机构
 FAQ - Frequently Asked Questions 常见问题解答
 TOC - Table of Content 内容目录
@@ -654,7 +687,7 @@ OEM - Original Equipment Manufacturer 原始设备制造商，又称代工，品
 OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
 MRP - Material Requirements Planning 物料需求计划
 MOQ - Minimum Order Quantity 最小订货量
-COD - Cash On Delivery 货到付款
+COD - Cash On Delivery 货到付款 / Code of Conduct 行为规范
 POD - Port of Destination 目的港
 POL - Port of Loading 装货港
 POS - Point of Sale 销售点终端
