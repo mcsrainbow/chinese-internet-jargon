@@ -252,6 +252,7 @@ plz - Please 请
 ppl - People 人
 k - Okay 好的
 tho - Though 虽然，尽管
+bro - Brother 兄弟
 em - Them 他们
 xfer - Transfer 传输
 bday - Birthday 生日
