@@ -1214,6 +1214,7 @@ KV - Key-Value 键值对，NoSQL数据存储模式，每个数据值都对应一
 UA - User Agent 用户代理
 MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
+WAIC - World Artificial Intelligence Conference 世界人工智能大会
 MWC - Mobile World Congress 世界移动通信大会
 RAM - Random Access Memory 随机存取存储器，内存
 ROM - Read-Only Memory 只读内存
