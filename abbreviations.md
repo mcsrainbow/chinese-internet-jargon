@@ -607,6 +607,7 @@ ROI - Return on Investment 投资回报率
 ROE - Return On Equity 净资产收益率 ，盈利能力指标，衡量相对于股东权益的投资回报
 BR - Base Rate 基准利率
 APR - Annual Percentage Rate 年利率
+LPR - Loan Prime Rate 贷款市场报价利率
 IRR - Internal Rate of Return 内部收益率
 NPV - Net Present Value 净现值
 PBP - Payback Period 投资回收期
