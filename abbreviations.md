@@ -619,6 +619,7 @@ UV - Unique Visitors 独立访客数
 FAB - Feature, Advantage, Benefit 特色，优势，收益
 USP - Unique Selling Proposition 独特的销售主张，卖点
 MR - Market Research 市场研究 / Measurement Report 测量报告
+PMF - Product Market Fit 产品市场匹配度
 SP - Sales Promotion 促销
 FOC - Free of Charge 免费
 SKU - Stock Keeping Unit 库存单位(产品)
