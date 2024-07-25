@@ -504,7 +504,7 @@ Gal - Gallon 加仑，1美制加仑 = 3.785411784升
 L - Liter 升 / Layer 层 / Level 级别 / Large 大
 ML - Milliliter 毫升 / Machine Learning 机器学习
 A - Ampere 安培
-V - Volt 伏特
+V - Volt 伏特 / Version 版本 / Video 视频
 W - Watt 瓦，瓦特，1瓦特 = 1安培 x 1伏特 / Week 周 / Wan(拼音) 万
 KW - Kilowatt 千瓦
 P - Power 匹，马力，1马力 = 0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加
