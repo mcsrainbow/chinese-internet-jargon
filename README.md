@@ -2834,7 +2834,7 @@ B超 - Brightness-mode medical ultrasound
 右倾 - Right-leaning / Rightist
 双碳 - Carbon peaking and carbon neutrality goals
 拿捏 - Under control
-过单 - Using a Third Party's Qualification
+过单 - Use other party's qualifications to undertake project
 运维 - Operations
 斡旋 - Mediate
 

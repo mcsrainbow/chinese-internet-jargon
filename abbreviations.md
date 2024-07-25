@@ -832,6 +832,7 @@ TV - Television 电视
 MTV - Music Television 音乐电视
 KTV - Karaoke TV 卡拉OK(日英文杂名)，视唱空间
 MV - Music Video 音乐视频
+Vlog - Video blog 影像网络日志
 VOD - Video On Demand 视频点播
 FM - Frequency Modulation Broadcast 调频广播
 OTA - Over The Air 远程(升级)
