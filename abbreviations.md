@@ -1163,7 +1163,6 @@ SSOT - Single Source of Truth 单一可信源
 SCA - Software Composition Analysis 软件组成分析
 SAST - Static Application Security Testing 静态应用安全测试
 DAST - Dynamic Application Security Testing 动态应用安全测试
-VPC - Virtual Private Cloud 虚拟私有云
 DP - DisplayPort 显示端口(数字视频)
 DVI - Digital Visual Interface 数字视频接口
 OSPF - Open Shortest Path First 开放最短路径优先
@@ -1329,6 +1328,8 @@ NC - Non-Commercial 非商业性使用，如CC BY-NC 4.0
 OSS - Open-Source Software 开源软件 / Object Storage Service 对象存储服务
 FOSS - Free And Open-Source Software 自由与开源软件
 AWS - Amazon Web Services 亚马逊云计算服务
+VPC - Virtual Private Cloud 虚拟私有云
+CEN - Cloud Enterprise Network 云企业网
 ECS - Elastic Compute Service/Server 弹性计算服务，云服务器 / Elastic Container Service 弹性容器编排服务
 EC2 - Elastic Compute Cloud 弹性计算云
 S3 - Simple Storage Service 简单存储服务
@@ -1336,6 +1337,8 @@ SQS - Simple Queue Service 简单队列服务
 SNS - Simple Notification Service 简单消息服务
 ACK - Container Service for Kubernetes 容器服务Kubernetes版
 ASK - Container Service for Kubernetes Serverless 容器服务Kubernetes无服务器版
+DMS - Data Management Service 数据管理服务
+DTS - Data Transmission Service 数据传输服务
 EKS - Elastic Kubernetes Service 弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
 RDS - Relational Database Service 关系型数据库服务
