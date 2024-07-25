@@ -371,12 +371,16 @@ PMP - Project Management Professional 项目管理专业认证
 TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
 COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
 CISSP - Certification for Information System Security Professional 信息系统安全专业认证
+CCSP - Certified Cloud Security Professional 注册云安全专家
+CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
 CISP - Certified Information Security Professional 注册信息安全专业人员
 CISM - Certified Information Security Manager 注册信息安全经理
 CISA - Certified Information Systems Auditor 注册信息系统审计师
 DAMA - Data Management Association 国际数据管理协会
 DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
 CDMP - Certified for Data Management Professional 数据管理专业认证
+ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
+SAP - Solutions Architect Professional 解决方案架构师专家级
 ```
 
 ```markdown
@@ -502,7 +506,7 @@ Ft. - Foot 英尺，呎，1英尺 ＝ 12英寸，1英尺 = 0.3048米
 In. - Inch 英寸，1英寸 = 2.54厘米
 Gal - Gallon 加仑，1美制加仑 = 3.785411784升
 L - Liter 升 / Layer 层 / Level 级别 / Large 大
-ML - Milliliter 毫升 / Machine Learning 机器学习
+ML - Milliliter 毫升
 A - Ampere 安培
 V - Volt 伏特 / Version 版本 / Video 视频
 W - Watt 瓦，瓦特，1瓦特 = 1安培 x 1伏特 / Week 周 / Wan(拼音) 万
@@ -556,6 +560,7 @@ BD - Business Development 商务拓展
 BAU - Business As Usual 正常营业
 RFP - Request For Proposal 需求建议书，招标书
 HQ - Headquarters 公司总部
+MNC - Multi National Company 多国公司，跨国公司
 UG - User Group 用户组
 UI - User Interface 用户界面
 GUI - Graphical User Interface 图形用户界面
@@ -706,6 +711,7 @@ RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
 ```markdown
 CN/CHN - China 中国
 HK - Hong Kong 香港
+APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
 US - United States 美国
 UK - United Kingdom 英国
 JP - Japan 日本
@@ -761,6 +767,8 @@ FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局
 FR - FdR, Federal Reserve 联邦储备局，美联储
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
+EMA - European Medicines Agency 欧洲药品管理局
+PMDA - Pharmaceuticals and Medical Devices Agency 医药品医疗器械综合机构(日本)
 CCC/3C - China Compulsory Certification 中国强制性产品认证
 OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
 BBC - British Broadcasting Corporation 英国广播公司
@@ -968,6 +976,8 @@ DB - Database 数据库
 DBA - Database Administrator 数据库管理员
 CMDB - Configuration Management Database 配置管理数据库，用于储存软硬件资产信息
 PG - PostgreSQL, Postgres 企业级开源关系数据库
+GP - GreenPlum 关系型分布式数据库，本质上由多个PostgreSQL数据库实例构成
+MPP - Massive Parallel Processing 海量并行处理
 ES - Elasticsearch 构建在Apache Lucene上的分布式搜索和分析引擎 / Elastic Stack 由Elastic公司开发的Elasticsearch相关产品套件
 ELK - Elasticsearch, Logstash, Kibana 日志分析、采集、可视化的产品组合
 FW - Firewall 防火墙
@@ -1068,6 +1078,9 @@ DN - DataNode 数据节点
 CNN - Convolutional Neural Networks 卷积神经网络
 DM - Data Mining 数据挖掘
 DL - Deep Learning 深度学习
+ML - Machine Learning 机器学习
+RL - Reinforcement Learning 强化学习
+SOTA - State of The Art 最现代的、最先进的
 DW - Data Warehouse 数据仓库
 EDI - Electronic Data Interchange 电子数据交换
 EDA - Electronic Design Automation 电子设计自动化 / Exploratory Data Analysis 探索性数据分析
@@ -1138,6 +1151,7 @@ JDK - Java Development Kit Java开发工具包
 JRE - Java Runtime Environment Java运行时环境
 JVM - Java Virtual Machine Java虚拟机
 SDK - Software Development Kit 软件开发工具包
+NIO - Non-blocking I/O 同步非阻塞的I/O模型
 UUID - Universally Unique Identifier 通用唯一识别码
 DBMS - Database Management System 数据库管理系统
 RDBMS - Relational Database Management System 关系数据库管理系统
@@ -1156,6 +1170,7 @@ NAT - Network Address Translation 网络地址转换
 GW - Gateway 网关
 GFW - Great Firewall 防火长城，中国国家防火墙
 XP - Extreme Programming 极限编程，强调团队合作、快速迭代和高质量的软件交付 / eXPerience (Windows XP)
+GxP - Good Practice 良好实践(系列) x = M Manufacturing 制造 / C Clinical 临床 / L Laboratory 实验室 / S Storage 存储
 MD5 - Message Digest Algorithm 5 消息摘要算法第5版
 BLOB - Binary Large Object 二进制大型对象
 DFD - Data Flow Diagram 数据流程图
@@ -1168,6 +1183,7 @@ DVI - Digital Visual Interface 数字视频接口
 OSPF - Open Shortest Path First 开放最短路径优先
 CGI - Common Gateway Interface 通用网关接口
 NIST - National Institute of Standards and Technology 国家标准与技术研究院(美国)
+OWASP - Open Web Application Security Project 开放式Web应用程序安全项目
 CNNIC - China Internet Network Information Center 中国互联网络信息中心
 CNCF - Cloud Native Computing Foundation 云原生计算基金会
 MIIT - Ministry of Industry and Information Technology 中国工业和信息化部
@@ -1217,6 +1233,7 @@ MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
 WAIC - World Artificial Intelligence Conference 世界人工智能大会
 MWC - Mobile World Congress 世界移动通信大会
+MFP - Multifunction Peripheral 多功能外设，多功能数码复合一体机
 RAM - Random Access Memory 随机存取存储器，内存
 ROM - Read-Only Memory 只读内存
 DDR - DDR SDRAM, Double Data Rate Synchronous Dynamic Random Access Memory 双数据率同步动态随机存储器
