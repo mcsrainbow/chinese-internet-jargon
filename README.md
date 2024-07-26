@@ -221,7 +221,7 @@ B超, 4S店, B端, C端, G端
 赋闲, 软件, 硬件, 涌现, 雷管, 社达, 炸鱼,
 豁免, 有氧, 无氧, 困囿, 僭越, 平替, 左翼,
 右翼, 左倾, 右倾, 双碳, 拿捏, 过单, 运维,
-斡旋
+斡旋, 回源
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -1367,6 +1367,7 @@ G端 - 政府及事业单位(Government)
 过单 - 招投标时关系到位但自身资质不足，因此借用第三方资质承接项目
 运维 - 运行维护 / 运营维护
 斡旋 - (wò xuán)调解争端，扭转僵局
+回源 - CDN(Content Delivery Network 内容分发网络)节点向源服务器请求未缓存或过期内容的过程
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -2844,6 +2845,7 @@ G端 - Government
 过单 - Use other party's qualifications to undertake project
 运维 - Operations
 斡旋 - Mediate
+回源 - Back-to-origin
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
