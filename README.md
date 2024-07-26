@@ -2841,7 +2841,7 @@ G端 - Government
 左倾 - Left-leaning / Progressive
 右倾 - Right-leaning / Rightist
 双碳 - Carbon peaking and carbon neutrality goals
-拿捏 - Control
+拿捏 - Full control
 过单 - Use other party's qualifications to undertake project
 运维 - Operations
 斡旋 - Mediate
