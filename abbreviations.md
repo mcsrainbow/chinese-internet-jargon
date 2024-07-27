@@ -1201,6 +1201,7 @@ PCIE - Peripheral Component Interconnect Express 高速外设部件互连
 CMOS - Complementary Metal-Oxide-Semiconductor 互补金属氧化物半导体
 BMC - Baseboard Management Controller 主板管理控制器
 BIOS - Basic Input/Output System 基本输入输出系统
+PXE - Preboot eXecution Environment 预启动执行环境
 IPMI - Intelligent Platform Management Interface 智能平台管理接口
 UEFI - Unified Extensible Firmware Interface 统一可扩展固件接口
 FDDI - Fiber Distributed Data Interface 光纤分布式数据接口
