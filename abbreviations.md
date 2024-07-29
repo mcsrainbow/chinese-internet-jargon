@@ -58,7 +58,7 @@ MOO - My Own Opinion 我自己认为
 RE: - Regarding 关于(邮件)
 BTW - By The Way 顺便说一下
 OMW - On My Way 我已经在路上了
-NB - N.B., Nota Bene 注意，划重点(拉丁文)
+NB - N.B., Nota Bene 注意，划重点(拉丁文) / Notebook 笔记本，笔记本电脑
 TYT - Take Your Time 不用急，慢慢来
 NRN - No Reply Necessary 无需回复
 WC - Water Closet 抽水马桶，厕所
