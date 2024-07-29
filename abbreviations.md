@@ -420,6 +420,7 @@ AMI - Association Montessori Internationale 国际蒙台梭利协会
 AMS - American Montessori Society 美国蒙台梭利协会
 IELTS - International English Language Testing System 国际英语语言测试系统，雅思
 TOEFL - Test of English as a Foreign Language 对非英语国家留学生的英语考试，托福
+DSE - HKDSE, HKDSEE, Hong Kong Diploma of Secondary Education Examination 香港中学文凭考试
 BEC - Cambridge Business English Certificate 剑桥商务英语证书
 CET - College English Test 大学英语四六级考试 / Central European Time 欧洲中部时间
 KET - Key English Test 剑桥通用英语五级考试的第一级，入门水平
