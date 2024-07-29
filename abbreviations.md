@@ -800,6 +800,7 @@ IBM - International Business Machines Corporation 国际商业机器公司
 AMD - Advanced Micro Devices 超威半导体公司
 ARM - Advanced RISC Machine 高级精简指令集机器 / 半导体设计与软件公司
 ASML - Advanced Semiconductor Materials Lithography 高级半导体材料光刻，阿斯麦，荷兰半导体设备制造商
+TSMC - Taiwan Semiconductor Manufacturing Company Limited 台湾积体电路制造公司，台积电
 HP - Hewlett-Packard Company 惠普公司
 GM - General Motors 通用汽车
 SAP - Systemanalyse Programmentwicklung 系统分析程序开发(德语)，思爱普，德国软件企业
@@ -898,6 +899,7 @@ HDMI - High Definition Multimedia Interface 高清晰多媒体接口
 HDR - High Dynamic Range 高动态范围(成像)
 VGA - Video Graphics Array 视频图形阵列
 CPU - Central Processing Unit 中央处理器 / PUA的别称
+MCU - Micro Control Unit 微控制单元 / Single-Chip Microcomputer 单片微型计算机，单片机
 GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
 NPU - Neural network Processing Unit 神经网络处理器
