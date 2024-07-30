@@ -279,6 +279,14 @@ PK - Player Kill 玩家间对战
 VS - Versus 对抗，相对
 KO - Knock Out 击倒
 TKO - Technical Knockout 技术击倒，选手放弃比赛或裁判、医生判定选手无法继续比赛
+WWE - World Wrestling Entertainment 世界摔角娱乐
+WBO - World Boxing Organization 世界拳击组织
+WBA - World Boxing Association 世界拳击协会
+IBF - International Boxing Federation 国际拳击联合会
+WBC - World Boxing Council 世界拳击理事会 / World Baseball Classic 世界棒球经典赛 /  World Barista Championship 世界百瑞斯塔咖啡师大赛
+UFC - Ultimate Fighting Championship 终极格斗冠军赛
+MMA - Mixed Martial Arts 综合格斗，无限制格斗，混合格斗
+ESPN - Entertainment Sports Programming Network 娱乐与体育节目电视网(美国)
 IMBA - Imbanlance 不平衡，过于强大
 GM - Game Master 游戏管理员
 NPC - Non-Player Character 非玩家角色
