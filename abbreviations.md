@@ -338,6 +338,7 @@ HCM - Human Capital Management 人力资本管理，对员工的技能、知识�
 PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
 PO - Product Owner 产品负责人 / Purchase Order 采购订单
+RM - Relationship Manager 客户关系经理，客户经理
 SM - Scrum Master 敏捷专家，敏捷教练，熟悉敏捷开发模式及敏捷实施流程的人员
 ST - Scrum Team 敏捷团队
 TL - Technique Leader, Teach Lead 技术带头人 / Team Leader, Team Lead 团队负责人
@@ -731,6 +732,7 @@ SGP - Singapore 新加坡
 RMB - Rénmínbì 人民币(拼音)
 CNY - Chinese Yuan 人民币
 USD - United States Dollar 美元
+FX - Forex, Foreign exchange market 外汇市场
 USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
 ETH - Ethereum 以太坊加密货币
 DeFi - Decentralized Finance 去中心化金融
@@ -770,6 +772,7 @@ NCAA - National Collegiate Athletic Association 全国大学体育协会(美国)
 NBA - National Basketball Association 全国篮球协会(美国)
 CBA - Chinese Basketball Association 中国篮球协会
 FIFA - Fédération Internationale de Football Association 国际足球联合会(法语)，国际足联
+FIBA - Fédération International de Basket-ball 国际篮球联合会(法语)，国际篮联 / International Basketball Federation 国际篮球联合会
 ICAC - Independent Commission Against Corruption 反腐独立委员会，廉政公署(香港)
 HKBN - Hong Kong Broadband Network 香港宽频网络
 FBI - Federal Bureau of Investigation 美国联邦调查局
@@ -991,7 +994,9 @@ GP - GreenPlum 关系型分布式数据库，本质上由多个PostgreSQL数据�
 MPP - Massive Parallel Processing 海量并行处理
 ES - Elasticsearch 构建在Apache Lucene上的分布式搜索和分析引擎 / Elastic Stack 由Elastic公司开发的Elasticsearch相关产品套件
 ELK - Elasticsearch, Logstash, Kibana 日志分析、采集、可视化的产品组合
+C10K - 10,000 Concurrent connections 单机一万并发连接
 FW - Firewall 防火墙
+DMZ - Demilitarized Zone 隔离区，非军事化区，隔离内部受信任网络和外部不受信任网络之间的中间区域
 PS - Adobe Photoshop 图像处理软件
 APP - Application 应用程序
 TXT - Text 文本
@@ -1269,6 +1274,7 @@ ISP - Internet Service Provider 互联网服务提供商
 ICP - Internet Content Provider 互联网内容提供商
 CDN - Content Delivery Network 内容分发网络
 BGP - Border Gateway Protocol 边界网关协议
+VBR - Virtual Border Router 边界路由器
 TLD - Top-Level Domain 顶级域名
 FQDN - Fully Qualified Domain Name 完全合格域名，完整域名
 WWW - World Wide Web 万维网
