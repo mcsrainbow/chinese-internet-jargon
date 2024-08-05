@@ -1235,6 +1235,7 @@ SAS - Serial Attached SCSI 串行连接SCSI
 SSD - Solid-State Drive 固态驱动器 / Solid-State Disk 固态硬盘
 MBR - Master Boot Record 主引导记录，分区表
 GPT - GUID Partition Table 全局唯一标识分区表
+GDT - Global Descriptor Table 全局描述符表
 UPS - Uninterruptible Power Supply 不间断电源
 HBA - Host Bus Adapter 主机总线适配器
 HUB - Hub 集线器
