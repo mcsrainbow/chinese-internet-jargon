@@ -917,6 +917,7 @@ GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
 NPU - Neural network Processing Unit 神经网络处理器
 TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
+IA - Intel Architecture 英特尔架构
 ```
 
 ```markdown
