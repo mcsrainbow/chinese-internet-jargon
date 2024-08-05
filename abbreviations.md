@@ -271,6 +271,7 @@ etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
 viz. - videlicet 也就是(拉丁文)
+ext. extension 扩展，电话分机 / external 外部的 / extra 额外的
 ```
 
 ```markdown
@@ -389,7 +390,8 @@ DAMA - Data Management Association 国际数据管理协会
 DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
 CDMP - Certified for Data Management Professional 数据管理专业认证
 ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
-SAP - Solutions Architect Professional 解决方案架构师专家级
+SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
+DPO - Data Protection Officer 数据保护官
 ```
 
 ```markdown
@@ -1261,6 +1263,9 @@ FS - File System 文件系统
 NFS - Network File System 网络文件系统
 DFS - Distributed File System 分布式文件系统
 HDFS - Hadoop Distributed File System Hadoop分布式文件系统
+FAT - File Allocation Table 文件分配表，微软发明的文件系统
+NTFS - New Technology File System 微软(Windows NT)系列操作系统的默认文件系统
+HPFS - High Performance File System 高性能文件系统，IBM为OS/2操作系统提供的文件系统，是NTFS的原型
 NBU - NetBackup Symantec企业级备份管理软件
 VFS - Virtual File System 虚拟文件系统
 EOF - End of File 标示文件的结束
@@ -1351,6 +1356,10 @@ SDH - Synchronous Digital Hierarchy 同步数字体系，数字专线，点对�
 VT - Virtualization Technology 虚拟化技术
 VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
+WSL - Windows Subsystem for Linux 适用于Linux的Windows子系统
+VHD - Virtual Hard Disk 虚拟硬盘
+WDDM - Windows Display Driver Model (微软)Windows图形驱动程序模型
+QEMU - Quick Emulator 开源计算机仿真器和虚拟器
 GNU - GNU's Not Unix 完全自由的操作系统，"GNU不是Unix"的递归缩写
 GCC - GNU Compiler Collection GNU编译器套件
 GDB - GNU Debugger GNU调试器
@@ -1376,6 +1385,7 @@ DMS - Data Management Service 数据管理服务
 DTS - Data Transmission Service 数据传输服务
 EKS - Elastic Kubernetes Service 弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
+EFS - Elastic File System 弹性文件系统
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
 KMS - Key Management Service 密钥管理服务
