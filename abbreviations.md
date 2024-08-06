@@ -738,6 +738,10 @@ FX - Forex, Foreign exchange market 外汇市场
 USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
 ETH - Ethereum 以太坊加密货币
 DeFi - Decentralized Finance 去中心化金融
+NFT - Non-Fungible Token 非同质化代币
+PoW - Proof of Work 工作量证明
+PoS - Proof of Stake 持有量证明，权益证明
+DPoS - Delegated Proof Of Stake 委托权益证明，代理权益证明
 AU - AUS, Australia 澳大利亚
 AUD - Australian Dollar 澳大利亚元，澳元
 POV - Proof of Value 价值证明
