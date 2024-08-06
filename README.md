@@ -222,7 +222,9 @@ B超, 4S店, B端, C端, G端
 豁免, 有氧, 无氧, 困囿, 僭越, 平替, 左翼,
 右翼, 左倾, 右倾, 双碳, 拿捏, 过单, 运维,
 斡旋, 回源, 泛型, 制程, 指数, 对数, 商数,
-飞地, 买办
+飞地, 买办, 仓位, 平仓, 爆仓, 守仓, 斩仓,
+多头, 空头, 做空, 做多, 杠杆, 合约, 期货,
+头寸
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -1378,6 +1380,19 @@ G端 - 政府及事业单位(Government)
 商数 - 10÷2=5，5是商数，表示10除以2的结果等于5
 飞地 - 国家A境内有一块隶属于国家B的土地，则该土地是国家A的内飞地，是国家B的外飞地
 买办 - 为外国组织从事投资、贸易、经济或政治剥削充当代理人的人或团体
+仓位 - 投资者实际投资和实有投资资金的比例，比如10万用于投资，用了4万元买基金或股票，仓位是40%，全买了基金或股票，就满仓了
+平仓 - 卖掉已经买入的投资(做多)，或买回借来卖出的投资(做空)
+爆仓 - 亏损太多导致账户里的钱不够了，系统自动卖掉你的投资
+守仓 - 暂时不卖出也不买入，保持现有投资等待市场变化
+斩仓 - 当投资亏损时，赶紧卖掉以减少进一步损失
+多头 - 认为价格会涨，先买入，等涨了再卖出
+空头 - 认为价格会跌，先借来卖出，等跌了再买回
+做空 - 先借资产卖掉，等价格跌了再买回来还，以赚取差价
+做多 - 先买入资产，等价格上涨后再卖出，以赚取利润
+杠杆 - 借用额外资金进行投资，以放大收益或亏损
+合约 - 通过签订协议在未来某时间以预定价格买卖资产，可标准化或非标准化
+期货 - 标准化合约，在期货交易所按固定日期和价格买卖特定资产，有明确的到期日，到期后必须交割
+头寸 - 期货投资者持有某种资产的数量和方向，方向包括买入(期望涨)和卖出(期望跌)
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -2813,9 +2828,9 @@ G端 - Government
 递归 - Recursive
 内涵 - Connotation / Metaphor
 外延 - Extension
-口嗨 - Talking Big / Keyboard Warrior
-环比 - Last Period (LP)
-同比 - Same Period Last Year (SPLY)
+口嗨 - Talking big / Keyboard warrior
+环比 - Last period (LP)
+同比 - Same period last year (SPLY)
 量贩 - Hypermarket
 场观 - Livestream viewership
 标化 - Standardized test
@@ -2873,6 +2888,19 @@ G端 - Government
 商数 - Quotient
 飞地 - Enclave / Exclave
 买办 - Comprador
+仓位 - Position
+平仓 - Close position
+爆仓 - Margin call
+守仓 - Hold position
+斩仓 - Cut losses
+多头 - Bullish
+空头 - Bearish
+做空 - Short selling
+做多 - Long position
+杠杆 - Leverage
+合约 - Contract
+期货 - Futures
+头寸 - Futures position
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
