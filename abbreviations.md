@@ -8,6 +8,7 @@ EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
 OMFG - Oh My Fucking God 我的上帝，我的天啦
 OT - Overtime 加班 / Off Topic 跑题了
+OB - Out of Bounds 界外(高尔夫)
 PT - Part-time 兼职
 FT - Full-time 全职
 FW - Forward 转发(邮件)
