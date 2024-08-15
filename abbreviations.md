@@ -8,7 +8,6 @@ EMO - Emotional 焦虑、忧郁、伤感等情绪
 OMG - Oh My God 我的上帝，我的天啦
 OMFG - Oh My Fucking God 我的上帝，我的天啦
 OT - Overtime 加班 / Off Topic 跑题了
-OB - Out of Bounds 界外(高尔夫)
 PT - Part-time 兼职
 FT - Full-time 全职
 FW - Forward 转发(邮件)
@@ -214,6 +213,7 @@ DYOR - Do Your Own Research 亲自研究，对自己负责
 FOMO - Fear of Missing Out 害怕错过
 FIRE - Financial Independence, Retire Early 财务独立，早日退休
 PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
+NPD - Narcissistic PersonalitAy Disorder 自恋型的病态人格障碍
 SM - Sadomasochism 性虐恋，施虐与受虐
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
 JK - Jyoshi Koukousei 日本女高中生校服(日文罗马拼音)
@@ -326,9 +326,12 @@ IMDb - Internet Movie Database 互联网电影数据库
 DJ - Disc Jockey 碟片骑师
 FB - Facebook 脸书，社交网络应用
 IG - Instagram 图片社交应用
+OB - Out of Bounds 界外(高尔夫)
 AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
 LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌 / Level 等级
 KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
+SKP - Shinkong Place 新光天地(奢侈品卖场)
+IFS - International Finance Square 国际金融中心
 ```
 
 ```markdown
@@ -578,6 +581,8 @@ UG - User Group 用户组
 UI - User Interface 用户界面
 GUI - Graphical User Interface 图形用户界面
 CLI - Command-Line Interface 命令行界面
+CMD - Command 命令
+IFS - Internal Field Separator 分隔符
 UE/UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
@@ -653,6 +658,8 @@ KOS - Key Opinion Spreader 关键意见传播者，评测达人
 KOF - Key Opinion Follower 关键意见追随者，忠实粉丝
 CBD - Central Business District 中央商务区，城市经济活动的核心地区
 BAT - Baidu/ByteDance, Alibaba, Tencent 百度或字节，阿里巴巴，腾讯
+FAAMG - Facebook, Apple, Amazon, Microsoft, Google 脸书，苹果，亚马逊，微软，谷歌
+MAMAA - Meta, Apple, Microsoft, Alphabet, Amazon 脸书，苹果，微软，谷歌，亚马逊
 B2C - Business to Consumer 企业对消费者，如京东
 C2C - Consumer to Consumer 消费者对消费者，如淘宝 / Copy to China 复制到中国
 B2B - Business to Business 企业对企业，如阿里巴巴
@@ -662,6 +669,7 @@ ToG - To Goverment 面向政府
 O2O - Online to Offline 线上到线下，如美团
 P2P - Person to Person 个人对个人(互联网金融借贷平台) / Peer-to-Peer 点对点(网络技术架构)
 DTC - Direct to Customer 直接面向消费者
+IFS - Internet Finance Service 互联网金融服务
 RSS - Really Simple Syndication 简易信息聚合
 SEM - Search Engine Marketing 搜索引擎营销
 SEO - Search Engine Optimization 搜索引擎优化
@@ -846,6 +854,7 @@ TIA - Transient Ischaemic Attack 短暂性脑缺血发作
 SARS - Severe Acute Respiratory Syndrome 严重急性呼吸综合征
 AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾滋病
 HIV - Human Immunodeficiency Virus 人类免疫缺陷病毒，艾滋病毒
+HPV - Human PapillomaVirus 人类乳头瘤病毒
 PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
 ```
 
@@ -1002,6 +1011,8 @@ GP - GreenPlum 关系型分布式数据库，本质上由多个PostgreSQL数据�
 MPP - Massive Parallel Processing 海量并行处理
 ES - Elasticsearch 构建在Apache Lucene上的分布式搜索和分析引擎 / Elastic Stack 由Elastic公司开发的Elasticsearch相关产品套件
 ELK - Elasticsearch, Logstash, Kibana 日志分析、采集、可视化的产品组合
+LAMP - Linux, Apache HTTP Server, MySQL, PHP 操作系统、网页服务器、数据库、编程语言的组合
+LNMP - Linux, Nginx, MySQL, PHP 操作系统、网页服务器、数据库、编程语言的组合
 C10K - 10,000 Concurrent connections 单机一万并发连接
 FW - Firewall 防火墙
 DMZ - Demilitarized Zone 隔离区，非军事化区，隔离内部受信任网络和外部不受信任网络之间的中间区域
@@ -1025,6 +1036,7 @@ PSD - Photoshop Document 图像处理软件Photoshop的专用格式
 CSS - Cascading Style Sheets 层叠样式表
 APK - Android Package 安卓程序包
 EXE - Executable 可执行
+BAT - Batch 批处理
 DLL - Dynamic Link Library 动态链接库
 TMP - TEMP, Temporary 临时
 CFG - CONF, Configuration 配置
@@ -1034,9 +1046,14 @@ GZ - GZIP, GNU Zip 文件压缩格式
 JAR - Java Archive Java归档文件，以ZIP格式构建
 WAR - Web Application Archive Web应用程序归档
 TAR - Tape Archive 磁带存档
+RAR - Roshal ARchive 文件压缩格式
 TTF - TrueType 由美国苹果公司和微软公司共同开发的电脑轮廓字体类型标准
 JS - JavaScript 可在浏览器端执行的编程语言
+PY - Python 编程语言
+SH - Shell 脚本编程语言
+GIL - Global Interpreter Lock 全局解释器锁(Python)
 PHP - Hypertext Preprocessor 超文本预处理器，编程语言
+SPL - Standard PHP Library PHP标准库
 ASP - Active Server Page 动态服务器网页
 JSP - Java Server Pages Java服务器网页
 HTML - HyperText Markup Language 超文本标记语言
@@ -1134,6 +1151,7 @@ MTTF - Mean Time To Failure 平均失效时间，系统平均正常运行多长�
 ITIL - Information Technology Infrastructure Library 信息技术基础构架库
 ITSM - Information Technology Service Management 信息技术服务管理
 APM - Application Performance Monitoring 应用性能监控
+ARMS - Application Real-Time Monitoring Service 应用实时监控服务
 DR - Disaster Recovery 灾难恢复
 CDP - Continuous Data Protection 持续数据保护
 BCP - Business Continuity Planning 业务连续性计划
@@ -1346,6 +1364,7 @@ LCP - Link Control Protocol 链路控制协议
 MPLS - Multi-Protocol Label Switching 多协议标签交换
 LDP - Label Distribution Protocol 标签分发协议
 MQTT - Message Queuing Telemetry Transport 消息队列遥测传输协议
+AMQP - Advanced Message Queuing Protocol 高级消息队列协议
 IDEA - International Data Encryption Algorithm 国际数据加密算法
 GEO - Geostationary Earth Orbit 地球静止轨道，地球赤道同步轨道 / Geography 地理 / Gene Expression Omnibus 高通量基因表达数据库
 AS - Autonomous System 自治系统
@@ -1396,6 +1415,7 @@ EFS - Elastic File System 弹性文件系统
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
 KMS - Key Management Service 密钥管理服务
+SLS - Simple Log Service 日志服务
 SCP - Service Control Policy 服务控制策略，基于组织的访问控制策略
 ACL - Access Control Lists 访问控制列表
 DAC - Discretionary Access Control 自主访问控制
