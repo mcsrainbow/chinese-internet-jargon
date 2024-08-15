@@ -966,6 +966,7 @@ API - Application Programming Interface 应用程序接口
 IaaS - Infrastructure as a Service 基础设施即服务
 PaaS - Platform as a Service 平台即服务
 SaaS - Software as a Service 软件即服务
+IDaaS - IDentity as a Service 身份即服务
 KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
 DNS - Domain Name System 域名系统
 HA - High Availability 高可用性
