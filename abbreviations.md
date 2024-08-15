@@ -1142,7 +1142,7 @@ CaC - Configuration as Code 配置即代码
 IaC - Infrastructure as Code 基础设施即代码
 CR - Change Request 变更请求 / Code Review 代码评审
 PR - Pull Request 合并请求(代码)
-MR - Merge Request 合并请求(代码) / MapReduce 映射规约
+MR - Merge Request 合并请求(代码) / MapReduce 映射规约(大数据)
 SVC - Service 服务
 SLA - Service-Level Agreement 服务水平协议，对用户的承诺和补偿范围
 SLO - Service-Level Objective 服务水平目标，达成承诺所需的性能目标
