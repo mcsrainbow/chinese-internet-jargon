@@ -1304,6 +1304,7 @@ EOL - End of Life 产品寿命结束 / Encyclopedia of Life 生命百科全书
 JIT - Just-In-Time 即时编译，实时编译 / 即时生产，按需生产
 LLVM - Low Level Virtual Machine 底层虚拟机，生成高效机器代码的开源编译器框架
 SOAP - Simple Object Access Protocol 简单对象访问协议
+SP - Service Provider 服务提供商
 ISP - Internet Service Provider 互联网服务提供商
 ICP - Internet Content Provider 互联网内容提供商
 IdP - Identity Provider 身份源提供商
