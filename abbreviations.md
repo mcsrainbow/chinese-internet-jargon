@@ -871,7 +871,9 @@ KTV - Karaoke TV 卡拉OK(日英文杂名)，视唱空间
 MV - Music Video 音乐视频
 Vlog - Video blog 影像网络日志
 VOD - Video On Demand 视频点播
-FM - Frequency Modulation Broadcast 调频广播
+AM - Amplitude Modulation Broadcast 调幅广播，利用幅度调制技术传输声音的无线电广播技术
+FM - Frequency Modulation Broadcast 调频广播，以频率调制技术来传送高保真声音的无线电广播技术
+PM - Phase Modulation 调相，相位调制，以载波的瞬时相位变化来表示信息的调制方式
 OTA - Over The Air 远程(升级)
 BMW - Bayerische Motoren Werke Aktiengesellschaft 巴伐利亚引擎制造股份有限公司(德语)，宝马
 BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
@@ -957,9 +959,6 @@ WAN - Wide Area Network 广域网
 WPA - WiFi Protected Access WiFi访问保护
 WPAN - Wireless Personal Area Network 无线个人网
 PSK - Pre-Shared Key 基于预先共享的密钥进行身份验证
-AM - Amplitude Modulation Broadcast 调幅广播，利用幅度调制技术传输声音的无线电广播技术
-FM - Frequency Modulation Broadcast 调频广播，以频率调制技术来传送高保真声音的无线电广播技术
-PM - Phase Modulation 调相，相位调制，以载波的瞬时相位变化来表示信息的调制方式
 HTTP - HyperText Transfer Protocol 超文本传输协议
 HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
 SSO - Single Sign-On 单点登录(认证服务)
