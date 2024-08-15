@@ -1480,7 +1480,7 @@ ASIC - Application Specific Integrated Circuit 专用集成电路
 FPGA - Field Programmable Gate Array 现场可编程逻辑门阵列
 MIPS - Microprocessor without Interlocked Pipeline Stages 精简指令集架构，无互锁流水线级的微处理器
 RISC - Reduced Instruction Set Computer 精简指令集计算机，如MIPS、ARM
-CISC - Complex Instruction Set Computer 复杂指令集计算机，如AMD64
+CISC - Complex Instruction Set Computer 复杂指令集计算机，如AMD
 HDL - Hardware Description Language 硬件描述语言
 RTL - Register-Transfer Level 寄存器传输级
 APS - Advanced Planning and Scheduling 高级计划与排程
