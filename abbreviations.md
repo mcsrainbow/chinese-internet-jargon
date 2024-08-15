@@ -1478,6 +1478,7 @@ PDM - Product Data Management 产品数据管理
 CAM - Computer Aided Manufacturing 计算机辅助制造
 CAE - Computer Aided Engineering 计算机辅助工程
 CAPP - Computer Aided Process Planning 计算机辅助工艺过程设计
+PCB - Printed Circuit Board 印制电路板
 ASIC - Application Specific Integrated Circuit 专用集成电路
 FPGA - Field Programmable Gate Array 现场可编程逻辑门阵列
 MIPS - Microprocessor without Interlocked Pipeline Stages 精简指令集架构，无互锁流水线级的微处理器
