@@ -213,7 +213,7 @@ DYOR - Do Your Own Research 亲自研究，对自己负责
 FOMO - Fear of Missing Out 害怕错过
 FIRE - Financial Independence, Retire Early 财务独立，早日退休
 PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
-NPD - Narcissistic PersonalitAy Disorder 自恋型的病态人格障碍
+NPD - Narcissistic Personality Disorder 自恋型人格障碍，过度夸大自我的重要性，过度渴求别人的赞赏，缺乏同理他人行为的能力
 SM - Sadomasochism 性虐恋，施虐与受虐
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
 JK - Jyoshi Koukousei 日本女高中生校服(日文罗马拼音)
