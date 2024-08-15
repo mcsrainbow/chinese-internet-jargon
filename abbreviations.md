@@ -1305,6 +1305,7 @@ LLVM - Low Level Virtual Machine 底层虚拟机，生成高效机器代码的�
 SOAP - Simple Object Access Protocol 简单对象访问协议
 ISP - Internet Service Provider 互联网服务提供商
 ICP - Internet Content Provider 互联网内容提供商
+IdP - Identity Provider 身份源提供商
 CDN - Content Delivery Network 内容分发网络
 BGP - Border Gateway Protocol 边界网关协议
 VBR - Virtual Border Router 边界路由器
@@ -1477,6 +1478,9 @@ CAE - Computer Aided Engineering 计算机辅助工程
 CAPP - Computer Aided Process Planning 计算机辅助工艺过程设计
 ASIC - Application Specific Integrated Circuit 专用集成电路
 FPGA - Field Programmable Gate Array 现场可编程逻辑门阵列
+MIPS - Microprocessor without Interlocked Pipeline Stages 精简指令集架构，无互锁流水线级的微处理器
+RISC - Reduced Instruction Set Computer 精简指令集计算机，如MIPS、ARM
+CISC - Complex Instruction Set Computer 复杂指令集计算机，如AMD64
 HDL - Hardware Description Language 硬件描述语言
 RTL - Register-Transfer Level 寄存器传输级
 APS - Advanced Planning and Scheduling 高级计划与排程
