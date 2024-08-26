@@ -371,6 +371,7 @@ MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
 AD - Assistant Director 助理总监 / Advertising 广告
 OP - Operations 运营 / Operator 操作员
 TS - Technical Support 技术支持
+TAM - Technical Account Management 技术支持客户经理
 JD - Job Description 职位描述
 CV - Curriculum Vitae 个人履历
 HC - Headcount 人头数，招聘人数，职员人数
@@ -382,6 +383,18 @@ CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
 PMP - Project Management Professional 项目管理专业认证
+CMMI - Capability Maturity Model Integration 能力成熟度模型集成
+PP - Project Planning 项目计划
+WP - Work Planning 工作计划
+SD - Service Delivery 服务交付
+MA - Measurement and Analysis 度量和分析
+PPQA - Process and Product Quality Assurance 过程和产质量量保证
+REQM - Requirements Management 需求管理
+SAM - Supplier Agreement Management 供应商协议管理
+OPP - Organizational Process Performance 组织级过程绩效
+QPM - Quantitative Project Management 量化的项目管理
+CAR - Causal Analysis and Resolution 因果分析和决议
+OPM - Organizational Performance Management 组织级绩效管理
 TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
 COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
 CISSP - Certification for Information System Security Professional 信息系统安全专业认证
@@ -856,6 +869,8 @@ AIDS - Acquired Immune Deficiency Syndrome 获得性免疫缺陷综合症，艾�
 HIV - Human Immunodeficiency Virus 人类免疫缺陷病毒，艾滋病毒
 HPV - Human PapillomaVirus 人类乳头瘤病毒
 PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
+AD - Alzheimer's Disease 阿尔茨海默病，老年痴呆，神经退化性疾病
+ED - Erectile Dysfunction 勃起功能障碍，阳痿
 ```
 
 ```markdown
@@ -961,6 +976,7 @@ WPAN - Wireless Personal Area Network 无线个人网
 PSK - Pre-Shared Key 基于预先共享的密钥进行身份验证
 HTTP - HyperText Transfer Protocol 超文本传输协议
 HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
+SPDY - Speedy 由Google开发的网络传输协议，最终演变为HTTP/2
 SSO - Single Sign-On 单点登录(认证服务)
 API - Application Programming Interface 应用程序接口
 IaaS - Infrastructure as a Service 基础设施即服务
@@ -1009,6 +1025,7 @@ PII - Personal Identifiable Information 个人身份信息
 OS - Operating System 操作系统
 DB - Database 数据库
 DBA - Database Administrator 数据库管理员
+CM - Configuration Management 配置管理
 CMDB - Configuration Management Database 配置管理数据库，用于储存软硬件资产信息
 PG - PostgreSQL, Postgres 企业级开源关系数据库
 GP - GreenPlum 关系型分布式数据库，本质上由多个PostgreSQL数据库实例构成
