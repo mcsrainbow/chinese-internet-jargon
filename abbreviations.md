@@ -1438,6 +1438,7 @@ EFS - Elastic File System 弹性文件系统
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
 KMS - Key Management Service 密钥管理服务
+AKSK - Access Key ID, Secret Access Key 云服务接口的访问密钥
 SLS - Simple Log Service 简单日志服务
 SCP - Service Control Policy 服务控制策略，基于组织的访问控制策略
 ACL - Access Control Lists 访问控制列表
