@@ -383,6 +383,20 @@ CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
 PMP - Project Management Professional 项目管理专业认证
+TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
+COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
+CISSP - Certification for Information System Security Professional 信息系统安全专业认证
+CCSP - Certified Cloud Security Professional 注册云安全专家
+CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
+CISP - Certified Information Security Professional 注册信息安全专业人员
+CISM - Certified Information Security Manager 注册信息安全经理
+CISA - Certified Information Systems Auditor 注册信息系统审计师
+CDMP - Certified for Data Management Professional 数据管理专业认证
+ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
+SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
+DPO - Data Protection Officer 数据保护官
+DAMA - Data Management Association 国际数据管理协会
+DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
 CMMI - Capability Maturity Model Integration 能力成熟度模型集成
 PP - Project Planning 项目计划
 WP - Work Planning 工作计划
@@ -395,20 +409,7 @@ OPP - Organizational Process Performance 组织级过程绩效
 QPM - Quantitative Project Management 量化的项目管理
 CAR - Causal Analysis and Resolution 因果分析和决议
 OPM - Organizational Performance Management 组织级绩效管理
-TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
-COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
-CISSP - Certification for Information System Security Professional 信息系统安全专业认证
-CCSP - Certified Cloud Security Professional 注册云安全专家
-CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
-CISP - Certified Information Security Professional 注册信息安全专业人员
-CISM - Certified Information Security Manager 注册信息安全经理
-CISA - Certified Information Systems Auditor 注册信息系统审计师
-DAMA - Data Management Association 国际数据管理协会
-DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
-CDMP - Certified for Data Management Professional 数据管理专业认证
-ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
-SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
-DPO - Data Protection Officer 数据保护官
+DPG - Digital Project Governance 数字项目治理
 ```
 
 ```markdown
@@ -1139,6 +1140,7 @@ NN - Neural Network 神经网络 / NameNode 名称节点
 DN - DataNode 数据节点
 CNN - Convolutional Neural Networks 卷积神经网络
 DM - Data Mining 数据挖掘
+DG - Data Governance 数据治理
 DL - Deep Learning 深度学习
 ML - Machine Learning 机器学习
 RL - Reinforcement Learning 强化学习
