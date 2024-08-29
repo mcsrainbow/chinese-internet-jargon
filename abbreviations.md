@@ -361,7 +361,9 @@ CIO - Chief Information Officer 首席信息官
 CMO - Chief Marketing Officer 首席营销官
 CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官
 CISO - Chief Information Security Officer 首席信息安全官
+CPO - Chief Privacy Officer 首席隐私官
 CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
+DPO - Data Protection Officer 数据保护官
 VP - Vice President 副总裁
 SVP - Senior Vice President 高级副总裁
 AVP - Assistant Vice President 助理副总裁
@@ -383,33 +385,20 @@ CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
 PMP - Project Management Professional 项目管理专业认证
-TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
-COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
-CISSP - Certification for Information System Security Professional 信息系统安全专业认证
-CCSP - Certified Cloud Security Professional 注册云安全专家
-CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
-CISP - Certified Information Security Professional 注册信息安全专业人员
-CISM - Certified Information Security Manager 注册信息安全经理
-CISA - Certified Information Systems Auditor 注册信息系统审计师
 CDMP - Certified for Data Management Professional 数据管理专业认证
 ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
 SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
-DPO - Data Protection Officer 数据保护官
 DAMA - Data Management Association 国际数据管理协会
-DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
 CMMI - Capability Maturity Model Integration 能力成熟度模型集成
-PP - Project Planning 项目计划
-WP - Work Planning 工作计划
-SD - Service Delivery 服务交付
-MA - Measurement and Analysis 度量和分析
-PPQA - Process and Product Quality Assurance 过程和产质量量保证
-REQM - Requirements Management 需求管理
-SAM - Supplier Agreement Management 供应商协议管理
-OPP - Organizational Process Performance 组织级过程绩效
-QPM - Quantitative Project Management 量化的项目管理
-CAR - Causal Analysis and Resolution 因果分析和决议
-OPM - Organizational Performance Management 组织级绩效管理
-DPG - Digital Project Governance 数字项目治理
+TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
+ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
+CISSP - Certification for Information System Security Professional 信息系统安全专业认证
+CBK - Common Body of Knowledge 公共知识体系
+CISM - Certified Information Security Manager 注册信息安全经理
+CISA - Certified Information Systems Auditor 注册信息系统审计师
+CCSP - Certified Cloud Security Professional 注册云安全专家
+CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
+CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
 ```
 
 ```markdown
@@ -516,16 +505,16 @@ TM - Trademark 商标
 R - Registered 已注册
 No. - Numéro 编号(法语)
 C - Center 中心 / Core 核心 / Carry 支撑，主力 / Cao 操(拼音)
-G - Gram 克 / Gigabyte 吉字节 / Generation 代，世代
+G - Gram 克 / Gigabyte 吉字节 / Generation 代，世代 / Giga 十亿，10的9次方
 K - Kilo 千 / Kilobyte 千字节
 KG - Kilogram 千克，公斤
-T - Ton 吨 / Terabyte 太字节
+T - Ton 吨 / Terabyte 太字节 / Tera 万亿，10的12次方
 MT - Metric Ton 公吨，1000千克
 N - Number (任意)数量 / No 否
 Y - Year 年 / Yes 是
 Q - Quarter 季度 / Cute 可爱 / Cue 点名，提示
 X - Extra 额外 / Kiss 亲吻 / Twitter 推特
-M - Meter 米 / Min., Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节 / Medium 中
+M - Meter 米 / Min., Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节 / Medium 中 / Mega 百万，10的6次方
 SQM - Sq.m, Square Meter 平方米
 CBM - Cu.m, Cubic Meter 立方米
 KM - Kilometer 千米，公里
@@ -541,7 +530,7 @@ A - Ampere 安培
 V - Volt 伏特 / Version 版本 / Video 视频
 W - Watt 瓦，瓦特，1瓦特 = 1安培 x 1伏特 / Week 周 / Wan(拼音) 万
 KW - Kilowatt 千瓦
-P - Power 匹，马力，1马力 = 0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加
+P - Power 匹，马力，1马力 = 0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加 / Peta 千万亿，10的15次方
 HP - Horse Power 马力
 H - Hr., Hour 小时
 S - Sec., Second 秒 / Service 服务 / Small 小 / Super 超级
@@ -836,6 +825,7 @@ SSE - Shanghai Stock Exchange 上海证券交易所，上证所，上交所
 SZSE - Shenzhen Stock Exchange 深圳证券交易所，深交所
 NYSE - New York Stock Exchange 纽约证券交易所，纽交所
 SGX - Singapore Exchange 新加坡交易所，新交所
+VUE - Virtual University Enterprises 虚拟大学企业，全球知名的考试服务机构
 IBM - International Business Machines Corporation 国际商业机器公司
 AMD - Advanced Micro Devices 超威半导体公司
 ARM - Advanced RISC Machine 高级精简指令集机器 / 半导体设计与软件公司
@@ -1176,6 +1166,7 @@ ITSM - Information Technology Service Management 信息技术服务管理
 APM - Application Performance Monitoring 应用性能监控
 ARMS - Application Real-Time Monitoring Service 应用实时监控服务
 DR - Disaster Recovery 灾难恢复
+DRP - Disaster Recovery Planning 灾难恢复计划
 CDP - Continuous Data Protection 持续数据保护
 BCP - Business Continuity Planning 业务连续性计划
 RTO - Recovery Time Objective 恢复时间目标
@@ -1186,6 +1177,7 @@ MQ - Message Queue 消息队列
 QPS - Queries Per Second 每秒查询次数
 TPS - Transactions Per Second 每秒事务数
 IOPS - Input/Output Operations Per Second 每秒输入输出量
+FLOPS - Floating Point Operations Per Second 每秒浮点运算次数
 OPS - Operations Per Second 每秒操作数 / Operations 运维
 RPS - Requests Per Second 每秒请求数
 BPS - Bytes Per Second 每秒字节数
@@ -1537,7 +1529,43 @@ SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
 ```
 
 ```markdown
+DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
+PP - Project Planning 项目计划
+WP - Work Planning 工作计划
+SD - Service Delivery 服务交付
+MA - Measurement and Analysis 度量和分析
+PPQA - Process and Product Quality Assurance 过程和产质量量保证
+REQM - Requirements Management 需求管理
+SAM - Supplier Agreement Management 供应商协议管理
+OPP - Organizational Process Performance 组织级过程绩效
+QPM - Quantitative Project Management 量化的项目管理
+CAR - Causal Analysis and Resolution 因果分析和决议
+OPM - Organizational Performance Management 组织级绩效管理
+DPG - Digital Project Governance 数字项目治理
+CAT - Computer-Adaptive Testing 计算机自适应测试
+CPE - Continuing Professional Education 持续专业教育
+COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
+ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
+ISMS - Information Security Management System 信息安全管理体系
+AUP - Acceptable Use Policy 可接受使用策略
+CIRT - Computer Incident Response Team 计算机安全事件响应团队
+SoD - Segregation of Duties 职责分离
+RA - Risk Assessment 风险评估
+EF - Exposure Factor 暴露因子
+SLE - Single Loss Expectancy 单一损失期望
+SOC - Single Occurance Costs 单次发生成本
+ARO - Annualized Rate of Occurrence 年度发生率
+ALE - Annualized Loss Expectancy 年度损失期望
+EAC - Estimated Annual Cost 年度成本估算
+ROSI - Return on Security Investment 安全投资回报率
+HIPAA - Health Insurance Portability and Accountability Act 健康保险便利和责任法案
+PIPEDA - Personal Information Protection and Electronic Documents Act 个人信息保护和电子文件法(加拿大)
+
+```
+
+```markdown
 CIA - Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
+DAD - Disclosure, Alteration, Destruction 泄露、篡改、破坏
 CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
 ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
 BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
@@ -1546,4 +1574,5 @@ SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程�
 SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
 RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
 VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊
+STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
 ```
