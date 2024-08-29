@@ -1514,6 +1514,8 @@ GMP - Good Manufacturing Practice 良好生产规范
 PPM - Parts Per Million 百万分之几(零件不良率)
 CAPA - Corrective and Preventive Action 纠正和预防措施
 SCADA - Supervisory Control And Data Acquisition 数据采集与监视控制系统
+EAM - Enterprise Asset Management 企业资产管理
+CMMS - Computerized Maintenance Management System 计算机化的设备维修管理系统
 BOT - Build, Operate, Transfer 建设、经营、转让，政府基建商业模式
 MTS - Make to Stock 按库存生产
 ATO - Assemble to Order 按订单装配
