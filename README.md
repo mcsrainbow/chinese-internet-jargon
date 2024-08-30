@@ -225,7 +225,8 @@ B超, 4S店, B端, C端, G端, 3A游戏
 商数, 飞地, 买办, 仓位, 平仓, 爆仓, 守仓,
 斩仓, 穿仓, 抛单, 滑点, 多头, 空头, 做空,
 做多, 杠杆, 合约, 期货, 头寸, 标的, 分叉,
-双花, 表征, 软考, 统考, 统招, 抽样
+双花, 表征, 软考, 统考, 统招, 抽样, 发小,
+发妻
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -1409,6 +1410,8 @@ G端 - 政府及事业单位(Government)
 统招 - 全国统一招生，非统招即计划外招生，如成人自考、网络授课、函授教育、职业教育校企合作等方式
 高考 - 普通高等学校招生全国统一考试
 抽样 - 从目标总体中抽取具有代表性的个体作为样本进行推论统计
+发小 - 从小一起长大且关系较好的朋友
+发妻 - 原配，结发妻子，第一次结婚娶的妻子，结发即束发，指初成年
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -2938,6 +2941,8 @@ G端 - Government
 统招 - Unified recruitment
 高考 - Nationwide unified examination for admissions to general universities and colleges
 抽样 - Sampling
+发小 - Childhood-friend
+发妻 - First wife
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
