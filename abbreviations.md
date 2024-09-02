@@ -958,6 +958,7 @@ WiFi - Wireless Fidelity 无线保真技术，无线网络协议
 AC - Access Controller 网络控制器
 AP - Access Point 网络接入点
 WAP - Wireless Access Point 无线网络接入点
+PoE - Power over Ethernet 以太网供电
 LBS - Location Based Service 基于位置的服务
 LAN - Local Area Network 局域网
 WLAN - Wireless Local Area Network 无线局域网
@@ -1387,6 +1388,7 @@ GEO - Geostationary Earth Orbit 地球静止轨道，地球赤道同步轨道 / 
 AS - Autonomous System 自治系统
 ARQ - Automatic Repeat Request 自动重传请求
 FTTH - Fiber To The Home 光纤到户
+ADSL - Asymmetric Digital Subscriber Line 非对称数字用户线路
 LLC - Logical Link Control 逻辑链路控制
 RDP - Remote Desktop Protocol 远程桌面协议
 RDT - Reliable Data Transfer 可靠数据传输
