@@ -11,7 +11,7 @@ OT - Overtime 加班 / Off Topic 跑题了
 PT - Part-time 兼职
 FT - Full-time 全职
 FW - Forward 转发(邮件)
-CC - Carbon Copy 抄送(邮件) / Common Criteria 通用标准
+CC - Carbon Copy 抄送(邮件)
 BCC - Blind Carbon Copy 秘密抄送(邮件)
 Attn: - Attention 经办人，相关人员
 RSVP - Répondez S'il Vous Plaît 请回复(法语)
@@ -149,6 +149,7 @@ BF - Boyfriend 男朋友
 BFF - Best Friends Forever 永远的好朋友
 XOXO - Hugs and Kisses 拥抱和亲吻
 OIC - Oh I See 哦我明白了
+ICU - I See You 我看到你了
 ILY - I Love You 我爱你
 OFC - Of Course 当然
 LMK - Let Me Know 让我知道
@@ -304,6 +305,7 @@ KPL - King Pro League 王者荣耀职业联赛
 KDA - Kill, Death, Assist 击杀、死亡、助攻，KDA score = (Kill + Assist) / Death(0=1)
 ELO - Elo rating system 埃洛等级分系统，衡量对弈水平，源于美国物理学家Arpad Elo
 BP - Ban, Pick 禁用，挑选
+LV - Lv, Level 等级
 PUBG - PlayerUnknown's Battlegrounds 绝地求生，吃鸡
 CS - Counter-Strike 反恐精英
 CF - Crossfire 穿越火线
@@ -327,8 +329,9 @@ DJ - Disc Jockey 碟片骑师
 FB - Facebook 脸书，社交网络应用
 IG - Instagram 图片社交应用
 OB - Out of Bounds 界外(高尔夫)
+AK - Автомат Калашникова 卡拉什尼科夫自动步枪(俄语)
 AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
-LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌 / Level 等级
+LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
 KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
 SKP - Shinkong Place 新光天地(奢侈品卖场)
 IFS - International Finance Square 国际金融中心
@@ -354,7 +357,7 @@ TB - Team Building 团队建设
 PE - Property Executive 物业主管
 OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
 CEO - Chief Executive Officer 首席执行官
-COO - Chief Operated Officer 首席运营官 / Country of Origin 原产国
+COO - Chief Operated Officer 首席运营官
 CFO - Chief Finacial Officer 首席财务官
 CTO - Chief Technology Officer 首席技术官
 CIO - Chief Information Officer 首席信息官
@@ -706,6 +709,7 @@ BIM - Building Information Modeling 建筑信息模型
 GIS - Geographic Information System 地理信息系统
 QA - Quality Assurance 质量保证，测试
 QC - Quality Control 质量控制
+COO - Code of Conduct 行为规范
 QMS - Quality Management System 质量管理系统
 CMS - Content Management System 内容管理系统
 OSS - Operation Support System 运营支持系统
@@ -714,13 +718,15 @@ DSS - Decision Support System 决策支持系统
 MIS - Management Information System 管理信息系统
 LLC - Limited Liability Company 有限责任公司
 BOM - Bill of Material 物料清单
-BOP - Bill of Process 工艺流程清单 / Balance of Payments 国际收支
+BOP - Bill of Process 工艺流程清单
 ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
 OEM - Original Equipment Manufacturer 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
 OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
 MRP - Material Requirements Planning 物料需求计划
 MOQ - Minimum Order Quantity 最小订货量
-COD - Cash On Delivery 货到付款 / Code of Conduct 行为规范
+COO - Country of Origin 原产国
+BOP - Balance of Payments 国际收支
+COD - Cash On Delivery 货到付款
 POD - Port of Destination 目的港
 POL - Port of Loading 装货港
 POS - Point of Sale 销售点终端
@@ -799,6 +805,7 @@ FR - FdR, Federal Reserve 联邦储备局，美联储
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
 EMA - European Medicines Agency 欧洲药品管理局
 PMDA - Pharmaceuticals and Medical Devices Agency 医药品医疗器械综合机构(日本)
+CC - Common Criteria 通用标准
 CCC/3C - China Compulsory Certification 中国强制性产品认证
 OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
 BBC - British Broadcasting Corporation 英国广播公司
@@ -849,7 +856,7 @@ SOD - SuperOxide Dismutase 超氧化物歧化酶，抗氧化剂
 DNA - DeoxyriboNucleic Acid 脱氧核糖核酸，生物大分子，组成遗传指令，引导生物发育与生命机能运作
 RNA - RiboNucleic Acid 核糖核酸，生物大分子，在遗传编码、翻译、调控、基因表达等过程中发挥作用
 DHA - Docosahexaenoic Acid 二十二碳六烯酸，脑黄金，大脑和视网膜的重要组成成分
-ICU - Intensive Care Unit 重症监护室 / I See You 我看到你了
+ICU - Intensive Care Unit 重症监护室
 PET - Positron Emission Tomography 正电子发射断层扫描
 CT - Computed Tomography 计算机体层成像，计算机断层扫描 / X-Ray Computed Tomography X射线计算机断层扫描，X光
 MRI - Magnetic Resonance Imaging 磁共振成像
@@ -1149,6 +1156,7 @@ SIT - System Integration Testing 系统集成测试(环境)
 UAT - User Acceptance Testing 用户验收测试(环境)
 PRE - Pre-production 预生产(环境)，灰度(环境)
 PROD - Production 生产(环境)
+PRD - Production 生产(环境)
 CaC - Configuration as Code 配置即代码
 IaC - Infrastructure as Code 基础设施即代码
 CR - Change Request 变更请求 / Code Review 代码评审
@@ -1480,7 +1488,7 @@ OBS - Organizational Breakdown Structure 组织分解结构
 RAM - Responsibility Assignment Matrix 责任分配矩阵
 BRD - Business Requirement Document 商业需求文档，概念阶段
 MRD - Market Requirement Document 市场需求文档，定位阶段
-PRD - Product Requirement Document 产品需求文档，图纸阶段 / Production 生产(环境)
+PRD - Product Requirement Document 产品需求文档，图纸阶段
 SOP - Standard Operating Procedure 标准操作流程
 TDD - Test-Drive Development 测试驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
