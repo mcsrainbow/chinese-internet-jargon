@@ -753,7 +753,7 @@ DeFi - Decentralized Finance 去中心化金融
 NFT - Non-Fungible Token 非同质化代币
 PoW - Proof of Work 工作量证明
 PoS - Proof of Stake 持有量证明，权益证明
-DPoS - Delegated Proof Of Stake 委托权益证明，代理权益证明
+DPoS - Delegated Proof of Stake 委托权益证明，代理权益证明
 AU - AUS, Australia 澳大利亚
 AUD - Australian Dollar 澳大利亚元，澳元
 POV - Proof of Value 价值证明
@@ -1247,7 +1247,10 @@ CNCF - Cloud Native Computing Foundation 云原生计算基金会
 MIIT - Ministry of Industry and Information Technology 中国工业和信息化部
 AES - Advanced Encryption Standard 高级加密标准
 DES - Data Encryption Standard 数据加密标准
+DSS - Digital Signature Standard 数字签名标准
 SHA - Secure Hash Algorithm 安全散列算法
+RSA - Rivest, Shamir, Adleman 非对称加密算法，李维斯特，萨莫尔，阿德曼
+DSA - Digital Signature Algorithm 数字签名算法
 SAML - Security Assertion Markup Language 安全断言标记语言，单点登录认证标准
 OAUTH - Open Authorization 开放授权
 LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
@@ -1548,6 +1551,7 @@ OPM - Organizational Performance Management 组织级绩效管理
 DPG - Digital Project Governance 数字项目治理
 CAT - Computer-Adaptive Testing 计算机自适应测试
 CPE - Continuing Professional Education 持续专业教育
+CPD - Continuing Professional Development 持续专业发展
 COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
 ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
 ISMS - Information Security Management System 信息安全管理体系
