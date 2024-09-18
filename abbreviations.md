@@ -330,6 +330,8 @@ FB - Facebook 脸书，社交网络应用
 IG - Instagram 图片社交应用
 OB - Out of Bounds 界外(高尔夫)
 AK - Автомат Калашникова 卡拉什尼科夫自动步枪(俄语)
+AR - Armalite Rifle 阿玛莱特步枪
+WMD - Weapons of Mass Destruction 大规模杀伤性武器，大杀器
 AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
 LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
 KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
@@ -760,6 +762,7 @@ NFT - Non-Fungible Token 非同质化代币
 PoW - Proof of Work 工作量证明
 PoS - Proof of Stake 持有量证明，权益证明
 DPoS - Delegated Proof of Stake 委托权益证明，代理权益证明
+DAO - Decentralized Autonomous Organization 去中心化自治组织
 AU - AUS, Australia 澳大利亚
 AUD - Australian Dollar 澳大利亚元，澳元
 POV - Proof of Value 价值证明
@@ -972,6 +975,11 @@ WLAN - Wireless Local Area Network 无线局域网
 WAN - Wide Area Network 广域网
 WPA - WiFi Protected Access WiFi访问保护
 WPAN - Wireless Personal Area Network 无线个人网
+VLAN - Virtual Local Area Network 虚拟局域网
+VXLAN - Virtual eXtensible Local Area Network 虚拟扩展局域网
+NVE - Network Virtualization Edge 网络虚拟边缘
+VTEP - VXLAN Tunnel Endpoint VXLAN隧道端点
+VAP - Virtual Access Point 虚拟接入点
 PSK - Pre-Shared Key 基于预先共享的密钥进行身份验证
 HTTP - HyperText Transfer Protocol 超文本传输协议
 HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
@@ -1206,12 +1214,15 @@ JDBC - Java Database Connectivity Java数据库连接
 ODBC - Open Database Connectivity 开放数据库连接
 URI - Uniform Resource Identifier 统一资源标识符
 URL - Uniform Resource Locator 统一资源定位符
+URN - Uniform Resource Name 统一资源名称
 ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
 K8S - Kubernetes 容器编排平台
 i18n - internationalization 国际化与本地化
 CRI - Container Runtime Interface 容器运行时接口
 CNI - Container Network Interface 容器网络接口
 CSI - Container Storage Interface 容器存储接口
+PV - Persistent Volume 持久卷
+PVC - Persistent Volume Claim 持久卷声明
 eBPF - extened Berkeley Packet Filter 扩展的伯克利包过滤器，允许在操作系统内核中运行沙盒程序
 JDK - Java Development Kit Java开发工具包
 JRE - Java Runtime Environment Java运行时环境
@@ -1324,6 +1335,8 @@ EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 EOM - End of Message 标示消息的结束
 EOL - End of Life 产品寿命结束 / Encyclopedia of Life 生命百科全书
+EOS - End of Support 支持终止
+EOSL - End of Service Life 服务期终止
 JIT - Just-In-Time 即时编译，实时编译 / 即时生产，按需生产
 LLVM - Low Level Virtual Machine 底层虚拟机，生成高效机器代码的开源编译器框架
 SOAP - Simple Object Access Protocol 简单对象访问协议
