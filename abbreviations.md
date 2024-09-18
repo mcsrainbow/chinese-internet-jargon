@@ -974,6 +974,7 @@ LAN - Local Area Network 局域网
 WLAN - Wireless Local Area Network 无线局域网
 WAN - Wide Area Network 广域网
 WPA - WiFi Protected Access WiFi访问保护
+WEP - Wired Equivalent Privacy 有线等效加密
 WPAN - Wireless Personal Area Network 无线个人网
 VLAN - Virtual Local Area Network 虚拟局域网
 VXLAN - Virtual eXtensible Local Area Network 虚拟扩展局域网
@@ -1000,10 +1001,15 @@ SPA - Single-page Application 单页应用
 RPC - Remote Procedure Call 远程过程调用协议
 gRPC - Google Remote Procedure Call Google远程过程调用协议
 VPN - Virtual Private Network 虚拟专用网
+IKE - Internet Key Exchange 因特网密钥交换
+PPTP - Point-to-Point Tunneling Protocol 点对点隧道协议
+L2TP - Layer 2 Tunneling Protocol 二层隧道协议
+IPsec - Internet Protocol Security 互联网安全协议
+ISDN - Integrated Services Digital Network 综合业务数字网
 SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
 MFA - Multifactor Authentication 多因素身份验证
-OTP - One-Time Password 一次性密码
+OTP - One-Time Password 一次性口令
 CA - Certificate Authority 证书授权
 DV - Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
@@ -1244,6 +1250,8 @@ NLB - Network Load Balancer 网络负载均衡
 CLB - Classic Load Balancer 经典负载均衡
 ELB - Elastic Load Balancing 弹性负载均衡
 NAT - Network Address Translation 网络地址转换
+PAT - Port Address Translation 端口地址转换
+UPnP - Universal Plug and Play 通用即插即用
 GW - Gateway 网关
 GFW - Great Firewall 防火长城，中国国家防火墙
 XP - Extreme Programming 极限编程，强调团队合作、快速迭代和高质量的软件交付 / eXPerience (Windows XP)
@@ -1274,6 +1282,8 @@ SAML - Security Assertion Markup Language 安全断言标记语言，单点登�
 OAUTH - Open Authorization 开放授权
 LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
 PAM - Pluggable Authentication Modules 可插拔认证模块 / Privileged Account Management 特权账户管理
+RADIUS - Remote Authentication Dial-In User Server 远程认证拨号用户服务
+TACACS - Terminal Access Controller Access-Control System 终端访问控制器控制系统
 PKI - Public Key Infrastructure 公钥基础设施
 RAID - Redundant Array of Independent Disks 独立磁盘冗余阵列
 PCI - Peripheral Component Interconnect 外设部件互连
@@ -1293,6 +1303,7 @@ HDD - Hard Disk Drive 硬盘驱动器
 IDE - Integrated Drive Electronics 电子集成驱动器(硬盘)
 SATA - Serial Advanced Technology Attachment 串行高级技术附件，串行接口
 SCSI - Small Computer System Interface 小型计算机系统接口
+iSCSI - Internet SCSI, IP-SAN 互联网SCSI
 SAS - Serial Attached SCSI 串行连接SCSI
 SSD - Solid-State Drive 固态驱动器 / Solid-State Disk 固态硬盘
 MBR - Master Boot Record 主引导记录，分区表
@@ -1355,6 +1366,11 @@ TTL - Time to Live 生存时间(网络)
 DHCP - Dynamic Host Configuration Protocol 动态主机配置协议
 NTP - Network Time Protocol 网络时间协议
 PPP - Point-to-Point Protocol 点对点协议
+PAP - Password Authentication Protocol 密码认证协议
+CHAP - Challenge Handshake Authentication Protocol 挑战握手认证协议
+EAP - Extensible Authentication Protocol 可扩展认证协议
+LEAP - Lightweight Extensible Authentication Protocol 轻量级可扩展认证协议
+SSID - Service Set Identifier 服务集标识符
 SNMP - Simple Network Management Protocol 简单网络管理协议
 OSI - Open System Interconnection Model 开放式系统互联模型
 IETF - Internet Engineering Task Force 互联网工程任务组
@@ -1370,12 +1386,18 @@ QUIC - Quick UDP Internet Connection 快速UDP互联网连接，QUIC = HTTP/2 + 
 FTP - File Transfer Protocol 文件传输协议
 TFTP - Trivial File Transfer Protocol 简单文件传输协议
 ICMP - Internet Control Message Protocol 互联网控制消息协议
-SMTP - Simple Mail Transfer Protocol 简单邮件传输协议
 SMB - Server Message Block 服务器消息块，网络文件共享协议
+SMTP - Simple Mail Transfer Protocol 简单邮件传输协议
 POP - Post Office Protocol 邮局协议
+DKIM - DomainKeys Identified Mail 域名密钥识别邮件
+DMARC - Domain-based Message Authentication, Reporting & Conformance 基于域的消息认证、报告和一致性，电子邮件认证、策略和报告协议
+S/MIME - Secure/MultipurposeInternet Mail Extensions 安全/多用途网际邮件扩充协议
+SPF - Sender Policy Framework 发件人策略框架
+PGP - Pretty Good Privacy 优良保密协议
 IMAP - Internet Message Access Protocol 互联网消息访问协议
 VRRP - Virtual Router Redundancy Protocol 虚拟路由冗余协议，提高网络可靠性的容错协议
 ARP - Address Resolution Protocol 地址解析协议
+RARP - Reverse Address Resolution Protocol 反向地址解析协议
 SYN - Synchronize Sequence Numbers 同步序列编号
 ACK - Acknowledgement 确认
 COM - Component Object Model 组件对象模型 / Company 公司 / Communication 通信
@@ -1387,6 +1409,8 @@ CDMA - Code Division Multiple Aceess 码分多址
 FDMA - Frequency Division Multiple Address 频分多址
 AGP - Accelerated Graphics Port 加速图形接口
 CRBT - Color Ring Back Tone 彩铃回音
+VoIP - Voice over Internet Protocol 基于IP的语音传输
+PSTN - Public Switched Telephone Network 公共交换电话网
 PSU - Power Supply Unit 电源供应器
 PDU - Power Distribution Unit 电源分配单元 / Protocol Data Unit 协议数据单元
 SCU - Service Control Unit 业务控制单元 / Storage Capacity Unit 存储容量单元
@@ -1399,7 +1423,6 @@ DSF - Distribute service Framework 分布式服务框架
 CMNET - China Mobile Network 中国移动网
 STS - Security Token Service 安全令牌服务 / StatefulSet 状态集 / Synchronous Transport Signal 同步传输信号
 SAN - Storage Area Network 存储区域网络
-PAP - Password Authentication Protocol 密码认证协议
 NCU - Network Control Unit 网络控制单元
 MTU - Maximum Transmission Unit 最大传输单元
 LCP - Link Control Protocol 链路控制协议
@@ -1421,6 +1444,7 @@ SIM - Subscriber Identity Module 用户身份模块
 CUDA - Compute Unified Device Architecture 统一计算架构
 SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
+SDP - Software Defined Perimeter 软件定义边界
 SDH - Synchronous Digital Hierarchy 同步数字体系，数字专线，点对点专线
 VT - Virtualization Technology 虚拟化技术
 VM - Virtual Machine 虚拟机
@@ -1434,6 +1458,7 @@ GCC - GNU Compiler Collection GNU编译器套件
 GDB - GNU Debugger GNU调试器
 GPL - GNU General Public License GNU通用公共许可协议
 LGPL - GNU Lesser General Public License 更宽松的GNU通用公共许可协议
+GPG - GNU Privacy Guard, GnuPG 用于加密、签名通信内容及管理非对称密码学的密钥
 BSD - Berkeley Software Distribution 伯克利软件包 / BSD License BSD许可证
 CC - Creative Commons 知识共享
 BY - Attribution 署名
@@ -1463,8 +1488,10 @@ SLS - Simple Log Service 简单日志服务
 SCP - Service Control Policy 服务控制策略，基于组织的访问控制策略
 ACL - Access Control Lists 访问控制列表
 DAC - Discretionary Access Control 自主访问控制
+NAC - Network Access Control 网络访问控制
 MAC - Mandatory Access Control 强制访问控制 / Media Access Control Address 媒体访问控制地址 / Mesage Authentication Code 消息鉴别码
 RBAC - Role-Based Access Control 基于角色的访问控制
+RuBAC - Rule-Based Access Control 基于规则的访问控制
 ABAC - Attribute-Based Access Control 基于属性的访问控制策略
 CQRS - Command Query Responsibility Segregation 命令和查询责任分离
 IDS - Intrusion Detection System 入侵检测系统
