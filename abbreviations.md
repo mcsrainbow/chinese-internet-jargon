@@ -1283,6 +1283,7 @@ OAUTH - Open Authorization 开放授权
 LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
 PAM - Pluggable Authentication Modules 可插拔认证模块 / Privileged Account Management 特权账户管理
 RADIUS - Remote Authentication Dial-In User Server 远程认证拨号用户服务
+OIDC - OpenID Connect 认证用户并完成资源授权，OAuth 2.0 协议的超集
 TACACS - Terminal Access Controller Access-Control System 终端访问控制器控制系统
 PKI - Public Key Infrastructure 公钥基础设施
 RAID - Redundant Array of Independent Disks 独立磁盘冗余阵列
