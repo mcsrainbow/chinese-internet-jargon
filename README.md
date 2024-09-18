@@ -225,8 +225,8 @@ B超, 4S店, B端, C端, G端, 3A游戏
 商数, 飞地, 买办, 仓位, 平仓, 爆仓, 守仓,
 斩仓, 穿仓, 抛单, 滑点, 多头, 空头, 做空,
 做多, 杠杆, 合约, 期货, 头寸, 标的, 分叉,
-双花, 表征, 软考, 统考, 统招, 抽样, 发小,
-发妻, 唯二, 拔群
+双花, 表征, 软考, 统考, 统招, 中考, 高考,
+抽样, 发小, 发妻, 唯二, 拔群
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -1411,6 +1411,7 @@ G端 - 政府及事业单位(Government)
 软考 - 软件水平考试，全国计算机技术与软件专业技术资格(水平)考试
 统考 - 全国统一考试，非统考指招生单位自主命题考试
 统招 - 全国统一招生，非统招即计划外招生，如成人自考、网络授课、函授教育、职业教育校企合作等方式
+中考 - 初级中等学校义务教育毕业学业水平考试
 高考 - 普通高等学校招生全国统一考试
 抽样 - 从目标总体中抽取具有代表性的个体作为样本进行推论统计
 发小 - 从小一起长大且关系较好的朋友
@@ -2950,6 +2951,7 @@ G端 - Government
 软考 - Qualification certificate of computer and software technology proficiency
 统考 - Unified examination
 统招 - Unified recruitment
+中考 - Junior high school scholastic aptitude examination
 高考 - Nationwide unified examination for admissions to general universities and colleges
 抽样 - Sampling
 发小 - Childhood-friend
