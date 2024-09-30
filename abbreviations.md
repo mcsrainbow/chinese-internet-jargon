@@ -756,12 +756,16 @@ CNY - Chinese Yuan 人民币
 USD - United States Dollar 美元
 FX - Forex, Foreign exchange market 外汇市场
 USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
+BTC - Bitcoin 比特币
+ETF - Exchange-Traded Fund 交易型开放式指数基金
 ETH - Ethereum 以太坊加密货币
 DeFi - Decentralized Finance 去中心化金融
 NFT - Non-Fungible Token 非同质化代币
 PoW - Proof of Work 工作量证明
 PoS - Proof of Stake 持有量证明，权益证明
 DPoS - Delegated Proof of Stake 委托权益证明，代理权益证明
+PoH - Proof of History 历史证明
+PoA - Proof of Authority 权威证明
 DAO - Decentralized Autonomous Organization 去中心化自治组织
 AU - AUS, Australia 澳大利亚
 AUD - Australian Dollar 澳大利亚元，澳元
@@ -1478,6 +1482,7 @@ ACK - Container Service for Kubernetes 容器服务Kubernetes版
 ASK - Container Service for Kubernetes Serverless 容器服务Kubernetes无服务器版
 DMS - Data Management Service 数据管理服务
 DTS - Data Transmission Service 数据传输服务
+CPFS - Cloud Paralleled File System 阿里云并行文件系统
 EKS - Elastic Kubernetes Service 弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
 EFS - Elastic File System 弹性文件系统
