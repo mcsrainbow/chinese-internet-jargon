@@ -756,6 +756,7 @@ CNY - Chinese Yuan 人民币
 USD - United States Dollar 美元
 FX - Forex, Foreign exchange market 外汇市场
 USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
+USDC - USD Coin 美国公司Circle创建的加密稳定币，与USD 1:1兑换，声称由美元资产支持
 BTC - Bitcoin 比特币
 ETF - Exchange-Traded Fund 交易型开放式指数基金
 ETH - Ethereum 以太坊加密货币
