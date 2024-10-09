@@ -1199,6 +1199,8 @@ CDP - Continuous Data Protection 持续数据保护
 BCP - Business Continuity Planning 业务连续性计划
 RTO - Recovery Time Objective 恢复时间目标
 RPO - Recovery Point Objective 恢复点目标
+WRT - Work Recovery Time 工作恢复时间
+MTD - Max Tolerable Downtime 最大可容忍停机时间, MTD = RTO + WRT
 NOC - Network Operations Center 网络运营中心
 NIC - Network Information Center 网络信息中心
 MQ - Message Queue 消息队列
