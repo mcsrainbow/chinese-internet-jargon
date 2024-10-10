@@ -761,6 +761,7 @@ BTC - Bitcoin 比特币
 ETF - Exchange-Traded Fund 交易型开放式指数基金
 ETH - Ethereum 以太坊加密货币
 DeFi - Decentralized Finance 去中心化金融
+DAPP - Decentralized Application 去中心化应用
 NFT - Non-Fungible Token 非同质化代币
 PoW - Proof of Work 工作量证明
 PoS - Proof of Stake 持有量证明，权益证明
