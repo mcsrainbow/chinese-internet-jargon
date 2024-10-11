@@ -179,8 +179,9 @@
 
 ```markdown
 985工程, 211工程, All in, A/B测试,
-QR码, UP主, 大V, 主R, I人, E人, C位,
-B超, 4S店, B端, C端, G端, 3A游戏
+QR码, UP主, 大V, 主R, I人, E人, J人,
+P人, C位, B超, 4S店, B端, C端, G端,
+3A游戏
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -1098,6 +1099,8 @@ UP主 - 网络视频平台的内容创作者，上传者
 主R - 实际执行和做事的人，RACI责任分配矩阵中的Responsible
 I人 - MBTI中的Introversion，偏好内向、喜安静、思考、深度交往的个体
 E人 - MBTI中的Extraversion，偏好外向、喜热闹、社交、广泛交往的个体
+J人 - MBTI中的Judging，判断，偏好计划和组织，追求条理
+P人 - MBTI中的Perceiving，知觉，偏好灵活和开放，拥抱变化
 C位 - 中间、重要、核心位置
 B超 - B型医学超声检查
 4S店 - 汽车特许经营模式，包括整车销售、零配件、售后服务、信息反馈(Sale, Spare Part, Service, Survey)
@@ -2646,6 +2649,8 @@ UP主 - Uploader / Content creator
 主R - Responsible (R of RACI chart)
 I人 - Introvert
 E人 - Extravert
+J人 - Judging
+P人 - Perceiving
 C位 - Center / Carry / Core
 B超 - Brightness-mode medical ultrasound
 4S店 - Sale, Spare Part, Service, Survey
