@@ -222,6 +222,9 @@ MAGA - Make America Great Again 让美国再次伟大
 LGBT - Lesbian, Gay, Bisexual, Transgender 女同性恋、男同性恋、双性恋、跨性别者
 LGBTQ+ - Lesbian, Gay, Bisexual, Transgender, Queer 女同性恋、男同性恋、双性恋、跨性别者、酷儿(性取向以及性别认同不同寻常的人)
 LGBTQI+ - Lesbian, Gay, Bisexual, Transgender, Queer, Intersex 女同性恋、男同性恋、双性恋、跨性别者、酷儿(性取向以及性别认同不同寻常的人)、间性者(双性人、阴阳人)
+TS - Transsexual 变性者
+TG - Transgender 跨性別者，性别认同与出生时指定性别相反的人，包括变性者
+CD - Cross–Dressing 异性裝扮
 BLM - Black Lives Matter 黑人的命也是命，黑人生命珍贵，黑命贵
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
 ABC - American-Born Chinese 出生在美国的华裔
@@ -744,6 +747,8 @@ RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
 CN/CHN - China 中国
 HK - Hong Kong 香港
 APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
+APJ - Asia-Pacific and Japan 亚太地区和日本
+GC - Greater China 大中华区，以华人为主的中国大陆、香港、澳门、台湾，以及新加坡、马来西亚等华人地区
 US - United States 美国
 UK - United Kingdom 英国
 JP - Japan 日本
@@ -964,6 +969,7 @@ IDC - Internet Data Center 互联网数据中心
 CP - Content Provider 内容提供商
 ICQ - I Seek You 我找你，即时通讯软件(以色列)
 IRC - Internet Relay Chat 互联网中继聊天
+TG - Telegram 电报，支持双向加密的即时通信软件
 AD - Active Directory 活动目录(Windows服务器)
 CS - Client-Server 客户端与服务器
 BS - Browser-Server 浏览器与服务器 / Basic Station 基站
@@ -999,6 +1005,8 @@ SaaS - Software as a Service 软件即服务
 IDaaS - IDentity as a Service 身份即服务
 KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
 DNS - Domain Name System 域名系统
+DoH - DNS over HTTPS 基于HTTPS的域名系统
+DoT - DNS over TLS 基于TLS的域名系统
 HA - High Availability 高可用性
 SOA - Service-Oriented Architecture 面向服务的架构
 ROA - Resource Oriented Architecture 面向资源的架构
