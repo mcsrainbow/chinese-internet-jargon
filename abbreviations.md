@@ -16,6 +16,7 @@ BCC - Blind Carbon Copy 秘密抄送(邮件)
 Attn: - Attention 经办人，相关人员
 RSVP - Répondez S'il Vous Plaît 请回复(法语)
 Encl. - Enclosure 附件(邮件)
+CYE - Check Your Email 查看你的邮件
 MTF - More To Follow 还有更多
 FYI - For Your Information 供你参考
 FYR - For Your Reference 供你参考
@@ -79,6 +80,8 @@ LGTM - Looks Good To Me 在我看来还不错
 LMAO - Laugh My Ass Off 笑掉我屁股，笑死我了
 ROFL - Roll On Floor Laughing 笑翻了
 LMFAO - Laugh My Fucking Ass Off 笑掉我该死的屁股，笑死我了
+IDGAS - I Don't Give A Shit 我不在乎
+IDGAF - I Don't Give A Fuck 我不在乎
 ASL - Age, Sex, Location 年龄，性别，所在地 / American Sign Language 美国手语
 PS - P.S. Postscript 附言，补充说明
 MTD - Month to Date 从月初到今天
@@ -195,11 +198,10 @@ BBT - Be Back Tomorrow 明天回来
 BOL - Best of luck 祝你好运
 BG - Background 背景
 BGM - Background Music 背景音乐
-COS - Because 因为
-COZ - Because 因为
 BBQ - Barbecue 烧烤
 KB - Keyboard 键盘
 DIR - Direction 指导，方向
+CRZ - Crazy 疯狂的
 MSG - Message 信息
 MGR - Manager 经理
 MGMT - Management 管理
@@ -254,6 +256,9 @@ MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四�
 ```
 pls - Please 请
 plz - Please 请
+cos - Because 因为
+cus - Because 因为
+coz - Because 因为
 ppl - People 人
 k - Okay 好的
 tho - Though 虽然，尽管
@@ -276,7 +281,7 @@ etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
 viz. - videlicet 也就是(拉丁文)
-ext. extension 扩展，电话分机 / external 外部的 / extra 额外的
+ext. - extension 扩展，电话分机 / external 外部的 / extra 额外的
 ```
 
 ```markdown
