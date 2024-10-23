@@ -1054,6 +1054,7 @@ IT - Information Technology 信息技术
 PC - Personal Computer 个人计算机
 PIN - Personal Identification Number 个人识别码
 PII - Personal Identifiable Information 个人身份信息
+CVV - Card Verification Value 信用卡验证码
 OS - Operating System 操作系统
 DB - Database 数据库
 DBA - Database Administrator 数据库管理员
@@ -1438,7 +1439,7 @@ PSU - Power Supply Unit 电源供应器
 PDU - Power Distribution Unit 电源分配单元 / Protocol Data Unit 协议数据单元
 SCU - Service Control Unit 业务控制单元 / Storage Capacity Unit 存储容量单元
 OMC - Operation Maintenance Center 操作维护中心
-EDR - Event Data Recorder 事故资料记录器，黑匣子 / Endpoint Detection and Response 端点检测与响应
+EDR - Event Data Recorder 事故资料记录器，黑匣子
 LLT - Low Latency Transport 低延迟传输 / Low Level Test 低层次测试，自测
 VCS - Version Control System 版本控制系统
 GA - General Availability 正式发布的版本 / Google Analytics Google网站数据分析
@@ -1523,6 +1524,13 @@ IPS - Intrusion Prevention System 入侵防御系统
 CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞披露
 SASE - Secure Access Service Edge 安全访问服务边缘，零信任内网访问方案
 SIEM - Security Information And Event Management 安全信息和事件管理
+CASB - Cloud Access Security Broker 云访问安全代理
+NGFW - Generation Firewall 下一代防火墙
+SOAR - Security Orchestration, Automation and Response 安全编排自动化与响应
+EDR - Endpoint Detection and Response 端点检测与响应
+MDR - Managed Detection and Response 托管检测与响应
+NDR - Network Detection and Response 网络检测与响应
+XDR - Extended Detection and Response 扩展检测与响应
 SOC - System on Chip 系统级芯片 / Security Operation Center 安全运营中心
 UEM - Unified Endpoint Management 统一端点管理
 UIM - Unified Identity Management 统一身份管理
