@@ -340,8 +340,9 @@ OB - Out of Bounds 界外(高尔夫)
 SB - Season Best 赛季最好成绩
 CB - Course Best 赛会最好成绩
 PB - Personal Best 个人最好成绩­
-PR - Personal Best 个人记录
+PR - Personal Record 个人记录
 BQ - Boston Qualification 波士顿马拉松资格标准
+WR - World Record 世界记录
 LSD - Long Slow Distance 长时间用较慢的配速跑长距离
 AK - Автомат Калашникова 卡拉什尼科夫自动步枪(俄语)
 AR - Armalite Rifle 阿玛莱特步枪
