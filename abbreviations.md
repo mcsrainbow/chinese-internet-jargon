@@ -337,6 +337,12 @@ DJ - Disc Jockey 碟片骑师
 FB - Facebook 脸书，社交网络应用
 IG - Instagram 图片社交应用
 OB - Out of Bounds 界外(高尔夫)
+SB - Season Best 赛季最好成绩
+CB - Course Best 赛会最好成绩
+PB - Personal Best 个人最好成绩­
+PR - Personal Best 个人记录
+BQ - Boston Qualification 波士顿马拉松资格标准
+LSD - Long Slow Distance 长时间用较慢的配速跑长距离
 AK - Автомат Калашникова 卡拉什尼科夫自动步枪(俄语)
 AR - Armalite Rifle 阿玛莱特步枪
 WMD - Weapons of Mass Destruction 大规模杀伤性武器，大杀器
@@ -1065,6 +1071,7 @@ GP - GreenPlum 关系型分布式数据库，本质上由多个PostgreSQL数据�
 MPP - Massive Parallel Processing 海量并行处理
 ES - Elasticsearch 构建在Apache Lucene上的分布式搜索和分析引擎 / Elastic Stack 由Elastic公司开发的Elasticsearch相关产品套件
 ELK - Elasticsearch, Logstash, Kibana 日志分析、采集、可视化的产品组合
+ASF - Apache Software Foundation Apache软件基金会
 LAMP - Linux, Apache HTTP Server, MySQL, PHP 操作系统、网页服务器、数据库、编程语言的组合
 LNMP - Linux, Nginx, MySQL, PHP 操作系统、网页服务器、数据库、编程语言的组合
 C10K - 10,000 Concurrent connections 单机一万并发连接
