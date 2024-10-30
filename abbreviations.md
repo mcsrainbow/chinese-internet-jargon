@@ -1418,6 +1418,7 @@ QUIC - Quick UDP Internet Connection 快速UDP互联网连接，QUIC = HTTP/2 + 
 FTP - File Transfer Protocol 文件传输协议
 TFTP - Trivial File Transfer Protocol 简单文件传输协议
 ICMP - Internet Control Message Protocol 互联网控制消息协议
+IGMP - Internet Group Management Protocol 互联网组管理协议
 SMB - Server Message Block 服务器消息块，网络文件共享协议
 SMTP - Simple Mail Transfer Protocol 简单邮件传输协议
 POP - Post Office Protocol 邮局协议
