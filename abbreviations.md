@@ -631,6 +631,7 @@ GMV - Gross Merchandise Value 商品总价值
 GPM - GMV Per Mille 千次展示成交金额 / Gallons Per Minute 加仑每分钟
 ARPU - Average Revenue Per User 每用户平均收入
 ARPPU - Average Revenue Per Paying User 每付费用户平均收益
+MMR - Monthly Recurring Revenue 每月经常性收入
 CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
 CVR - Conversion Rate 转化率
 PCU - Peak Concurrent Users 最高并发用户
