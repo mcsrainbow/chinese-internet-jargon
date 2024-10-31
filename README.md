@@ -181,7 +181,7 @@
 985工程, 211工程, All in, A/B测试,
 QR码, UP主, 大V, 主R, I人, E人, J人,
 P人, C位, B超, 4S店, B端, C端, G端,
-3A游戏
+3A游戏, 去IOE
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -229,7 +229,7 @@ P人, C位, B超, 4S店, B端, C端, G端,
 双花, 表征, 软考, 统考, 统招, 中考, 高考,
 抽样, 发小, 发妻, 唯二, 拔群, 子集, 超集,
 统筹, 拥趸, 局座, 笔者, 主体, 客体, 应援,
-脑雾
+脑雾, 信创, 加息, 降息
 
 双一流, 交学费, 智商税, 阶段性, 有深度,
 原动力, 三板斧, 利益点, 不可逆, 向量化,
@@ -1111,6 +1111,7 @@ B端 - 企业及商家(Business)
 C端 - 个体消费者(Consumer)
 G端 - 政府及事业单位(Government)
 3A游戏 - 开发成本高、消耗资源多、开发周期长的游戏，AAA代表最高级别
+去IOE - 摆脱对IBM、Oracle、EMC三家公司产品的依赖，采用自主研发或开源替代方案，以降低成本并提高技术自主性
 
 熵减 - 系统从混乱向有序转变，情况变好
 熵增 - 系统从有序向混乱转变，情况恶化
@@ -1435,6 +1436,9 @@ G端 - 政府及事业单位(Government)
 客体 - 被观察的事物，被访问的资源
 应援 - 接应援助，追星族自愿为明星加油打气的行为
 脑雾 - 意识混浊，对时间或周围环境的认知较为模糊，不易集中注意力
+信创 - 信息技术应用创新，旨在推进用国产替代技术替换美国和其他外国技术，以期实现中国信息技术领域的自主可控，保障国家信息安全
+加息 - 中央银行提高基准利率，直接目的是迫使商业银行以更贵的成本向中央银行借贷，进而迫使银行之间的拆借利息提高，以增加融资成本、减少贷款和消费，从而抑制通货膨胀与经济过热
+降息 - 中央银行降低基准利率，直接目的是让商业银行以更低的成本向中央银行借贷，进而促使银行之间的拆借利息降低，以减少融资成本、增加贷款和消费，从而刺激经济增长并防止经济衰退
 
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
@@ -2669,6 +2673,7 @@ B端 - Business
 C端 - Consumer
 G端 - Government
 3A游戏 - Triple-A games, cost a lot of money, resources, time
+去IOE - Eliminate reliance on products from IBM, Oracle, and EMC
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
@@ -2993,6 +2998,9 @@ G端 - Government
 客体 - Object
 应援 - Support
 脑雾 - Brain fog / Mental fog / Clouding of consciousness
+信创 - Information technology application innovation
+加息 - Raise interest rates
+降息 - Cut interest rates
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
