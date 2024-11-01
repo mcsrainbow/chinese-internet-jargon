@@ -1032,6 +1032,7 @@ IKE - Internet Key Exchange 因特网密钥交换
 PPTP - Point-to-Point Tunneling Protocol 点对点隧道协议
 L2TP - Layer 2 Tunneling Protocol 二层隧道协议
 IPsec - Internet Protocol Security 互联网安全协议
+GRE - Generic Routing Encapsulation 通用路由封装
 ISDN - Integrated Services Digital Network 综合业务数字网
 SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
