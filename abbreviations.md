@@ -1533,6 +1533,11 @@ CQRS - Command Query Responsibility Segregation 命令和查询责任分离
 IDS - Intrusion Detection System 入侵检测系统
 IPS - Intrusion Prevention System 入侵防御系统
 CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞披露
+CVSS - Common Vulnerability Scoring System 通用漏洞评分系统
+RASP - Runtime Application Self-Protection 运行时应用自我保护
+BAS - Breach and Attack Simulation 入侵与攻击模拟
+COTS - Commercial Off-The-Shelf 商用现成品或技术
+AIO - All In One 一体化
 SASE - Secure Access Service Edge 安全访问服务边缘，零信任内网访问方案
 SIEM - Security Information And Event Management 安全信息和事件管理
 CASB - Cloud Access Security Broker 云访问安全代理
