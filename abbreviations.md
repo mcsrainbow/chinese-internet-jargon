@@ -193,6 +193,7 @@ BOT - Back On Topic 回到主题 / Bot 机器人
 BRB - Be Right Back 马上回来
 BRT - Be Right There 马上到
 BBS - Be Back Soon 很快回来 / Bulletin Board System 电子公告板
+OP - Original Poster 原始发文者
 BBL - Be Back Later 一会回来
 BBT - Be Back Tomorrow 明天回来
 BOL - Best of luck 祝你好运
