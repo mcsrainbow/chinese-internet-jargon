@@ -1067,6 +1067,7 @@ PII - Personal Identifiable Information 个人身份信息
 CVV - Card Verification Value 信用卡验证码
 OS - Operating System 操作系统
 DB - Database 数据库
+DIR - Directory 目录
 DBA - Database Administrator 数据库管理员
 CM - Configuration Management 配置管理
 CMDB - Configuration Management Database 配置管理数据库，用于储存软硬件资产信息
