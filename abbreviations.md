@@ -590,6 +590,7 @@ CS - Customer Service 客户服务
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育
 IPO - Initial Public Offering 首次公开募股
+VIE - Variable Interest Entity 可变利益实体
 CN - Common Name 公用名
 OU - Organizational Unit 组织单位
 Biz - Business 商业，业务
@@ -985,6 +986,7 @@ ICQ - I Seek You 我找你，即时通讯软件(以色列)
 IRC - Internet Relay Chat 互联网中继聊天
 TG - Telegram 电报，支持双向加密的即时通信软件
 AD - Active Directory 活动目录(Windows服务器)
+AAD - Azure Active Directory 微软云活动目录
 CS - Client-Server 客户端与服务器
 BS - Browser-Server 浏览器与服务器 / Basic Station 基站
 IDE - Integrated Development Environment 集成开发环境(软件开发)
