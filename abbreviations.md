@@ -1300,6 +1300,8 @@ SSOT - Single Source of Truth 单一可信源
 SCA - Software Composition Analysis 软件组成分析
 SAST - Static Application Security Testing 静态应用安全测试
 DAST - Dynamic Application Security Testing 动态应用安全测试
+IAST - Interactive Application Security Testing 交互式应用安全测试
+RASP - Runtime Application Self-Protection 运行时应用安全保护
 DP - DisplayPort 显示端口(数字视频)
 DVI - Digital Visual Interface 数字视频接口
 OSPF - Open Shortest Path First 开放最短路径优先
