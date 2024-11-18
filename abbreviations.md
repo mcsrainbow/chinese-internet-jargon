@@ -764,6 +764,7 @@ CN/CHN - China 中国
 HK - Hong Kong 香港
 APJ - Asia-Pacific and Japan 亚太地区和日本
 GC - Greater China 大中华区，以华人为主的中国大陆、香港、澳门、台湾，以及新加坡、马来西亚等华人地区
+APEC - Asia-Pacific Economic Cooperation 亚太经济合作组织，亚太经合组织
 APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
 EMEA - Europe, Middle East and Africa 欧洲、中东和非洲地区
 NA - North America 北美洲
