@@ -425,6 +425,7 @@ CISP - Certified Information Security Professional 注册信息安全专业人�
 ```markdown
 K-12: from Kindergarten to 12th grade 基础教育(美国)，从幼儿园到12年级(相当于中国的高三)
 STEAM - Science, Technology, Engineering, Art, Mathematics 由科学、技术、工程、艺术、数学等学科共同构成的跨学科课程
+P.E. - Physical Education 体育教育
 CS - Computer Science 计算机科学
 DS - Data Science 数据科学
 BA - Bachelor of Arts 文学士
@@ -588,7 +589,7 @@ KA - Key Accounts 重点客户，大卖场
 NA - Named Accounts 价值客户
 CS - Customer Service 客户服务
 VC - Venture Capital 风险投资
-PE - Private Equity 私募股权基金 / P.E. Physical Education 体育教育
+PE - Private Equity 私募股权基金
 IPO - Initial Public Offering 首次公开募股
 VIE - Variable Interest Entity 可变利益实体
 CN - Common Name 公用名
@@ -761,9 +762,12 @@ RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
 ```markdown
 CN/CHN - China 中国
 HK - Hong Kong 香港
-APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
 APJ - Asia-Pacific and Japan 亚太地区和日本
 GC - Greater China 大中华区，以华人为主的中国大陆、香港、澳门、台湾，以及新加坡、马来西亚等华人地区
+APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
+EMEA - Europe, Middle East and Africa 欧洲、中东和非洲地区
+NA - North America 北美洲
+LATAM - Latin America 拉丁美洲
 US - United States 美国
 UK - United Kingdom 英国
 JP - Japan 日本
@@ -1143,8 +1147,8 @@ AIGC - AI Generated Content 人工智能生成内容
 GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图像、音频等内容，模仿和创造新内容
 AGI - Artificial General Intelligence 通用人工智能
 RAG - Retrieval Augmented Generation 检索增强生成
-SFT - Supervised Fine-tuning 有监督微调，在预训练模型的基础上使用带标签的数据进行微调
-RAFT - Retrieval Augmented Fine-tuning 检索增强微调
+SFT - Supervised Fine-tuning 有监督微调(精调)，在预训练模型的基础上使用带标签的数据进行微调(精调)
+RAFT - Retrieval Augmented Fine-tuning 检索增强微调(精调)
 RLHF - Reinforcement Learning from Human Feedback 基于人类反馈的强化学习
 AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
@@ -1152,6 +1156,10 @@ GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练�
 MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任务，再由多个子模型以远低于传统密集模型的计算成本进行预训练
 SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本到图像、图像到图像生成模型
 CoT - Chain-of-Thought 思维链，改进的Prompt技术，提升大语言模型在复杂推理任务上的表现
+ToT - Tree-of-Thought 思维树，扩展了思维链的概念，允许模型探索多种推理路径(如树状结构)来解决问题
+GoT - Graph-of-Thought 思维图，进一步扩展了 ToT，将思维过程抽象为一个有向图，节点表示可能的推理步骤，边表示推理步骤之间的关系
+DoT - Depth-of-Thought 思维深度，专注于探索推理深度的技术或理论，与思维链和思维树等概念协作，通常用于评估推理路径的逻辑深度和质量
+DAG - Directed Acyclic Graph 有向无环图，特殊的图结构，边都是单向连接，且不存在任何循环路径
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
 IoT - Internet of Things 物联网
 ISO - International Organization for Standardization 国际标准化组织
@@ -1183,7 +1191,9 @@ CDC - Change Data Capture 变更数据捕获
 BFS - Breadth First Search 广度优先搜索
 DFS - Depth First Search 深度优先搜索
 YARN - Yet Another Resource Negotiator 又一个资源协调器
-NN - Neural Network 神经网络 / NameNode 名称节点
+NN - Neural Network 神经网络
+ANN - Artificial Neural Network 人工神经网络
+NN - NameNode 名称节点
 DN - DataNode 数据节点
 CNN - Convolutional Neural Networks 卷积神经网络
 DM - Data Mining 数据挖掘
@@ -1468,6 +1478,7 @@ NCU - Network Control Unit 网络控制单元
 MTU - Maximum Transmission Unit 最大传输单元
 LCP - Link Control Protocol 链路控制协议
 MPLS - Multi-Protocol Label Switching 多协议标签交换
+PE - Provider Edge 运营商边缘路由器
 LDP - Label Distribution Protocol 标签分发协议
 MQTT - Message Queuing Telemetry Transport 消息队列遥测传输协议
 AMQP - Advanced Message Queuing Protocol 高级消息队列协议
