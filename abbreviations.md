@@ -903,6 +903,7 @@ HPV - Human PapillomaVirus 人类乳头瘤病毒
 PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
 AD - Alzheimer's Disease 阿尔茨海默病，老年痴呆，神经退化性疾病
 ED - Erectile Dysfunction 勃起功能障碍，阳痿
+ADHD - Attention Deficit Hyperactivity Disorder 注意缺陷多动障碍，神经发展障碍，表现为难以专注、过度活跃、做事不考虑后果
 ```
 
 ```markdown
@@ -1342,9 +1343,10 @@ PCIE - Peripheral Component Interconnect Express 高速外设部件互连
 CMOS - Complementary Metal-Oxide-Semiconductor 互补金属氧化物半导体
 BMC - Baseboard Management Controller 主板管理控制器
 BIOS - Basic Input/Output System 基本输入输出系统
-PXE - Preboot eXecution Environment 预启动执行环境
-IPMI - Intelligent Platform Management Interface 智能平台管理接口
 UEFI - Unified Extensible Firmware Interface 统一可扩展固件接口
+PXE - Preboot eXecution Environment 预启动执行环境
+GRUB - Grand Unified Bootloader 大统一启动加载程序
+IPMI - Intelligent Platform Management Interface 智能平台管理接口
 FDDI - Fiber Distributed Data Interface 光纤分布式数据接口
 FIFO - First In First Out 先进先出，队列的特征
 FILO - First In Last Out 先进后出，栈的特征
