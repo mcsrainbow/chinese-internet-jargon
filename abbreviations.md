@@ -1573,6 +1573,7 @@ UIM - Unified Identity Management 统一身份管理
 UTM - Unified Threat Management 统一威胁管理
 MAM - Mobile Application Management 移动应用管理
 MDM - Mobile Device Management 移动设备管理
+MDE - Microsoft Defender for Endpoint 端点安全平台
 DOM - Document Object Model 文档对象模型
 BOM - Browser Object Model 浏览器对象
 POM - Project Object Model 项目对象模型
@@ -1601,6 +1602,7 @@ SOP - Standard Operating Procedure 标准操作流程
 TDD - Test-Drive Development 测试驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
 DDD - Domain-Driven Design 领域驱动设计
+MDE - Model-Driven Engineering 模型驱动工程
 SDLC - Software Development Life Cycle 软件开发生命周期
 MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
