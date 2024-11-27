@@ -1209,6 +1209,7 @@ EDI - Electronic Data Interchange 电子数据交换
 EDA - Electronic Design Automation 电子设计自动化 / Exploratory Data Analysis 探索性数据分析
 DevOps - Development and Operations 开发运维一体化，面向开发的运维
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
+DORA - DevOps Research and Assessment DevOps研究与评估
 I/O - Input/Output 输入/输出 / Inbound/Outbound 入站/出站
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
 SRE - Site Reliability Engineering 站点可靠性工程 / Site Reliability Engineer 站点可靠性工程师
