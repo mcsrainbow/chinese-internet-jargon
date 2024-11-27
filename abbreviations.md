@@ -1058,6 +1058,7 @@ BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难�
 GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
 PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
 DPIA - Data Protection Impact Assessment 数据保护影响评估，评估是否符合GDPR
+DORA - Digital Operational Resilience Act 数字运营弹性法案(欧盟)
 CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Television 中国中央电视台
 ```
 
