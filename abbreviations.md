@@ -411,6 +411,7 @@ ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
 SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
 DAMA - Data Management Association 国际数据管理协会
 CMMI - Capability Maturity Model Integration 能力成熟度模型集成
+SAMM - Software Assurance Maturity Model 软件保证成熟度模型
 TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
 ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
 CISSP - Certification for Information System Security Professional 信息系统安全专业认证
@@ -612,8 +613,8 @@ IFS - Internal Field Separator 分隔符
 UE/UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
-IP - Intellectual Property 知识产权 / Internet Protocol 互联网协议
-VIP - Very Important Person 重要人物 / Virtual IP address 虚拟IP地址
+IP - Intellectual Property 知识产权
+VIP - Very Important Person 重要人物
 PR - Public Relations 公共关系
 GR - Government Relations 政府关系
 MCN - Multi-Channel Network 多频道网络(网红经纪公司)
@@ -841,6 +842,8 @@ EMA - European Medicines Agency 欧洲药品管理局
 PMDA - Pharmaceuticals and Medical Devices Agency 医药品医疗器械综合机构(日本)
 CC - Common Criteria 通用标准
 CCC/3C - China Compulsory Certification 中国强制性产品认证
+ST - Security Target 安全目标
+PP - Protection Profile 保护轮廓，通用形式的安全目标
 OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
 BBC - British Broadcasting Corporation 英国广播公司
 CNN - Cable News Network 美国有线新闻网络
@@ -1063,6 +1066,9 @@ CCTV - Closed-Circuit Television 闭路电视(视频监控) / China Central Tele
 ```
 
 ```markdown
+IP - Internet Protocol 互联网协议
+VIP - Virtual IP address 虚拟IP地址
+MAC - Media Access Control Address 媒体访问控制地址
 ID - Identity Document 身份证件 / Identifier 标识符
 IM - Instant Messaging 即时消息，即时聊天(软件)
 DM - Direct Message 直接消息，私信
@@ -1331,6 +1337,7 @@ DSS - Digital Signature Standard 数字签名标准
 SHA - Secure Hash Algorithm 安全散列算法
 RSA - Rivest, Shamir, Adleman 非对称加密算法，李维斯特，萨莫尔，阿德曼
 DSA - Digital Signature Algorithm 数字签名算法
+KDC - Key Distribution Center 密钥分发中心
 SAML - Security Assertion Markup Language 安全断言标记语言，单点登录认证标准
 OAUTH - Open Authorization 开放授权
 LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
@@ -1426,6 +1433,7 @@ CHAP - Challenge Handshake Authentication Protocol 挑战握手认证协议
 EAP - Extensible Authentication Protocol 可扩展认证协议
 LEAP - Lightweight Extensible Authentication Protocol 轻量级可扩展认证协议
 SSID - Service Set Identifier 服务集标识符
+MAC - Mesage Authentication Code 消息鉴别码
 SNMP - Simple Network Management Protocol 简单网络管理协议
 OSI - Open System Interconnection Model 开放式系统互联模型
 IETF - Internet Engineering Task Force 互联网工程任务组
@@ -1545,9 +1553,11 @@ AKSK - Access Key ID, Secret Access Key 云服务接口的访问密钥
 SLS - Simple Log Service 简单日志服务
 SCP - Service Control Policy 服务控制策略，基于组织的访问控制策略
 ACL - Access Control Lists 访问控制列表
-DAC - Discretionary Access Control 自主访问控制
 NAC - Network Access Control 网络访问控制
-MAC - Mandatory Access Control 强制访问控制 / Media Access Control Address 媒体访问控制地址 / Mesage Authentication Code 消息鉴别码
+DAC - Discretionary Access Control 自主访问控制
+MAC - Mandatory Access Control 强制访问控制
+BLP - Bell-LaPadula 机密性模型，上写下读，信息推入高级别黑匣子，避免低级别看到，同时禁止高级别信息写入低级别，防止泄露
+BiBa - K.J.Biba 完整性模型，不关心机密性，上读下写，信息从高级别黑匣子拉取，避免被低级别更改，同时禁止高级别查看低级别信息，防止串通篡改
 RBAC - Role-Based Access Control 基于角色的访问控制
 RuBAC - Rule-Based Access Control 基于规则的访问控制
 ABAC - Attribute-Based Access Control 基于属性的访问控制策略
@@ -1589,6 +1599,7 @@ CC - Challenge Collapsar 挑战黑洞，网络攻击方式
 DoS - Denial of Service 拒绝服务 / DOS, Disk Operating System 磁盘操作系统
 DDoS - Distributed Denial of Service 分布式拒绝服务
 APT - Advanced Persistent Threat 高级长期威胁
+TOCTTOU - Time-of-Check-to-Time-of-Use 数据状态在检查和使用之间发生变化的漏洞
 OOP - Object-Oriented Programming 面向对象程序设计
 JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
 LVS - Linux Virtual Server Linux虚拟服务器
