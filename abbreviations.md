@@ -727,6 +727,7 @@ KB - Knowledge Base 知识库
 KM - Knowledge Management 知识管理
 CRM - Customer Relationship Management 客户关系管理
 SCRM - Social Customer Relationship Management 社会化客户关系管理
+SRM - Supplier Relationship Management 供应商管理系统
 BIM - Building Information Modeling 建筑信息模型
 GIS - Geographic Information System 地理信息系统
 QA - Quality Assurance 质量保证，测试
