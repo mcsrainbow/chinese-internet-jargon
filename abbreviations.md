@@ -721,13 +721,13 @@ RPA - Robotic Process Automation 机器人流程自动化
 PLM - Product Lifecycle Management 产品生命周期管理
 ERP - Enterprise Resource Planning 企业资源计划，管理人、财、货
 MES - Manufacturing Execution System 制造执行系统，管理车间
-CAD - Computer Aided Design 计算机辅助设计
 SCM - Supply Chain Management 供应链管理
 KB - Knowledge Base 知识库
-KM - Knowledge Management 知识管理
 CRM - Customer Relationship Management 客户关系管理
 SCRM - Social Customer Relationship Management 社会化客户关系管理
-SRM - Supplier Relationship Management 供应商管理系统
+SRM - Supplier Relationship Management 供应商关系管理
+KM - Knowledge Management 知识管理
+CAD - Computer Aided Design 计算机辅助设计
 BIM - Building Information Modeling 建筑信息模型
 GIS - Geographic Information System 地理信息系统
 QA - Quality Assurance 质量保证，测试
