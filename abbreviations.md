@@ -838,6 +838,7 @@ HKBN - Hong Kong Broadband Network 香港宽频网络
 FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局
 FR - FdR, Federal Reserve 联邦储备局，美联储
+SWIFT - Society for Worldwide Interbank Financial Telecommunication 全球银行间金融电讯协会
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
 EMA - European Medicines Agency 欧洲药品管理局
 PMDA - Pharmaceuticals and Medical Devices Agency 医药品医疗器械综合机构(日本)
