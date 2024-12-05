@@ -206,8 +206,25 @@ CRZ - Crazy 疯狂的
 MSG - Message 信息
 MGR - Manager 经理
 MGMT - Management 管理
-DEPT - Department 部门
-ADD/ADR/ADDR - Address 地址
+ADD/ADR/ADDR/Addr - Address 地址
+Rd - Road 路
+St - Street 街
+Ave - Avenue 大道
+Blvd - Boulevard 林荫大道
+Dr - Drive 车道
+Ln - Lane 小路，巷道
+Ct - Court 短巷，环形街
+Pl - Place 广场
+Sq - Square 广场
+Pkwy - Parkway 公园路，景观道路
+Hwy - Highway 高速公路
+Ste - Suite 套房，单元，办公室
+Apt - Apartment 公寓
+Fl - Floor 楼层
+Rm - Room 房间
+Bldg - Building 建筑物
+Dept - Department 部门
+PO - Post Office 邮局
 Approx. - Approximate 大约
 RGDS - Regards 问候
 RPS - Rock Paper Scissors 石头剪刀布
