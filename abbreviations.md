@@ -306,6 +306,8 @@ RPG - Role-Playing Game 角色扮演游戏 / Rocket-Propelled Grenade 火箭推�
 MMORPG - Massively Multiplayer Online Role-Playing Game 大型多人在线角色扮演游戏
 MOBA - Multiplayer Online Battle Arena 多人在线战斗竞技场游戏
 FPS - First-Person Shooter 第一人称射击游戏
+SLG - Simulation Game 模拟(策略)游戏
+4X - eXplore, eXpand, eXploit, eXterminate 战略模拟策略类游戏中的探索、扩张、开发、征服
 WoW - World of Warcraft 魔兽世界
 DotA - Defense of the Ancients 遗迹保卫战，刀塔
 LOL - League of Legends 英雄联盟
