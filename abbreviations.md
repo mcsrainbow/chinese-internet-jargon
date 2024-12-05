@@ -771,6 +771,9 @@ APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
 EMEA - Europe, Middle East and Africa 欧洲、中东和非洲地区
 NA - North America 北美洲
 LATAM - Latin America 拉丁美洲
+IS - Islamic State 伊斯兰国
+ISIS - Islamic State of Iraq and al-Sham 伊拉克和沙姆伊斯兰国
+ISIL - Islamic State of Iraq and the Levant 伊拉克和黎凡特伊斯兰国
 US - United States 美国
 UK - United Kingdom 英国
 JP - Japan 日本
@@ -1327,6 +1330,8 @@ RASP - Runtime Application Self-Protection 运行时应用自我保护
 DP - DisplayPort 显示端口(数字视频)
 DVI - Digital Visual Interface 数字视频接口
 OSPF - Open Shortest Path First 开放最短路径优先
+IGP - Interior Gateway Protocol 内部网关协议
+ISIS - Intermediate System to Intermediate System 中间系统到中间系统
 CGI - Common Gateway Interface 通用网关接口
 NIST - National Institute of Standards and Technology 国家标准与技术研究院(美国)
 OWASP - Open Web Application Security Project 开放式Web应用程序安全项目
@@ -1485,6 +1490,7 @@ EDR - Event Data Recorder 事故资料记录器，黑匣子
 LLT - Low Latency Transport 低延迟传输 / Low Level Test 低层次测试，自测
 VCS - Version Control System 版本控制系统
 GA - General Availability 正式发布的版本 / Google Analytics Google网站数据分析
+CE - Community Edition 社区版
 DSF - Distribute service Framework 分布式服务框架
 CMNET - China Mobile Network 中国移动网
 STS - Security Token Service 安全令牌服务 / StatefulSet 状态集 / Synchronous Transport Signal 同步传输信号
