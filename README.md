@@ -3122,7 +3122,7 @@ G端 - Government
 逆差 - Trade deficit
 糊咖 - Has-been
 幕僚 - Aids and advisors of top officials
-阴鸷 - malicious and insidious
+阴鸷 - Malicious and insidious
 
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
