@@ -1314,6 +1314,8 @@ CSI - Container Storage Interface 容器存储接口
 PV - Persistent Volume 持久卷
 PVC - Persistent Volume Claim 持久卷声明
 eBPF - extened Berkeley Packet Filter 扩展的伯克利包过滤器，允许在操作系统内核中运行沙盒程序
+OVS - Open vSwitch 虚拟交换机
+OVN - Open Virtual Network 基于Open vSwitch的软件定义型网络
 JDK - Java Development Kit Java开发工具包
 JRE - Java Runtime Environment Java运行时环境
 JVM - Java Virtual Machine Java虚拟机
