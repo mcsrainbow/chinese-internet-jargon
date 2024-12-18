@@ -1107,6 +1107,7 @@ PC - Personal Computer 个人计算机
 PIN - Personal Identification Number 个人识别码
 PII - Personal Identifiable Information 个人身份信息
 CVV - Card Verification Value 信用卡验证码
+VCC - Virtual Credit Card 虚拟信用卡
 OS - Operating System 操作系统
 DB - Database 数据库
 DBA - Database Administrator 数据库管理员
