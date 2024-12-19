@@ -440,6 +440,8 @@ CISA - Certified Information Systems Auditor 注册信息系统审计师
 CCSP - Certified Cloud Security Professional 注册云安全专家
 CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
 CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
+CCSP - Classified Protection of Cybersecurity 网络安全等级保护
+MLPS - Multi-Level Protection Scheme 多级保护方案
 ```
 
 ```markdown
