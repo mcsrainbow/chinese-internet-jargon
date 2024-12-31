@@ -1105,6 +1105,7 @@ TEL - Telephone 电话
 FAX - Facsimile 传真
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
 IT - Information Technology 信息技术
+ICT - Information and Communication Technology 信息和通信技术
 PC - Personal Computer 个人计算机
 PIN - Personal Identification Number 个人识别码
 PII - Personal Identifiable Information 个人身份信息
@@ -1468,6 +1469,7 @@ EAP - Extensible Authentication Protocol 可扩展认证协议
 LEAP - Lightweight Extensible Authentication Protocol 轻量级可扩展认证协议
 SSID - Service Set Identifier 服务集标识符
 MAC - Mesage Authentication Code 消息鉴别码
+IMEI - International Mobile Equipment Identity 国际移动设备识别码
 SNMP - Simple Network Management Protocol 简单网络管理协议
 OSI - Open System Interconnection Model 开放式系统互联模型
 IETF - Internet Engineering Task Force 互联网工程任务组
