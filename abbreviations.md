@@ -125,6 +125,7 @@ GTFO - Get The Fuck Out 滚出去
 PITA - Pain In The Ass 屁股疼，令人讨厌
 BN - Bad News 坏消息
 SH - Shit Happens 糟糕的事情总是难免会发生，世事无常
+BS - Bullshit 胡说八道
 FML - Fuck My Life 我真倒霉
 STBY - Sucks To Be You 你真不幸
 WIIFM - What's In It For Me 我能从中得到什么好处
