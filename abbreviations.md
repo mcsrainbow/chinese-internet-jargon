@@ -1039,6 +1039,8 @@ FPV - First-Person View 第一人称视角
 IDC - Internet Data Center 互联网数据中心
 CP - Content Provider 内容提供商
 ICQ - I Seek You 我找你，即时通讯软件(以色列)
+OICQ - Open ICQ 腾讯QQ，腾讯即时通讯软件
+MSN - Microsoft Network 微软网络
 IRC - Internet Relay Chat 互联网中继聊天
 TG - Telegram 电报，支持双向加密的即时通信软件
 AD - Active Directory 活动目录(Windows服务器)
