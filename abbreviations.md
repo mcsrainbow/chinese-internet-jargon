@@ -430,11 +430,20 @@ CDMP - Certified for Data Management Professional 数据管理专业认证
 ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
 SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
 DAMA - Data Management Association 国际数据管理协会
+CMM - Capability Maturity Model 能力成熟度模型
 CMMI - Capability Maturity Model Integration 能力成熟度模型集成
+IDEAL - Information Security Management Maturity Model 信息安全管理成熟度模型
+SW-CMM - Software Capability Maturity Model 软件能力成熟度模型
 SAMM - Software Assurance Maturity Model 软件保证成熟度模型
+PERT - Program Evaluation Review Technique 计划评审技术
 TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
+SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架构
+Zachman - Zachman Framework 扎克曼框架
+ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
 ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
 CISSP - Certification for Information System Security Professional 信息系统安全专业认证
+AIO - All In One 一体化
+OSG - Official Study Guide 官方学习指南
 CBK - Common Body of Knowledge 公共知识体系
 CISM - Certified Information Security Manager 注册信息安全经理
 CISA - Certified Information Systems Auditor 注册信息系统审计师
@@ -627,6 +636,9 @@ BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
 BAU - Business As Usual 正常营业
 RFP - Request For Proposal 需求建议书，招标书
+RFQ - Request For Quote 报价请求
+ITT - Invitation To Tender 招标
+SwA - Software Assurance 软件保证
 HQ - Headquarters 公司总部
 MNC - Multi National Company 多国公司，跨国公司
 UG - User Group 用户组
@@ -678,10 +690,12 @@ YoY - Year Over Year / Year On Year 年度同比，年增率，财务指标
 LP - Last Period 与前期相比
 SPLY - Same Period Last Year 与去年同期相比
 KPI - Key Performance Indicator 关键绩效指标
+KRI - Key Risk Indicator 关键风险指标
 OKR - Objectives and Key Results 目标与关键结果
 ROI - Return on Investment 投资回报率
 ROSI - Return on Security Investment 安全投资回报率
 ROE - Return On Equity 净资产收益率 ，盈利能力指标，衡量相对于股东权益的投资回报
+CBA - Cost Benefit Analysis 成本效益分析
 BR - Base Rate 基准利率
 APR - Annual Percentage Rate 年利率
 LPR - Loan Prime Rate 贷款市场报价利率
@@ -797,7 +811,7 @@ APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
 EMEA - Europe, Middle East and Africa 欧洲、中东和非洲地区
 NA - North America 北美洲
 LATAM - Latin America 拉丁美洲
-IS - Islamic State 伊斯兰国
+IS - Islamic State 伊斯兰国 / Information Security 信息安全
 ISIS - Islamic State of Iraq and al-Sham 伊拉克和沙姆伊斯兰国
 ISIL - Islamic State of Iraq and the Levant 伊拉克和黎凡特伊斯兰国
 US - United States 美国
@@ -1052,6 +1066,8 @@ VAP - Virtual Access Point 虚拟接入点
 PSK - Pre-Shared Key 基于预先共享的密钥进行身份验证
 HTTP - HyperText Transfer Protocol 超文本传输协议
 HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
+Telnet - Telecommunications Network 电信网络
+SET - Secure Electronic Transaction 安全电子交易协议
 SPDY - Speedy 由Google开发的网络传输协议，最终演变为HTTP/2
 SSO - Single Sign-On 单点登录(认证服务)
 API - Application Programming Interface 应用程序接口
@@ -1081,6 +1097,8 @@ SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
 MFA - Multifactor Authentication 多因素身份验证
 OTP - One-Time Password 一次性口令
+HOTP - HMAC-based One-Time Password 基于HMAC的一次性口令
+TOTP - Time-based One-Time Password 基于时间的一次性口令
 CA - Certificate Authority 证书授权
 DV - Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
@@ -1088,6 +1106,7 @@ EV - Extended Validation 扩展验证(证书)
 OCSP - Online Certificate Status Protocol 在线证书状态协议
 DLP - Data Loss Prevention 数据泄漏防护
 NDA - Non-disclosure Agreement 保密协议
+DRM - Digital Rights Management 数字版权管理
 UBA - User Behavior Analytics 用户行为分析
 UEBA - User and Entity Behavior Analytics 用户和实体行为分析
 BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
@@ -1108,11 +1127,14 @@ DM - Direct Message 直接消息，私信
 TEL - Telephone 电话
 FAX - Facsimile 传真
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
+RFID - Radio Frequency Identification 射频识别
 IT - Information Technology 信息技术
 ICT - Information and Communication Technology 信息和通信技术
+ICS - Industrial Control System 工业控制系统
 PC - Personal Computer 个人计算机
 PIN - Personal Identification Number 个人识别码
 PII - Personal Identifiable Information 个人身份信息
+PHI - Protected Health Information 受保护的健康信息
 CVV - Card Verification Value 信用卡验证码
 VCC - Virtual Credit Card 虚拟信用卡
 OS - Operating System 操作系统
@@ -1206,6 +1228,7 @@ DoT - Depth-of-Thought 思维深度，专注于探索推理深度的技术或理
 DAG - Directed Acyclic Graph 有向无环图，特殊的图结构，边都是单向连接，且不存在任何循环路径
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
 IoT - Internet of Things 物联网
+CPS - Cyber-Physical Systems 嵌入式设备和网络物理系统
 ISO - International Organization for Standardization 国际标准化组织
 IEC - International Electrotechnical Commission 国际电工委员会
 IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
@@ -1259,6 +1282,7 @@ SRE - Site Reliability Engineering 站点可靠性工程 / Site Reliability Engi
 DEV - Development 开发(环境)
 SIT - System Integration Testing 系统集成测试(环境)
 UAT - User Acceptance Testing 用户验收测试(环境)
+QAT - Quality Assurance Testing 质量保证测试(环境)
 PRE - Pre-production 预生产(环境)，灰度(环境)
 PROD - Production 生产(环境)
 PRD - Production 生产(环境)
@@ -1279,16 +1303,20 @@ ITIL - Information Technology Infrastructure Library 信息技术基础构架库
 ITSM - Information Technology Service Management 信息技术服务管理
 APM - Application Performance Monitoring 应用性能监控
 ARMS - Application Real-Time Monitoring Service 应用实时监控服务
+EMO - Emergency Management Organization 应急管理组织
+EOC - Emergency Operations Center 应急行动中心
 DR - Disaster Recovery 灾难恢复
 DRP - Disaster Recovery Planning 灾难恢复计划
 CDP - Continuous Data Protection 持续数据保护
 BCP - Business Continuity Planning 业务连续性计划
+BRP - Business Recovery Planning 业务恢复计划
 RTO - Recovery Time Objective 恢复时间目标
 RPO - Recovery Point Objective 恢复点目标
 WRT - Work Recovery Time 工作恢复时间
 MTD - Max Tolerable Downtime 最大可容忍停机时间, MTD = RTO + WRT
 NOC - Network Operations Center 网络运营中心
 NIC - Network Information Center 网络信息中心
+ECAB - Emergency Change Advisory Board 紧急变更顾问委员会
 MQ - Message Queue 消息队列
 QPS - Queries Per Second 每秒查询次数
 TPS - Transactions Per Second 每秒事务数
@@ -1311,6 +1339,8 @@ TCC - Try, Confirm, Cancel 预处理、确认、撤销，事务操作
 DSL - Domain-Specific Language 领域特定语言
 JDBC - Java Database Connectivity Java数据库连接
 ODBC - Open Database Connectivity 开放数据库连接
+OLEDB - Object Linking and Embedding Database 对象链接和嵌入数据库
+ADO - ActiveX Data Objects 活动数据对象
 URI - Uniform Resource Identifier 统一资源标识符
 URL - Uniform Resource Locator 统一资源定位符
 URN - Uniform Resource Name 统一资源名称
@@ -1333,6 +1363,7 @@ NIO - Non-blocking I/O 同步非阻塞的I/O模型
 UUID - Universally Unique Identifier 通用唯一识别码
 DBMS - Database Management System 数据库管理系统
 RDBMS - Relational Database Management System 关系数据库管理系统
+ODBMS - Object Database Management System 对象数据库管理系统
 TSDB - Lindorm Time Series Database 时间序列数据库，时序数据库
 POSIX - Portable Operating System Interface 可移植操作系统接口
 SSH - Secure Shell 安全外壳协议
@@ -1360,6 +1391,7 @@ SAST - Static Application Security Testing 静态应用安全测试
 DAST - Dynamic Application Security Testing 动态应用安全测试
 IAST - Interactive Application Security Testing 交互式应用安全测试
 RASP - Runtime Application Self-Protection 运行时应用自我保护
+ATO - Authorization To Operate 授权运行
 DP - DisplayPort 显示端口(数字视频)
 DVI - Digital Visual Interface 数字视频接口
 OSPF - Open Shortest Path First 开放最短路径优先
@@ -1377,16 +1409,26 @@ DSS - Digital Signature Standard 数字签名标准
 SHA - Secure Hash Algorithm 安全散列算法
 RSA - Rivest, Shamir, Adleman 非对称加密算法，李维斯特，萨莫尔，阿德曼
 DSA - Digital Signature Algorithm 数字签名算法
+ECC - Elliptic Curve Cryptography 椭圆曲线密码学
+HMAC - Hash-based Message Authentication Code 基于哈希的消息认证码
+CMAC - Cipher-based Message Authentication Code 基于密码的消息认证码
 KDC - Key Distribution Center 密钥分发中心
+HSM - Hardware Security Module 硬件安全模块
+TPM - Trusted Platform Module 可信平台模块
+TCB - Trust Computing Base 可信计算基
+TCSEC - Trusted Computer System Evaluation Criteria 可信计算机系统评估标准
 SAML - Security Assertion Markup Language 安全断言标记语言，单点登录认证标准
 OAUTH - Open Authorization 开放授权
 LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
+DS - Directory Service 目录服务
 PAM - Pluggable Authentication Modules 可插拔认证模块 / Privileged Account Management 特权账户管理
 RADIUS - Remote Authentication Dial-In User Server 远程认证拨号用户服务
 OIDC - OpenID Connect 认证用户并完成资源授权，OAuth 2.0 协议的超集
 TACACS - Terminal Access Controller Access-Control System 终端访问控制器控制系统
 PKI - Public Key Infrastructure 公钥基础设施
+RA - Registration Authority 注册机构
 RAID - Redundant Array of Independent Disks 独立磁盘冗余阵列
+RAIT - Redundant Array of Independent Tapes 独立磁带冗余阵列
 PCI - Peripheral Component Interconnect 外设部件互连
 PCIE - Peripheral Component Interconnect Express 高速外设部件互连
 CMOS - Complementary Metal-Oxide-Semiconductor 互补金属氧化物半导体
@@ -1397,16 +1439,23 @@ PXE - Preboot eXecution Environment 预启动执行环境
 GRUB - Grand Unified Bootloader 大统一启动加载程序
 IPMI - Intelligent Platform Management Interface 智能平台管理接口
 FDDI - Fiber Distributed Data Interface 光纤分布式数据接口
+CSMA - Carrier Sense Multiple Access 载波侦听多路访问
 FIFO - First In First Out 先进先出，队列的特征
 FILO - First In Last Out 先进后出，栈的特征
 LIFO - Last In First Out 后进先出，栈的特征
 FDD - Floopy Disk Drive 软盘驱动器
 HDD - Hard Disk Drive 硬盘驱动器
+GM - Gold Master 母盘
 IDE - Integrated Drive Electronics 电子集成驱动器(硬盘)
 SATA - Serial Advanced Technology Attachment 串行高级技术附件，串行接口
 SCSI - Small Computer System Interface 小型计算机系统接口
 iSCSI - Internet SCSI, IP-SAN 互联网SCSI
 SAS - Serial Attached SCSI 串行连接SCSI
+HSSI - High Speed Serial Interface 高速串行接口
+SONET - Synchronous Optical Network 同步光纤网
+SDH - Synchronous Digital Hierarchy 同步数字体系，数字专线，点对点专线
+STP - Shielded Twisted Pair 屏蔽双绞线
+UTP - Unshielded Twisted Pair 非屏蔽双绞线
 SSD - Solid-State Drive 固态驱动器 / Solid-State Disk 固态硬盘
 MBR - Master Boot Record 主引导记录，分区表
 GPT - GUID Partition Table 全局唯一标识分区表
@@ -1470,8 +1519,9 @@ NTP - Network Time Protocol 网络时间协议
 PPP - Point-to-Point Protocol 点对点协议
 PAP - Password Authentication Protocol 密码认证协议
 CHAP - Challenge Handshake Authentication Protocol 挑战握手认证协议
-EAP - Extensible Authentication Protocol 可扩展认证协议
-LEAP - Lightweight Extensible Authentication Protocol 轻量级可扩展认证协议
+EAP - Extensible Authentication Protocol 可扩展身份验证协议
+LEAP - Lightweight Extensible Authentication Protocol 轻量级可扩展身份验证协议
+PEAP - Protected Extensible Authentication Protocol 受保护的可扩展身份验证协议
 SSID - Service Set Identifier 服务集标识符
 MAC - Mesage Authentication Code 消息鉴别码
 IMEI - International Mobile Equipment Identity 国际移动设备识别码
@@ -1502,6 +1552,7 @@ IMAP - Internet Message Access Protocol 互联网消息访问协议
 VRRP - Virtual Router Redundancy Protocol 虚拟路由冗余协议，提高网络可靠性的容错协议
 ARP - Address Resolution Protocol 地址解析协议
 RARP - Reverse Address Resolution Protocol 反向地址解析协议
+BOOTP - Bootstrap Protocol 引导程序协议
 SYN - Synchronize Sequence Numbers 同步序列编号
 ACK - Acknowledgement 确认
 COM - Component Object Model 组件对象模型 / Company 公司 / Communication 通信
@@ -1514,6 +1565,7 @@ FDMA - Frequency Division Multiple Address 频分多址
 AGP - Accelerated Graphics Port 加速图形接口
 CRBT - Color Ring Back Tone 彩铃回音
 VoIP - Voice over Internet Protocol 基于IP的语音传输
+PBX - Private Branch Exchange 专用分支交换机
 PSTN - Public Switched Telephone Network 公共交换电话网
 PSU - Power Supply Unit 电源供应器
 PDU - Power Distribution Unit 电源分配单元 / Protocol Data Unit 协议数据单元
@@ -1551,7 +1603,6 @@ CUDA - Compute Unified Device Architecture 统一计算架构
 SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
 SDP - Software Defined Perimeter 软件定义边界
-SDH - Synchronous Digital Hierarchy 同步数字体系，数字专线，点对点专线
 VT - Virtualization Technology 虚拟化技术
 VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
@@ -1577,6 +1628,7 @@ CEN - Cloud Enterprise Network 云企业网
 ECS - Elastic Compute Service/Server 弹性计算服务，云服务器 / Elastic Container Service 弹性容器编排服务
 EC2 - Elastic Compute Cloud 弹性计算云
 S3 - Simple Storage Service 简单存储服务
+WORM - Write Once Read Many 一次写入多次读取
 SQS - Simple Queue Service 简单队列服务
 SNS - Simple Notification Service 简单消息服务
 ACK - Container Service for Kubernetes 容器服务Kubernetes版
@@ -1597,6 +1649,10 @@ ACL - Access Control Lists 访问控制列表
 NAC - Network Access Control 网络访问控制
 DAC - Discretionary Access Control 自主访问控制
 MAC - Mandatory Access Control 强制访问控制
+FRR - False Rejection Rate 错误拒绝率
+FAR - False Acceptance Rate 错误接受率
+EER - Error Evaluation Rate 错误评估率
+CER - Correct Evaluation Rate 正确评估率
 SOC - System and Organization Controls 系统与组织控制
 BLP - Bell-LaPadula 机密性模型，上写下读，信息推入高级别黑匣子，避免低级别看到，同时禁止高级别信息写入低级别，防止泄露
 Biba - K.J.Biba 完整性模型，不关心机密性，上读下写，信息从高级别黑匣子拉取，避免被低级别更改，同时禁止高级别查看低级别信息，防止串通篡改
@@ -1606,14 +1662,23 @@ ABAC - Attribute-Based Access Control 基于属性的访问控制策略
 CQRS - Command Query Responsibility Segregation 命令和查询责任分离
 IDS - Intrusion Detection System 入侵检测系统
 IPS - Intrusion Prevention System 入侵防御系统
+SCAP - Security Content Automation Protocol 安全内容自动化协议
 CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞披露
 CVSS - Common Vulnerability Scoring System 通用漏洞评分系统
+CCE - Common Configuration Enumeration 通用配置枚举
+CPE - Common Platform Enumeration 通用平台枚举
+XCCDF - eXtensible Configuration Checklist Description Format 可扩展配置清单描述格式
+OVAL - Open Vulnerability and Assessment Language 开放式漏洞和评估语言
 RASP - Runtime Application Self-Protection 运行时应用自我保护
 BAS - Breach and Attack Simulation 入侵与攻击模拟
 COTS - Commercial Off-The-Shelf 商用现成品或技术
-AIO - All In One 一体化
 SASE - Secure Access Service Edge 安全访问服务边缘，零信任内网访问方案
 SIEM - Security Information And Event Management 安全信息和事件管理
+ISCM - Information Security Continuous Monitoring 信息安全持续监控
+CERT - Computer Emergency Response Team 计算机应急响应小组
+CSIRT - Computer Security Incident Response Team 计算机安全事件响应小组
+RUM - Real-User Monitoring 真实用户监控
+EUM - End-User Experience Monitoring 最终用户体验监控
 CASB - Cloud Access Security Broker 云访问安全代理
 NGFW - Generation Firewall 下一代防火墙
 SOAR - Security Orchestration, Automation and Response 安全编排自动化与响应
@@ -1641,6 +1706,7 @@ CC - Challenge Collapsar 挑战黑洞，网络攻击方式
 DoS - Denial of Service 拒绝服务 / DOS, Disk Operating System 磁盘操作系统
 DDoS - Distributed Denial of Service 分布式拒绝服务
 APT - Advanced Persistent Threat 高级长期威胁
+MITM - Man-In-The-Middle 中间人攻击
 TOCTTOU - Time-of-Check-to-Time-of-Use 数据状态在检查和使用之间发生变化的漏洞
 OOP - Object-Oriented Programming 面向对象程序设计
 JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
@@ -1727,8 +1793,6 @@ CPE - Continuing Professional Education 持续专业教育
 CPD - Continuing Professional Development 持续专业发展
 COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
 COSO - Committee of Sponsoring Organizations of the Treadway Commission 特雷德韦委员会赞助组织委员会
-SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架构
-ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
 ISMS - Information Security Management System 信息安全管理体系
 AUP - Acceptable Use Policy 可接受使用策略
 CIRT - Computer Incident Response Team 计算机安全事件响应团队
@@ -1766,5 +1830,8 @@ OCTAVE - Operationally Critical Threat, Asset, and Vulnerability Evaluation 操�
 FMEA - Failure Modes and Effect Analysis 失效模式和影响分析
 CRAMM - Central Computing and Telecommunication Agency Risk Analysis and Management Method 中央计算和电信机构风险分析与管理方法
 VAST - Visual, Agile, and Simple Threat 可视化、敏捷和简单威胁
+BAS - Breach and Attack Simulation 破坏和攻击模拟
+MOM - Motivation, Opportunity, Means 动机、机会和手段，威胁模型
+MO - Modus Operandi 惯用手法
 STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
 ```
