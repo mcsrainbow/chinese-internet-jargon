@@ -1594,6 +1594,7 @@ ACL - Access Control Lists 访问控制列表
 NAC - Network Access Control 网络访问控制
 DAC - Discretionary Access Control 自主访问控制
 MAC - Mandatory Access Control 强制访问控制
+SOC - System and Organization Controls 系统与组织控制
 BLP - Bell-LaPadula 机密性模型，上写下读，信息推入高级别黑匣子，避免低级别看到，同时禁止高级别信息写入低级别，防止泄露
 BiBa - K.J.Biba 完整性模型，不关心机密性，上读下写，信息从高级别黑匣子拉取，避免被低级别更改，同时禁止高级别查看低级别信息，防止串通篡改
 RBAC - Role-Based Access Control 基于角色的访问控制
