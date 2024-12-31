@@ -1133,7 +1133,7 @@ FAX - Facsimile 传真
 NFC - Near Field Communication 近场通信 / Not From Concentrate 非浓缩还原(果汁)
 RFID - Radio Frequency Identification 射频识别
 IT - Information Technology 信息技术
-ICT - Information and Communication Technology 信息和通信技术
+ICT - Information and Communications Technology 信息及通信技术
 ICS - Industrial Control System 工业控制系统
 PC - Personal Computer 个人计算机
 PIN - Personal Identification Number 个人识别码
