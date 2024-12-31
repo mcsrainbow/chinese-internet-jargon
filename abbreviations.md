@@ -680,6 +680,7 @@ SPLY - Same Period Last Year 与去年同期相比
 KPI - Key Performance Indicator 关键绩效指标
 OKR - Objectives and Key Results 目标与关键结果
 ROI - Return on Investment 投资回报率
+ROSI - Return on Security Investment 安全投资回报率
 ROE - Return On Equity 净资产收益率 ，盈利能力指标，衡量相对于股东权益的投资回报
 BR - Base Rate 基准利率
 APR - Annual Percentage Rate 年利率
@@ -1086,7 +1087,9 @@ OV - Organization Validation 组织验证(证书)
 EV - Extended Validation 扩展验证(证书)
 OCSP - Online Certificate Status Protocol 在线证书状态协议
 DLP - Data Loss Prevention 数据泄漏防护
-NDA - Non-disclosure Agreement 保密合约
+NDA - Non-disclosure Agreement 保密协议
+UBA - User Behavior Analytics 用户行为分析
+UEBA - User and Entity Behavior Analytics 用户和实体行为分析
 BIA - Business Impact Analysis 业务影响分析，评估业务中断或灾难情况可能对业务运营、财务状况和声誉造成的影响
 GDPR - General Data Protection Regulation 通用数据保护条例(欧盟)
 PIA - Privacy Impact Assessment 个人信息评估，对个人隐私影响的预防性评估
@@ -1204,6 +1207,7 @@ DAG - Directed Acyclic Graph 有向无环图，特殊的图结构，边都是单
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
 IoT - Internet of Things 物联网
 ISO - International Organization for Standardization 国际标准化组织
+IEC - International Electrotechnical Commission 国际电工委员会
 IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
 ASCII - American Standard Code for Information Interchange 美国信息交换标准代码
 UTF - Unicode Transformation Format 针对Unicode的可变长度字符编码
@@ -1475,7 +1479,6 @@ SNMP - Simple Network Management Protocol 简单网络管理协议
 OSI - Open System Interconnection Model 开放式系统互联模型
 IETF - Internet Engineering Task Force 互联网工程任务组
 RFC - Request for Comments 请求意见稿(互联网工程任务组发布)
-IEC - International Electrotechnical Commission 国际电工委员会
 IANA - Internet Assigned Numbers Authority 互联网号码分配局
 CIDR - Classless Inter-Domain Routing 无类别域间路由，可提高路由效率的IP地址分配方法，使用网络/掩码的形式表示网段, 如192.168.1.0/255.255.255.0或192.168.1.0/24
 GC - Garbage Collection 垃圾回收
@@ -1723,6 +1726,8 @@ CAT - Computer-Adaptive Testing 计算机自适应测试
 CPE - Continuing Professional Education 持续专业教育
 CPD - Continuing Professional Development 持续专业发展
 COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
+COSO - Committee of Sponsoring Organizations of the Treadway Commission 特雷德韦委员会赞助组织委员会
+SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架构
 ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
 ISMS - Information Security Management System 信息安全管理体系
 AUP - Acceptable Use Policy 可接受使用策略
@@ -1738,7 +1743,10 @@ EAC - Estimated Annual Cost 年度成本估算
 ROSI - Return on Security Investment 安全投资回报率
 HIPAA - Health Insurance Portability and Accountability Act 健康保险便利和责任法案
 PIPEDA - Personal Information Protection and Electronic Documents Act 个人信息保护和电子文件法(加拿大)
-
+GLBA - Gramm-Leach-Bliley Act 格雷姆-里奇-比利雷法案，允许商业和投资银行、证券公司和保险公司进行整合
+COPPA - Children's Online Privacy Protection Act 儿童在线隐私保护法案
+FERPA - Family Educational Rights and Privacy Act 家庭教育权利和隐私法案
+PIPEDA - Personal Information Protection and Electronic Documents Act 个人信息保护和电子文件法案(加拿大)
 ```
 
 ```markdown
@@ -1752,5 +1760,11 @@ SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程�
 SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
 RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
 VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊
+PASTA - Process for Attack Simulation and Threat Analysis 模拟攻击和威胁分析过程
+FRAP - Facilitated Risk Analysis Process 便利的风险分析过程
+OCTAVE - Operationally Critical Threat, Asset, and Vulnerability Evaluation 操作性关键威胁、资产和脆弱性评估
+FMEA - Failure Modes and Effect Analysis 失效模式和影响分析
+CRAMM - Central Computing and Telecommunication Agency Risk Analysis and Management Method 中央计算和电信机构风险分析与管理方法
+VAST - Visual, Agile, and Simple Threat 可视化、敏捷和简单威胁
 STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
 ```
