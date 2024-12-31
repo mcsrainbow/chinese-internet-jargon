@@ -426,6 +426,7 @@ CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
 PMP - Project Management Professional 项目管理专业认证
+PMI - Project Management Institute 项目管理协会
 CDMP - Certified for Data Management Professional 数据管理专业认证
 ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
 SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
