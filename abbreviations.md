@@ -431,6 +431,7 @@ CDMP - Certified for Data Management Professional 数据管理专业认证
 ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
 SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
 DAMA - Data Management Association 国际数据管理协会
+DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
 CMM - Capability Maturity Model 能力成熟度模型
 CMMI - Capability Maturity Model Integration 能力成熟度模型集成
 IDEAL - Information Security Management Maturity Model 信息安全管理成熟度模型
@@ -1776,7 +1777,6 @@ SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
 ```
 
 ```markdown
-DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
 PP - Project Planning 项目计划
 WP - Work Planning 工作计划
 SD - Service Delivery 服务交付
