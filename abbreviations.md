@@ -443,7 +443,7 @@ SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架
 Zachman - Zachman Framework 扎克曼框架
 ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
 ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
-CISSP - Certification for Information System Security Professional 信息系统安全专业认证
+CISSP - Certified Information Systems Security Professional 信息系统安全专业认证
 AIO - All In One 一体化
 OSG - Official Study Guide 官方学习指南
 CBK - Common Body of Knowledge 公共知识体系
@@ -497,6 +497,7 @@ AMI - Association Montessori Internationale 国际蒙台梭利协会
 AMS - American Montessori Society 美国蒙台梭利协会
 IELTS - International English Language Testing System 国际英语语言测试系统，雅思
 TOEFL - Test of English as a Foreign Language 对非英语国家留学生的英语考试，托福
+TOEIC - Test of English for International Communication 国际交流英语测试，托业
 DSE - HKDSE, HKDSEE, Hong Kong Diploma of Secondary Education Examination 香港中学文凭考试
 BEC - Cambridge Business English Certificate 剑桥商务英语证书
 CET - College English Test 大学英语四六级考试 / Central European Time 欧洲中部时间
@@ -1280,6 +1281,7 @@ EDA - Electronic Design Automation 电子设计自动化 / Exploratory Data Anal
 DevOps - Development and Operations 开发运维一体化，面向开发的运维
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 DORA - DevOps Research and Assessment DevOps研究与评估
+EXIN - Exam Institute for Information Science 国际信息科学考试学会
 I/O - Input/Output 输入/输出 / Inbound/Outbound 入站/出站
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
 SRE - Site Reliability Engineering 站点可靠性工程 / Site Reliability Engineer 站点可靠性工程师
