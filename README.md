@@ -3660,3 +3660,6 @@ T型人才 - T-shaped talent
 
 天地不仁，以万物为刍狗 - Nature is unkind, it treats the creation like sacrificial straw-dogs
 ```
+
+<!-- 查找重复词汇 -->
+<!-- grep ' - ' README.md | cut -d- -f1 | sort | uniq -c | sort | awk '($1 != 2){print}' -->

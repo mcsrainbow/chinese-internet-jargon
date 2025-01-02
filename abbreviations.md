@@ -1836,3 +1836,6 @@ CRAMM - Central Computing and Telecommunication Agency Risk Analysis and Managem
 VAST - Visual, Agile, and Simple Threat 可视化、敏捷和简单威胁
 STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
 ```
+
+<!-- 审查重复项 -->
+<!-- grep '^[a-zA-Z0-9]' abbreviations.md | awk -F' - ' '{count[$1]++; lines[$1]=lines[$1]"\n"$0} END {for (i in count) if (count[i]>1) print lines[i]}' -->
