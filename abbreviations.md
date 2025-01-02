@@ -1675,8 +1675,9 @@ CCE - Common Configuration Enumeration 通用配置枚举
 CPE - Common Platform Enumeration 通用平台枚举
 XCCDF - eXtensible Configuration Checklist Description Format 可扩展配置清单描述格式
 OVAL - Open Vulnerability and Assessment Language 开放式漏洞和评估语言
-RASP - Runtime Application Self-Protection 运行时应用自我保护
-BAS - Breach and Attack Simulation 入侵与攻击模拟
+BAS - Breach and Attack Simulation 破坏和攻击模拟
+MOM - Motivation, Opportunity, Means 动机、机会和手段，威胁模型
+MO - Modus Operandi 惯用手法
 COTS - Commercial Off-The-Shelf 商用现成品或技术
 SASE - Secure Access Service Edge 安全访问服务边缘，零信任内网访问方案
 SIEM - Security Information And Event Management 安全信息和事件管理
@@ -1811,7 +1812,6 @@ ALE - Annualized Loss Expectancy 年度损失期望
 EAC - Estimated Annual Cost 年度成本估算
 ROSI - Return on Security Investment 安全投资回报率
 HIPAA - Health Insurance Portability and Accountability Act 健康保险便利和责任法案
-PIPEDA - Personal Information Protection and Electronic Documents Act 个人信息保护和电子文件法(加拿大)
 GLBA - Gramm-Leach-Bliley Act 格雷姆-里奇-比利雷法案，允许商业和投资银行、证券公司和保险公司进行整合
 COPPA - Children's Online Privacy Protection Act 儿童在线隐私保护法案
 FERPA - Family Educational Rights and Privacy Act 家庭教育权利和隐私法案
@@ -1832,11 +1832,7 @@ VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、
 PASTA - Process for Attack Simulation and Threat Analysis 模拟攻击和威胁分析过程
 FRAP - Facilitated Risk Analysis Process 便利的风险分析过程
 OCTAVE - Operationally Critical Threat, Asset, and Vulnerability Evaluation 操作性关键威胁、资产和脆弱性评估
-FMEA - Failure Modes and Effect Analysis 失效模式和影响分析
 CRAMM - Central Computing and Telecommunication Agency Risk Analysis and Management Method 中央计算和电信机构风险分析与管理方法
 VAST - Visual, Agile, and Simple Threat 可视化、敏捷和简单威胁
-BAS - Breach and Attack Simulation 破坏和攻击模拟
-MOM - Motivation, Opportunity, Means 动机、机会和手段，威胁模型
-MO - Modus Operandi 惯用手法
 STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
 ```
