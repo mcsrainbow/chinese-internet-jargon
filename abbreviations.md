@@ -974,6 +974,14 @@ VOD - Video On Demand 视频点播
 AM - Amplitude Modulation Broadcast 调幅广播，利用幅度调制技术传输声音的无线电广播技术
 FM - Frequency Modulation Broadcast 调频广播，以频率调制技术来传送高保真声音的无线电广播技术
 PM - Phase Modulation 调相，相位调制，以载波的瞬时相位变化来表示信息的调制方式
+ASR - Automatic Speech Recognition 自动语音识别
+TTS - Text-To-Speech 文本转语音
+SRT - SubRip Text 视频字幕(纯文本)
+RTS - Real-Time Streaming 实时流媒体，直播
+RTC - Real-Time Communication 实时通信
+RTMP - Real Time Messaging Protocol 实时消息传输协议RTMP
+FLV - Flash Video Adobe公司开发的视频格式
+HLS - HTTP Live Streaming 基于HTTP的流媒体网络传输协议(苹果公司)
 OTA - Over The Air 远程(升级)
 BMW - Bayerische Motoren Werke Aktiengesellschaft 巴伐利亚引擎制造股份有限公司(德语)，宝马
 BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
@@ -1143,6 +1151,7 @@ PII - Personal Identifiable Information 个人身份信息
 PHI - Protected Health Information 受保护的健康信息
 CVV - Card Verification Value 信用卡验证码
 VCC - Virtual Credit Card 虚拟信用卡
+IIS - Internet Information Services 互联网信息服务(微软公司)
 OS - Operating System 操作系统
 DB - Database 数据库
 DBA - Database Administrator 数据库管理员
