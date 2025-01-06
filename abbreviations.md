@@ -976,6 +976,7 @@ FM - Frequency Modulation Broadcast 调频广播，以频率调制技术来传�
 PM - Phase Modulation 调相，相位调制，以载波的瞬时相位变化来表示信息的调制方式
 ASR - Automatic Speech Recognition 自动语音识别
 TTS - Text-To-Speech 文本转语音
+STT - Speech-To-Text 语音转文本
 SRT - SubRip Text 视频字幕(纯文本)
 RTS - Real-Time Streaming 实时流媒体，直播
 RTC - Real-Time Communication 实时通信
