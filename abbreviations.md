@@ -956,6 +956,8 @@ PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
 AD - Alzheimer's Disease 阿尔茨海默病，老年痴呆，神经退化性疾病
 ED - Erectile Dysfunction 勃起功能障碍，阳痿
 ADHD - Attention Deficit Hyperactivity Disorder 注意缺陷多动障碍，神经发展障碍，表现为难以专注、过度活跃、做事不考虑后果
+GEO - Gene Expression Omnibus 高通量基因表达数据库
+EOL - Encyclopedia of Life 生命百科全书
 ```
 
 ```markdown
@@ -1514,7 +1516,7 @@ VFS - Virtual File System 虚拟文件系统
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 EOM - End of Message 标示消息的结束
-EOL - End of Life 产品寿命结束 / Encyclopedia of Life 生命百科全书
+EOL - End of Life 产品寿命结束
 EOS - End of Support 支持终止
 EOSL - End of Service Life 服务期终止
 JIT - Just-In-Time 即时编译，实时编译 / 即时生产，按需生产
@@ -1610,7 +1612,7 @@ LDP - Label Distribution Protocol 标签分发协议
 MQTT - Message Queuing Telemetry Transport 消息队列遥测传输协议
 AMQP - Advanced Message Queuing Protocol 高级消息队列协议
 IDEA - International Data Encryption Algorithm 国际数据加密算法
-GEO - Geostationary Earth Orbit 地球静止轨道，地球赤道同步轨道 / Geography 地理 / Gene Expression Omnibus 高通量基因表达数据库
+GEO - Geostationary Earth Orbit 地球静止轨道，地球赤道同步轨道 / Geography 地理
 AS - Autonomous System 自治系统
 ARQ - Automatic Repeat Request 自动重传请求
 FTTH - Fiber To The Home 光纤到户
