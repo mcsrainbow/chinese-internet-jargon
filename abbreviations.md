@@ -1740,7 +1740,7 @@ BRD - Business Requirement Document 商业需求文档，概念阶段
 MRD - Market Requirement Document 市场需求文档，定位阶段
 PRD - Product Requirement Document 产品需求文档，图纸阶段
 SOP - Standard Operating Procedure 标准操作流程
-TDD - Test-Drive Development 测试驱动开发
+TDD - Test-Driven Development 测试驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
 DDD - Domain-Driven Design 领域驱动设计
 MDE - Model-Driven Engineering 模型驱动工程
