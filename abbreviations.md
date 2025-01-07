@@ -980,7 +980,7 @@ STT - Speech-To-Text 语音转文本
 SRT - SubRip Text 视频字幕(纯文本)
 RTS - Real-Time Streaming 实时流媒体，直播
 RTC - Real-Time Communication 实时通信
-RTMP - Real Time Messaging Protocol 实时消息传输协议RTMP
+RTMP - Real-Time Messaging Protocol 实时消息传输协议
 FLV - Flash Video Adobe公司开发的视频格式
 HLS - HTTP Live Streaming 基于HTTP的流媒体网络传输协议(苹果公司)
 OTA - Over The Air 远程(升级)
@@ -1223,6 +1223,7 @@ MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合
 BI - Business Intelligence 商业智能
 BE - Business Enablement 商业赋能
 BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业务) / Business Analytics 商业分析(围绕数据)
+GA - Google Analytics Google网站数据分析
 NLP - Natural Language Processing 自然语言处理
 AI - Artificial Intelligence 人工智能
 AIGC - AI Generated Content 人工智能生成内容
@@ -1591,7 +1592,8 @@ OMC - Operation Maintenance Center 操作维护中心
 EDR - Event Data Recorder 事故资料记录器，黑匣子
 LLT - Low Latency Transport 低延迟传输 / Low Level Test 低层次测试，自测
 VCS - Version Control System 版本控制系统
-GA - General Availability 正式发布的版本 / Google Analytics Google网站数据分析
+GA - General Availability 正式发布的版本
+RC - Release Candidate 候选版本
 CE - Community Edition 社区版
 DSF - Distribute service Framework 分布式服务框架
 CMNET - China Mobile Network 中国移动网
@@ -1745,6 +1747,7 @@ MDE - Model-Driven Engineering 模型驱动工程
 SDLC - Software Development Life Cycle 软件开发生命周期
 MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
+SSH - Struts, Spring, Hibernate Java企业级开发框架组合
 PoC - Proof of Concept 概念验证
 MVP - Minimum Viable Product 最小可行产品
 BPM - Business Process Management 业务流程管理
