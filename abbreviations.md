@@ -426,6 +426,7 @@ EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员
 CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
+ACCA - Association of Chartered Certified Accountants 特许公认会计师公会
 PMP - Project Management Professional 项目管理专业认证
 PMI - Project Management Institute 项目管理协会
 CDMP - Certified for Data Management Professional 数据管理专业认证
