@@ -442,7 +442,6 @@ SAMM - Software Assurance Maturity Model 软件保证成熟度模型
 PERT - Program Evaluation Review Technique 计划评审技术
 TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
 SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架构
-Zachman - Zachman Framework 扎克曼框架
 ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
 ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
 CISSP - Certified Information Systems Security Professional 信息系统安全专业认证
@@ -567,7 +566,7 @@ TM - Trademark 商标
 R - Registered 已注册
 No. - Numéro 编号(法语)
 C - Center 中心 / Core 核心 / Carry 支撑，主力 / Cao 操(拼音)
-G - Gram 克 / Gigabyte 吉字节 / Generation 代，世代 / Giga 十亿，10的9次方
+G - Gram 克 / Gigabyte 吉字节 / Generation 代，世代 / Giga 十亿，10的9次方 / 9.8 m/s² 重力加速度(9.8米每平方秒)
 K - Kilo 千 / Kilobyte 千字节
 KG - Kilogram 千克，公斤
 T - Ton 吨 / Terabyte 太字节 / Tera 万亿，10的12次方
