@@ -595,6 +595,7 @@ P - Power 匹，马力，1马力 = 0.735千瓦 / Page 页 / People 人 / Petabyt
 HP - Horse Power 马力
 H - Hr., Hour 小时
 S - Sec., Second 秒 / Service 服务 / Small 小 / Super 超级
+I - i, Item 项，件
 b - bit 位，比特
 B - Byte 字节 ，1 Byte = 8 bits / Billion 十亿
 KB - Kilobyte 千字节，1 KB = 1024 Bytes
@@ -602,7 +603,6 @@ MB - Megabyte 兆字节，1 MB = 1024 KB
 GB - Gigabyte 吉字节，1 GB = 1024 MB
 TB - Terabyte 太字节，1 TB = 1024 GB
 PB - Petabyte 拍字节，1 PB = 1024 TB
-I - i, Item 项，件
 Jan - January 一月
 Feb - February 二月
 Mar - March 三月
