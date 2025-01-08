@@ -601,7 +601,7 @@ KB - Kilobyte 千字节，1 KB = 1024 Bytes
 MB - Megabyte 兆字节，1 MB = 1024 KB
 GB - Gigabyte 吉字节，1 GB = 1024 MB
 TB - Terabyte 太字节，1 TB = 1024 GB
-PB - Petabyte 拍字节，1 PB = 1024 TB
+I - i, Item 项，件
 Jan - January 一月
 Feb - February 二月
 Mar - March 三月
