@@ -1012,6 +1012,7 @@ CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
 HUD - Head-Up Display 抬头显示器
 RPM - Revolutions Per Minute 每分钟转速
 AUD - Audio 音频
+PiP - Picture in Picture 画中画
 SOD - Start of Delivery 开始交付
 NOA - Navigate on Autopilot 领航辅助驾驶
 FSD - Full Self-Driving 完全自动驾驶
@@ -1499,6 +1500,7 @@ MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
 WAIC - World Artificial Intelligence Conference 世界人工智能大会
 MWC - Mobile World Congress 世界移动通信大会
+CES - Consumer Electronics Show 消费电子展
 MFP - Multifunction Peripheral 多功能外设，多功能数码复合一体机
 RAM - Random Access Memory 随机存取存储器，内存
 ROM - Read-Only Memory 只读内存
