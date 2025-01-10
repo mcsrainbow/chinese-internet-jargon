@@ -336,7 +336,7 @@ ELO - Elo rating system 埃洛等级分系统，衡量对弈水平，源于美�
 DLC - Downloadable Content 可下载内容，游戏扩展包
 BP - Ban, Pick 禁用，挑选
 LV - Lv, Level 等级
-PUBG - PlayerUnknown's Battlegrounds 绝地求生，吃鸡
+PUBG - PlayerUnknown's BattleGrounds 绝地求生，吃鸡
 CS - Counter-Strike 反恐精英
 CF - Crossfire 穿越火线
 DNF - Dungeon & Fighter 地下城与勇士
