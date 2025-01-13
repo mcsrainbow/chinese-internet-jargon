@@ -1841,7 +1841,6 @@ SOC - Single Occurance Costs 单次发生成本
 ARO - Annualized Rate of Occurrence 年度发生率
 ALE - Annualized Loss Expectancy 年度损失期望
 EAC - Estimated Annual Cost 年度成本估算
-ROSI - Return on Security Investment 安全投资回报率
 HIPAA - Health Insurance Portability and Accountability Act 健康保险便利和责任法案
 GLBA - Gramm-Leach-Bliley Act 格雷姆-里奇-比利雷法案，允许商业和投资银行、证券公司和保险公司进行整合
 COPPA - Children's Online Privacy Protection Act 儿童在线隐私保护法案
