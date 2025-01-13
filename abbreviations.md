@@ -1451,6 +1451,14 @@ OIDC - OpenID Connect 认证用户并完成资源授权，OAuth 2.0 协议的超
 TACACS - Terminal Access Controller Access-Control System 终端访问控制器控制系统
 PKI - Public Key Infrastructure 公钥基础设施
 RA - Registration Authority 注册机构
+PKCS - Public Key Cryptography Standards 公钥加密标准
+P7B - PKCS#7 Binary 公钥加密标准二进制文件后缀
+JKS - Java KeyStore Java密钥存储
+DER - Distinguished Encoding Rules 可区别编码规则，通常用来编码证书
+CRL - Certificate Revocation List
+CSR - Certificate Signing Request 证书签名请求
+CER/CRT - Certificate 证书
+PFX - Personal Information Exchange 证书存储格式(微软)
 RAID - Redundant Array of Independent Disks 独立磁盘冗余阵列
 RAIT - Redundant Array of Independent Tapes 独立磁带冗余阵列
 PCI - Peripheral Component Interconnect 外设部件互连
