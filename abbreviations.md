@@ -869,6 +869,7 @@ IATA - International Air Transport Association 国际航空运输协会
 ISBN - International Standard Book Number 国际标准书号
 IOC - International Olympic Committee 国际奥委会
 ESG - Environmental, Social and Governance 环境、社会和企业治理
+DEI - Diversity, Equity and Inclusion 多样性、公平性和包容性
 SASB - Sustainability Accounting Standards Board 可持续会计准则委员会
 TCFD - Task Force on Climate-Related Financial Disclosures 气候相关财务披露工作组
 TNFD - The Taskforce on Nature-related Financial Disclosures 自然相关财务披露工作组
