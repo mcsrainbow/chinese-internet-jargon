@@ -1452,7 +1452,7 @@ TACACS - Terminal Access Controller Access-Control System 终端访问控制器�
 PKI - Public Key Infrastructure 公钥基础设施
 RA - Registration Authority 注册机构
 PKCS - Public Key Cryptography Standards 公钥加密标准
-P7B - PKCS#7 Binary 公钥加密标准二进制文件后缀
+P7B - PKCS 7 Binary 公钥加密标准二进制文件后缀
 JKS - Java KeyStore Java密钥存储
 DER - Distinguished Encoding Rules 可区别编码规则，通常用来编码证书
 CRL - Certificate Revocation List
