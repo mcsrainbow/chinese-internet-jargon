@@ -835,6 +835,7 @@ USDC - USD Coin 美国公司Circle创建的加密稳定币，与USD 1:1兑换，
 BTC - Bitcoin 比特币
 ETF - Exchange-Traded Fund 交易型开放式指数基金
 ETH - Ethereum 以太坊加密货币
+EVM - Ethereum Virtual Machine 以太坊虚拟机
 DeFi - Decentralized Finance 去中心化金融
 DAPP - Decentralized Application 去中心化应用
 NFT - Non-Fungible Token 非同质化代币
@@ -1450,6 +1451,13 @@ HOTP - HMAC-based One-Time Password 基于HMAC的一次性口令
 TOTP - Time-based One-Time Password 基于时间的一次性口令
 DS - Directory Service 目录服务
 PAM - Pluggable Authentication Modules 可插拔认证模块 / Privileged Account Management 特权账户管理
+PAP - Policy Administration Point 策略管理点
+PEP - Policy Enforcement Point 策略执行点
+PDP - Policy Decision Point 策略决策点
+PIP - Policy Information Point 策略信息点
+PMP - Policy Management Point 策略管理点
+PXP - Policy Execution Point 策略执行点
+DAP - Data Access Policy 数据访问策略
 TACACS - Terminal Access Controller Access-Control System 终端访问控制器控制系统
 PKI - Public Key Infrastructure 公钥基础设施
 RA - Registration Authority 注册机构
