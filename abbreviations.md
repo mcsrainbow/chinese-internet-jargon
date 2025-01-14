@@ -1443,6 +1443,7 @@ LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
 RADIUS - Remote Authentication Dial-In User Server 远程认证拨号用户服务
 OIDC - OpenID Connect 认证用户并完成资源授权，OAuth 2.0 协议的超集
 CAS - Central Authentication Service 集中式认证服务
+SCIM - System for Cross-domain Identity Management 跨域身份管理系统
 MFA - Multifactor Authentication 多因素身份验证
 OTP - One-Time Password 一次性口令
 HOTP - HMAC-based One-Time Password 基于HMAC的一次性口令
