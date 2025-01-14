@@ -959,6 +959,7 @@ PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
 AD - Alzheimer's Disease 阿尔茨海默病，老年痴呆，神经退化性疾病
 ED - Erectile Dysfunction 勃起功能障碍，阳痿
 ADHD - Attention Deficit Hyperactivity Disorder 注意缺陷多动障碍，神经发展障碍，表现为难以专注、过度活跃、做事不考虑后果
+AED - Automated External Defibrillator 自动体外(心脏)除颤器
 GEO - Gene Expression Omnibus 高通量基因表达数据库
 EOL - Encyclopedia of Life 生命百科全书
 ```
