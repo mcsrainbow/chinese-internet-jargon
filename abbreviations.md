@@ -1115,10 +1115,6 @@ GRE - Generic Routing Encapsulation 通用路由封装
 ISDN - Integrated Services Digital Network 综合业务数字网
 SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
-MFA - Multifactor Authentication 多因素身份验证
-OTP - One-Time Password 一次性口令
-HOTP - HMAC-based One-Time Password 基于HMAC的一次性口令
-TOTP - Time-based One-Time Password 基于时间的一次性口令
 CA - Certificate Authority 证书授权
 DV - Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
@@ -1442,12 +1438,17 @@ TPM - Trusted Platform Module 可信平台模块
 TCB - Trust Computing Base 可信计算基
 TCSEC - Trusted Computer System Evaluation Criteria 可信计算机系统评估标准
 SAML - Security Assertion Markup Language 安全断言标记语言，单点登录认证标准
-OAUTH - Open Authorization 开放授权
+OAuth - Open Authorization 开放授权
 LDAP - Lightweight Directory Access Protocol 轻量级目录访问协议
-DS - Directory Service 目录服务
-PAM - Pluggable Authentication Modules 可插拔认证模块 / Privileged Account Management 特权账户管理
 RADIUS - Remote Authentication Dial-In User Server 远程认证拨号用户服务
 OIDC - OpenID Connect 认证用户并完成资源授权，OAuth 2.0 协议的超集
+CAS - Central Authentication Service 集中式认证服务
+MFA - Multifactor Authentication 多因素身份验证
+OTP - One-Time Password 一次性口令
+HOTP - HMAC-based One-Time Password 基于HMAC的一次性口令
+TOTP - Time-based One-Time Password 基于时间的一次性口令
+DS - Directory Service 目录服务
+PAM - Pluggable Authentication Modules 可插拔认证模块 / Privileged Account Management 特权账户管理
 TACACS - Terminal Access Controller Access-Control System 终端访问控制器控制系统
 PKI - Public Key Infrastructure 公钥基础设施
 RA - Registration Authority 注册机构
