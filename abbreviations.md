@@ -1247,6 +1247,7 @@ ToT - Tree-of-Thought 思维树，扩展了思维链的概念，允许模型探�
 GoT - Graph-of-Thought 思维图，进一步扩展了 ToT，将思维过程抽象为一个有向图，节点表示可能的推理步骤，边表示推理步骤之间的关系
 DoT - Depth-of-Thought 思维深度，专注于探索推理深度的技术或理论，与思维链和思维树等概念协作，通常用于评估推理路径的逻辑深度和质量
 NIM - NVIDIA Inference Microservices 英伟达推理微服务
+CUDA - Compute Unified Device Architecture 统一计算架构
 DAG - Directed Acyclic Graph 有向无环图，特殊的图结构，边都是单向连接，且不存在任何循环路径
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
 IoT - Internet of Things 物联网
@@ -1650,7 +1651,6 @@ RDP - Remote Desktop Protocol 远程桌面协议
 RDT - Reliable Data Transfer 可靠数据传输
 CRC - Cyclic Redundancy Check 循环冗余校验
 SIM - Subscriber Identity Module 用户身份模块
-CUDA - Compute Unified Device Architecture 统一计算架构
 SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
 SDP - Software Defined Perimeter 软件定义边界
