@@ -871,6 +871,7 @@ ISBN - International Standard Book Number 国际标准书号
 IOC - International Olympic Committee 国际奥委会
 ESG - Environmental, Social and Governance 环境、社会和企业治理
 DEI - Diversity, Equity and Inclusion 多样性、公平性和包容性
+SDG - Sustainable Development Goals 可持续发展目标
 SASB - Sustainability Accounting Standards Board 可持续会计准则委员会
 TCFD - Task Force on Climate-Related Financial Disclosures 气候相关财务披露工作组
 TNFD - The Taskforce on Nature-related Financial Disclosures 自然相关财务披露工作组
@@ -1232,10 +1233,10 @@ AI - Artificial Intelligence 人工智能
 AIGC - AI Generated Content 人工智能生成内容
 GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图像、音频等内容，模仿和创造新内容
 AGI - Artificial General Intelligence 通用人工智能
+SI - Smart Interaction 智能交互 / Sustainable Investment 可持续投资 / Super Intelligence 超级智能
 RAG - Retrieval Augmented Generation 检索增强生成
 SFT - Supervised Fine-tuning 有监督微调(精调)，在预训练模型的基础上使用带标签的数据进行微调(精调)
 RAFT - Retrieval Augmented Fine-tuning 检索增强微调(精调)
-RLHF - Reinforcement Learning from Human Feedback 基于人类反馈的强化学习
 AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
@@ -1289,7 +1290,10 @@ DM - Data Mining 数据挖掘
 DG - Data Governance 数据治理
 DL - Deep Learning 深度学习
 ML - Machine Learning 机器学习
+IL - Imitation Learning 模仿学习
 RL - Reinforcement Learning 强化学习
+RFT - Reinforcement Fine-Tuning 强化微调
+RLHF - Reinforcement Learning from Human Feedback 基于人类反馈的强化学习
 SOTA - State of The Art 最现代的、最先进的
 DW - Data Warehouse 数据仓库
 EDI - Electronic Data Interchange 电子数据交换
@@ -1714,6 +1718,8 @@ CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞�
 CVSS - Common Vulnerability Scoring System 通用漏洞评分系统
 CCE - Common Configuration Enumeration 通用配置枚举
 CPE - Common Platform Enumeration 通用平台枚举
+VAPT - Vulnerability Assessment and Penetration Testing 漏洞评估和渗透测试
+GRC - Governance, Risk, and Compliance 治理、风险和合规
 XCCDF - eXtensible Configuration Checklist Description Format 可扩展配置清单描述格式
 OVAL - Open Vulnerability and Assessment Language 开放式漏洞和评估语言
 BAS - Breach and Attack Simulation 破坏和攻击模拟
