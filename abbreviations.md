@@ -1235,8 +1235,8 @@ GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图�
 AGI - Artificial General Intelligence 通用人工智能
 SI - Smart Interaction 智能交互 / Sustainable Investment 可持续投资 / Super Intelligence 超级智能
 RAG - Retrieval Augmented Generation 检索增强生成
-SFT - Supervised Fine-tuning 有监督微调(精调)，在预训练模型的基础上使用带标签的数据进行微调(精调)
-RAFT - Retrieval Augmented Fine-tuning 检索增强微调(精调)
+SFT - Supervised Fine-Tuning 有监督微调(精调)，在预训练模型的基础上使用带标签的数据进行微调(精调)
+RAFT - Retrieval Augmented Fine-Tuning 检索增强微调(精调)
 AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
