@@ -1306,7 +1306,7 @@ DL - Deep Learning 深度学习
 ML - Machine Learning 机器学习
 IL - Imitation Learning 模仿学习
 RL - Reinforcement Learning 强化学习
-RFT - Reinforcement Fine-Tuning 强化微调
+RFT - Reinforcement Fine-Tuning 强化微调(精调)
 RLHF - Reinforcement Learning from Human Feedback 基于人类反馈的强化学习
 SOTA - State of The Art 最现代的、最先进的
 DW - Data Warehouse 数据仓库
