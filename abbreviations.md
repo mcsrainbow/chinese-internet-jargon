@@ -947,6 +947,12 @@ DNA - DeoxyriboNucleic Acid 脱氧核糖核酸，生物大分子，组成遗传�
 RNA - RiboNucleic Acid 核糖核酸，生物大分子，在遗传编码、翻译、调控、基因表达等过程中发挥作用
 DHA - Docosahexaenoic Acid 二十二碳六烯酸，脑黄金，大脑和视网膜的重要组成成分
 ICU - Intensive Care Unit 重症监护室
+CCU - Coronary Care Unit 冠心病监护室
+CICU - Cardiac Intensive Care Unit 心脏重症监护室
+MICU - Medical Intensive Care Unit 内科重症监护室
+SICU - Surgical Intensive Care Unit 外科重症监护室
+NICU - Neonatal Intensive Care Unit 新生儿重症监护室
+PICU - Pediatric Intensive Care Unit 儿科重症监护室
 PET - Positron Emission Tomography 正电子发射断层扫描
 CT - Computed Tomography 计算机体层成像，计算机断层扫描 / X-Ray Computed Tomography X射线计算机断层扫描，X光
 MRI - Magnetic Resonance Imaging 磁共振成像
@@ -1692,6 +1698,7 @@ EBS - Elastic Block Storage 弹性块存储
 EFS - Elastic File System 弹性文件系统
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
+RAM - Resource Access Management 资源访问管理
 KMS - Key Management Service 密钥管理服务
 AKSK - Access Key ID, Secret Access Key 云服务接口的访问密钥
 SLS - Simple Log Service 简单日志服务
