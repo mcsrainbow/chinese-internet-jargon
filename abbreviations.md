@@ -21,6 +21,12 @@ MTF - More To Follow 还有更多
 FYI - For Your Information 供你参考
 FYR - For Your Reference 供你参考
 FYU - For Your Use 供你使用
+FYP - For You Page 供你阅读的页面，页面推荐
+IKTR - I Know, That's Right 我知道，你说得对，强烈同意
+W/L - Win/Loss 赢/输
+FAM - Family 家人们
+STAN - Stand Up 站起来，支持
+PFP - Profile Picture 头像 / Picture for Proof 证明图片
 RFD - Request For Discussion 请求讨论
 RFI - Request For Information 请求资讯
 TCC - Teleconference Call 电话会议
