@@ -1221,6 +1221,7 @@ TTF - TrueType 由美国苹果公司和微软公司共同开发的电脑轮廓�
 JS - JavaScript 可在浏览器端执行的编程语言
 TS - TypeScript JavaScript的严格语法超集，提供了可选的静态类型检查
 PY - Python 编程语言
+WHL - Wheel 轮子，Python包格式
 SH - Shell 脚本编程语言
 GIL - Global Interpreter Lock 全局解释器锁(Python)
 PHP - Hypertext Preprocessor 超文本预处理器，编程语言
