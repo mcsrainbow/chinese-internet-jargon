@@ -429,6 +429,8 @@ Q&A - Question and Answer 问与答
 R&D - RD, Research and Development 研究和开发
 C&B - Compensation and Benefits 薪酬和福利
 EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员工的心理和行为问题，提高工作绩效
+PIP - Performance Improvement Plan 绩效改进计划
+FMLA - Family and Medical Leave Act 家庭和医疗休假法案，美国联邦法律，允许员工因家庭或个人健康原因请假
 CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
@@ -833,7 +835,7 @@ KR - South Korea 韩国
 RUS - Russia 俄罗斯
 SGP - Singapore 新加坡
 RMB - Rénmínbì 人民币(拼音)
-CNY - Chinese Yuan 人民币
+CNY - Chinese Yuan 人民币 / Chinese New Year 中国新年
 USD - United States Dollar 美元
 FX - Forex, Foreign exchange market 外汇市场
 USDT - USD Tether 泰达币，资产支持的加密稳定币，与USD 1:1兑换，声称每发行1美元泰达币会保留1美元的资产储备
