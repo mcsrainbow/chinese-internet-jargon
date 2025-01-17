@@ -431,6 +431,12 @@ C&B - Compensation and Benefits 薪酬和福利
 EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员工的心理和行为问题，提高工作绩效
 PIP - Performance Improvement Plan 绩效改进计划
 FMLA - Family and Medical Leave Act 家庭和医疗休假法案，美国联邦法律，允许员工因家庭或个人健康原因请假
+RE - Redefines 重新定义
+GE - Greatly Exceeds 超出大部分
+EE - Exceeds 超出
+MA - Meets All 符合所有
+MM - Meets Most 符合大部分
+MS - Meets Some 符合部分
 CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
