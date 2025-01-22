@@ -1066,6 +1066,8 @@ HDR - High Dynamic Range 高动态范围(成像)
 VGA - Video Graphics Array 视频图形阵列
 CPU - Central Processing Unit 中央处理器 / PUA的别称
 MCU - Micro Control Unit 微控制单元 / Single-Chip Microcomputer 单片微型计算机，单片机
+MPU - Microprocessor Unit 微处理器单元
+DSP - Digital Signal Processing 数字信号处理 / Digital Signal Processor 数字信号处理器
 GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
 NPU - Neural network Processing Unit 神经网络处理器
@@ -1087,6 +1089,7 @@ AAD - Azure Active Directory 微软云活动目录
 CS - Client-Server 客户端与服务器
 BS - Browser-Server 浏览器与服务器 / Basic Station 基站
 IDE - Integrated Development Environment 集成开发环境(软件开发)
+LSP - Language Server Protocol 语言服务器协议
 VS - Visual Studio (微软IDE)
 IE - Internet Explorer 网页浏览器(微软)
 WiFi - Wireless Fidelity 无线保真技术，无线网络协议
@@ -1493,7 +1496,7 @@ PKCS - Public Key Cryptography Standards 公钥加密标准
 P7B - PKCS 7 Binary 公钥加密标准二进制文件后缀
 JKS - Java KeyStore Java密钥存储
 DER - Distinguished Encoding Rules 可区别编码规则，通常用来编码证书
-CRL - Certificate Revocation List
+CRL - Certificate Revocation List 证书吊销列表
 CSR - Certificate Signing Request 证书签名请求
 CER/CRT - Certificate 证书
 PFX - Personal Information Exchange 证书存储格式(微软)
