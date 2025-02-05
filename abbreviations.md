@@ -1263,6 +1263,7 @@ AIGC - AI Generated Content 人工智能生成内容
 GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图像、音频等内容，模仿和创造新内容
 AGI - Artificial General Intelligence 通用人工智能
 SI - Smart Interaction 智能交互 / Sustainable Investment 可持续投资 / Super Intelligence 超级智能
+GPQA - Graduate-Level Google-Proof Q&A Benchmark 研究生水平谷歌证明问答基准
 RAG - Retrieval Augmented Generation 检索增强生成
 SFT - Supervised Fine-Tuning 有监督微调(精调)，在预训练模型的基础上使用带标签的数据进行微调(精调)
 RAFT - Retrieval Augmented Fine-Tuning 检索增强微调(精调)
@@ -1607,6 +1608,7 @@ SSID - Service Set Identifier 服务集标识符
 MAC - Mesage Authentication Code 消息鉴别码
 IMEI - International Mobile Equipment Identity 国际移动设备识别码
 SNMP - Simple Network Management Protocol 简单网络管理协议
+SSDP - Simple Service Discovery Protocol 简单服务发现协议
 OSI - Open System Interconnection Model 开放式系统互联模型
 IETF - Internet Engineering Task Force 互联网工程任务组
 RFC - Request for Comments 请求意见稿(互联网工程任务组发布)
