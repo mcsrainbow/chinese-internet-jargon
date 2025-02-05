@@ -362,6 +362,10 @@ PVC - Player VS Computer 玩家对战电脑
 IMAX - Image Maximum 巨幕(电影)
 IMDb - Internet Movie Database 互联网电影数据库
 DJ - Disc Jockey 碟片骑师
+PD - Program Director 节目导演
+MC - Microphone Controller 主持人
+VJ - Visual Jockey 影像骑师，跟拍摄影师
+FD - Floor Director 导演助手，现场导演
 FB - Facebook 脸书，社交网络应用
 IG - Instagram 图片社交应用
 OB - Out of Bounds 界外(高尔夫)
