@@ -421,6 +421,7 @@ SVP - Senior Vice President 高级副总裁
 AVP - Assistant Vice President 助理副总裁
 GM - General Manager 总经理
 BM - Branch Manager 部门经理
+GTM - Go To Market 市场推广
 MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
 AD - Assistant Director 助理总监 / Advertising 广告
 OP - Operations 运营 / Operator 操作员
@@ -695,7 +696,8 @@ GMV - Gross Merchandise Value 商品总价值
 GPM - GMV Per Mille 千次展示成交金额 / Gallons Per Minute 加仑每分钟
 ARPU - Average Revenue Per User 每用户平均收入
 ARPPU - Average Revenue Per Paying User 每付费用户平均收益
-MMR - Monthly Recurring Revenue 每月经常性收入
+MRR - Monthly Recurring Revenue 每月经常性收入
+ARR - Annual Recurring Revenue 每年经常性收入
 CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
 CVR - Conversion Rate 转化率
 PCU - Peak Concurrent Users 最高并发用户
