@@ -521,6 +521,7 @@ TOEIC - Test of English for International Communication 国际交流英语测试
 DSE - HKDSE, HKDSEE, Hong Kong Diploma of Secondary Education Examination 香港中学文凭考试
 BEC - Cambridge Business English Certificate 剑桥商务英语证书
 CET - College English Test 大学英语四六级考试 / Central European Time 欧洲中部时间
+TEM - Test for English Majors 英语专业四八级考试
 KET - Key English Test 剑桥通用英语五级考试的第一级，入门水平
 PET - Preliminary English Test 剑桥通用英语五级考试的第二级，初级水平
 FCE - First Certificate in English 剑桥通用英语五级考试的第三级，独立水平
