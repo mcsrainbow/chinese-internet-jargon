@@ -1042,6 +1042,7 @@ CRH - China Railway High-speed 中国铁路高速列车
 WLTP - World Light Vehicle Test Procedure 世界轻型汽车测试规程
 CLTP - China Light Vehicle Test Procedure 中国轻型汽车测试规程
 HUD - Head-Up Display 抬头显示器
+NVH - Noise, Vibration, and Harshness 噪声、振动与声振粗糙度
 RPM - Revolutions Per Minute 每分钟转速
 AUD - Audio 音频
 PiP - Picture in Picture 画中画
