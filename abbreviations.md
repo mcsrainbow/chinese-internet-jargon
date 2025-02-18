@@ -1277,6 +1277,7 @@ AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任务，再由多个子模型以远低于传统密集模型的计算成本进行预训练
+MLA - Multi-head Latent Attention 多头潜在注意力
 SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本到图像、图像到图像生成模型
 MCP - Model Context Protocol 模型上下文协议
 CoT - Chain-of-Thought 思维链，改进的Prompt技术，提升大语言模型在复杂推理任务上的表现
