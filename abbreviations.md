@@ -646,7 +646,7 @@ SUN - Sun, Sunday 星期日
 
 ```markdown
 KA - Key Accounts 重点客户，大卖场
-NA - Named Accounts 价值客户
+NA - Named Accounts 价值客户
 CS - Customer Service 客户服务
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金
@@ -657,6 +657,7 @@ OU - Organizational Unit 组织单位
 Biz - Business 商业，业务
 BU - Business Unit 业务单元
 BG - Business Group 业务集团
+MO - Management Office 管理办公室
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
 BAU - Business As Usual 正常营业
@@ -893,6 +894,7 @@ ISBN - International Standard Book Number 国际标准书号
 IOC - International Olympic Committee 国际奥委会
 ESG - Environmental, Social and Governance 环境、社会和企业治理
 DEI - Diversity, Equity and Inclusion 多样性、公平性和包容性
+SD - Sustainable Development 可持续发展
 SDG - Sustainable Development Goals 可持续发展目标
 SASB - Sustainability Accounting Standards Board 可持续会计准则委员会
 TCFD - Task Force on Climate-Related Financial Disclosures 气候相关财务披露工作组
