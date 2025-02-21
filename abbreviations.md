@@ -500,6 +500,14 @@ MBA - Master of Business Administration 工商管理硕士
 EMBA - Executive Master of Business Administration 高层管理人员工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士
 EDP - Executive Development Programs 高层经理人进修项目
+FMBA - Financial Master of Business Administration 金融工商管理硕士
+IMBA - International Master of Business Administration 国际工商管理硕士
+MEM - Master of Engineering Management 工程管理硕士
+MPA - Master of Public Administration 公共管理硕士
+MPAcc - Master of Professional Accounting 会计硕士
+MAud - Master of Auditing 审计硕士
+MTA - Master of Tourism Administration 旅游管理硕士
+MLIS - Master of Library and Information Studies 图书情报硕士
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
 PS - Personal Statement 个人陈述
 EC - Extracurricular Activities 课外活动
