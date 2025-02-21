@@ -488,7 +488,7 @@ DS - Data Science 数据科学
 BA - Bachelor of Arts 文学士
 BS/BSc - Bachelor of Science 理学士
 LLB - Bachelor of Laws 法学士
-BEng - Bachelor of Engineering 工学士
+BE/BEng - Bachelor of Engineering 工学士
 MA - Master of Arts 文学硕士
 MS/MSc - Master of Science 理学硕士
 LLM - Master of Laws 法学硕士
