@@ -1295,8 +1295,8 @@ DoT - Depth-of-Thought 思维深度，专注于探索推理深度的技术或理
 FP32 - Single-precision Floating Point 单精度浮点数，32位二进制表示，符号位(1)+指数位(8)+尾数位(23)
 FP16 - Half-precision Floating Point 半精度浮点数，16位二进制表示，符号位(1)+指数位(5)+尾数位(10)
 BF16 - Brain Floating Point 脑浮点数，16位二进制表示，符号位(1)+指数位(8)+尾数位(7)，数值范围大于FP16，但精度(小数部分)低于FP16
-Q8 - 8-bit Quantized 8位量化，将浮点数转换为8位整数，牺牲数值范围和精度(小数部分)，减少大模型所需的存储空间和计算资源
-Q4 - 4-bit Quantized 4位量化，将浮点数转换为4位整数，牺牲更多的数值范围和精度(小数部分)，进一步减少大模型所需的存储空间和计算资源
+Q8 - 8-bit Quantized 8位量化，将浮点数转换为8位整数，牺牲精度(小数部分)和数值范围，减少大模型所需的存储空间和计算资源
+Q4 - 4-bit Quantized 4位量化，将浮点数转换为4位整数，牺牲精度(小数部分)和更大的数值范围，进一步减少大模型所需的存储空间和计算资源
 NIM - NVIDIA Inference Microservices 英伟达推理微服务
 CUDA - Compute Unified Device Architecture 统一计算架构
 DAG - Directed Acyclic Graph 有向无环图，特殊的图结构，边都是单向连接，且不存在任何循环路径
