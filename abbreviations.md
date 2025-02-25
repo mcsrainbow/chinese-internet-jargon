@@ -1291,6 +1291,7 @@ MLA - Multi-head Latent Attention 多头潜在注意力
 SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本到图像、图像到图像生成模型
 VL - Vision Language 视觉语言
 MCP - Model Context Protocol 模型上下文协议
+RDMA - Remote Direct Memory Access 远程直接内存访问
 CoT - Chain-of-Thought 思维链，改进的Prompt技术，提升大语言模型在复杂推理任务上的表现
 ToT - Tree-of-Thought 思维树，扩展了思维链的概念，允许模型探索多种推理路径(如树状结构)来解决问题
 GoT - Graph-of-Thought 思维图，进一步扩展了 ToT，将思维过程抽象为一个有向图，节点表示可能的推理步骤，边表示推理步骤之间的关系
