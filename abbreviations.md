@@ -1276,6 +1276,7 @@ AI - Artificial Intelligence 人工智能
 AIGC - AI Generated Content 人工智能生成内容
 GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图像、音频等内容，模仿和创造新内容
 AGI - Artificial General Intelligence 通用人工智能
+SGI - Super General Intelligence 超级通用人工智能
 SI - Smart Interaction 智能交互 / Sustainable Investment 可持续投资 / Super Intelligence 超级智能
 GPQA - Graduate-Level Google-Proof Q&A Benchmark 研究生水平谷歌证明问答基准
 RAG - Retrieval Augmented Generation 检索增强生成
@@ -1287,6 +1288,7 @@ GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练�
 MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任务，再由多个子模型以远低于传统密集模型的计算成本进行预训练
 MLA - Multi-head Latent Attention 多头潜在注意力
 SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本到图像、图像到图像生成模型
+VL - Vision Language 视觉语言
 MCP - Model Context Protocol 模型上下文协议
 CoT - Chain-of-Thought 思维链，改进的Prompt技术，提升大语言模型在复杂推理任务上的表现
 ToT - Tree-of-Thought 思维树，扩展了思维链的概念，允许模型探索多种推理路径(如树状结构)来解决问题
