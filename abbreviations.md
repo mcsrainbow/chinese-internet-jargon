@@ -1286,6 +1286,7 @@ AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任务，再由多个子模型以远低于传统密集模型的计算成本进行预训练
+EP - Expert Parallelism 专家并行
 MLA - Multi-head Latent Attention 多头潜在注意力
 SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本到图像、图像到图像生成模型
 VL - Vision Language 视觉语言
