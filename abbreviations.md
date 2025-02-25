@@ -1043,6 +1043,8 @@ AT - Automatic Transmission 自动变速箱
 DCT - Dual Clutch Transmission 双离合变速箱
 DSG - Direct Shift Gearbox 直接换挡变速箱，大众汽车的双离合变速箱
 CVT - Continuously Variable Transmission 连续可变传动，无级变速箱
+eCVT - Electronically-controlled Continuously Variable Transmission 电子无级变速箱
+DHT - Dedicated Hybrid Transmissions 专用混合动力变速箱
 SUV - Sport Utility Vehicle 运动型多用途车
 MPV - Multi-Purpose Vehicle 多功能休旅车
 PHEV - Plug-in Hybrid Electric Vehicle 插电式混合动力汽车，混动
