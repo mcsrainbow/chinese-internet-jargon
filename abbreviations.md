@@ -1207,6 +1207,7 @@ DBA - Database Administrator 数据库管理员
 DIR - Directory 目录
 CM - Configuration Management 配置管理
 CMDB - Configuration Management Database 配置管理数据库，用于储存软硬件资产信息
+CI - Configuration Item 配置项
 PG - PostgreSQL, Postgres 企业级开源关系数据库
 GP - GreenPlum 关系型分布式数据库，本质上由多个PostgreSQL数据库实例构成
 MPP - Massive Parallel Processing 海量并行处理
