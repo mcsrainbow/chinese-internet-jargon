@@ -957,6 +957,8 @@ SZSE - Shenzhen Stock Exchange 深圳证券交易所，深交所
 NYSE - New York Stock Exchange 纽约证券交易所，纽交所
 SGX - Singapore Exchange 新加坡交易所，新交所
 VUE - Virtual University Enterprises 虚拟大学企业，全球知名的考试服务机构
+MS - Microsoft 微软
+DS - DeepSeek 深度求索
 IBM - International Business Machines Corporation 国际商业机器公司
 AMD - Advanced Micro Devices 超威半导体公司
 ARM - Advanced RISC Machine 高级精简指令集机器 / 半导体设计与软件公司
