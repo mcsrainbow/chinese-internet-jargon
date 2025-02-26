@@ -255,6 +255,8 @@ CD - Cross–Dressing 异性裝扮
 BLM - Black Lives Matter 黑人的命也是命，黑人生命珍贵，黑命贵
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
 ABC - American-Born Chinese 出生在美国的华裔
+ABG - Asian Baby Girl 亚裔美女
+FOB - Fresh Off the Boat 新移民，刚从国外移民到美国的人
 TED - Tell, Explain, Describe 告诉、解释、描述，提问技巧
 AM - a.m. Ante Meridiem 上午(拉丁文)
 PM - p.m. Post Meridiem 下午(拉丁文)
