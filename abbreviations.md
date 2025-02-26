@@ -1039,6 +1039,19 @@ EV - Electric Vehicle 电动汽车
 A/C - Air Conditioning 空气调节，空调
 ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
+ACC - Adaptive Cruise Control 自适应巡航控制
+AEB - Autonomous Emergency Braking 自动紧急制动
+ELK - Emergency Lane Keeping 紧急车道保持
+AES - Autonomous Emergency Steering 自动紧急转向
+LDP - Lane Departure Prevention 车道偏离抑制
+SCM - Secondary Collision Mitigation 二次碰撞缓解
+LDW - Lane Departure Warning 车道偏离预警
+FCW - Forward Collision Warning 前向碰撞预警
+RCW - Rear Collision Warning 后向碰撞预警
+DOW - Door Open Warning 开门碰撞预警
+TSA - Traffic Speed Alert 超速告警
+TSR - Traffic Sign Recognition 交通标志识别
+TLR - Traffic Light Recognition 交通信号灯识别
 TCS - Traction Control System 牵引力控制系统
 ECO - Ecology, Conservation, Optimization 生态(环保)、节约(节能)、优化(动力) / Ecosystem 生态系统
 F1 - Formula One 一级方程式赛车
