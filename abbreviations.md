@@ -1712,6 +1712,7 @@ RC - Release Candidate 候选版本
 CE - Community Edition 社区版
 EE - Enterprise Edition 企业版
 SE - Standard Edition 标准版
+LTS - Long-Term Support 长期支持版本
 DSF - Distribute service Framework 分布式服务框架
 CMNET - China Mobile Network 中国移动网
 STS - Security Token Service 安全令牌服务 / StatefulSet 状态集 / Synchronous Transport Signal 同步传输信号
