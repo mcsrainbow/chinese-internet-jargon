@@ -1839,6 +1839,7 @@ POM - Project Object Model 项目对象模型
 CORS - Cross-Origin Resource Sharing 跨域资源共享
 XSS - Cross-Site Scripting 跨站脚本
 CSRF - Cross-Site Request Forgery 跨站请求伪造
+SSRF - Server Side Request Forgery 服务器端请求伪造
 ORM - Object Relational Mapping 对象关系映射
 ADT - Abstract Data Type 抽象数据类型
 IPC - Inter-Process Communication 进程间通信
