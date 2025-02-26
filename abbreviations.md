@@ -1426,6 +1426,7 @@ QPS - Queries Per Second 每秒查询次数
 TPS - Transactions Per Second 每秒事务数
 IOPS - Input/Output Operations Per Second 每秒输入输出量
 FLOPS - Floating Point Operations Per Second 每秒浮点运算次数
+TOPS - Tera Operations Per Second 每秒万亿次操作
 OPS - Operations Per Second 每秒操作数 / Operations 运维
 RPS - Requests Per Second 每秒请求数
 BPS - Bytes Per Second 每秒字节数
