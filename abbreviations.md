@@ -1304,6 +1304,7 @@ SFT - Supervised Fine-Tuning 有监督微调(精调)，在预训练模型的基�
 RAFT - Retrieval Augmented Fine-Tuning 检索增强微调(精调)
 AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
+SLM - Small Language Model 小型语言模型
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任务，再由多个子模型以远低于传统密集模型的计算成本进行预训练
 EP - Expert Parallelism 专家并行
