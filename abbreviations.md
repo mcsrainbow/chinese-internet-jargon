@@ -1604,7 +1604,7 @@ UA - User Agent 用户代理
 MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
 WAIC - World Artificial Intelligence Conference 世界人工智能大会
-ACM - Association for Computing Machinery (美国)计算机协会
+ACM - Association for Computing Machinery 计算机协会
 MWC - Mobile World Congress 世界移动通信大会
 CES - Consumer Electronics Show 消费电子展
 MFP - Multifunction Peripheral 多功能外设，多功能数码复合一体机
