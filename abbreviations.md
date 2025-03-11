@@ -1234,6 +1234,8 @@ ASF - Apache Software Foundation Apache软件基金会
 LAMP - Linux, Apache HTTP Server, MySQL, PHP 操作系统、网页服务器、数据库、编程语言的组合
 LNMP - Linux, Nginx, MySQL, PHP 操作系统、网页服务器、数据库、编程语言的组合
 C10K - 10,000 Concurrent connections 单机一万并发连接
+CAS - Compare And Swap 比较并交换
+ABA - A->B->A 变量值变化后恢复原值，CAS 检测不到中间变化，可能导致数据丢失、悬空指针、误删节点、错误访问回收对象等问题
 FW - Firewall 防火墙
 DMZ - Demilitarized Zone 隔离区，非军事化区，隔离内部受信任网络和外部不受信任网络之间的中间区域
 PS - Adobe Photoshop 图像处理软件
