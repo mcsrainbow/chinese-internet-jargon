@@ -1180,6 +1180,8 @@ GRE - Generic Routing Encapsulation 通用路由封装
 ISDN - Integrated Services Digital Network 综合业务数字网
 SSL - Secure Sockets Layer 安全套接层
 TLS - Transport Layer Security 传输层安全性协议
+SS - Shadowsocks 影梭，基于Socks5代理方式的加密传输协议
+SSR - ShadowsocksR 基于Shadowsocks的改进版本
 CA - Certificate Authority 证书授权
 DV - Domain Validation 域名验证(证书)
 OV - Organization Validation 组织验证(证书)
