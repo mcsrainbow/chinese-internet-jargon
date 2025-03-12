@@ -1260,6 +1260,7 @@ APK - Android Package 安卓程序包
 EXE - Executable 可执行
 BAT - Batch 批处理
 DLL - Dynamic Link Library 动态链接库
+PCAP - Packet Capture 数据包捕获
 TMP - TEMP, Temporary 临时
 CFG - CONF, Configuration 配置
 INI - Initial 初始化，配置
