@@ -382,7 +382,7 @@ AK - Автомат Калашникова 卡拉什尼科夫自动步枪(俄语
 AR - Armalite Rifle 阿玛莱特步枪
 WMD - Weapons of Mass Destruction 大规模杀伤性武器，大杀器
 AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
-GTR - Gran Turismo Racing 高性能赛车(意大利语)
+GTR - Gran Turismo Racing 高性能(意大利语)赛车
 LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
 KFC - Kentucky Fried Chicken 肯塔基炸鸡，肯德基
 SKP - Shinkong Place 新光天地(奢侈品卖场)
