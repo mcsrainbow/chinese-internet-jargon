@@ -1258,9 +1258,12 @@ PSD - Photoshop Document 图像处理软件Photoshop的专用格式
 CSS - Cascading Style Sheets 层叠样式表
 APK - Android Package 安卓程序包
 EXE - Executable 可执行
+MSI - Microsoft Installer 微软安装程序
 BAT - Batch 批处理
 DLL - Dynamic Link Library 动态链接库
 PCAP - Packet Capture 数据包捕获
+DMG - Disk Image 磁盘镜像
+PKG - Package 包
 TMP - TEMP, Temporary 临时
 CFG - CONF, Configuration 配置
 INI - Initial 初始化，配置
