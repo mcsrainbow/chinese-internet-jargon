@@ -453,6 +453,7 @@ PMP - Project Management Professional 项目管理专业认证
 PMI - Project Management Institute 项目管理协会
 CDMP - Certified for Data Management Professional 数据管理专业认证
 ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
+ACE - Alibaba Cloud Certified Expert 阿里云云计算专家级
 SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
 DAMA - Data Management Association 国际数据管理协会
 DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
