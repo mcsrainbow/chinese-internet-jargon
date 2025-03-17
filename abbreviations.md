@@ -517,6 +517,9 @@ EC - Extracurricular Activities 课外活动
 SEVP - Student and Exchange Visitor Program 学生和交流访问者项目
 F1 - F-1 美国留学生签证，F-2 签发给F-1签证持有者的配偶和子女
 H1B - H-1B 美国由雇主出面申请的专业技术类工作签证
+EB1A - EB-1A Employment-Based First Preference Alien of Extraordinary Ability 杰出人才移民
+NIW - National Interest Waiver 国家利益豁免，申请人对美国有明确的国家利益
+EW3 - Employment-Based Third Preference 第三类优先职业 非技术工人移民
 CPT - Curricular Practical Training 课程实习训练，美国临时就业许可，面向课程内容
 OPT - Optional Practical Training 选择性实习训练，美国临时就业许可，面向在校学生
 SAT - Scholastic Assessment Test 学术能力评估测试，美国高考
@@ -1636,6 +1639,7 @@ NTFS - New Technology File System 微软(Windows NT)系列操作系统的默认�
 HPFS - High Performance File System 高性能文件系统，IBM为OS/2操作系统提供的文件系统，是NTFS的原型
 NBU - NetBackup Symantec企业级备份管理软件
 VFS - Virtual File System 虚拟文件系统
+FUSE - Filesystem in Userspace 用户空间文件系统
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
 EOM - End of Message 标示消息的结束
