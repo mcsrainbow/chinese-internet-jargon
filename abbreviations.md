@@ -464,6 +464,12 @@ SAMM - Software Assurance Maturity Model 软件保证成熟度模型
 PERT - Program Evaluation Review Technique 计划评审技术
 TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
 SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架构
+CCNA - Cisco Certified Network Associate 思科认证网络工程师
+CCNP - Cisco Certified Network Professional 思科认证网络专业人员
+CCIE - Cisco Certified Internetwork Expert 思科认证互联网专家
+RHCE - Red Hat Certified Engineer 红帽认证工程师
+RHCA - Red Hat Certified Architect 红帽认证架构师
+OCP - Oracle Certified Professional 甲骨文认证专业人员
 ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
 ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
 CISSP - Certified Information Systems Security Professional 信息系统安全专业认证
@@ -475,6 +481,7 @@ CISA - Certified Information Systems Auditor 注册信息系统审计师
 CCSP - Certified Cloud Security Professional 注册云安全专家
 CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
 CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
+OSCP - Offensive Security Certified Professional 渗透测试专家认证
 CCSP - Classified Protection of Cybersecurity 网络安全等级保护
 MLPS - Multi-Level Protection Scheme 多级保护方案
 ```
