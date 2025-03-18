@@ -802,6 +802,7 @@ TOC - Table of Content 内容目录
 MOC - Map of Content 内容地图
 TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
 ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
+FMCG - Fast Moving Consumer Goods 快速消费品，快消品
 ```
 
 ```markdown
