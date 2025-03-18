@@ -732,6 +732,7 @@ TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
 SMB - Small and Midsize Business 中小型企业市场
 WOM - Word-of-Mouth Marketing 口碑营销
+MKT - Marketing 营销
 TOS - Terms of Service 服务条款
 MoM - Month Over Month / Month On Month 月度环比，月增率，财务指标
 QoQ - Quarter Over Quarter / Quarter On Quarter 季度环比，季增率，财务指标
