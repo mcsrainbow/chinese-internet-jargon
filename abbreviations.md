@@ -1327,6 +1327,9 @@ RAFT - Retrieval Augmented Fine-Tuning 检索增强微调(精调)
 AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
 SLM - Small Language Model 小型语言模型
+LVM - Large Vision Model 大型视觉模型
+SMOTE - Synthetic Minority Over-sampling Technique 合成少数类过采样技术
+GAN - Generative Adversarial Network 生成对抗网络，非监督式学习的一种方法，通过两个神经网络相互博弈的方式进行学习
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
 MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任务，再由多个子模型以远低于传统密集模型的计算成本进行预训练
 EP - Expert Parallelism 专家并行
@@ -1474,6 +1477,7 @@ URL - Uniform Resource Locator 统一资源定位符
 URN - Uniform Resource Name 统一资源名称
 ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
 K8S - Kubernetes 容器编排平台
+CRD - Custom Resource Definition 自定义资源定义
 i18n - internationalization 国际化与本地化
 CRI - Container Runtime Interface 容器运行时接口
 CNI - Container Network Interface 容器网络接口
@@ -1557,6 +1561,8 @@ MFA - Multifactor Authentication 多因素身份验证
 OTP - One-Time Password 一次性口令
 HOTP - HMAC-based One-Time Password 基于HMAC的一次性口令
 TOTP - Time-based One-Time Password 基于时间的一次性口令
+CTAP - Client to Authenticator Protocol 客户端到身份验证器协议
+FIDO - Fast Identity Online 快速身份在线
 DS - Directory Service 目录服务
 PAM - Pluggable Authentication Modules 可插拔认证模块 / Privileged Account Management 特权账户管理
 PAP - Policy Administration Point 策略管理点
@@ -1621,6 +1627,7 @@ AJAX - Asynchronous JavaScript and XML 异步JavaScript与XML技术
 XHR - XMLHttpRequest 将HTTP请求从浏览器异步传输到服务器的JavaScript类
 WS - WebSocket 浏览器与服务器之间的双向网络通信协议
 WSS - WebSocket Secure 双向网络通信协议的安全版本
+WASM - WebAssembly 浏览器汇编，用于在浏览器中执行高性能二进制代码的开放标准
 KV - Key-Value 键值对，NoSQL数据存储模式，每个数据值都对应一个唯一的键
 UA - User Agent 用户代理
 MSDN - Microsoft Developer Network 微软开发者网络
