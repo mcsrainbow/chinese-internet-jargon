@@ -1051,6 +1051,7 @@ BMW - Bayerische Motoren Werke Aktiengesellschaft 巴伐利亚引擎制造股份
 BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
 EV - Electric Vehicle 电动汽车
 A/C - Air Conditioning 空气调节，空调
+PM - Particulate Matter 颗粒物
 ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
 ACC - Adaptive Cruise Control 自适应巡航控制
