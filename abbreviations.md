@@ -1636,6 +1636,7 @@ WAIC - World Artificial Intelligence Conference 世界人工智能大会
 ACM - Association for Computing Machinery 计算机协会
 MWC - Mobile World Congress 世界移动通信大会
 CES - Consumer Electronics Show 消费电子展
+GTC - GPU Technology Conference 图形处理器技术大会
 MFP - Multifunction Peripheral 多功能外设，多功能数码复合一体机
 ROM - Read-Only Memory 只读内存
 RAM - Random Access Memory 随机存取存储器，内存
