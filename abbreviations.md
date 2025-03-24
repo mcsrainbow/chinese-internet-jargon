@@ -679,7 +679,13 @@ CN - Common Name 公用名
 OU - Organizational Unit 组织单位
 Biz - Business 商业，业务
 BU - Business Unit 业务单元
-BG - Business Group 业务集团
+BG - Business Group 业务集团，事业群
+CDG - Corporate Development Group 企业发展事业群(腾讯)
+IEG - Interactive Entertainment Group 互动娱乐事业群(腾讯)
+TEG - Technology and Engineering Group 技术工程事业群(腾讯)
+WXG - Weixin Group 微信事业群(腾讯)
+CSIG - Cloud and Smart Industries Group 云与智慧产业事业群(腾讯)
+PCG - Platform and Content Group 平台与内容事业群(腾讯)
 MO - Management Office 管理办公室
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
