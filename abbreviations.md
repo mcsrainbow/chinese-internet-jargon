@@ -336,6 +336,7 @@ SLG - Simulation Game 模拟(策略)游戏
 4X - eXplore, eXpand, eXploit, eXterminate 战略模拟策略类游戏中的探索、扩张、开发、征服
 WoW - World of Warcraft 魔兽世界
 DotA - Defense of the Ancients 遗迹保卫战，刀塔
+OW - Overwatch 守望先锋
 LOL - League of Legends 英雄联盟
 LPL - League of Legends Pro League 英雄联盟职业联赛
 KPL - King Pro League 王者荣耀职业联赛
@@ -1652,6 +1653,8 @@ BYOD - Bring Your Own Device 自带设备
 FS - File System 文件系统
 NFS - Network File System 网络文件系统
 DFS - Distributed File System 分布式文件系统
+CDH - Cloudera Distributed Hadoop Hadoop的Cloudera发行版
+HDP - Hortonworks Data Platform Hadoop的Hortonworks发行版
 HDFS - Hadoop Distributed File System Hadoop分布式文件系统
 FAT - File Allocation Table 文件分配表，微软发明的文件系统
 NTFS - New Technology File System 微软(Windows NT)系列操作系统的默认文件系统
@@ -1673,6 +1676,7 @@ ISP - Internet Service Provider 互联网服务提供商
 ICP - Internet Content Provider 互联网内容提供商
 IdP - Identity Provider 身份源提供商
 CDN - Content Delivery Network 内容分发网络
+DCDN - Dynamic Content Delivery Network 动态内容分发网络
 BGP - Border Gateway Protocol 边界网关协议
 VBR - Virtual Border Router 边界路由器
 TLD - Top-Level Domain 顶级域名
