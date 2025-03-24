@@ -417,7 +417,9 @@ CIO - Chief Information Officer 首席信息官
 CMO - Chief Marketing Officer 首席营销官
 CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官
 CISO - Chief Information Security Officer 首席信息安全官
-CPO - Chief Privacy Officer 首席隐私官
+CPO - Chief Privacy Officer 首席隐私官 / Chief Product Officer 首席产品官
+CUO - Chief User Officer 首席用户官
+CPUO - Chief Product and User Officer 首席产品和用户官
 CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
 DPO - Data Protection Officer 数据保护官
 VP - Vice President 副总裁
