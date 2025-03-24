@@ -181,7 +181,7 @@
 985工程, 211工程, All in, A/B测试,
 QR码, UP主, 大V, 主R, I人, E人, J人,
 P人, C位, B超, 4S店, B端, C端, G端,
-3A游戏, 去IOE
+3A游戏, 去IOE, IO密集, CPU密集
 
 熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
 接棒, 继承, 联调, 监测, 复现, 重现, 提议,
@@ -1135,6 +1135,8 @@ C端 - 个体消费者(Consumer)
 G端 - 政府及事业单位(Government)
 3A游戏 - 开发成本高、消耗资源多、开发周期长的游戏，AAA代表最高级别
 去IOE - 摆脱对IBM、Oracle、EMC三家公司产品的依赖，采用自主研发或开源替代方案，以降低成本并提高技术自主性
+IO密集 - 需要大量输入输出操作，相比CPU，对硬盘和内存读写、数据库访问、网络传输等操作更多
+CPU密集 - 需要大量CPU计算，相比CPU，对硬盘和内存读写、数据库访问、网络传输等操作较少
 
 熵减 - 系统从混乱向有序转变，情况变好
 熵增 - 系统从有序向混乱转变，情况恶化
@@ -2808,6 +2810,8 @@ C端 - Consumer
 G端 - Government
 3A游戏 - Triple-A games, cost a lot of money, resources, time
 去IOE - Eliminate reliance on products from IBM, Oracle, and EMC
+IO密集 - I/O intensive
+CPU密集 - CPU intensive
 
 熵减 - Entropy reduction
 熵增 - Entropy increase
