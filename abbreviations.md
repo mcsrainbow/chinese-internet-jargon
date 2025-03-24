@@ -674,6 +674,7 @@ CS - Customer Service 客户服务
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金
 IPO - Initial Public Offering 首次公开募股
+ICO - Initial Coin Offering 首次代币发行
 VIE - Variable Interest Entity 可变利益实体
 CN - Common Name 公用名
 OU - Organizational Unit 组织单位
