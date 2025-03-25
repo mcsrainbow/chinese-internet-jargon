@@ -675,6 +675,7 @@ NA - Named Accounts 价值客户
 CS - Customer Service 客户服务
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金
+FA - Financial Advisor 财务顾问
 IPO - Initial Public Offering 首次公开募股
 ICO - Initial Coin Offering 首次代币发行
 VIE - Variable Interest Entity 可变利益实体
@@ -927,6 +928,7 @@ IATA - International Air Transport Association 国际航空运输协会
 ISBN - International Standard Book Number 国际标准书号
 IOC - International Olympic Committee 国际奥委会
 ESG - Environmental, Social and Governance 环境、社会和企业治理
+PRI - Principles for Responsible Investment 负责任投资原则
 DEI - Diversity, Equity and Inclusion 多样性、公平性和包容性
 SD - Sustainable Development 可持续发展
 SDG - Sustainable Development Goals 可持续发展目标
@@ -946,6 +948,9 @@ ICAC - Independent Commission Against Corruption 反腐独立委员会，廉政�
 HKBN - Hong Kong Broadband Network 香港宽频网络
 FBI - Federal Bureau of Investigation 美国联邦调查局
 CIA - Central Intelligence Agency 美国中央情报局
+SIS - Secret Intelligence Service 英国秘密情报局，军情六处
+MI6 - Military Intelligence, Section 6 英国秘密情报局，军情六处
+FWS - United States Fish and Wildlife Service 美国联邦野生动物服务局
 FR - FdR, Federal Reserve 联邦储备局，美联储
 SWIFT - Society for Worldwide Interbank Financial Telecommunication 全球银行间金融电讯协会，国际资金清算系统
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
@@ -1119,11 +1124,15 @@ RGB - Red Green Blue 红绿蓝
 CRT - Cathode Ray Tube 阴极射线管，显像管
 LCD - Liquid Crystal Display 液晶显示
 LED - Light Emitting Diode 发光二极管
+TS - Telesync 电视同步
+TC - Telecine 电影胶片
+BD - Blue-ray Disc 蓝光光盘
 SD - Standard Definition 标准清晰度，480P，16:9宽高比分辨率854x480 / Secure Digital Memory Card 安全数码卡
 HD - High Definition 高清晰度，720P，16:9宽高比分辨率1280x720
 FHD - Full HD, 全高清，1080P，16:9宽高比分辨率规1920×1080
 QHD - Quad HD, 2K，16:9宽高比分辨率为2560x1440
 UHD - Ultra HD, 超高清，4K，16:9宽高比分辨率为3840×2160
+FPS - Frames Per Second 帧率，每秒显示的帧数
 HDMI - High Definition Multimedia Interface 高清晰多媒体接口
 HDR - High Dynamic Range 高动态范围(成像)
 VGA - Video Graphics Array 视频图形阵列
