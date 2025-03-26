@@ -485,6 +485,7 @@ CISA - Certified Information Systems Auditor 注册信息系统审计师
 CCSP - Certified Cloud Security Professional 注册云安全专家
 CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
 CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
+CAISP - Certified AI Security Professional 人工智能安全认证专家
 OSCP - Offensive Security Certified Professional 渗透测试专家认证
 CCSP - Classified Protection of Cybersecurity 网络安全等级保护
 MLPS - Multi-Level Protection Scheme 多级保护方案
@@ -896,6 +897,7 @@ ETH - Ethereum 以太坊加密货币
 EVM - Ethereum Virtual Machine 以太坊虚拟机
 DeFi - Decentralized Finance 去中心化金融
 DAPP - Decentralized Application 去中心化应用
+PnL - Profit and Loss 利润和损失
 NFT - Non-Fungible Token 非同质化代币
 PoW - Proof of Work 工作量证明
 PoS - Proof of Stake 持有量证明，权益证明
