@@ -415,7 +415,8 @@ CFO - Chief Finacial Officer 首席财务官
 CTO - Chief Technology Officer 首席技术官
 CIO - Chief Information Officer 首席信息官
 CMO - Chief Marketing Officer 首席营销官
-CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官
+CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官 / Chief Satisfaction Officer 首席满意度官
+CHO - Chief Happiness Officer 首席快乐官
 CISO - Chief Information Security Officer 首席信息安全官
 CPO - Chief Privacy Officer 首席隐私官 / Chief Product Officer 首席产品官
 CUO - Chief User Officer 首席用户官
