@@ -252,6 +252,8 @@ LGBTQI+ - Lesbian, Gay, Bisexual, Transgender, Queer, Intersex 女同性恋、�
 TS - Transsexual 变性者
 TG - Transgender 跨性別者，性别认同与出生时指定性别相反的人，包括变性者
 CD - Cross–Dressing 异性裝扮
+BL - Boy Love 男同性恋
+GL - Girl Love 女同性恋
 BLM - Black Lives Matter 黑人的命也是命，黑人生命珍贵，黑命贵
 DINK - Dual Income, No Kids，丁克，有收入和生育能力却选择不生育的人
 ABC - American-Born Chinese 出生在美国的华裔
@@ -1832,6 +1834,8 @@ BY - Attribution 署名
 NC - Non-Commercial 非商业性使用，如CC BY-NC 4.0
 OSS - Open-Source Software 开源软件 / Object Storage Service 对象存储服务
 FOSS - Free And Open-Source Software 自由与开源软件
+AOSP - Android Open Source Project 安卓开源项目
+GMS - Google Mobile Services 谷歌移动服务
 AWS - Amazon Web Services 亚马逊云计算服务
 VPC - Virtual Private Cloud 虚拟私有云
 CEN - Cloud Enterprise Network 云企业网
