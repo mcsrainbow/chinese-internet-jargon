@@ -1502,12 +1502,26 @@ URN - Uniform Resource Name 统一资源名称
 ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
 K8S - Kubernetes 容器编排平台
 CRD - Custom Resource Definition 自定义资源定义
+CM - ConfigMap 配置映射
+EV - Event 事件
+EP - EndPoint 端点
+CTX - Context 上下文
+NS - Namespace 命名空间
+RS - ReplicaSet 副本集
+STS - StatefulSet 状态集
+DS - DaemonSet 守护集
+HPA - Horizontal Pod Autoscaler 水平Pod自动扩容
+PV - Persistent Volume 持久卷
+PVC - Persistent Volume Claim 持久卷声明
+SC - StorageClass 存储类
+HC - Helm Chart Helm模板
+ING - Ingress 入口
+CJ - CronJob 定时任务
+SA - ServiceAccount 服务账户
 i18n - internationalization 国际化与本地化
 CRI - Container Runtime Interface 容器运行时接口
 CNI - Container Network Interface 容器网络接口
 CSI - Container Storage Interface 容器存储接口
-PV - Persistent Volume 持久卷
-PVC - Persistent Volume Claim 持久卷声明
 eBPF - extened Berkeley Packet Filter 扩展的伯克利包过滤器，允许在操作系统内核中运行沙盒程序
 TEE - Trusted Execution Environment 可信执行环境
 OVS - Open vSwitch 虚拟交换机
@@ -1775,7 +1789,7 @@ SE - Standard Edition 标准版
 LTS - Long-Term Support 长期支持版本
 DSF - Distribute service Framework 分布式服务框架
 CMNET - China Mobile Network 中国移动网
-STS - Security Token Service 安全令牌服务 / StatefulSet 状态集 / Synchronous Transport Signal 同步传输信号
+STS - Security Token Service 安全令牌服务 / Synchronous Transport Signal 同步传输信号
 SAN - Storage Area Network 存储区域网络
 NCU - Network Control Unit 网络控制单元
 MTU - Maximum Transmission Unit 最大传输单元
