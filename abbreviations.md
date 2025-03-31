@@ -1212,7 +1212,7 @@ ROA - Resource Oriented Architecture 面向资源的架构
 REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
 SPA - Single-page Application 单页应用
 RPC - Remote Procedure Call 远程过程调用协议
-gRPC - Google Remote Procedure Call Google远程过程调用协议
+gRPC - gRPC Remote Procedure Call 远程过程调用协议(Google)
 VPN - Virtual Private Network 虚拟专用网
 IKE - Internet Key Exchange 因特网密钥交换
 PPTP - Point-to-Point Tunneling Protocol 点对点隧道协议
