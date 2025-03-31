@@ -527,6 +527,7 @@ MAud - Master of Auditing 审计硕士
 MTA - Master of Tourism Administration 旅游管理硕士
 MLIS - Master of Library and Information Studies 图书情报硕士
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
+AP - Assistant Professor 助理教授
 PS - Personal Statement 个人陈述
 EC - Extracurricular Activities 课外活动
 SEVP - Student and Exchange Visitor Program 学生和交流访问者项目
@@ -634,7 +635,7 @@ Yd. - Yard 码，1码 = 3英尺 = 0.9144米
 Ft. - Foot 英尺，呎，1英尺 ＝ 12英寸，1英尺 = 0.3048米
 In. - Inch 英寸，1英寸 = 2.54厘米
 Gal - Gallon 加仑，1美制加仑 = 3.785411784升
-L - Liter 升 / Layer 层 / Level 级别 / Large 大
+L - Liter 升 / Layer 层 / Level 级别 / Large 大 / Long 长
 ML - Milliliter 毫升
 A - Ampere 安培
 V - Volt 伏特 / Version 版本 / Video 视频
@@ -1039,6 +1040,8 @@ ADHD - Attention Deficit Hyperactivity Disorder 注意缺陷多动障碍，神�
 AED - Automated External Defibrillator 自动体外(心脏)除颤器
 GEO - Gene Expression Omnibus 高通量基因表达数据库
 EOL - Encyclopedia of Life 生命百科全书
+NSDR - Non-Sleep Deep Rest 非睡眠深度休息
+PMR - Progressive Muscle Relaxation 渐进式肌肉放松
 ```
 
 ```markdown
@@ -1173,6 +1176,7 @@ WiFi - Wireless Fidelity 无线保真技术，无线网络协议
 AC - Access Controller 网络控制器
 AP - Access Point 网络接入点
 WAP - Wireless Access Point 无线网络接入点
+WAPI - WLAN Authentication and Privacy Infrastructure 无线局域网认证和隐私基础设施
 PoE - Power over Ethernet 以太网供电
 LBS - Location Based Service 基于位置的服务
 LAN - Local Area Network 局域网
@@ -1318,6 +1322,8 @@ RAR - Roshal ARchive 文件压缩格式
 TTF - TrueType 由美国苹果公司和微软公司共同开发的电脑轮廓字体类型标准
 JS - JavaScript 可在浏览器端执行的编程语言
 TS - TypeScript JavaScript的严格语法超集，提供了可选的静态类型检查
+ESM - ES Modules 模块化编程
+SSE - Server-Sent Events 服务器发送事件
 PY - Python 编程语言
 WHL - Wheel 轮子，Python包格式
 SH - Shell 脚本编程语言
@@ -1374,6 +1380,7 @@ BF16 - Brain Floating Point 脑浮点数，16位二进制表示，符号位(1)+�
 Q8 - 8-bit Quantized 8位二进制量化，将浮点数转换为8位整数，牺牲精度(小数部分)和数值范围，减少大模型所需的存储空间和计算资源
 Q4 - 4-bit Quantized 4位二进制量化，将浮点数转换为4位整数，牺牲精度(小数部分)和更大的数值范围，进一步减少大模型所需的存储空间和计算资源
 NIM - NVIDIA Inference Microservices 英伟达推理微服务
+RTX - Ray Tracing eXtension 光线追踪扩展
 CUDA - Compute Unified Device Architecture 统一计算架构
 DAG - Directed Acyclic Graph 有向无环图，特殊的图结构，边都是单向连接，且不存在任何循环路径
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
@@ -1783,6 +1790,7 @@ OMC - Operation Maintenance Center 操作维护中心
 EDR - Event Data Recorder 事故资料记录器，黑匣子
 LLT - Low Latency Transport 低延迟传输 / Low Level Test 低层次测试，自测
 VCS - Version Control System 版本控制系统
+DVCS - Distributed Version Control System 分布式版本控制系统
 GA - General Availability 正式发布的版本
 RC - Release Candidate 候选版本
 CE - Community Edition 社区版
