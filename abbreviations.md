@@ -1495,7 +1495,7 @@ PPS - Packages Per Second 每秒数据包数
 QoS - Quality of Service 服务质量(网络)
 RCA - Root Cause Analysis 根本原因分析
 SQL - Structured Query Language 结构化查询语言
-CURD - Create, Update, Read, Delete 创建、更新、读取、删除
+CRUD - Create, Read, Update, Delete 创建、读取、更新、删除
 DDL - Data Definition Language 数据定义语言，包括CREATE, ALTER, DROP, TRUNCATE, COMMENT, RENAME
 DML - Data Manipulation Language 数据操纵语言，包括INSERT, UPDATE, DELETE, CALL, EXPLAIN PLAN, LOCK TABLE
 DQL - Data Query Language 数据查询语言，包括SELECT
