@@ -1012,6 +1012,7 @@ KPMG - Klynveld Peat Marwick Goerdeler 毕马威会计师事务所
 CMCC - China Mobile Communications Corporation 中国移动通信集团，中国移动
 CUCC - China Unicom Communications Corporation 中国联合网络通信集团，中国联通
 CTCC - China Telecom Communications Corporation 中国电信集团，中国电信
+TCL - The Creative Life 创意(感动)生活，中国家电企业
 ```
 
 ```markdown
