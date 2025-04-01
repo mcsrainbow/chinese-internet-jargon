@@ -1013,6 +1013,7 @@ CMCC - China Mobile Communications Corporation 中国移动通信集团，中国
 CUCC - China Unicom Communications Corporation 中国联合网络通信集团，中国联通
 CTCC - China Telecom Communications Corporation 中国电信集团，中国电信
 TCL - The Creative Life 创意(感动)生活，中国家电企业
+HTC - High Tech Computer Corporation 宏达国际电子(台湾)
 ```
 
 ```markdown
