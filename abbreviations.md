@@ -458,6 +458,8 @@ ACCA - Association of Chartered Certified Accountants 特许公认会计师公�
 PMP - Project Management Professional 项目管理专业认证
 PMI - Project Management Institute 项目管理协会
 CDMP - Certified for Data Management Professional 数据管理专业认证
+CDGA - Certified Data Governance Associate 数据治理助理认证
+CDGP - Certified Data Governance Professional 数据治理专业认证
 ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
 ACE - Alibaba Cloud Certified Expert 阿里云云计算专家级
 SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
