@@ -507,15 +507,24 @@ CS - Computer Science 计算机科学
 DS - Data Science 数据科学
 BA - Bachelor of Arts 文学士
 BS/BSc - Bachelor of Science 理学士
-LLB - Bachelor of Laws 法学士
 BE/BEng - Bachelor of Engineering 工学士
-MA - Master of Arts 文学硕士
-MS/MSc - Master of Science 理学硕士
+LLB - Bachelor of Laws 法学士
 LLM - Master of Laws 法学硕士
+MS/MSc - Master of Science 理学硕士
+MA - Master of Arts 文学硕士
+MDiv - Master of Divinity 神学硕士
+MEd - Master of Education 教育学硕士
+MArch - Master of Architecture 建筑学硕士
 MEng - Master of Engineering 工程硕士
 Mphil - Master of Philosophy 哲学硕士，研究硕士
+MAud - Master of Auditing 审计硕士
+MTech - Master of Technology 技术硕士
 PhD - Doctor of Philosophy 哲学博士，研究博士
 MSF - Master of Science in Finance 金融硕士
+MFA - Master of Fine Arts 艺术硕士
+MCA - Master of Computer Applications 计算机应用硕士
+MPH - Master of Public Health 公共卫生硕士
+MSW - Master of Social Work 社会工作硕士
 MBA - Master of Business Administration 工商管理硕士
 EMBA - Executive Master of Business Administration 高层管理人员工商管理硕士
 DBA - Doctor of Business Administration 工商管理博士
@@ -525,9 +534,8 @@ IMBA - International Master of Business Administration 国际工商管理硕士
 MEM - Master of Engineering Management 工程管理硕士
 MPA - Master of Public Administration 公共管理硕士
 MPAcc - Master of Professional Accounting 会计硕士
-MAud - Master of Auditing 审计硕士
 MTA - Master of Tourism Administration 旅游管理硕士
-MLIS - Master of Library and Information Studies 图书情报硕士
+MLIS - Master of Library and Information Science 图书情报硕士
 SCI - Science Citation Index 科学引文索引，发表在SCI期刊上的论文是国际学术界的顶尖论文
 AP - Assistant Professor 助理教授
 PS - Personal Statement 个人陈述
