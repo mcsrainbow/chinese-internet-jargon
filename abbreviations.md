@@ -1424,6 +1424,7 @@ RPM - Red Hat Package Manager 红帽包管理器
 YUM - Yellow dog Updater, Modified 已修改的黄狗更新程序，基于RPM的包管理工具
 APT - Advanced Package Tool 高级包管理工具
 PyPI - Python Package Index Python软件包索引
+PIP - /pɪp/ Pip Installs Packages Python包管理工具
 CPAN - Comprehensive Perl Archive Network Perl综合档案网，Perl程序库
 OLAP - OnLine Analysis Processing 联机分析处理
 OLTP - Online Transaction Processing 联机事务处理
