@@ -311,6 +311,7 @@ e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
 viz. - videlicet 也就是(拉丁文)
 ext. - extension 扩展，电话分机 / external 外部的 / extra 额外的
+esc - Escape 逃脱，转义字符，退出
 ```
 
 ```markdown
@@ -1091,6 +1092,7 @@ ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
 AEB - Autonomous Emergency Braking 自动紧急制动
 ESP - Electronic Stability Program 电子稳定程序，车身动态稳定系统
+ESC - Electronic Stability Control 电子稳定控制系统
 TCS - Traction Control System 牵引力控制系统
 ACC - Adaptive Cruise Control 自适应巡航控制
 ELK - Emergency Lane Keeping 紧急车道保持
