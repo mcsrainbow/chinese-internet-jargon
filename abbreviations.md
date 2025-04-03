@@ -691,6 +691,7 @@ NA - Named Accounts 价值客户
 CS - Customer Service 客户服务
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金
+PE/PER - Price-to-Earning Ratio 市盈率
 FA - Financial Advisor 财务顾问
 IPO - Initial Public Offering 首次公开募股
 ICO - Initial Coin Offering 首次代币发行
@@ -971,6 +972,9 @@ FWS - United States Fish and Wildlife Service 美国联邦野生动物服务局
 FR - FdR, Federal Reserve 联邦储备局，美联储
 SWIFT - Society for Worldwide Interbank Financial Telecommunication 全球银行间金融电讯协会，国际资金清算系统
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
+HHS - Health and Human Services 美国卫生与公众服务部
+CDC - Centers for Disease Control and Prevention 美国疾病控制与预防中心
+DOL - Department of Labor 美国劳工部
 EMA - European Medicines Agency 欧洲药品管理局
 PMDA - Pharmaceuticals and Medical Devices Agency 医药品医疗器械综合机构(日本)
 CC - Common Criteria 通用标准
