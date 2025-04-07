@@ -544,6 +544,7 @@ EC - Extracurricular Activities 课外活动
 SEVP - Student and Exchange Visitor Program 学生和交流访问者项目
 F1 - F-1 美国留学生签证，F-2 签发给F-1签证持有者的配偶和子女
 H1B - H-1B 美国由雇主出面申请的专业技术类工作签证
+401K - 401k Plan 由雇员、雇主共同缴费建立起来的完全基金式的退休养老制度，相关规定在美国国税法第401(k)条中
 EB1A - EB-1A Employment-Based First Preference Alien of Extraordinary Ability 杰出人才移民
 NIW - National Interest Waiver 国家利益豁免，申请人对美国有明确的国家利益
 EW3 - Employment-Based Third Preference 第三类优先职业 非技术工人移民
@@ -829,6 +830,7 @@ OTA - Online Travel Agency 在线旅游机构
 FAQ - Frequently Asked Questions 常见问题解答
 TOC - Table of Content 内容目录
 MOC - Map of Content 内容地图
+CG - Computer-Generated 计算机生成(动画)
 TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
 ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
 FMCG - Fast Moving Consumer Goods 快速消费品，快消品
@@ -1095,6 +1097,9 @@ PM - Particulate Matter 颗粒物
 ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
 AEB - Autonomous Emergency Braking 自动紧急制动
+MEB - Modular electric drive matrix 模块化电动驱动矩阵(大众汽车)
+MQB - Modular Transverse Toolkit 模块化横置发动机平台(大众汽车)
+BMS - Battery Management System 电池管理系统
 ESP - Electronic Stability Program 电子稳定程序，车身动态稳定系统
 ESC - Electronic Stability Control 电子稳定控制系统
 TCS - Traction Control System 牵引力控制系统
@@ -1389,6 +1394,8 @@ SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本
 VL - Vision Language 视觉语言
 MCP - Model Context Protocol 模型上下文协议
 RDMA - Remote Direct Memory Access 远程直接内存访问
+RTP - Real Time Prediction 实时预测
+DLRM - Deep Learning Recommendation Model 深度学习推荐模型
 CoT - Chain-of-Thought 思维链，改进的Prompt技术，提升大语言模型在复杂推理任务上的表现
 ToT - Tree-of-Thought 思维树，扩展了思维链的概念，允许模型探索多种推理路径(如树状结构)来解决问题
 GoT - Graph-of-Thought 思维图，进一步扩展了 ToT，将思维过程抽象为一个有向图，节点表示可能的推理步骤，边表示推理步骤之间的关系
@@ -1700,6 +1707,7 @@ UA - User Agent 用户代理
 MSDN - Microsoft Developer Network 微软开发者网络
 WWDC - Apple Worldwide Developers Conference 苹果全球开发者大会
 WAIC - World Artificial Intelligence Conference 世界人工智能大会
+NSDI - Network Systems Design and Implementation 网络系统设计与实施领域顶级会议
 ACM - Association for Computing Machinery 计算机协会
 MWC - Mobile World Congress 世界移动通信大会
 CES - Consumer Electronics Show 消费电子展
@@ -1876,6 +1884,7 @@ SQS - Simple Queue Service 简单队列服务
 SNS - Simple Notification Service 简单消息服务
 ACK - Container Service for Kubernetes 容器服务Kubernetes版
 ASK - Container Service for Kubernetes Serverless 容器服务Kubernetes无服务器版
+MSE - Microservices Engine 微服务引擎
 DMS - Data Management Service 数据管理服务
 DTS - Data Transmission Service 数据传输服务
 CPFS - Cloud Paralleled File System 阿里云并行文件系统
