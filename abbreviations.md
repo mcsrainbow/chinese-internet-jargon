@@ -1399,9 +1399,6 @@ SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本
 DiT - Diffusion Transformer 结合了Transformer架构的扩散模型
 VL - Vision Language 视觉语言
 MCP - Model Context Protocol 模型上下文协议
-RDMA - Remote Direct Memory Access 远程直接内存访问
-RTP - Real Time Prediction 实时预测
-DLRM - Deep Learning Recommendation Model 深度学习推荐模型
 CoT - Chain-of-Thought 思维链，改进的Prompt技术，提升大语言模型在复杂推理任务上的表现
 ToT - Tree-of-Thought 思维树，扩展了思维链的概念，允许模型探索多种推理路径(如树状结构)来解决问题
 GoT - Graph-of-Thought 思维图，进一步扩展了 ToT，将思维过程抽象为一个有向图，节点表示可能的推理步骤，边表示推理步骤之间的关系
@@ -1896,6 +1893,11 @@ MSE - Microservices Engine 微服务引擎
 DMS - Data Management Service 数据管理服务
 DTS - Data Transmission Service 数据传输服务
 CPFS - Cloud Paralleled File System 阿里云并行文件系统
+HPN - High-Performance Network 高性能网络
+PAI - Platform of Artificial Intelligence 人工智能平台
+RDMA - Remote Direct Memory Access 远程直接内存访问
+RTP - Real Time Prediction 实时预测
+DLRM - Deep Learning Recommendation Model 深度学习推荐模型
 EKS - Elastic Kubernetes Service 弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
 EFS - Elastic File System 弹性文件系统
