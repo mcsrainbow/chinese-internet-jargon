@@ -752,6 +752,7 @@ ARPPU - Average Revenue Per Paying User 每付费用户平均收益
 MRR - Monthly Recurring Revenue 每月经常性收入
 ARR - Annual Recurring Revenue 每年经常性收入
 CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
+KYC - Know Your Customer 了解你的客户
 CVR - Conversion Rate 转化率
 PCU - Peak Concurrent Users 最高并发用户
 DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
@@ -872,6 +873,8 @@ COO - Country of Origin 原产国
 BOP - Balance of Payments 国际收支
 COD - Cash On Delivery 货到付款
 POD - Port of Destination 目的港
+DDU - Delivered Duty Unpaid 未完税交货
+DDP - Delivered Duty Paid 完税后交货
 POL - Port of Loading 装货港
 POS - Point of Sale 销售点终端
 PW - Packed Weight 包装重量
@@ -927,9 +930,11 @@ AU - AUS, Australia 澳大利亚
 AUD - Australian Dollar 澳大利亚元，澳元
 POV - Proof of Value 价值证明
 WTO - World Trade Organization 世界贸易组织
+MFN - Most Favored Nation (非歧视性)最惠国待遇(贸易原则)
 WHO - World Health Organization 世界卫生组织
 GPS - Global Positioning System 全球卫星定位系统(美国国防部)
 CNMD - Chinese National Missile Defence 中国国家导弹防御系统
+FDPR - Foreign Direct Product Rule 外国直接产品规则(美国)
 UN - United Nations 联合国
 EU - European Union 欧盟
 PRC - People's Republic of China 中华人民共和国
@@ -1391,6 +1396,7 @@ MoE - Mixture of Experts 混合专家模型，将单一任务分为多个子任�
 EP - Expert Parallelism 专家并行
 MLA - Multi-head Latent Attention 多头潜在注意力
 SD - Stable Diffusion 基于潜在扩散模型(Latent Diffusion Models)的文本到图像、图像到图像生成模型
+DiT - Diffusion Transformer 结合了Transformer架构的扩散模型
 VL - Vision Language 视觉语言
 MCP - Model Context Protocol 模型上下文协议
 RDMA - Remote Direct Memory Access 远程直接内存访问
@@ -1410,6 +1416,7 @@ RTX - Ray Tracing eXtension 光线追踪扩展
 CUDA - Compute Unified Device Architecture 统一计算架构
 DAG - Directed Acyclic Graph 有向无环图，特殊的图结构，边都是单向连接，且不存在任何循环路径
 IC - Integrated Circuit 集成电路 / Intelligent Card 智能卡
+IPD - Integrated Product Development 集成产品开发
 IoT - Internet of Things 物联网
 CPS - Cyber-Physical Systems 嵌入式设备和网络物理系统
 ISO - International Organization for Standardization 国际标准化组织
@@ -2087,6 +2094,7 @@ OCTAVE - Operationally Critical Threat, Asset, and Vulnerability Evaluation 操�
 CRAMM - Central Computing and Telecommunication Agency Risk Analysis and Management Method 中央计算和电信机构风险分析与管理方法
 VAST - Visual, Agile, and Simple Threat 可视化、敏捷和简单威胁
 STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
+SMART - Specific, Measurable, Achievable, Relevant, Time-bound 具体、可衡量、可实现、相关、时限，目标管理方法
 ```
 
 <!-- 审查重复项 -->
