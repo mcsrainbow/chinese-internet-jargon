@@ -628,10 +628,10 @@ TM - Trademark 商标
 R - Registered 已注册
 No. - Numéro 编号(法语)
 C - Center 中心 / Core 核心 / Carry 支撑，主力 / Cao 操(拼音)
-G - g, Gram 克 / Gigabyte 吉字节 / Generation 代，世代 / Giga 十亿，10的9次方 / 9.8 m/s² 重力加速度(9.8米每平方秒)
+G - g, Gram 克 / Gigabyte 吉字节 / Generation 代，世代 / Giga 十亿，10的9次方 / Gravity 重力加速度(9.8米每平方秒)
 K - k, Kilo 千 / Kilobyte 千字节
 KG - Kilogram 千克，公斤
-T - Ton 吨 / Terabyte 太字节 / Tera 万亿，10的12次方
+T - Ton 吨 / Terabyte 太字节 / Tera 万亿，10的12次方 / Tier 梯队
 MT - Metric Ton 公吨，1000千克
 N - Number (任意)数量 / No 否
 Y - Year 年 / Yes 是
