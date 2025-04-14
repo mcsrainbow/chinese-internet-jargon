@@ -542,6 +542,9 @@ AP - Assistant Professor 助理教授
 PS - Personal Statement 个人陈述
 EC - Extracurricular Activities 课外活动
 SEVP - Student and Exchange Visitor Program 学生和交流访问者项目
+ICE - Immigration and Customs Enforcement 移民和海关执法局(美国)
+IRS - Internal Revenue Service 国税局(美国)
+DHS - Department of Homeland Security 国土安全部(美国)
 F1 - F-1 美国留学生签证，F-2 签发给F-1签证持有者的配偶和子女
 H1B - H-1B 美国由雇主出面申请的专业技术类工作签证
 401K - 401k Plan 由雇员、雇主共同缴费建立起来的完全基金式的退休养老制度，相关规定在美国国税法第401(k)条中
@@ -875,6 +878,7 @@ COD - Cash On Delivery 货到付款
 POD - Port of Destination 目的港
 DDU - Delivered Duty Unpaid 未完税交货
 DDP - Delivered Duty Paid 完税后交货
+FOB - Free On Board 离岸价，船上交货
 POL - Port of Loading 装货港
 POS - Point of Sale 销售点终端
 PW - Packed Weight 包装重量
@@ -1231,6 +1235,8 @@ IaaS - Infrastructure as a Service 基础设施即服务
 PaaS - Platform as a Service 平台即服务
 SaaS - Software as a Service 软件即服务
 IDaaS - IDentity as a Service 身份即服务
+FaaS - Function as a Service 函数即服务
+DaaS - Data as a Service 数据即服务
 KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
 DNS - Domain Name System 域名系统
 DoH - DNS over HTTPS 基于HTTPS的域名系统
