@@ -503,6 +503,9 @@ VO - Virtual Onsite 虚拟现场面试
 NG - New Graduate 应届毕业生
 K-12: from Kindergarten to 12th grade 基础教育(美国)，从幼儿园到12年级(相当于中国的高三)
 STEAM - Science, Technology, Engineering, Art, Mathematics 由科学、技术、工程、艺术、数学等学科共同构成的跨学科课程
+IPA - International Phonetic Alphabet 国际音标
+DJ - Daniel Jones Phonetic Symbol 丹尼尔琼斯音标
+KK - John Samuel Kenyon and Thomas Albert Knott 美式英语音标
 P.E. - Physical Education 体育教育
 CS - Computer Science 计算机科学
 DS - Data Science 数据科学
