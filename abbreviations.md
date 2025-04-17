@@ -823,6 +823,7 @@ ToG - To Goverment 面向政府
 O2O - Online to Offline 线上到线下，如美团
 P2P - Person to Person 个人对个人(互联网金融借贷平台) / Peer-to-Peer 点对点(网络技术架构)
 DTC - Direct to Customer 直接面向消费者
+D2P - Direct to People 直接面向人
 IFS - Internet Finance Service 互联网金融服务
 RSS - Really Simple Syndication 简易信息聚合
 SEM - Search Engine Marketing 搜索引擎营销
