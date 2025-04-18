@@ -3704,7 +3704,7 @@ T型人才 - T-shaped talent
 填鸭式教育 - Rote learning
 既得利益者 - Entrenched interests
 习得性无助 - Learned helplessness
-规则类怪谈 - Rule-based urban legend
+规则类怪谈 - Rule-based horror
 薛定谔的猫 - Schrödinger's cat
 宇称不守恒 - Parity non-conservation
 替代性成瘾 - Replacement addiction
