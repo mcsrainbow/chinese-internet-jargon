@@ -963,6 +963,7 @@ IOC - International Olympic Committee 国际奥委会
 ESG - Environmental, Social and Governance 环境、社会和企业治理
 PRI - Principles for Responsible Investment 负责任投资原则
 DEI - Diversity, Equity and Inclusion 多样性、公平性和包容性
+IPCC - Intergovernmental Panel on Climate Change 政府间气候变化专门委员会
 SD - Sustainable Development 可持续发展
 SDG - Sustainable Development Goals 可持续发展目标
 SASB - Sustainability Accounting Standards Board 可持续会计准则委员会
@@ -1427,6 +1428,7 @@ IPD - Integrated Product Development 集成产品开发
 IoT - Internet of Things 物联网
 CPS - Cyber-Physical Systems 嵌入式设备和网络物理系统
 ISO - International Organization for Standardization 国际标准化组织
+ITU - International Telecommunication Union 国际电信联盟，国际电联
 IEC - International Electrotechnical Commission 国际电工委员会
 IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
 ASCII - American Standard Code for Information Interchange 美国信息交换标准代码
