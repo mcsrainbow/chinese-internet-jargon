@@ -995,6 +995,7 @@ EMA - European Medicines Agency 欧洲药品管理局
 PMDA - Pharmaceuticals and Medical Devices Agency 医药品医疗器械综合机构(日本)
 CC - Common Criteria 通用标准
 CCC/3C - China Compulsory Certification 中国强制性产品认证
+CNAS - China National Accreditation Service for Conformity Assessment 中国合格评定国家认可委员会
 ST - Security Target 安全目标
 PP - Protection Profile 保护轮廓，通用形式的安全目标
 OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
