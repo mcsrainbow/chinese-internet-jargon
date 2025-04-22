@@ -179,6 +179,9 @@ WRU - Where Are You 你在哪
 RUOK - Are You OK 你还好吗
 AH - At Home 在家
 CP - Coupling 配对 / Copy 复制
+BE - Bad Ending 坏结局
+HE - Happy Ending 好结局
+OE - Open Ending 开放式结局
 GG - Good Game 好游戏，认输
 AFK - Away From Keyboard 离开键盘
 BYOB - Bring Your Own Bottle 自带酒水
