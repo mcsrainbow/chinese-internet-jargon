@@ -739,6 +739,7 @@ VI - Visual Identity 企业视觉形象设计
 IP - Intellectual Property 知识产权
 VIP - Very Important Person 重要人物
 SVIP - Super Very Important Person 超级重要人物
+VIC - Very Important Customer 重要客户
 PR - Public Relations 公共关系
 GR - Government Relations 政府关系
 MCN - Multi-Channel Network 多频道网络(网红经纪公司)
