@@ -662,7 +662,7 @@ A - Ampere 安培
 V - Volt 伏特 / Version 版本 / Video 视频
 W - Watt 瓦，瓦特，1瓦特 = 1安培 x 1伏特 / Week 周 / Wan(拼音) 万
 KW - Kilowatt 千瓦
-P - Power 匹，马力，1马力 = 0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加 / Peta 千万亿，10的15次方
+P - Power 匹，马力，1马力 = 0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加 / Peta 千万亿，10的15次方 / Priority 优先级
 HP - Horse Power 马力
 H - Hr., Hour 小时
 S - Sec., Second 秒 / Service 服务 / Small 小 / Super 超级
