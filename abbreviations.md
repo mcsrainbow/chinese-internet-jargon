@@ -1135,6 +1135,8 @@ DOW - Door Open Warning 开门碰撞预警
 TSA - Traffic Speed Alert 超速告警
 TSR - Traffic Sign Recognition 交通标志识别
 TLR - Traffic Light Recognition 交通信号灯识别
+AGV - Automated Guided Vehicle 自动导引车
+AMR - Autonomous Mobile Robot 自主移动机器人
 ECO - Ecology, Conservation, Optimization 生态(环保)、节约(节能)、优化(动力) / Ecosystem 生态系统
 F1 - Formula One 一级方程式赛车
 MT - Manual Transmission 手动变速器
