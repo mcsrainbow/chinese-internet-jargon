@@ -731,6 +731,7 @@ UG - User Group 用户组
 UI - User Interface 用户界面
 GUI - Graphical User Interface 图形用户界面
 CLI - Command-Line Interface 命令行界面
+CLT - Command-Line Tool 命令行工具
 CMD - Command 命令
 IFS - Internal Field Separator 分隔符
 UE/UX - User Experience 用户体验
