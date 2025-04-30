@@ -1907,8 +1907,9 @@ S3 - Simple Storage Service 简单存储服务
 WORM - Write Once Read Many 一次写入多次读取
 SQS - Simple Queue Service 简单队列服务
 SNS - Simple Notification Service 简单消息服务
-ACK - Container Service for Kubernetes 容器服务Kubernetes版
-ASK - Container Service for Kubernetes Serverless 容器服务Kubernetes无服务器版
+ACK - Container Service for Kubernetes (阿里云)容器服务Kubernetes版
+ASK - Container Service for Kubernetes Serverless (阿里云)容器服务Kubernetes无服务器版
+ACS - Container Compute Service (阿里云)容器计算服务
 MSE - Microservices Engine 微服务引擎
 DMS - Data Management Service 数据管理服务
 DTS - Data Transmission Service 数据传输服务
