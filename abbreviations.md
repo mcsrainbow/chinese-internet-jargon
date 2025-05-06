@@ -1951,6 +1951,8 @@ IPS - Intrusion Prevention System 入侵防御系统
 SCAP - Security Content Automation Protocol 安全内容自动化协议
 CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞披露
 CVSS - Common Vulnerability Scoring System 通用漏洞评分系统
+NVD - National Vulnerability Database 国家漏洞数据库
+CWE - Common Weakness Enumeration 通用弱点枚举
 CCE - Common Configuration Enumeration 通用配置枚举
 CPE - Common Platform Enumeration 通用平台枚举
 RCE - Remote Code Execution 远程代码执行
