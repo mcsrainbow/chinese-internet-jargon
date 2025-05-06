@@ -1952,6 +1952,8 @@ CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞�
 CVSS - Common Vulnerability Scoring System 通用漏洞评分系统
 CCE - Common Configuration Enumeration 通用配置枚举
 CPE - Common Platform Enumeration 通用平台枚举
+RCE - Remote Code Execution 远程代码执行
+BDSA - Black Duck Security Advisory 黑鸭子安全公告
 VAPT - Vulnerability Assessment and Penetration Testing 漏洞评估和渗透测试
 GRC - Governance, Risk, and Compliance 治理、风险和合规
 XCCDF - eXtensible Configuration Checklist Description Format 可扩展配置清单描述格式
