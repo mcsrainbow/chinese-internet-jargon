@@ -1778,6 +1778,7 @@ IdP - Identity Provider 身份源提供商
 CDN - Content Delivery Network 内容分发网络
 DCDN - Dynamic Content Delivery Network 动态内容分发网络
 BGP - Border Gateway Protocol 边界网关协议
+ASN - Autonomous System Number 自治系统编号
 VBR - Virtual Border Router 边界路由器
 TLD - Top-Level Domain 顶级域名
 FQDN - Fully Qualified Domain Name 完全合格域名，完整域名
