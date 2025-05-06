@@ -1998,7 +1998,7 @@ DoS - Denial of Service 拒绝服务 / DOS, Disk Operating System 磁盘操作�
 DDoS - Distributed Denial of Service 分布式拒绝服务
 APT - Advanced Persistent Threat 高级长期威胁
 MITM - Man-In-The-Middle 中间人攻击
-TOCTTOU - Time-of-Check-to-Time-of-Use 数据状态在检查和使用之间发生变化的漏洞
+TOCTOU - Time-of-Check to Time-of-Use 数据状态在检查和使用之间发生变化的漏洞
 OOP - Object-Oriented Programming 面向对象程序设计
 JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
 LVS - Linux Virtual Server Linux虚拟服务器
