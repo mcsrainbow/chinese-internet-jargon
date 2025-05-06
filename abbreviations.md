@@ -699,6 +699,7 @@ SUN - Sun, Sunday 星期日
 KA - Key Accounts 重点客户，大卖场
 NA - Named Accounts 价值客户
 CS - Customer Service 客户服务
+CE - Customer Engagement 客户参与
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金
 PE/PER - Price-to-Earning Ratio 市盈率
