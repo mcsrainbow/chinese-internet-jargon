@@ -1395,6 +1395,7 @@ BI - Business Intelligence 商业智能
 BE - Business Enablement 商业赋能
 BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业务) / Business Analytics 商业分析(围绕数据)
 GA - Google Analytics Google网站数据分析
+NCR - No Country Redirect 不进行国家重定向
 NLP - Natural Language Processing 自然语言处理
 AI - Artificial Intelligence 人工智能
 AIGC - AI Generated Content 人工智能生成内容
