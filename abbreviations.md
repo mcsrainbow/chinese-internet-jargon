@@ -1347,6 +1347,7 @@ BMP - Bitmap 位图，图形文件格式
 GIF - Graphics Interchange Format 图像互换格式，位图图形文件格式
 JPG - JPEG, Joint Photographic Experts Group 联合图像专家小组，有损图像压缩标准
 PNG - Portable Network Graphics 便携式网络图形，无损压缩的位图图形文件格式
+ICO - Icon 图标
 WebP - Google开发的旨在加快图片加载速度的图片格式，与JPEG格式相比，相同图片质量仅需约1/3文件大小，与PNG相比约1/2
 MPEG - Moving Picture Experts Group 动态影像专家小组，运动图像压缩算法
 SWF - ShockWave Flash 冲击波闪光灯 / Small Web Format 小型网页格式，Adobe Flash文件格式
