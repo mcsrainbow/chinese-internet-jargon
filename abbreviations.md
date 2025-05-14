@@ -561,8 +561,8 @@ CPT - Curricular Practical Training 课程实习训练，美国临时就业许�
 OPT - Optional Practical Training 选择性实习训练，美国临时就业许可，面向在校学生
 SAT - Scholastic Assessment Test 学术能力评估测试，美国高考
 ACT - American College Test 美国大学入学考试，美国高考
-GRE - Graduate Record Examinations 美国研究生入学考试
-GMAT - Graduate Management Admission Test 美国研究生管理科入学考试
+GRE - Graduate Record Examinations 研究生入学考试(美国)
+GMAT - Graduate Management Admission Test 研究生管理科入学考试(美国)
 GPA - Grade Point Average 平均成绩点数，绩点
 AMI - Association Montessori Internationale 国际蒙台梭利协会
 AMS - American Montessori Society 美国蒙台梭利协会
@@ -987,17 +987,18 @@ FIFA - Fédération Internationale de Football Association 国际足球联合会
 FIBA - Fédération International de Basket-ball 国际篮球联合会(法语)，国际篮联 / International Basketball Federation 国际篮球联合会
 ICAC - Independent Commission Against Corruption 反腐独立委员会，廉政公署(香港)
 HKBN - Hong Kong Broadband Network 香港宽频网络
-FBI - Federal Bureau of Investigation 美国联邦调查局
-CIA - Central Intelligence Agency 美国中央情报局
+FBI - Federal Bureau of Investigation 联邦调查局(美国)
+CIA - Central Intelligence Agency 中央情报局(美国)
 SIS - Secret Intelligence Service 英国秘密情报局，军情六处
 MI6 - Military Intelligence, Section 6 英国秘密情报局，军情六处
 FWS - United States Fish and Wildlife Service 美国联邦野生动物服务局
 FR - FdR, Federal Reserve 联邦储备局，美联储
+DOGE - Department of Government Efficiency 政府效率部(美国)
 SWIFT - Society for Worldwide Interbank Financial Telecommunication 全球银行间金融电讯协会，国际资金清算系统
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
-HHS - Health and Human Services 美国卫生与公众服务部
-CDC - Centers for Disease Control and Prevention 美国疾病控制与预防中心
-DOL - Department of Labor 美国劳工部
+HHS - Health and Human Services 卫生与公众服务部(美国)
+CDC - Centers for Disease Control and Prevention 疾病控制与预防中心(美国)
+DOL - Department of Labor 劳工部(美国)
 EMA - European Medicines Agency 欧洲药品管理局
 PMDA - Pharmaceuticals and Medical Devices Agency 医药品医疗器械综合机构(日本)
 CC - Common Criteria 通用标准
@@ -1007,7 +1008,7 @@ ST - Security Target 安全目标
 PP - Protection Profile 保护轮廓，通用形式的安全目标
 OPEC - Organization of the Petroleum Exporting Countries 石油输出国组织
 BBC - British Broadcasting Corporation 英国广播公司
-CNN - Cable News Network 美国有线新闻网络
+CNN - Cable News Network 有线新闻网络(美国)
 VOA - Voice of America 美国之音
 TED - Technology, Entertainment, Design 技术、娱乐、设计，以TED大会著称的非营利机构(美国)
 EMS - Express Mail Service 快递邮政服务
