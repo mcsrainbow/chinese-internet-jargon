@@ -731,10 +731,14 @@ MNC - Multi National Company 多国公司，跨国公司
 UG - User Group 用户组
 UI - User Interface 用户界面
 GUI - Graphical User Interface 图形用户界面
+GTK - GNU Image Manipulation Program (GIMP) ToolKit 图像处理工具包
 CLI - Command-Line Interface 命令行界面
 CLT - Command-Line Tool 命令行工具
 CMD - Command 命令
-IFS - Internal Field Separator 分隔符
+TTY - TeleTYpewriter 电传打字机
+PTY - Pseudo TeleTYpe 伪终端
+PTS - Pseudo TeleTYpe Slave 伪终端从机
+IFS - Internal Field Separator 内部字段分隔符
 UE/UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
