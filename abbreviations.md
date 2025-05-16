@@ -712,6 +712,7 @@ OU - Organizational Unit 组织单位
 Biz - Business 商业，业务
 BU - Business Unit 业务单元
 BG - Business Group 业务集团，事业群
+JV - Joint Venture 合资企业
 CDG - Corporate Development Group 企业发展事业群(腾讯)
 IEG - Interactive Entertainment Group 互动娱乐事业群(腾讯)
 TEG - Technology and Engineering Group 技术工程事业群(腾讯)
