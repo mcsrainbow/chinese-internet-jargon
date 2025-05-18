@@ -709,7 +709,7 @@ ICO - Initial Coin Offering 首次代币发行
 VIE - Variable Interest Entity 可变利益实体
 CN - Common Name 公用名
 OU - Organizational Unit 组织单位
-Biz - Business 商业，业务
+BIZ - Business 商业，业务
 BU - Business Unit 业务单元
 BG - Business Group 业务集团，事业群
 JV - Joint Venture 合资企业
@@ -906,6 +906,11 @@ RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
 ```
 
 ```markdown
+COM - Company 公司
+EDU - Education 教育
+ORG - Organization 组织
+MIL - Military 军事
+INT - International 国际
 CN/CHN - China 中国
 HK - Hong Kong 香港
 APJ - Asia-Pacific and Japan 亚太地区和日本
@@ -1836,7 +1841,7 @@ RARP - Reverse Address Resolution Protocol 反向地址解析协议
 BOOTP - Bootstrap Protocol 引导程序协议
 SYN - Synchronize Sequence Numbers 同步序列编号
 ACK - Acknowledgement 确认
-COM - Component Object Model 组件对象模型 / Company 公司 / Communication 通信
+COM - Component Object Model 组件对象模型 / Communication 通信
 GSM - Global System for Mobile Communications 移动通信全球系统
 FDD - Frequency-Division Duplexing 频分双工
 TDD - Time Division Duplexing 时分双工
