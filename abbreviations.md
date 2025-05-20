@@ -926,7 +926,6 @@ ISIS - Islamic State of Iraq and al-Sham 伊拉克和沙姆伊斯兰国
 ISIL - Islamic State of Iraq and the Levant 伊拉克和黎凡特伊斯兰国
 QSD - Quad, Quadrilateral Security Dialogue 四边安全对话，美国、日本、印度和澳大利亚之间的战略对话，强调对"自由开放的印度-太平洋的共同目标和实现"
 US - United States 美国
-USA - United States of America 美利坚合众国，美国
 UK - United Kingdom 英国
 JP - Japan 日本
 TYO - Tokyo 东京(日本)
