@@ -912,7 +912,7 @@ ORG - Organization 组织
 MIL - Military 军事
 INT - International 国际
 CN/CHN - China 中国
-HK - Hong Kong 香港
+HK/HKG - Hong Kong 香港
 HKD - Hong Kong Dollar 港元
 APJ - Asia-Pacific and Japan 亚太地区和日本
 GC - Greater China 大中华区，以华人为主的中国大陆、香港、澳门、台湾，以及新加坡、马来西亚等华人地区
@@ -930,7 +930,7 @@ UK - United Kingdom 英国
 JP - Japan 日本
 TYO - Tokyo 东京(日本)
 KR - South Korea 韩国
-RUS - Russia 俄罗斯
+RU/RUS - Russia 俄罗斯
 SG/SGP - Singapore 新加坡
 RMB - Rénmínbì 人民币(拼音)
 CNY - Chinese Yuan 人民币 / Chinese New Year 中国新年
