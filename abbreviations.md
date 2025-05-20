@@ -931,7 +931,7 @@ JP - Japan 日本
 TYO - Tokyo 东京(日本)
 KR - South Korea 韩国
 RUS - Russia 俄罗斯
-SGP - Singapore 新加坡
+SG/SGP - Singapore 新加坡
 RMB - Rénmínbì 人民币(拼音)
 CNY - Chinese Yuan 人民币 / Chinese New Year 中国新年
 USD - United States Dollar 美元
