@@ -11,9 +11,11 @@
 
 > 请简要地逐个依次将以下中文词汇翻译为能表达其中文内涵的英文词汇，某些词汇可能没有直接对应的英文表达，请提供最接近的或行业内常用的英文表达，结果中不显示详细解释，输出格式"中文词汇 - 英文表达"
 
-## 词汇列表
+## 黑话词汇
 
-### 二字词汇列表
+### 黑话词汇列表
+
+#### 二字词汇列表
 
 ```markdown
 赋能, 抓手, 中台, 闭环, 落地, 漏斗, 沉淀,
@@ -69,7 +71,7 @@
 银弹
 ```
 
-### 三字词汇列表
+#### 三字词汇列表
 
 ```markdown
 对一下, 碰一下, 过一下, 抢品类, 卡认知,
@@ -98,7 +100,7 @@
 大中台, 凝聚力, 向心力, 元无知, 软夺权
 ```
 
-### 四字词汇列表
+#### 四字词汇列表
 
 ```markdown
 支棱起来, 快速响应, 小步快跑, 价值转化,
@@ -150,7 +152,7 @@
 逆火效应, 打开率高, 留存率高, 活跃度高
 ```
 
-### 五字词汇列表
+#### 五字词汇列表
 
 ```markdown
 精神SPA, 大数据分析, 大数据杀熟,
@@ -168,234 +170,16 @@
 方言化认知
 ```
 
-### 六字词汇列表
+#### 六字词汇列表
 
 ```markdown
 不跟风要造风, 多维矩阵闭环, 打开销售通路,
 向下传递寒气
 ```
 
-### 补充词汇列表
+### 黑话词汇解释
 
-```markdown
-985工程, 211工程, All in, A/B测试,
-QR码, UP主, 大V, 主R, I人, E人, J人,
-P人, C位, B超, 4S店, B端, C端, G端,
-3A游戏, 去IOE, IO密集, CPU密集, X号位
-
-熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
-接棒, 继承, 联调, 监测, 复现, 重现, 提议,
-提案, 对等, 进展, 预算, 路演, 人设, 定位,
-权重, 共振, 连爆, 瞬爆, 切片, 起号, 养号,
-算法, 限流, 断流, 达人, 素人, 逆转, 黑盒,
-白盒, 向量, 图谱, 基线, 底线, 远景, 愿景,
-友商, 竞对, 拉高, 发酵, 双周, 双月, 招标,
-围标, 陪标, 串标, 币圈, 撸毛, 空投, 大饼,
-土狗, 挖矿, 矿工, 矿难, 梭哈, 破发, 割肉,
-看板, 孤岛, 群控, 中控, 场控, 导播, 洗稿,
-互推, 硬广, 软文, 网感, 声量, 出圈, 普惠,
-景观, 代际, 出海, 众包, 海淘, 标品, 集美,
-景别, 运镜, 构图, 转场, 定格, 闪回, 截流,
-死锁, 脑裂, 作业, 常量, 探针, 探活, 断点,
-快照, 同构, 异构, 高定, 逆天, 能量, 非遗,
-达观, 前向, 后向, 敏捷, 高优, 撬动, 下钻,
-撞库, 烧钱, 勾兑, 寡头, 宽松, 落盘, 黑洞,
-雄竞, 雌竞, 利差, 虫洞, 奇点, 范畴, 祛魅,
-羁绊, 民粹, 沙盒, 模因, 内因, 外因, 泛化,
-极化, 钝化, 奴化, 让渡, 微操, 社科, 民科,
-耻感, 热寂, 应然, 实然, 虹吸, 均值, 中值,
-养蛊, 涅槃, 对冲, 对赌, 范式, 内耗, 刻奇,
-冥想, 群氓, 脱敏, 寇仇, 暗网, 阴谋, 阳谋,
-穷举, 极客, 反智, 冗余, 意识, 盘点, 轮转,
-先贤, 悖论, 诡辩, 溢价, 公知, 湿件, 规训,
-解构, 扰动, 回滚, 临期, 人月, 人日, 人时,
-极致, 塔基, 塔尖, 轻奢, 重奢, 顶奢, 维密,
-主义, 白牌, 内包, 总包, 推演, 军阀, 财阀,
-学阀, 定金, 订金, 手办, 公仔, 函数, 映射,
-拟合, 方差, 智商, 情商, 逆商, 财商, 社牛,
-社恐, 丁克, 团建, 躺平, 上头, 下头, 丧系,
-佛系, 油腻, 硬核, 副本, 四大, 递归, 内涵,
-外延, 口嗨, 环比, 同比, 量贩, 场观, 标化,
-信托, 碳水, 瑜伽, 席位, 应力, 通货, 现金,
-通胀, 通缩, 交媾, 媾和, 降噪, 正念, 证伪,
-辩证, 同化, 异化, 拉爆, 集合, 内核, 收入,
-毛利, 利润, 企画, 赋闲, 软件, 硬件, 涌现,
-雷管, 社达, 炸鱼, 豁免, 有氧, 无氧, 困囿,
-僭越, 平替, 左翼, 右翼, 左倾, 右倾, 双碳,
-拿捏, 过单, 运维, 斡旋, 回源, 泛型, 制程,
-指数, 对数, 商数, 飞地, 买办, 仓位, 平仓,
-爆仓, 守仓, 斩仓, 穿仓, 抛单, 滑点, 多头,
-空头, 做空, 做多, 杠杆, 合约, 期货, 头寸,
-标的, 分叉, 双花, 表征, 软考, 统考, 统招,
-中考, 高考, 抽样, 发小, 发妻, 唯二, 拔群,
-子集, 超集, 统筹, 拥趸, 局座, 笔者, 主体,
-客体, 应援, 脑雾, 信创, 加息, 降息, 人权,
-掮客, 搭子, 收官, 鉴权, 业态, 踏空, 套牢,
-蓝筹, 红筹, 等保, 合规, 掉电, 浪涌, 党鞭,
-熔断, 抱石, 赓续, 企稳, 器局, 六经, 图床,
-泡沫, 插桩, 坪效, 顺差, 逆差, 糊咖, 幕僚,
-阴鸷, 放水, 走线, 东大, 挽尊, 业力, 晕染,
-动线, 机场, 氧化, 代币, 元件, 固态, 本科,
-专科, 百合, 耽美, 攻受, 纯爱, 腐女, 腐男,
-利是, 品类, 水友, 驴友, 老六, 效能, 排面,
-赤字, 蛇头, 狗血, 心法, 当量
-
-双一流, 交学费, 智商税, 阶段性, 有深度,
-原动力, 三板斧, 利益点, 不可逆, 向量化,
-微服务, 云原生, 平常心, 独角兽, 强绑定,
-超融合, 蒙太奇, 关键帧, 剪辑率, 工具人,
-凡尔赛, 非标品, 硬着陆, 软着陆, 供给侧,
-需求端, 跳出率, 产业链, 信息流, 碎片化,
-一元化, 二元化, 多元化, 新常态, X世代,
-Y世代, Z世代, 黑天鹅, 博弈论, 上下文,
-里程碑, 检查点, 元数据, 场景化, 危机感,
-高压线, 智能体, 人生观, 世界观, 多巴胺,
-内啡肽, 血清素, 催产素, 边界感, 信息差,
-暗物质, 引力波, 叠加态, 猜疑链, 劣根性,
-信息熵, 缝合怪, 认知税, 罗生门, 污名化,
-厚黑学, 容错率, 剪刀差, 士大夫, 杀猪盘,
-多模态, 应声虫, 神经元, 周期律, 因果论,
-玛丽苏, 龙傲天, 宗主国, 寒号鸟, 常春藤,
-键盘侠, 东林党, 宿命论, 投名状, 二元论,
-与非门, 乌托邦, 厌蠢症, 分水岭, 过滤器,
-做市商, 语料库, 做题家, 高可用, 安慰剂,
-建设性, 奶头乐, 苦行僧, 婆罗门, 过拟合,
-仁波切, 千禧年, 人效比, 正反馈, 负反馈,
-现象学, 艾滋病, 渐冻症, 令牌化, 假名化,
-匿名化, 幂等性, 自变量, 因变量, 钝感力,
-仪式感, 回旋镖, 空窗期, 庇护所, 二五仔,
-三段论, 中二病, 产学研, 公务员, 体制内,
-鲁棒性, 置信度, 作用域, 平方差, 标准差,
-性张力, 裸金属, 在野党, 反对党, 结构性,
-元宇宙, 有机物, 无机物, 大杀器, 金本位,
-爱国贼, 乌班图, 法西斯, 建制派, 概念股,
-红脖子, 官本位, 零拷贝, 实验组, 对照组,
-白热化, 市梦率, 浮点数, 定点数, 自由基,
-呼吸感, 疏通费, 信达雅, 白月光, 朱砂痣,
-甘特图, 容积率, 得房率, 理想国, 巴别塔
-
-社区团购, 图灵完备, 输送人才, 自我价值,
-消费升级, 消费降级, 借假修真, 信息屏障,
-虚拟现实, 增强现实, 冒烟测试, 灰度发布,
-蓝绿发布, 滚动发布, 可观测性, 生态化反,
-红蓝对抗, 增长黑客, 商业本质, 三电系统,
-从0到1, 斜杠青年, T型人才, 头脑风暴,
-弯道超车, 非标到标, 小镇青年, 刻板印象,
-种子用户, 鲶鱼效应, 羊群效应, 墨菲定律,
-蝴蝶效应, 木桶效应, 零和博弈, 囚徒困境,
-光环效应, 破窗效应, 边缘计算, 胖客户端,
-瘦客户端, 对称加密, 一级市场, 二级市场,
-一类电商, 二类电商, 逆向工程, 代码混淆,
-长期主义, 影响因子, 上帝视角, 人口红利,
-行业红利, 四纵三横, 专家系统, 图灵测试,
-末位淘汰, 洛希极限, 引力弹弓, 思想钢印,
-缸中之脑, 箱庭世界, 开放世界, 草台班子,
-庞氏骗局, 优绩主义, 树状结构, 思维导图,
-柔性生产, 瀑布模型, 边缘路径, 认知劣化,
-认知茧房, 认知失调, 互害绑定, 神经递质,
-心理韧性, 先验概率, 介入因果, 无效社交,
-乌合之众, 人格障碍, 情绪回路, 虚无主义,
-现实主义, 功利主义, 利己主义, 个人主义,
-利他主义, 集体主义, 英雄主义, 恐怖主义,
-人道主义, 爱国主义, 军国主义, 世界主义,
-经验主义, 理想主义, 行为主义, 身份认同,
-自我实现, 存在主义, 存在焦虑, 英雄史观,
-庄周梦蝶, 普世价值, 原生家庭, 光晕效应,
-戒断反应, 情境崩溃, 情境分离, 创伤记忆,
-应激反应, 向上管理, 锚定效应, 宏大叙事,
-消费主义, 自恋幻觉, 归因谬误, 假因谬误,
-形而上学, 反刍思维, 通识教育, 大而化之,
-程序正义, 政治正确, 机械降神, 平行世界,
-黑暗森林, 情绪铃铛, 多头博弈, 边际效用,
-管中窥豹, 色厉内荏, 生化环材, 专家主义,
-因噎废食, 地缘政治, 妙手回春, 回光返照,
-复杂系统, 混沌系统, 混沌工程, 均值回归,
-唯物主义, 唯心主义, 熵增定律, 粉饰太平,
-文艺复兴, 封建主义, 资本主义, 共产主义,
-社会主义, 自由主义, 民族主义, 机会主义,
-修正主义, 社会博弈, 文以载道, 道法术器,
-点线面体, 魑魅魍魉, 绥靖政策, 情绪价值,
-炉边谈话, 零日漏洞, 实体清单, 帕金森病,
-数据脱敏, 连续数据, 离散数据, 线性规划,
-曲线拟合, 线性回归, 逻辑回归, 方差分析,
-定序回归, 泊松回归, 生存回归, 神经网络,
-机器学习, 深度学习, 强化学习, 迁移学习,
-数据挖掘, 数据清洗, 向上社交, 向下兼容,
-三观不合, 以偏概全, 偷换概念, 非黑即白,
-诉诸中庸, 迷信权威, 不当类比, 自相矛盾,
-循环论证, 量化投资, 拿到结果, 敌意归因,
-刎颈之交, 角色扮演, 提示工程, 序位效应,
-多看效应, 镜中自我, 霍桑效应, 赌徒谬误,
-手表定律, 通感效应, 投射效应, 饮鸩止渴,
-自证预言, 怀璧其罪, 倒反天罡, 核心力量,
-尸位素餐, 事业单位, 纳什均衡, 命名空间,
-一带一路, 贸易转移, 有效取样, 模拟信号,
-数字信号, 射频信号, 株式会社, 蒙氏教育,
-孕妇效应, 斯金纳箱, 双减政策, 政左经右,
-汗牛充栋, 弹冠相庆, 贤者时间, 三中全会,
-三和大神, 资产阶级, 无产阶级, 工人阶级,
-农民阶级, 中产阶级, 相得益彰, 对赌协议,
-硅基生物, 碳基生物, 费米悖论, 红顶商人,
-国家机器, 沐猴而冠, 回归测试, 沙文主义,
-拾人牙慧, 转移支付, 战略纵深, 寅吃卯粮,
-逻辑炸弹, 铁锈地带, 深层政府, 隐性债务,
-化地方债, 寒蝉效应, 六经注我, 我注六经,
-洛阳纸贵, 统战价值, 退避重试, 纵深防御,
-一语成谶, 双盲实验, 几何级数, 算术级数,
-四不青年, 等额本金, 等额本息, 科学上网,
-二律背反, 开盒挂人, 国四国五, 信息过载,
-量子跃迁, 纵横捭阖
-
-金丝雀发布, 第一性原理, 供应链攻击,
-社会工程学, 旁观者效应, 幸存者偏差,
-登门槛效应, 以退为进法, 恩格尔系数,
-渐进式框架, 非对称加密, 结构化数据,
-无监督学习, 大语言模型, 巴纳姆效应,
-集体潜意识, 普鲁士教育, 建构式教育,
-启发式教育, 传授式教育, 填鸭式教育,
-既得利益者, 习得性无助, 规则类怪谈,
-薛定谔的猫, 宇称不守恒, 替代性成瘾,
-主观能动性, 主人翁意识, 原教旨主义,
-路西法效应, 社会化死亡, 表演型人格,
-贝叶斯概率, 忒修斯之船, 吸引力法则,
-六边形战士, 观察者偏见, 二极管思维,
-庞加莱回归, 无政府主义, 历史局限性,
-非普适范式, 他人即地狱, 何不食肉糜,
-社会管道化, 阿茲海默症, 伯努利原理,
-鲁珀特之泪, 讨好型人格, 单电子宇宙,
-煤气灯效应, 凡勃伦效应, 心理摆效应,
-酸葡萄效应, 皈依者狂热, 聚光灯效应,
-社会性懈怠, 存在即合理, 平均数谬误,
-布尔什维克, 社会原子化, 结构性风险,
-结构性改革, 边缘性行为, 同素异形体,
-费曼学习法, 魅力型权威, 我思故我在,
-塔西佗陷阱, 丁达尔效应, 色受想行识,
-高净值人士
-
-流氓无产阶级, 官僚资本主义, 机械唯物主义,
-辩证唯物主义, 古典自由主义, 劣币驱逐良币,
-半结构化数据, 非结构化数据, 卷积神经网络,
-天时地利人和, 品牌记忆系统, 心智切割利器,
-利维坦最优解, 雷普利症候群, 不确定性原理,
-蔡加尼克效应, 会计师事务所, 三明治反馈法,
-白璧微瑕效应, 罗森塔尔效应, 禁果逆反效应,
-柏拉图式爱情, 二级混沌系统, 高内聚低耦合,
-阿喀琉斯之踵, 修昔底德陷阱, 系统一系统二,
-非监督式学习, 欧亨利式结尾, 道可道非常道,
-名可名非常名
-
-斯德哥尔摩症候, 奥卡姆剃刀定律,
-邓宁克鲁格效应, 相关不蕴涵因果,
-阿斯伯格综合症, 马斯洛需求层次,
-布雷顿森林体系, 韦伯费希纳定理
-
-天地不仁，以万物为刍狗
-威斯特伐利亚体系
-```
-
-## 词汇解释
-
-### 二字词汇解释
+#### 二字词汇解释
 
 ```markdown
 赋能 - 提供必要资源或能力以增强能力
@@ -751,7 +535,7 @@ Y世代, Z世代, 黑天鹅, 博弈论, 上下文,
 银弹 - 简单直接解决复杂问题的方法
 ```
 
-### 三字词汇解释
+#### 三字词汇解释
 
 ```markdown
 对一下 - 检查或比对信息以确认一致性
@@ -876,7 +660,7 @@ Y世代, Z世代, 黑天鹅, 博弈论, 上下文,
 软夺权 - 通过非强制的方式获得控制权或影响力
 ```
 
-### 四字词汇解释
+#### 四字词汇解释
 
 ```markdown
 支棱起来 - 做好准备，积极应对
@@ -1069,7 +853,7 @@ Y世代, Z世代, 黑天鹅, 博弈论, 上下文,
 活跃度高 - 用户在产品或服务中的活跃程度较高
 ```
 
-### 五字词汇解释
+#### 五字词汇解释
 
 ```markdown
 精神SPA - 通过活动或体验来放松心灵、减轻精神压力
@@ -1111,7 +895,7 @@ Y世代, Z世代, 黑天鹅, 博弈论, 上下文,
 方言化认知 - 通过地方特色或文化背景影响的认知方式
 ```
 
-### 六字词汇解释
+#### 六字词汇解释
 
 ```markdown
 不跟风要造风 - 不仅仅追随潮流，而是要创造趋势
@@ -1120,7 +904,986 @@ Y世代, Z世代, 黑天鹅, 博弈论, 上下文,
 向下传递寒气 - 上层的不利情况或压力被传递给下层，影响整体氛围或表现
 ```
 
-### 补充词汇解释
+### 黑话词汇翻译
+
+#### 二字词汇翻译
+
+```markdown
+赋能 - Empower / Enablement
+抓手 - Leverage point / Handle
+中台 - Middleware / Middle-end platform
+闭环 - Closed loop
+落地 - Implement / Land (a project)
+漏斗 - Funnel
+沉淀 - Accumulate / Precipitate
+给到 - Provide / Deliver
+平台 - Platform
+响应 - Respond
+同步 - Sync
+对齐 - Align
+对标 - Benchmark
+迭代 - Iterate
+优化 - Optimize
+跟进 - Follow-up
+升级 - Upgrade
+交付 - Deliver
+聚焦 - Focus
+倒逼 - Reverse forcing / Reverse pressure
+复盘 - Review / Post-mortem
+梳理 - Sort out / Organize
+输出 - Output
+提炼 - Refine
+包装 - Package
+上升 - Elevate / Rise
+方案 - Solution / Plan
+摸索 - Explore
+踩坑 - Encounter pitfalls
+填坑 - Fill gaps / Fix pitfalls
+报备 - Report for approval / File
+串联 - Link up / Connect
+协同 - Collaborate
+联动 - Coordinated action
+透传 - Pass-through
+打通 - Integrate / Break through
+打平 - Level / Equalize
+抹平 - Smooth out / Flatten
+发力 - Exert effort / Push
+兼容 - Compatible
+量化 - Quantify / Quantized
+细分 - Segment
+重塑 - Reshape
+蓄能 - Energy storage / Charge up
+引爆 - Ignite / Trigger
+挖掘 - Mine / Explore
+背书 - Endorse
+背锅 - Take the blame
+支持 - Support
+支撑 - Sustain
+协调 - Coordinate
+支援 - Support / Aid
+加持 - Boost / Enhance
+加速 - Accelerate
+共建 - Co-build
+共创 - Co-create
+融合 - Integrate / Merge
+拉通 - Bridge / Connect thoroughly
+拉升 - Lift / Elevate
+洞察 - Insight
+渗透 - Penetrate
+咬合 - Mesh
+穿梭 - Shuttle
+辐射 - Radiate / Extend
+扩展 - Expand
+开拓 - Explore / Develop
+兜底 - Provide a safety net / Backstop
+降级 - Downgrade
+容错 - Fault tolerance
+容灾 - Disaster recovery
+解耦 - Decouple
+耦合 - Couple
+复用 - Reuse
+封装 - Encapsulate
+抽象 - Abstract
+聚合 - Aggregate
+集成 - Integrate
+拆解 - Decompose
+抓包 - Capture (network packets)
+观察 - Observe
+监控 - Monitor
+上报 - Report (data)
+捕获 - Capture
+分发 - Distribute
+分层 - Layering
+迁移 - Migrate
+回溯 - Trace back
+回归 - Return / Regression
+回流 - Return traffic / User return
+回跳 - Bounce back
+通晒 - Fully disclose / Transparent review
+吃透 - Fully understand
+死磕 - Stick to it till the end
+树立 - Establish
+跨界 - Cross-field / Interdisciplinary
+共情 - Empathy
+演绎 - Deduce
+画饼 - Paint a rosy picture
+打造 - Craft / Build
+反哺 - Give back / Reciprocate
+输血 - Infuse resources
+造血 - Generate resources
+造势 - Create momentum
+造市 - Market making
+造事 - Stir up issues
+下沉 - Go down-market / Penetrate deeper into the market
+拉新 - Acquire new users
+转化 - Convert
+留存 - Retain
+促活 - Activate / Promote activity
+付费 - Pay / Monetize
+营收 - Revenue
+盈利 - Profit
+获客 - Acquire customers
+邀请 - Invite
+助力 - Support / Boost
+激励 - Motivate
+激活 - Activate
+推广 - Promote
+投放 - Launch (ads)
+导流 - Drive traffic
+覆盖 - Cover
+曝光 - Exposure
+裂变 - Viral / Fission
+增长 - Growth
+优秀 - Excellent
+感恩 - Grateful
+比心 - Show appreciation (gesture)
+笔芯 - Show love / Affection (pun on "比心")
+下跪 - Kneel
+致敬 - Pay tribute
+订阅 - Subscribe
+认证 - Certify / Authenticate
+推送 - Push (notifications)
+唤醒 - Wake up / Activate
+流失 - Churn
+召回 - Recall / Retarget
+授权 - Authorize
+接入 - Integrate / Access
+铸造 - Forge
+构筑 - Construct
+构建 - Build
+搭建 - Set up / Construct
+布局 - Layout / Strategize
+组局 - Organize (a game or meeting)
+摸鱼 - Slack off
+划水 - Slack off / Do minimal work
+众筹 - Crowdfunding
+收割 - Reap / Harvest (metaphorically)
+共享 - Share
+重组 - Restructure
+收口 - Wrap up / Conclude
+转型 - Transform
+围绕 - Revolve around
+出击 - Strike out / Launch an attack
+证言 - Testimony
+确认 - Confirm
+明确 - Clarify
+评估 - Assess
+评审 - Review
+务实 - Pragmatic
+夯实 - Solidify / Strengthen
+预判 - Anticipate / Predict
+预言 - Predict / Forecast
+变迁 - Changes / Evolution
+返佣 - Rebate
+深入 - Delve into / Penetrate
+打磨 - Polish / Refine
+攻坚 - Tackle tough problems
+击穿 - Break through
+破冰 - Break the ice
+破题 - Solve the problem
+解题 - Solve (a problem)
+破圈 - Break out of the circle
+破局 - Change the situation
+定量 - Quantify
+定性 - Qualify
+制约 - Restrict
+约束 - Constraint
+触及 - Reach / Touch
+触达 - Reach
+触发 - Trigger
+操盘 - Operate / Manage
+思考 - Think
+反思 - Reflect
+精简 - Streamline
+深耕 - Deeply cultivate
+突围 - Break through (a blockade)
+补位 - Fill a position / Cover
+抽离 - Extract / Detach
+履约 - Fulfill (a contract)
+进化 - Evolve
+进军 - Advance into
+起飞 - Take off
+皮实 - Tough / Durable
+本分 - Dutiful / Responsible
+重磅 - Heavyweight / Major
+垂直 - Vertical
+真香 - Really good / Delicious (ironically)
+自洽 - Self-consistent
+精准 - Precise
+持续 - Sustain / Continue
+灵活 - Flexible
+稳定 - Stable
+可控 - Controllable
+活跃 - Active
+风口 - Tipping point / Boom
+打法 - Strategy / Method
+玩法 - Gameplay / Approach
+矩阵 - Matrix
+纽带 - Bond / Link
+刺激 - Stimulate
+规模 - Scale
+场景 - Scenario
+渠道 - Channel
+入口 - Entry point
+维度 - Dimension
+格局 - Pattern / Structure
+形态 - Form / Shape
+生态 - Ecosystem
+体系 - System
+认知 - Cognition
+体感 - Somatosensory
+感知 - Perception
+心智 - Mindset
+调性 - Tone
+战役 - Campaign
+合力 - Joint effort
+心力 - Mental effort
+赛道 - Track / Field (metaphorical for market segment)
+基石 - Cornerstone
+基因 - Gene
+因子 - Factor
+模型 - Model
+通道 - Passage / Channel
+链路 - Link
+水位 - Water level
+水准 - Standard / Level
+姿态 - Posture / Stance
+卡点 - Checkpoint / Milestone
+卡位 - Position / Slot
+头部 - Leading / Top
+腰部 - Mid-tier
+踝部 - Lower-tier
+痛点 - Pain point
+爽点 - Pleasure point
+痒点 - Itch point
+全域 - Full domain / Whole area
+公域 - Public domain
+私域 - Private domain
+本我 - Id
+自我 - Ego
+超我 - Superego
+蓝海 - Blue ocean
+红海 - Red ocean
+纵向 - Vertical
+横向 - Horizontal
+上限 - Upper limit
+下限 - Lower limit
+上游 - Upstream
+下游 - Downstream
+阈值 - Threshold
+场域 - Field / Arena
+架构 - Architecture
+系统 - System
+标配 - Standard configuration / Default
+长尾 - Long tail
+态势 - Situation / Posture
+锚点 - Anchor point
+标杆 - Benchmark / Standard
+壁垒 - Barrier
+变量 - Variable
+期权 - Option
+边界 - Boundary
+品牌 - Brand
+阵地 - Position / Ground
+高地 - High ground
+洼地 - Low-lying area
+高空 - High altitude
+革命 - Revolution
+变革 - Reform / Transformation
+内卷 - Involution
+外包 - Outsource
+福报 - Good fortune
+脑暴 - Brainstorm
+脑洞 - Creative idea / Wild imagination
+圈层 - Social circle / Layer
+层级 - Hierarchy
+段位 - Rank / Level
+环节 - Link / Phase
+困局 - Dilemma
+话术 - Script / Sales pitch
+文案 - Copywriting
+议程 - Agenda
+公关 - Public relations
+配称 - Match / Suit
+力场 - Field of force
+魔方 - Rubik's cube / Complex problem
+触点 - Touchpoint
+势能 - Potential energy
+流量 - Traffic / Flow
+资源 - Resources
+排期 - Schedule
+延期 - Postpone
+弹窗 - Pop-up
+浮层 - Floating layer
+引导 - Guide
+蒙层 - Overlay
+幕帘 - Curtain
+遮罩 - Mask
+埋点 - Embed a tracker
+坑位 - Pitfall / Slot
+楼层 - Floor
+按钮 - Button
+红包 - Red envelope / Bonus
+峰值 - Peak
+漏洞 - Vulnerability
+风险 - Risk
+瓶颈 - Bottleneck
+策略 - Strategy
+价值 - Value
+成本 - Cost
+复利 - Compound interest
+人性 - Human nature
+利器 - Powerful tool
+深度 - Depth
+玩家 - Player
+小白 - Newbie
+韭菜 - Retail investors (pejoratively)
+羊毛 - Freebies / Perks
+福利 - Welfare / Benefits
+套路 - Routine / Trick
+情怀 - Sentiment / Nostalgia
+标准 - Standard
+规范 - Norm / Regulation
+社群 - Community
+产业 - Industry
+载体 - Carrier / Medium
+服务 - Service
+粘性 - Stickiness / Engagement
+属性 - Attribute
+地域 - Region
+终端 - Terminal / Endpoint
+版本 - Version
+口碑 - Reputation
+指标 - Indicator / Metric
+年框 - Annual framework
+试点 - Pilot (project)
+母体 - Matrix / Mother
+空白 - Blank / Gap
+银弹 - Silver bullet
+```
+
+#### 三字词汇翻译
+
+```markdown
+对一下 - Check / Align
+碰一下 - Touch base
+过一下 - Review / Go over
+抢品类 - Capture categories
+卡认知 - Limit cognition / Cognitive bias
+占场景 - Occupy scenarios
+观行业 - Observe the industry
+明竞争 - Clarify competition
+洞自身 - Self-awareness
+开场子 - Open a conversation / Set the stage
+提调子 - Raise the tone / Improve mood
+冷启动 - Cold start
+秀肌肉 - Show off strength
+借东风 - Leverage external forces
+断舍离 - Declutter / Minimalism
+薅羊毛 - Exploit loopholes for benefits
+砍一刀 - Make a cut / Negotiate a deal
+走出去 - Go global
+讲故事 - Storytelling
+扁平化 - Flattening / Flat organization
+差异化 - Differentiation
+平台化 - Platformization
+结构化 - Structuring
+精细化 - Refinement
+短平快 - Fast and efficient
+常态化 - Normalization
+强依赖 - Strong dependency
+不可控 - Uncontrollable
+有风险 - Risky
+感知度 - Awareness level
+颗粒度 - Granularity
+方法论 - Methodology
+组合拳 - Combination strategy
+引爆点 - Tipping point
+护城河 - Moat (competitive advantage)
+影响力 - Influence
+资源位 - Resource position
+优先级 - Priority
+制高点 - High ground / Strategic advantage
+可用性 - Availability
+易用性 - Usability
+稳定性 - Stability
+便捷性 - Convenience
+耦合性 - Coupling
+一致性 - Consistency
+系统性 - Systematic
+端到端 - End-to-end
+点对点 - Peer-to-peer
+点线面 - Point-line-plane (comprehensive approach)
+上半场 - First half
+下半场 - Second half
+主战场 - Main battlefield
+人货场 - People, goods, and marketplace
+基本面 - Fundamentals
+基本盘 - Basic foundation
+操盘手 - Operator / Trader
+进化论 - Evolution theory
+解释权 - Right to interpret
+最优解 - Optimal solution
+执行力 - Execution
+驱动力 - Driving force
+鄙视链 - Disdain chain
+生态链 - Ecosystem chain
+生态圈 - Ecosystem
+生态位 - Ecological niche
+全场景 - All scenarios
+全渠道 - Omnichannel
+全方位 - All-around
+全媒体 - All media
+流量池 - Traffic pool
+天花板 - Ceiling / Limit
+传话筒 - Megaphone / Amplifier
+转化率 - Conversion rate
+活跃度 - Activity level
+颗粒感 - Sense of granularity
+登云梯 - Cloud ladder (aspiration to ascend)
+冲击力 - Impact force
+视觉锤 - Visual impact
+孵化器 - Incubator
+新零售 - New retail
+新物种 - New species
+新品牌 - New brand
+新篇章 - New chapter
+新局势 - New situation
+新赛道 - New track (market segment)
+新势能 - New potential
+新国货 - New domestic products
+新国潮 - New national trend
+新动力 - New driving force
+同理心 - Empathy
+气氛组 - Atmosphere group
+竞争力 - Competitiveness
+存在感 - Sense of presence
+认同感 - Sense of identity
+参与感 - Sense of participation
+归属感 - Sense of belonging
+使命感 - Sense of mission
+价值观 - Values
+忠诚度 - Loyalty
+预热期 - Warm-up period
+高峰期 - Peak period
+高潮期 - Climax period
+上升期 - Rising phase
+瓶颈期 - Bottleneck phase
+大数据 - Big data
+云计算 - Cloud computing
+区块链 - Blockchain
+比特币 - Bitcoin
+虚拟币 - Cryptocurrency
+天使轮 - Angel round
+自媒体 - Self-media
+新媒体 - New media
+价格门 - Price gate
+超预期 - Beyond expectations
+小前台 - Small front-end
+大中台 - Large middle-end
+凝聚力 - Cohesion
+向心力 - Centripetal force
+元无知 - Meta-ignorance
+软夺权 - Soft power grab
+```
+
+#### 四字词汇翻译
+
+```markdown
+支棱起来 - Brace up / Stand ready
+快速响应 - Rapid response
+小步快跑 - Agile execution / Quick steps
+价值转化 - Value conversion
+强化认知 - Strengthen cognition
+资源置换 - Resource exchange
+资源倾斜 - Resource inclination
+资源配置 - Resource allocation
+完善逻辑 - Perfect logic
+去中心化 - Decentralization
+渠道下沉 - Channel sinking
+用户下沉 - User sinking
+降维打击 - Dimensionality reduction strike
+体验度量 - Experience measurement
+高频触达 - High-frequency touch
+快速迭代 - Rapid iteration
+持续迭代 - Continuous iteration
+持续集成 - Continuous integration
+持续交付 - Continuous delivery
+持续观察 - Continuous observation
+躬身入局 - Dive into the game
+顺势而为 - Go with the flow
+打破结界 - Break barriers
+升维定位 - Upward dimension positioning
+有机结合 - Organic integration
+起承转合 - Beginning, development, turn, and conclusion
+存量维持 - Maintain stock
+增量博弈 - Incremental game
+心智角逐 - Mental contest
+抽离透传 - Abstract and pass through
+拨冗参会 - Take the time to attend
+反复确认 - Repeated confirmation
+综合评估 - Comprehensive assessment
+刻意练习 - Deliberate practice
+打破制约 - Break constraints
+绝境求生 - Survival in desperation
+品牌露出 - Brand exposure
+拥抱变化 - Embrace change
+重新定义 - Redefine
+借势营销 - Leverage marketing
+内容创业 - Content entrepreneurship
+归因分析 - Attribution analysis
+逻辑推理 - Logical reasoning
+建立范式 - Establish paradigm
+总结沉淀 - Summary and consolidation
+解决问题 - Solve problems
+占领心智 - Occupy mind
+高举高打 - High strike
+高开低走 - Start high and go low
+高台跳水 - High dive
+深入产业 - Deep dive into industry
+拉齐水位 - Level the water
+全情投入 - Fully engaged
+如何收口 - How to conclude
+全面封锁 - Full blockade
+协同作战 - Collaborate in combat
+剑走偏锋 - Unconventional strategies
+弹射起飞 - Catapult launch
+结果导向 - Result-oriented
+业务导向 - Business-oriented
+资源紧张 - Resource tension
+人力不足 - Insufficient manpower
+体感不好 - Poor user experience
+风险可控 - Risk controllable
+逻辑自洽 - Logically consistent
+品效合一 - Product effectiveness unity
+全球领先 - Global leader
+人无我有 - What others don't have, I have
+人有我优 - What others have, I excel in
+人优我变 - When others excel, I change
+势如破竹 - Unstoppable momentum
+势不可挡 - Irresistible force
+石破天惊 - Earth-shattering
+生命周期 - Lifecycle
+复用打法 - Reuse tactics
+商业模式 - Business model
+平台战略 - Platform strategy
+集团战略 - Group strategy
+战略引擎 - Strategic engine
+关键路径 - Critical path
+决策路径 - Decision-making path
+天使投资 - Angel investment
+盈利模式 - Profit model
+底层逻辑 - Underlying logic
+顶层设计 - Top-level design
+饥饿营销 - Hunger marketing
+行业壁垒 - Industry barriers
+下沉市场 - Sinking market
+消费认知 - Consumer awareness
+人工智能 - Artificial intelligence
+赛博朋克 - Cyberpunk
+智慧城市 - Smart city
+解决方案 - Solutions
+知识付费 - Knowledge payment
+私域流量 - Private domain traffic
+交付价值 - Deliver value
+时间价值 - Time value
+共享经济 - Sharing economy
+通证经济 - Token economy
+中央厨房 - Central kitchen
+先发优势 - First-mover advantage
+真实场景 - Real scenario
+临门一脚 - Final step
+真香定律 - Really good (change of heart)
+正态分布 - Normal distribution / Gaussian distribution
+幂律分布 - Power-law distribution
+二八定律 - 80/20 rule
+长尾理论 - Long tail theory
+叠加效应 - Superposition effect
+马太效应 - Matthew effect
+沉没成本 - Sunk cost
+边际成本 - Marginal cost
+机会成本 - Opportunity cost
+偏好植入 - Preference implantation
+蚂蚁市场 - Ant market
+场景占位 - Scenario occupation
+产业集群 - Industrial cluster
+产业服务 - Industrial services
+标杆市场 - Benchmark market
+心动情境 - Heart-moving scenario
+利基市场 - Niche market
+第二曲线 - Second curve
+垂直领域 - Vertical field
+可持续性 - Sustainability
+可替代性 - Replaceability
+认知优势 - Cognitive advantage
+新增长点 - New growth point
+颠覆态势 - Disruptive trend
+最高规制 - Highest regulation
+三位一体 - Trinity
+资深玩家 - Senior player
+不破不立 - Break and rebuild
+用户心智 - User mindset
+用户粘性 - User stickiness
+用户体验 - User experience
+用户认知 - User cognition
+用户画像 - User profile
+用户调研 - User research
+重度用户 - Heavy users
+沉默用户 - Silent users
+活跃用户 - Active users
+用户黏性 - User stickiness
+千人千面 - Personalized for each individual
+千人一面 - One size fits all
+信息茧房 - Information cocoon
+流量红利 - Traffic dividend
+流量为王 - Traffic is king
+价格歧视 - Price discrimination
+意识形态 - Ideology
+心理账户 - Mental accounting
+情绪G点 - Emotional G-spot
+品牌势能 - Brand potential
+服务产业 - Service industry
+关键时期 - Critical period
+沟通协作 - Communication and collaboration
+战略合力 - Strategic synergy
+品牌航母 - Brand aircraft carrier
+品类战舰 - Category battleship
+行军路线 - March route
+产品尖兵 - Product vanguard
+拳头产品 - Flagship product
+超级符号 - Super symbol
+挽留弹窗 - Retention pop-up
+时间窗口 - Time window
+定性定量 - Qualitative and quantitative
+战略支点 - Strategic fulcrum
+声音印记 - Sound imprint
+社交货币 - Social currency
+付费社群 - Paid community
+神交已久 - Long acquainted in spirit
+财务自由 - Financial freedom
+微粒社会 - Granular society
+增强回路 - Positive feedback loop
+认知折叠 - Cognitive folding
+代偿效应 - Compensatory effect
+隐性玩家 - Hidden player
+知识盲维 - Knowledge dimension blind spot
+信用系数 - Credit coefficient
+行动轴心 - Action axis
+故乡策略 - Hometown strategy
+回到母体 - Return to the origin
+无边棋盘 - Infinite chessboard
+飞轮效应 - Flywheel effect
+合成真实 - Synthetic reality
+逆火效应 - Backfire effect
+打开率高 - High open rate
+留存率高 - High retention rate
+活跃度高 - High activity level
+```
+
+#### 五字词汇翻译
+
+```markdown
+精神SPA - Mental SPA / Psychological comfort
+大数据分析 - Big data analysis
+大数据杀熟 - Big data price discrimination
+延迟满足感 - Delayed gratification
+地毯式轰炸 - Carpet bombing (extensive coverage)
+饱和式攻击 - Saturated attack
+四两拨千斤 - Leveraging small efforts for big results
+开辟新路径 - Pioneer new paths
+建立新习惯 - Establish new habits
+用户无感知 - User unawareness
+叫好又叫座 - Critically and commercially successful
+优先级很高 - High priority
+拉新成本高 - High customer acquisition cost
+颠覆式创新 - Disruptive innovation
+连续创业者 - Serial entrepreneur
+投入产出比 - Input-output ratio
+互联网思维 - Internet mindset
+互联网红利 - Internet dividend
+国民总时间 - National total time
+最后一公里 - Last mile
+海豚湾模式 - Dolphin Bay model
+最大公约数 - Greatest common divisor (appeal to the broadest audience)
+现象级事件 - Phenomenal event
+沉浸式体验 - Immersive experience
+用户忠诚度 - Customer loyalty
+自媒体矩阵 - Self-media matrix
+病毒式营销 - Viral marketing
+风口上的猪 - A pig on the wind (rising tide lifts all boats)
+战略性投资 - Strategic investment
+战略性亏损 - Strategic loss
+系统性风险 - Systemic risk
+意义炼金术 - Alchemy of meaning
+共识性发展 - Consensus development
+横向标准化 - Horizontal standardization
+符号私有化 - Symbol privatization
+非理性异动 - Irrational movement
+方言化认知 - Dialectal cognition
+```
+
+#### 六字词汇翻译
+
+```markdown
+不跟风要造风 - Don't follow trends, create them
+多维矩阵闭环 - Multidimensional matrix closed-loop
+打开销售通路 - Open sales channels
+向下传递寒气 - Send chills down the hierarchy (top management's tough measures affecting the entire organization)
+```
+
+## 搜集词汇
+
+### 搜集词汇列表
+
+#### 混杂词汇列表
+
+```markdown
+985工程, 211工程, All in, A/B测试,
+QR码, UP主, 大V, 主R, I人, E人, J人,
+P人, C位, B超, 4S店, B端, C端, G端,
+3A游戏, 去IOE, IO密集, CPU密集, X号位
+```
+
+#### 二字词汇列表
+
+```markdown
+熵减, 熵增, 毕业, 极高, 奇高, 新高, 交接,
+接棒, 继承, 联调, 监测, 复现, 重现, 提议,
+提案, 对等, 进展, 预算, 路演, 人设, 定位,
+权重, 共振, 连爆, 瞬爆, 切片, 起号, 养号,
+算法, 限流, 断流, 达人, 素人, 逆转, 黑盒,
+白盒, 向量, 图谱, 基线, 底线, 远景, 愿景,
+友商, 竞对, 拉高, 发酵, 双周, 双月, 招标,
+围标, 陪标, 串标, 币圈, 撸毛, 空投, 大饼,
+土狗, 挖矿, 矿工, 矿难, 梭哈, 破发, 割肉,
+看板, 孤岛, 群控, 中控, 场控, 导播, 洗稿,
+互推, 硬广, 软文, 网感, 声量, 出圈, 普惠,
+景观, 代际, 出海, 众包, 海淘, 标品, 集美,
+景别, 运镜, 构图, 转场, 定格, 闪回, 截流,
+死锁, 脑裂, 作业, 常量, 探针, 探活, 断点,
+快照, 同构, 异构, 高定, 逆天, 能量, 非遗,
+达观, 前向, 后向, 敏捷, 高优, 撬动, 下钻,
+撞库, 烧钱, 勾兑, 寡头, 宽松, 落盘, 黑洞,
+雄竞, 雌竞, 利差, 虫洞, 奇点, 范畴, 祛魅,
+羁绊, 民粹, 沙盒, 模因, 内因, 外因, 泛化,
+极化, 钝化, 奴化, 让渡, 微操, 社科, 民科,
+耻感, 热寂, 应然, 实然, 虹吸, 均值, 中值,
+养蛊, 涅槃, 对冲, 对赌, 范式, 内耗, 刻奇,
+冥想, 群氓, 脱敏, 寇仇, 暗网, 阴谋, 阳谋,
+穷举, 极客, 反智, 冗余, 意识, 盘点, 轮转,
+先贤, 悖论, 诡辩, 溢价, 公知, 湿件, 规训,
+解构, 扰动, 回滚, 临期, 人月, 人日, 人时,
+极致, 塔基, 塔尖, 轻奢, 重奢, 顶奢, 维密,
+主义, 白牌, 内包, 总包, 推演, 军阀, 财阀,
+学阀, 定金, 订金, 手办, 公仔, 函数, 映射,
+拟合, 方差, 智商, 情商, 逆商, 财商, 社牛,
+社恐, 丁克, 团建, 躺平, 上头, 下头, 丧系,
+佛系, 油腻, 硬核, 副本, 四大, 递归, 内涵,
+外延, 口嗨, 环比, 同比, 量贩, 场观, 标化,
+信托, 碳水, 瑜伽, 席位, 应力, 通货, 现金,
+通胀, 通缩, 交媾, 媾和, 降噪, 正念, 证伪,
+辩证, 同化, 异化, 拉爆, 集合, 内核, 收入,
+毛利, 利润, 企画, 赋闲, 软件, 硬件, 涌现,
+雷管, 社达, 炸鱼, 豁免, 有氧, 无氧, 困囿,
+僭越, 平替, 左翼, 右翼, 左倾, 右倾, 双碳,
+拿捏, 过单, 运维, 斡旋, 回源, 泛型, 制程,
+指数, 对数, 商数, 飞地, 买办, 仓位, 平仓,
+爆仓, 守仓, 斩仓, 穿仓, 抛单, 滑点, 多头,
+空头, 做空, 做多, 杠杆, 合约, 期货, 头寸,
+标的, 分叉, 双花, 表征, 软考, 统考, 统招,
+中考, 高考, 抽样, 发小, 发妻, 唯二, 拔群,
+子集, 超集, 统筹, 拥趸, 局座, 笔者, 主体,
+客体, 应援, 脑雾, 信创, 加息, 降息, 人权,
+掮客, 搭子, 收官, 鉴权, 业态, 踏空, 套牢,
+蓝筹, 红筹, 等保, 合规, 掉电, 浪涌, 党鞭,
+熔断, 抱石, 赓续, 企稳, 器局, 六经, 图床,
+泡沫, 插桩, 坪效, 顺差, 逆差, 糊咖, 幕僚,
+阴鸷, 放水, 走线, 东大, 挽尊, 业力, 晕染,
+动线, 机场, 氧化, 代币, 元件, 固态, 本科,
+专科, 百合, 耽美, 攻受, 纯爱, 腐女, 腐男,
+利是, 品类, 水友, 驴友, 老六, 效能, 排面,
+赤字, 蛇头, 狗血, 心法, 当量
+```
+
+#### 三字词汇列表
+
+```markdown
+双一流, 交学费, 智商税, 阶段性, 有深度,
+原动力, 三板斧, 利益点, 不可逆, 向量化,
+微服务, 云原生, 平常心, 独角兽, 强绑定,
+超融合, 蒙太奇, 关键帧, 剪辑率, 工具人,
+凡尔赛, 非标品, 硬着陆, 软着陆, 供给侧,
+需求端, 跳出率, 产业链, 信息流, 碎片化,
+一元化, 二元化, 多元化, 新常态, X世代,
+Y世代, Z世代, 黑天鹅, 博弈论, 上下文,
+里程碑, 检查点, 元数据, 场景化, 危机感,
+高压线, 智能体, 人生观, 世界观, 多巴胺,
+内啡肽, 血清素, 催产素, 边界感, 信息差,
+暗物质, 引力波, 叠加态, 猜疑链, 劣根性,
+信息熵, 缝合怪, 认知税, 罗生门, 污名化,
+厚黑学, 容错率, 剪刀差, 士大夫, 杀猪盘,
+多模态, 应声虫, 神经元, 周期律, 因果论,
+玛丽苏, 龙傲天, 宗主国, 寒号鸟, 常春藤,
+键盘侠, 东林党, 宿命论, 投名状, 二元论,
+与非门, 乌托邦, 厌蠢症, 分水岭, 过滤器,
+做市商, 语料库, 做题家, 高可用, 安慰剂,
+建设性, 奶头乐, 苦行僧, 婆罗门, 过拟合,
+仁波切, 千禧年, 人效比, 正反馈, 负反馈,
+现象学, 艾滋病, 渐冻症, 令牌化, 假名化,
+匿名化, 幂等性, 自变量, 因变量, 钝感力,
+仪式感, 回旋镖, 空窗期, 庇护所, 二五仔,
+三段论, 中二病, 产学研, 公务员, 体制内,
+鲁棒性, 置信度, 作用域, 平方差, 标准差,
+性张力, 裸金属, 在野党, 反对党, 结构性,
+元宇宙, 有机物, 无机物, 大杀器, 金本位,
+爱国贼, 乌班图, 法西斯, 建制派, 概念股,
+红脖子, 官本位, 零拷贝, 实验组, 对照组,
+白热化, 市梦率, 浮点数, 定点数, 自由基,
+呼吸感, 疏通费, 信达雅, 白月光, 朱砂痣,
+甘特图, 容积率, 得房率, 理想国, 巴别塔
+```
+
+#### 四字词汇列表
+
+```markdown
+社区团购, 图灵完备, 输送人才, 自我价值,
+消费升级, 消费降级, 借假修真, 信息屏障,
+虚拟现实, 增强现实, 冒烟测试, 灰度发布,
+蓝绿发布, 滚动发布, 可观测性, 生态化反,
+红蓝对抗, 增长黑客, 商业本质, 三电系统,
+从0到1, 斜杠青年, T型人才, 头脑风暴,
+弯道超车, 非标到标, 小镇青年, 刻板印象,
+种子用户, 鲶鱼效应, 羊群效应, 墨菲定律,
+蝴蝶效应, 木桶效应, 零和博弈, 囚徒困境,
+光环效应, 破窗效应, 边缘计算, 胖客户端,
+瘦客户端, 对称加密, 一级市场, 二级市场,
+一类电商, 二类电商, 逆向工程, 代码混淆,
+长期主义, 影响因子, 上帝视角, 人口红利,
+行业红利, 四纵三横, 专家系统, 图灵测试,
+末位淘汰, 洛希极限, 引力弹弓, 思想钢印,
+缸中之脑, 箱庭世界, 开放世界, 草台班子,
+庞氏骗局, 优绩主义, 树状结构, 思维导图,
+柔性生产, 瀑布模型, 边缘路径, 认知劣化,
+认知茧房, 认知失调, 互害绑定, 神经递质,
+心理韧性, 先验概率, 介入因果, 无效社交,
+乌合之众, 人格障碍, 情绪回路, 虚无主义,
+现实主义, 功利主义, 利己主义, 个人主义,
+利他主义, 集体主义, 英雄主义, 恐怖主义,
+人道主义, 爱国主义, 军国主义, 世界主义,
+经验主义, 理想主义, 行为主义, 身份认同,
+自我实现, 存在主义, 存在焦虑, 英雄史观,
+庄周梦蝶, 普世价值, 原生家庭, 光晕效应,
+戒断反应, 情境崩溃, 情境分离, 创伤记忆,
+应激反应, 向上管理, 锚定效应, 宏大叙事,
+消费主义, 自恋幻觉, 归因谬误, 假因谬误,
+形而上学, 反刍思维, 通识教育, 大而化之,
+程序正义, 政治正确, 机械降神, 平行世界,
+黑暗森林, 情绪铃铛, 多头博弈, 边际效用,
+管中窥豹, 色厉内荏, 生化环材, 专家主义,
+因噎废食, 地缘政治, 妙手回春, 回光返照,
+复杂系统, 混沌系统, 混沌工程, 均值回归,
+唯物主义, 唯心主义, 熵增定律, 粉饰太平,
+文艺复兴, 封建主义, 资本主义, 共产主义,
+社会主义, 自由主义, 民族主义, 机会主义,
+修正主义, 社会博弈, 文以载道, 道法术器,
+点线面体, 魑魅魍魉, 绥靖政策, 情绪价值,
+炉边谈话, 零日漏洞, 实体清单, 帕金森病,
+数据脱敏, 连续数据, 离散数据, 线性规划,
+曲线拟合, 线性回归, 逻辑回归, 方差分析,
+定序回归, 泊松回归, 生存回归, 神经网络,
+机器学习, 深度学习, 强化学习, 迁移学习,
+数据挖掘, 数据清洗, 向上社交, 向下兼容,
+三观不合, 以偏概全, 偷换概念, 非黑即白,
+诉诸中庸, 迷信权威, 不当类比, 自相矛盾,
+循环论证, 量化投资, 拿到结果, 敌意归因,
+刎颈之交, 角色扮演, 提示工程, 序位效应,
+多看效应, 镜中自我, 霍桑效应, 赌徒谬误,
+手表定律, 通感效应, 投射效应, 饮鸩止渴,
+自证预言, 怀璧其罪, 倒反天罡, 核心力量,
+尸位素餐, 事业单位, 纳什均衡, 命名空间,
+一带一路, 贸易转移, 有效取样, 模拟信号,
+数字信号, 射频信号, 株式会社, 蒙氏教育,
+孕妇效应, 斯金纳箱, 双减政策, 政左经右,
+汗牛充栋, 弹冠相庆, 贤者时间, 三中全会,
+三和大神, 资产阶级, 无产阶级, 工人阶级,
+农民阶级, 中产阶级, 相得益彰, 对赌协议,
+硅基生物, 碳基生物, 费米悖论, 红顶商人,
+国家机器, 沐猴而冠, 回归测试, 沙文主义,
+拾人牙慧, 转移支付, 战略纵深, 寅吃卯粮,
+逻辑炸弹, 铁锈地带, 深层政府, 隐性债务,
+化地方债, 寒蝉效应, 六经注我, 我注六经,
+洛阳纸贵, 统战价值, 退避重试, 纵深防御,
+一语成谶, 双盲实验, 几何级数, 算术级数,
+四不青年, 等额本金, 等额本息, 科学上网,
+二律背反, 开盒挂人, 国四国五, 信息过载,
+量子跃迁, 纵横捭阖
+```
+
+#### 五字词汇列表
+
+```markdown
+金丝雀发布, 第一性原理, 供应链攻击,
+社会工程学, 旁观者效应, 幸存者偏差,
+登门槛效应, 以退为进法, 恩格尔系数,
+渐进式框架, 非对称加密, 结构化数据,
+无监督学习, 大语言模型, 巴纳姆效应,
+集体潜意识, 普鲁士教育, 建构式教育,
+启发式教育, 传授式教育, 填鸭式教育,
+既得利益者, 习得性无助, 规则类怪谈,
+薛定谔的猫, 宇称不守恒, 替代性成瘾,
+主观能动性, 主人翁意识, 原教旨主义,
+路西法效应, 社会化死亡, 表演型人格,
+贝叶斯概率, 忒修斯之船, 吸引力法则,
+六边形战士, 观察者偏见, 二极管思维,
+庞加莱回归, 无政府主义, 历史局限性,
+非普适范式, 他人即地狱, 何不食肉糜,
+社会管道化, 阿茲海默症, 伯努利原理,
+鲁珀特之泪, 讨好型人格, 单电子宇宙,
+煤气灯效应, 凡勃伦效应, 心理摆效应,
+酸葡萄效应, 皈依者狂热, 聚光灯效应,
+社会性懈怠, 存在即合理, 平均数谬误,
+布尔什维克, 社会原子化, 结构性风险,
+结构性改革, 边缘性行为, 同素异形体,
+费曼学习法, 魅力型权威, 我思故我在,
+塔西佗陷阱, 丁达尔效应, 色受想行识,
+高净值人士
+```
+
+#### 六字词汇列表
+
+```
+流氓无产阶级, 官僚资本主义, 机械唯物主义,
+辩证唯物主义, 古典自由主义, 劣币驱逐良币,
+半结构化数据, 非结构化数据, 卷积神经网络,
+天时地利人和, 品牌记忆系统, 心智切割利器,
+利维坦最优解, 雷普利症候群, 不确定性原理,
+蔡加尼克效应, 会计师事务所, 三明治反馈法,
+白璧微瑕效应, 罗森塔尔效应, 禁果逆反效应,
+柏拉图式爱情, 二级混沌系统, 高内聚低耦合,
+阿喀琉斯之踵, 修昔底德陷阱, 系统一系统二,
+非监督式学习, 欧亨利式结尾, 道可道非常道,
+名可名非常名
+```
+
+#### 七字词汇列表
+
+```markdown
+斯德哥尔摩症候, 奥卡姆剃刀定律,
+邓宁克鲁格效应, 相关不蕴涵因果,
+阿斯伯格综合症, 马斯洛需求层次,
+布雷顿森林体系, 韦伯费希纳定理
+```
+
+#### 更多词汇列表
+
+```
+天地不仁，以万物为刍狗
+威斯特伐利亚体系
+```
+
+### 搜集词汇解释
+
+#### 混杂词汇解释
 
 ```markdown
 985工程 - 1998年5月，江泽民提出的建设具有世界先进水平的一流大学的教育计划，共39所高校，最初入选985工程的9所高校，称C9、九校联盟，包括北京大学、清华大学、哈尔滨工业大学、复旦大学、上海交通大学、南京大学、浙江大学、中国科学技术大学、西安交通大学
@@ -1146,7 +1909,11 @@ G端 - 政府及事业单位(Government)
 IO密集 - 需要大量输入输出操作，相比CPU，对硬盘和内存读写、数据库访问、网络传输等操作更多
 CPU密集 - 需要大量CPU计算，相比CPU，对硬盘和内存读写、数据库访问、网络传输等操作较少
 X号位 - 在团队中，通常1号位核心领导，2号位辅助推进，3号位攻坚突破，4号位多面支援，5号位后勤保障
+```
 
+#### 二字词汇解释
+
+```markdown
 熵减 - 系统从混乱向有序转变，情况变好
 熵增 - 系统从有序向混乱转变，情况恶化
 毕业 - 完成某个阶段或任务，准备进入下一阶段
@@ -1537,7 +2304,11 @@ X号位 - 在团队中，通常1号位核心领导，2号位辅助推进，3号�
 狗血 - 剧情夸张离谱、俗套煽情的低质量戏剧冲突
 心法 - 核心方法和关键心得
 当量 - 效果对等时相当于多少参照物，如核弹当量为产生同样能量所需TNT炸药的重量
+```
 
+#### 三字词汇解释
+
+```markdown
 双一流 - 世界一流大学和一流学科，2019年11月，因高校身份固化、竞争缺失、重复交叉、资源不均等问题，将211工程和985工程等重点建设项目统筹为双一流建设
 交学费 - 通过失败或错误学到教训，付出代价学习
 智商税 - 因缺乏判断而多支付的费用，暗示被骗或不必要的消费
@@ -1703,7 +2474,11 @@ Z世代 - 1990年代后期至2010年代出生的人，数字原住民
 得房率 - 得房率=套内建筑面积/总建筑面积，反映可供住户支配的面积，得房率越高，实际使用面积越大
 理想国 - 柏拉图设想的完美国家，哲学家掌权，追求正义与智慧
 巴别塔 - 圣经故事中人类企图建塔通天(巴比伦塔)，因狂妄被上帝混淆语言，使人类无法沟通，导致工程失败，人类分散
+```
 
+#### 四字词汇解释
+
+```markdown
 社区团购 - 社区居民集体在线购买商品，以低价批发的方式
 图灵完备 - 能够实现任何计算任务的系统或语言
 输送人才 - 培养并提供人才给需要的组织或领域
@@ -1986,7 +2761,11 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 信息过载 - 信息量过大，超出个人或系统处理能力
 量子跃迁 - 在外界作用下，粒子从一个能级跳跃到另一个能级，过程不连续，例如电子从一个轨道跳跃到另一个轨道的突然转变
 纵横捭阖 - 战国时代，六国结盟为南北向的联合，故称"合纵"(弱国联合对付强国)，秦国分别与六国结盟为东西向的联合，故称"连横"(强国与弱国分别结盟分化瓦解弱国联盟)，捭阖(bǎi hé)即开合，比喻运用手段联合或分化
+```
 
+#### 五字词汇解释
+
+```markdown
 金丝雀发布 - 先在小范围内试点新版本，确保稳定后再全面推广，来源于矿工使用金丝雀对有害气体敏感的特性安全预警
 第一性原理 - 从最基本的真理出发，重新构建理解和解决问题的方法
 供应链攻击 - 通过感染供应链中受信任的软硬件来进行的网络攻击
@@ -2060,7 +2839,11 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 丁达尔效应 - 源自物理学家约翰·丁达尔，当光通过胶体时，由于胶体粒子对光的散射，从垂直入射光的方向可以观察到一条光的通路，其中，云、雾、烟尘都是胶体，分散剂是空气，分散质是微小的尘埃或液滴
 色受想行识 - 佛教术语，五蕴(yùn，积聚)，色即物质，受即感受，想即辨认，行即活动，识即觉知
 高净值人士 - 持有较高金融资产和投资性房产(非主居所)等可投资资产的人士，中国600万人民币以上，美国100万美元以上
+```
 
+#### 六字词汇解释
+
+```markdown
 流氓无产阶级 - "流氓"即没有找到合法生产工作的人，如妓女、帮派成员、骗子、小偷、乞丐以及无家可归、被社会贬低、劳动能力退化、自我堕落、被行业淘汰、长期失业的人
 官僚资本主义 - 资本主义变体，政府官僚控制经济资源
 机械唯物主义 - 用古典力学解释一切自然现象的观点，把物质的物理、化学和生物的性质都归结为力学的性质
@@ -2092,7 +2875,11 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 欧亨利式结尾 - 在结尾部分发生与之前完全不同的转折
 道可道非常道 - 老子"道德经"首句，可以言说的道不是永恒不变的道(能解释万物的终极规律)，真正的道是无法用语言完全表达的
 名可名非常名 - 老子"道德经"第二句，可以命名的名称不是永恒不变的名称，世间的名称都是人为规定的，并非永恒不变的实体
+```
 
+#### 七字词汇解释
+
+```markdown
 斯德哥尔摩症候 - 人质情结，受害者对施暴者产生好感的心理状态
 奥卡姆剃刀定律 - 简约法则，解释问题应尽量保持简单
 邓宁克鲁格效应 - 达克效应，低能者高估自己能力
@@ -2101,739 +2888,18 @@ T型人才 - 专业深度与跨领域广度兼具的人才
 马斯洛需求层次 - 人类需求层次理论，金字塔模型由低到高依次为生理、安全、感情、尊重、自我实现
 布雷顿森林体系 - 以美元为中心的国际货币体系，美元与黄金挂钩(35美元=1盎司)，国际货币基金组织成员国的货币与美元保持固定汇率，该体系最后因美元对黄金贬值且美国拒绝兑付黄金而崩溃
 韦伯费希纳定理 - 分为韦伯及费希纳两种定理，韦伯定理：刺激越强，感知变化所需的差异越大。例如，音量越大变化越难察觉、价格越高小涨幅越容易接受、恋爱中付出越多，感知到的额外付出越不明显；费希纳定理：在绝对阈限(yù xiàn)(刺激从不可感知到刚刚可以被感知的临界点)之上，刺激强度按几何级数增加(如4,16,64,256)，引起的主观感觉强度只按算术级数增加(如4,8,12,16)。例如，恋爱中付出加倍，感知到的额外付出只稍微增加
+```
 
+#### 更多词汇解释
+
+```markdown
 天地不仁，以万物为刍狗 - 源于老子"道德经"，"刍狗"(chú gǒu)指祭祀(jì sì)过后被随意扔掉或烧掉的用草扎成的狗，意指天地对待万物无私且无情，都如同对待草芥(jiè)
 威斯特伐利亚体系 - 1648年签订的"威斯特伐利亚和约"，确立了国家主权平等与互不干涉内政原则，奠定了现代国际关系的基础
 ```
 
-## 词汇翻译
+### 搜集词汇翻译
 
-### 二字词汇翻译
-
-```markdown
-赋能 - Empower / Enablement
-抓手 - Leverage point / Handle
-中台 - Middleware / Middle-end platform
-闭环 - Closed loop
-落地 - Implement / Land (a project)
-漏斗 - Funnel
-沉淀 - Accumulate / Precipitate
-给到 - Provide / Deliver
-平台 - Platform
-响应 - Respond
-同步 - Sync
-对齐 - Align
-对标 - Benchmark
-迭代 - Iterate
-优化 - Optimize
-跟进 - Follow-up
-升级 - Upgrade
-交付 - Deliver
-聚焦 - Focus
-倒逼 - Reverse forcing / Reverse pressure
-复盘 - Review / Post-mortem
-梳理 - Sort out / Organize
-输出 - Output
-提炼 - Refine
-包装 - Package
-上升 - Elevate / Rise
-方案 - Solution / Plan
-摸索 - Explore
-踩坑 - Encounter pitfalls
-填坑 - Fill gaps / Fix pitfalls
-报备 - Report for approval / File
-串联 - Link up / Connect
-协同 - Collaborate
-联动 - Coordinated action
-透传 - Pass-through
-打通 - Integrate / Break through
-打平 - Level / Equalize
-抹平 - Smooth out / Flatten
-发力 - Exert effort / Push
-兼容 - Compatible
-量化 - Quantify / Quantized
-细分 - Segment
-重塑 - Reshape
-蓄能 - Energy storage / Charge up
-引爆 - Ignite / Trigger
-挖掘 - Mine / Explore
-背书 - Endorse
-背锅 - Take the blame
-支持 - Support
-支撑 - Sustain
-协调 - Coordinate
-支援 - Support / Aid
-加持 - Boost / Enhance
-加速 - Accelerate
-共建 - Co-build
-共创 - Co-create
-融合 - Integrate / Merge
-拉通 - Bridge / Connect thoroughly
-拉升 - Lift / Elevate
-洞察 - Insight
-渗透 - Penetrate
-咬合 - Mesh
-穿梭 - Shuttle
-辐射 - Radiate / Extend
-扩展 - Expand
-开拓 - Explore / Develop
-兜底 - Provide a safety net / Backstop
-降级 - Downgrade
-容错 - Fault tolerance
-容灾 - Disaster recovery
-解耦 - Decouple
-耦合 - Couple
-复用 - Reuse
-封装 - Encapsulate
-抽象 - Abstract
-聚合 - Aggregate
-集成 - Integrate
-拆解 - Decompose
-抓包 - Capture (network packets)
-观察 - Observe
-监控 - Monitor
-上报 - Report (data)
-捕获 - Capture
-分发 - Distribute
-分层 - Layering
-迁移 - Migrate
-回溯 - Trace back
-回归 - Return / Regression
-回流 - Return traffic / User return
-回跳 - Bounce back
-通晒 - Fully disclose / Transparent review
-吃透 - Fully understand
-死磕 - Stick to it till the end
-树立 - Establish
-跨界 - Cross-field / Interdisciplinary
-共情 - Empathy
-演绎 - Deduce
-画饼 - Paint a rosy picture
-打造 - Craft / Build
-反哺 - Give back / Reciprocate
-输血 - Infuse resources
-造血 - Generate resources
-造势 - Create momentum
-造市 - Market making
-造事 - Stir up issues
-下沉 - Go down-market / Penetrate deeper into the market
-拉新 - Acquire new users
-转化 - Convert
-留存 - Retain
-促活 - Activate / Promote activity
-付费 - Pay / Monetize
-营收 - Revenue
-盈利 - Profit
-获客 - Acquire customers
-邀请 - Invite
-助力 - Support / Boost
-激励 - Motivate
-激活 - Activate
-推广 - Promote
-投放 - Launch (ads)
-导流 - Drive traffic
-覆盖 - Cover
-曝光 - Exposure
-裂变 - Viral / Fission
-增长 - Growth
-优秀 - Excellent
-感恩 - Grateful
-比心 - Show appreciation (gesture)
-笔芯 - Show love / Affection (pun on "比心")
-下跪 - Kneel
-致敬 - Pay tribute
-订阅 - Subscribe
-认证 - Certify / Authenticate
-推送 - Push (notifications)
-唤醒 - Wake up / Activate
-流失 - Churn
-召回 - Recall / Retarget
-授权 - Authorize
-接入 - Integrate / Access
-铸造 - Forge
-构筑 - Construct
-构建 - Build
-搭建 - Set up / Construct
-布局 - Layout / Strategize
-组局 - Organize (a game or meeting)
-摸鱼 - Slack off
-划水 - Slack off / Do minimal work
-众筹 - Crowdfunding
-收割 - Reap / Harvest (metaphorically)
-共享 - Share
-重组 - Restructure
-收口 - Wrap up / Conclude
-转型 - Transform
-围绕 - Revolve around
-出击 - Strike out / Launch an attack
-证言 - Testimony
-确认 - Confirm
-明确 - Clarify
-评估 - Assess
-评审 - Review
-务实 - Pragmatic
-夯实 - Solidify / Strengthen
-预判 - Anticipate / Predict
-预言 - Predict / Forecast
-变迁 - Changes / Evolution
-返佣 - Rebate
-深入 - Delve into / Penetrate
-打磨 - Polish / Refine
-攻坚 - Tackle tough problems
-击穿 - Break through
-破冰 - Break the ice
-破题 - Solve the problem
-解题 - Solve (a problem)
-破圈 - Break out of the circle
-破局 - Change the situation
-定量 - Quantify
-定性 - Qualify
-制约 - Restrict
-约束 - Constraint
-触及 - Reach / Touch
-触达 - Reach
-触发 - Trigger
-操盘 - Operate / Manage
-思考 - Think
-反思 - Reflect
-精简 - Streamline
-深耕 - Deeply cultivate
-突围 - Break through (a blockade)
-补位 - Fill a position / Cover
-抽离 - Extract / Detach
-履约 - Fulfill (a contract)
-进化 - Evolve
-进军 - Advance into
-起飞 - Take off
-皮实 - Tough / Durable
-本分 - Dutiful / Responsible
-重磅 - Heavyweight / Major
-垂直 - Vertical
-真香 - Really good / Delicious (ironically)
-自洽 - Self-consistent
-精准 - Precise
-持续 - Sustain / Continue
-灵活 - Flexible
-稳定 - Stable
-可控 - Controllable
-活跃 - Active
-风口 - Tipping point / Boom
-打法 - Strategy / Method
-玩法 - Gameplay / Approach
-矩阵 - Matrix
-纽带 - Bond / Link
-刺激 - Stimulate
-规模 - Scale
-场景 - Scenario
-渠道 - Channel
-入口 - Entry point
-维度 - Dimension
-格局 - Pattern / Structure
-形态 - Form / Shape
-生态 - Ecosystem
-体系 - System
-认知 - Cognition
-体感 - Somatosensory
-感知 - Perception
-心智 - Mindset
-调性 - Tone
-战役 - Campaign
-合力 - Joint effort
-心力 - Mental effort
-赛道 - Track / Field (metaphorical for market segment)
-基石 - Cornerstone
-基因 - Gene
-因子 - Factor
-模型 - Model
-通道 - Passage / Channel
-链路 - Link
-水位 - Water level
-水准 - Standard / Level
-姿态 - Posture / Stance
-卡点 - Checkpoint / Milestone
-卡位 - Position / Slot
-头部 - Leading / Top
-腰部 - Mid-tier
-踝部 - Lower-tier
-痛点 - Pain point
-爽点 - Pleasure point
-痒点 - Itch point
-全域 - Full domain / Whole area
-公域 - Public domain
-私域 - Private domain
-本我 - Id
-自我 - Ego
-超我 - Superego
-蓝海 - Blue ocean
-红海 - Red ocean
-纵向 - Vertical
-横向 - Horizontal
-上限 - Upper limit
-下限 - Lower limit
-上游 - Upstream
-下游 - Downstream
-阈值 - Threshold
-场域 - Field / Arena
-架构 - Architecture
-系统 - System
-标配 - Standard configuration / Default
-长尾 - Long tail
-态势 - Situation / Posture
-锚点 - Anchor point
-标杆 - Benchmark / Standard
-壁垒 - Barrier
-变量 - Variable
-期权 - Option
-边界 - Boundary
-品牌 - Brand
-阵地 - Position / Ground
-高地 - High ground
-洼地 - Low-lying area
-高空 - High altitude
-革命 - Revolution
-变革 - Reform / Transformation
-内卷 - Involution
-外包 - Outsource
-福报 - Good fortune
-脑暴 - Brainstorm
-脑洞 - Creative idea / Wild imagination
-圈层 - Social circle / Layer
-层级 - Hierarchy
-段位 - Rank / Level
-环节 - Link / Phase
-困局 - Dilemma
-话术 - Script / Sales pitch
-文案 - Copywriting
-议程 - Agenda
-公关 - Public relations
-配称 - Match / Suit
-力场 - Field of force
-魔方 - Rubik's cube / Complex problem
-触点 - Touchpoint
-势能 - Potential energy
-流量 - Traffic / Flow
-资源 - Resources
-排期 - Schedule
-延期 - Postpone
-弹窗 - Pop-up
-浮层 - Floating layer
-引导 - Guide
-蒙层 - Overlay
-幕帘 - Curtain
-遮罩 - Mask
-埋点 - Embed a tracker
-坑位 - Pitfall / Slot
-楼层 - Floor
-按钮 - Button
-红包 - Red envelope / Bonus
-峰值 - Peak
-漏洞 - Vulnerability
-风险 - Risk
-瓶颈 - Bottleneck
-策略 - Strategy
-价值 - Value
-成本 - Cost
-复利 - Compound interest
-人性 - Human nature
-利器 - Powerful tool
-深度 - Depth
-玩家 - Player
-小白 - Newbie
-韭菜 - Retail investors (pejoratively)
-羊毛 - Freebies / Perks
-福利 - Welfare / Benefits
-套路 - Routine / Trick
-情怀 - Sentiment / Nostalgia
-标准 - Standard
-规范 - Norm / Regulation
-社群 - Community
-产业 - Industry
-载体 - Carrier / Medium
-服务 - Service
-粘性 - Stickiness / Engagement
-属性 - Attribute
-地域 - Region
-终端 - Terminal / Endpoint
-版本 - Version
-口碑 - Reputation
-指标 - Indicator / Metric
-年框 - Annual framework
-试点 - Pilot (project)
-母体 - Matrix / Mother
-空白 - Blank / Gap
-银弹 - Silver bullet
-```
-
-### 三字词汇翻译
-
-```markdown
-对一下 - Check / Align
-碰一下 - Touch base
-过一下 - Review / Go over
-抢品类 - Capture categories
-卡认知 - Limit cognition / Cognitive bias
-占场景 - Occupy scenarios
-观行业 - Observe the industry
-明竞争 - Clarify competition
-洞自身 - Self-awareness
-开场子 - Open a conversation / Set the stage
-提调子 - Raise the tone / Improve mood
-冷启动 - Cold start
-秀肌肉 - Show off strength
-借东风 - Leverage external forces
-断舍离 - Declutter / Minimalism
-薅羊毛 - Exploit loopholes for benefits
-砍一刀 - Make a cut / Negotiate a deal
-走出去 - Go global
-讲故事 - Storytelling
-扁平化 - Flattening / Flat organization
-差异化 - Differentiation
-平台化 - Platformization
-结构化 - Structuring
-精细化 - Refinement
-短平快 - Fast and efficient
-常态化 - Normalization
-强依赖 - Strong dependency
-不可控 - Uncontrollable
-有风险 - Risky
-感知度 - Awareness level
-颗粒度 - Granularity
-方法论 - Methodology
-组合拳 - Combination strategy
-引爆点 - Tipping point
-护城河 - Moat (competitive advantage)
-影响力 - Influence
-资源位 - Resource position
-优先级 - Priority
-制高点 - High ground / Strategic advantage
-可用性 - Availability
-易用性 - Usability
-稳定性 - Stability
-便捷性 - Convenience
-耦合性 - Coupling
-一致性 - Consistency
-系统性 - Systematic
-端到端 - End-to-end
-点对点 - Peer-to-peer
-点线面 - Point-line-plane (comprehensive approach)
-上半场 - First half
-下半场 - Second half
-主战场 - Main battlefield
-人货场 - People, goods, and marketplace
-基本面 - Fundamentals
-基本盘 - Basic foundation
-操盘手 - Operator / Trader
-进化论 - Evolution theory
-解释权 - Right to interpret
-最优解 - Optimal solution
-执行力 - Execution
-驱动力 - Driving force
-鄙视链 - Disdain chain
-生态链 - Ecosystem chain
-生态圈 - Ecosystem
-生态位 - Ecological niche
-全场景 - All scenarios
-全渠道 - Omnichannel
-全方位 - All-around
-全媒体 - All media
-流量池 - Traffic pool
-天花板 - Ceiling / Limit
-传话筒 - Megaphone / Amplifier
-转化率 - Conversion rate
-活跃度 - Activity level
-颗粒感 - Sense of granularity
-登云梯 - Cloud ladder (aspiration to ascend)
-冲击力 - Impact force
-视觉锤 - Visual impact
-孵化器 - Incubator
-新零售 - New retail
-新物种 - New species
-新品牌 - New brand
-新篇章 - New chapter
-新局势 - New situation
-新赛道 - New track (market segment)
-新势能 - New potential
-新国货 - New domestic products
-新国潮 - New national trend
-新动力 - New driving force
-同理心 - Empathy
-气氛组 - Atmosphere group
-竞争力 - Competitiveness
-存在感 - Sense of presence
-认同感 - Sense of identity
-参与感 - Sense of participation
-归属感 - Sense of belonging
-使命感 - Sense of mission
-价值观 - Values
-忠诚度 - Loyalty
-预热期 - Warm-up period
-高峰期 - Peak period
-高潮期 - Climax period
-上升期 - Rising phase
-瓶颈期 - Bottleneck phase
-大数据 - Big data
-云计算 - Cloud computing
-区块链 - Blockchain
-比特币 - Bitcoin
-虚拟币 - Cryptocurrency
-天使轮 - Angel round
-自媒体 - Self-media
-新媒体 - New media
-价格门 - Price gate
-超预期 - Beyond expectations
-小前台 - Small front-end
-大中台 - Large middle-end
-凝聚力 - Cohesion
-向心力 - Centripetal force
-元无知 - Meta-ignorance
-软夺权 - Soft power grab
-```
-
-### 四字词汇翻译
-
-```markdown
-支棱起来 - Brace up / Stand ready
-快速响应 - Rapid response
-小步快跑 - Agile execution / Quick steps
-价值转化 - Value conversion
-强化认知 - Strengthen cognition
-资源置换 - Resource exchange
-资源倾斜 - Resource inclination
-资源配置 - Resource allocation
-完善逻辑 - Perfect logic
-去中心化 - Decentralization
-渠道下沉 - Channel sinking
-用户下沉 - User sinking
-降维打击 - Dimensionality reduction strike
-体验度量 - Experience measurement
-高频触达 - High-frequency touch
-快速迭代 - Rapid iteration
-持续迭代 - Continuous iteration
-持续集成 - Continuous integration
-持续交付 - Continuous delivery
-持续观察 - Continuous observation
-躬身入局 - Dive into the game
-顺势而为 - Go with the flow
-打破结界 - Break barriers
-升维定位 - Upward dimension positioning
-有机结合 - Organic integration
-起承转合 - Beginning, development, turn, and conclusion
-存量维持 - Maintain stock
-增量博弈 - Incremental game
-心智角逐 - Mental contest
-抽离透传 - Abstract and pass through
-拨冗参会 - Take the time to attend
-反复确认 - Repeated confirmation
-综合评估 - Comprehensive assessment
-刻意练习 - Deliberate practice
-打破制约 - Break constraints
-绝境求生 - Survival in desperation
-品牌露出 - Brand exposure
-拥抱变化 - Embrace change
-重新定义 - Redefine
-借势营销 - Leverage marketing
-内容创业 - Content entrepreneurship
-归因分析 - Attribution analysis
-逻辑推理 - Logical reasoning
-建立范式 - Establish paradigm
-总结沉淀 - Summary and consolidation
-解决问题 - Solve problems
-占领心智 - Occupy mind
-高举高打 - High strike
-高开低走 - Start high and go low
-高台跳水 - High dive
-深入产业 - Deep dive into industry
-拉齐水位 - Level the water
-全情投入 - Fully engaged
-如何收口 - How to conclude
-全面封锁 - Full blockade
-协同作战 - Collaborate in combat
-剑走偏锋 - Unconventional strategies
-弹射起飞 - Catapult launch
-结果导向 - Result-oriented
-业务导向 - Business-oriented
-资源紧张 - Resource tension
-人力不足 - Insufficient manpower
-体感不好 - Poor user experience
-风险可控 - Risk controllable
-逻辑自洽 - Logically consistent
-品效合一 - Product effectiveness unity
-全球领先 - Global leader
-人无我有 - What others don't have, I have
-人有我优 - What others have, I excel in
-人优我变 - When others excel, I change
-势如破竹 - Unstoppable momentum
-势不可挡 - Irresistible force
-石破天惊 - Earth-shattering
-生命周期 - Lifecycle
-复用打法 - Reuse tactics
-商业模式 - Business model
-平台战略 - Platform strategy
-集团战略 - Group strategy
-战略引擎 - Strategic engine
-关键路径 - Critical path
-决策路径 - Decision-making path
-天使投资 - Angel investment
-盈利模式 - Profit model
-底层逻辑 - Underlying logic
-顶层设计 - Top-level design
-饥饿营销 - Hunger marketing
-行业壁垒 - Industry barriers
-下沉市场 - Sinking market
-消费认知 - Consumer awareness
-人工智能 - Artificial intelligence
-赛博朋克 - Cyberpunk
-智慧城市 - Smart city
-解决方案 - Solutions
-知识付费 - Knowledge payment
-私域流量 - Private domain traffic
-交付价值 - Deliver value
-时间价值 - Time value
-共享经济 - Sharing economy
-通证经济 - Token economy
-中央厨房 - Central kitchen
-先发优势 - First-mover advantage
-真实场景 - Real scenario
-临门一脚 - Final step
-真香定律 - Really good (change of heart)
-正态分布 - Normal distribution / Gaussian distribution
-幂律分布 - Power-law distribution
-二八定律 - 80/20 rule
-长尾理论 - Long tail theory
-叠加效应 - Superposition effect
-马太效应 - Matthew effect
-沉没成本 - Sunk cost
-边际成本 - Marginal cost
-机会成本 - Opportunity cost
-偏好植入 - Preference implantation
-蚂蚁市场 - Ant market
-场景占位 - Scenario occupation
-产业集群 - Industrial cluster
-产业服务 - Industrial services
-标杆市场 - Benchmark market
-心动情境 - Heart-moving scenario
-利基市场 - Niche market
-第二曲线 - Second curve
-垂直领域 - Vertical field
-可持续性 - Sustainability
-可替代性 - Replaceability
-认知优势 - Cognitive advantage
-新增长点 - New growth point
-颠覆态势 - Disruptive trend
-最高规制 - Highest regulation
-三位一体 - Trinity
-资深玩家 - Senior player
-不破不立 - Break and rebuild
-用户心智 - User mindset
-用户粘性 - User stickiness
-用户体验 - User experience
-用户认知 - User cognition
-用户画像 - User profile
-用户调研 - User research
-重度用户 - Heavy users
-沉默用户 - Silent users
-活跃用户 - Active users
-用户黏性 - User stickiness
-千人千面 - Personalized for each individual
-千人一面 - One size fits all
-信息茧房 - Information cocoon
-流量红利 - Traffic dividend
-流量为王 - Traffic is king
-价格歧视 - Price discrimination
-意识形态 - Ideology
-心理账户 - Mental accounting
-情绪G点 - Emotional G-spot
-品牌势能 - Brand potential
-服务产业 - Service industry
-关键时期 - Critical period
-沟通协作 - Communication and collaboration
-战略合力 - Strategic synergy
-品牌航母 - Brand aircraft carrier
-品类战舰 - Category battleship
-行军路线 - March route
-产品尖兵 - Product vanguard
-拳头产品 - Flagship product
-超级符号 - Super symbol
-挽留弹窗 - Retention pop-up
-时间窗口 - Time window
-定性定量 - Qualitative and quantitative
-战略支点 - Strategic fulcrum
-声音印记 - Sound imprint
-社交货币 - Social currency
-付费社群 - Paid community
-神交已久 - Long acquainted in spirit
-财务自由 - Financial freedom
-微粒社会 - Granular society
-增强回路 - Positive feedback loop
-认知折叠 - Cognitive folding
-代偿效应 - Compensatory effect
-隐性玩家 - Hidden player
-知识盲维 - Knowledge dimension blind spot
-信用系数 - Credit coefficient
-行动轴心 - Action axis
-故乡策略 - Hometown strategy
-回到母体 - Return to the origin
-无边棋盘 - Infinite chessboard
-飞轮效应 - Flywheel effect
-合成真实 - Synthetic reality
-逆火效应 - Backfire effect
-打开率高 - High open rate
-留存率高 - High retention rate
-活跃度高 - High activity level
-```
-
-### 五字词汇翻译
-
-```markdown
-精神SPA - Mental SPA / Psychological comfort
-大数据分析 - Big data analysis
-大数据杀熟 - Big data price discrimination
-延迟满足感 - Delayed gratification
-地毯式轰炸 - Carpet bombing (extensive coverage)
-饱和式攻击 - Saturated attack
-四两拨千斤 - Leveraging small efforts for big results
-开辟新路径 - Pioneer new paths
-建立新习惯 - Establish new habits
-用户无感知 - User unawareness
-叫好又叫座 - Critically and commercially successful
-优先级很高 - High priority
-拉新成本高 - High customer acquisition cost
-颠覆式创新 - Disruptive innovation
-连续创业者 - Serial entrepreneur
-投入产出比 - Input-output ratio
-互联网思维 - Internet mindset
-互联网红利 - Internet dividend
-国民总时间 - National total time
-最后一公里 - Last mile
-海豚湾模式 - Dolphin Bay model
-最大公约数 - Greatest common divisor (appeal to the broadest audience)
-现象级事件 - Phenomenal event
-沉浸式体验 - Immersive experience
-用户忠诚度 - Customer loyalty
-自媒体矩阵 - Self-media matrix
-病毒式营销 - Viral marketing
-风口上的猪 - A pig on the wind (rising tide lifts all boats)
-战略性投资 - Strategic investment
-战略性亏损 - Strategic loss
-系统性风险 - Systemic risk
-意义炼金术 - Alchemy of meaning
-共识性发展 - Consensus development
-横向标准化 - Horizontal standardization
-符号私有化 - Symbol privatization
-非理性异动 - Irrational movement
-方言化认知 - Dialectal cognition
-```
-
-### 六字词汇翻译
-
-```markdown
-不跟风要造风 - Don't follow trends, create them
-多维矩阵闭环 - Multidimensional matrix closed-loop
-打开销售通路 - Open sales channels
-向下传递寒气 - Send chills down the hierarchy (top management's tough measures affecting the entire organization)
-```
-
-### 补充词汇翻译
+#### 混杂词汇翻译
 
 ```markdown
 985工程 - Project 985
@@ -2859,7 +2925,11 @@ G端 - Government
 IO密集 - I/O intensive
 CPU密集 - CPU intensive
 X号位 - Leader, Pusher, Fixer, Helper, Supporter
+```
 
+#### 二字词汇翻译
+
+```markdown
 熵减 - Entropy reduction
 熵增 - Entropy increase
 毕业 - Graduation (often metaphorical, indicating moving on from a platform or level)
@@ -3250,7 +3320,11 @@ X号位 - Leader, Pusher, Fixer, Helper, Supporter
 狗血 - Soap opera-like
 心法 - Core method and key insight
 当量 - Equivalent
+```
 
+#### 三字词汇翻译
+
+```markdown
 双一流 - Double first-class initiative
 交学费 - Paying tuition (figuratively, learning from a costly mistake)
 智商税 - Stupidity tax (money lost due to naive or uninformed decisions)
@@ -3416,7 +3490,11 @@ Z世代 - Generation Z / Gen Z / Zoomers / Digital native
 得房率 - Percentage of usable dwelling area
 理想国 - Ideal state / Republic
 巴别塔 - Tower of Babel
+```
 
+#### 四字词汇翻译
+
+```markdown
 社区团购 - Community group buying
 图灵完备 - Turing complete
 输送人才 - Talent delivery / Cultivation and transfer of talent
@@ -3699,7 +3777,11 @@ T型人才 - T-shaped talent
 信息过载 - Information overload
 量子跃迁 - Quantum leap
 纵横捭阖 - Divide and conquer, unite and control
+```
 
+#### 五字词汇翻译
+
+```markdown
 金丝雀发布 - Canary release
 第一性原理 - First principles
 供应链攻击 - Supply chain attacks
@@ -3773,7 +3855,11 @@ T型人才 - T-shaped talent
 丁达尔效应 - Tyndall effect
 色受想行识 - Five skandhas, Form, Feeling, Cognition, Volition, Consciousness
 高净值人士 - High-net-worth individual
+```
 
+#### 六字词汇翻译
+
+```markdown
 流氓无产阶级 - Lumpenproletariat
 官僚资本主义 - Bureaucratic capitalism
 机械唯物主义 - Mechanistic materialism
@@ -3805,7 +3891,11 @@ T型人才 - T-shaped talent
 欧亨利式结尾 - O. Henry-style ending
 道可道非常道 - The Tao that can be told is not the eternal Tao
 名可名非常名 - The name that can be named is not the eternal name
+```
 
+#### 七字词汇翻译
+
+```markdown
 斯德哥尔摩症候 - Stockholm syndrome
 奥卡姆剃刀定律 - Occam's razor
 邓宁克鲁格效应 - Dunning-Kruger effect
@@ -3814,7 +3904,11 @@ T型人才 - T-shaped talent
 马斯洛需求层次 - Maslow's hierarchy of needs
 布雷顿森林体系 - Bretton Woods system
 韦伯费希纳定理 - Weber-Fechner law / Absolute threshold
+```
 
+#### 更多词汇翻译
+
+```markdown
 天地不仁，以万物为刍狗 - Nature is unkind, it treats the creation like sacrificial straw-dogs
 威斯特伐利亚体系 - The Westphalian system
 ```
