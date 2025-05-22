@@ -1,6 +1,6 @@
-# 英文缩写解释
+# English Abbreviations 英文缩写及解释翻译
 
-## 日常
+## 日常英文缩写
 
 ```markdown
 DIY - Do It Yourself 自己动手
@@ -463,7 +463,7 @@ SAT - Sat, Saturday 星期六
 SUN - Sun, Sunday 星期日
 ```
 
-## 学术
+## 学术英文缩写
 
 ```markdown
 OA - Online Assessment 在线测评
@@ -593,7 +593,7 @@ PolyU - The Hong Kong Polytechnic University 香港理工大学
 WCU - Wild Chicken University 野鸡大学
 ```
 
-## 职场
+## 职场英文缩写
 
 ```markdown
 HR - Human Resources 人力资源
@@ -748,7 +748,7 @@ BPO - Business Process Outsourcing 业务流程外包
 RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
 ```
 
-## 管理
+## 管理英文缩写
 
 ```markdown
 APS - Advanced Planning and Scheduling 高级计划与排程
@@ -839,7 +839,7 @@ STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of ser
 SMART - Specific, Measurable, Achievable, Relevant, Time-bound 具体、可衡量、可实现、相关、时限，目标管理方法
 ```
 
-## 商业
+## 商业英文缩写
 
 ```markdown
 KA - Key Accounts 重点客户，大卖场
@@ -1162,7 +1162,7 @@ TCL - The Creative Life 创意(感动)生活，中国家电企业
 HTC - High Tech Computer Corporation 宏达国际电子(台湾)
 ```
 
-## 医学
+## 医学英文缩写
 
 ```markdown
 SOD - SuperOxide Dismutase 超氧化物歧化酶，抗氧化剂
@@ -1196,7 +1196,7 @@ NSDR - Non-Sleep Deep Rest 非睡眠深度休息
 PMR - Progressive Muscle Relaxation 渐进式肌肉放松
 ```
 
-## 科技
+## 科技英文缩写
 
 ```markdown
 VCR - Video Cassette Recorder 录像机(视频片断)
