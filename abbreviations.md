@@ -1,6 +1,6 @@
-# 常见英文缩写解释(通用+术语)
+# 英文缩写解释
 
-## 英文缩写解释(通用)
+## 日常
 
 ```markdown
 DIY - Do It Yourself 自己动手
@@ -285,7 +285,7 @@ FQ - Financial Quotient 金融智商，财商
 MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
 ```
 
-```
+```markdown
 pls - Please 请
 plz - Please 请
 cos - Because 因为
@@ -397,108 +397,73 @@ IFS - International Finance Square 国际金融中心
 ```
 
 ```markdown
-HR - Human Resources 人力资源
-HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
-HRM - Human Resource Manager 人力资源经理
-HRD - Human Resource Development 人力资源开发 / Human Resource Director 人力资源总监
-HCM - Human Capital Management 人力资本管理，对员工的技能、知识和能力进行投资、管理和评估
-PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
-PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
-PO - Product Owner 产品负责人 / Purchase Order 采购订单
-RM - Relationship Manager 客户关系经理，客户经理
-SM - Scrum Master 敏捷专家，敏捷教练，熟悉敏捷开发模式及敏捷实施流程的人员
-ST - Scrum Team 敏捷团队
-TL - Technique Leader, Teach Lead 技术带头人 / Team Leader, Team Lead 团队负责人
-PB - Product Backlog 产品待办列表，在每个Sprint(冲刺周期)之前，团队从中选择要处理的任务
-SB - Sprint Backlog 迭代待办列表，团队在当前Sprint(冲刺周期)中要完成的任务
-BS - Brainstorming 头脑风暴
-TB - Team Building 团队建设
-PE - Property Executive 物业主管
-OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
-CEO - Chief Executive Officer 首席执行官
-COO - Chief Operated Officer 首席运营官
-CFO - Chief Finacial Officer 首席财务官
-CTO - Chief Technology Officer 首席技术官
-CIO - Chief Information Officer 首席信息官
-CMO - Chief Marketing Officer 首席营销官
-CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官 / Chief Satisfaction Officer 首席满意度官
-CHO - Chief Happiness Officer 首席快乐官
-CISO - Chief Information Security Officer 首席信息安全官
-CPO - Chief Privacy Officer 首席隐私官 / Chief Product Officer 首席产品官
-CUO - Chief User Officer 首席用户官
-CPUO - Chief Product and User Officer 首席产品和用户官
-CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
-DPO - Data Protection Officer 数据保护官
-VP - Vice President 副总裁
-SVP - Senior Vice President 高级副总裁
-AVP - Assistant Vice President 助理副总裁
-GM - General Manager 总经理
-BM - Branch Manager 部门经理
-GTM - Go To Market 市场推广
-MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
-AD - Assistant Director 助理总监 / Advertising 广告
-OP - Operations 运营 / Operator 操作员
-TS - Technical Support 技术支持
-TAM - Technical Account Management 技术支持客户经理
-JD - Job Description 职位描述
-CV - Curriculum Vitae 个人履历
-HC - Headcount 人头数，招聘人数，职员人数
-Q&A - Question and Answer 问与答
-R&D - RD, Research and Development 研究和开发
-C&B - Compensation and Benefits 薪酬和福利
-EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员工的心理和行为问题，提高工作绩效
-PIP - Performance Improvement Plan 绩效改进计划
-FMLA - Family and Medical Leave Act 家庭和医疗休假法案，美国联邦法律，允许员工因家庭或个人健康原因请假
-RE - Redefines 重新定义
-GE - Greatly Exceeds 超出大部分
-EE - Exceeds 超出
-MA - Meets All 符合所有
-MM - Meets Most 符合大部分
-MS - Meets Some 符合部分
-CPA - Certified Public Accountant 注册会计师
-CFA - Chartered Financial Analyst 注册金融分析师
-FRM - Financial Risk Manager 金融风险管理师
-ACCA - Association of Chartered Certified Accountants 特许公认会计师公会
-PMP - Project Management Professional 项目管理专业认证
-PMI - Project Management Institute 项目管理协会
-CDMP - Certified for Data Management Professional 数据管理专业认证
-CDGA - Certified Data Governance Associate 数据治理助理认证
-CDGP - Certified Data Governance Professional 数据治理专业认证
-ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
-ACE - Alibaba Cloud Certified Expert 阿里云云计算专家级
-SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
-DAMA - Data Management Association 国际数据管理协会
-DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
-CMM - Capability Maturity Model 能力成熟度模型
-CMMI - Capability Maturity Model Integration 能力成熟度模型集成
-IDEAL - Information Security Management Maturity Model 信息安全管理成熟度模型
-SW-CMM - Software Capability Maturity Model 软件能力成熟度模型
-SAMM - Software Assurance Maturity Model 软件保证成熟度模型
-PERT - Program Evaluation Review Technique 计划评审技术
-TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
-SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架构
-CCNA - Cisco Certified Network Associate 思科认证网络工程师
-CCNP - Cisco Certified Network Professional 思科认证网络专业人员
-CCIE - Cisco Certified Internetwork Expert 思科认证互联网专家
-RHCE - Red Hat Certified Engineer 红帽认证工程师
-RHCA - Red Hat Certified Architect 红帽认证架构师
-OCP - Oracle Certified Professional 甲骨文认证专业人员
-ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
-ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
-CISSP - Certified Information Systems Security Professional 信息系统安全专业认证
-AIO - All In One 一体化
-OSG - Official Study Guide 官方学习指南
-CBK - Common Body of Knowledge 公共知识体系
-CISM - Certified Information Security Manager 注册信息安全经理
-CISA - Certified Information Systems Auditor 注册信息系统审计师
-CCSP - Certified Cloud Security Professional 注册云安全专家
-CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
-CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
-CAISP - Certified AI Security Professional 人工智能安全认证专家
-OSCP - Offensive Security Certified Professional 渗透测试专家认证
-CCSP - Classified Protection of Cybersecurity 网络安全等级保护
-MLPS - Multi-Level Protection Scheme 多级保护方案
+MAX - Maximum 最大
+MIN - Minimum 最小
+IMP - Import 进口，导入
+EXP - Export 出口，导出 / Experience 经验 / Exploit 漏洞利用
+TM - Trademark 商标
+R - Registered 已注册
+No. - Numéro 编号(法语)
+C - Center 中心 / Core 核心 / Carry 支撑，主力 / Cao 操(拼音)
+G - g, Gram 克 / Gigabyte 吉字节 / Generation 代，世代 / Giga 十亿，10的9次方 / Gravity 重力加速度(9.8米每平方秒)
+K - k, Kilo 千 / Kilobyte 千字节
+KG - Kilogram 千克，公斤
+T - Ton 吨 / Terabyte 太字节 / Tera 万亿，10的12次方 / Tier 梯队
+MT - Metric Ton 公吨，1000千克
+N - Number (任意)数量 / No 否
+Y - Year 年 / Yes 是
+Q - Quarter 季度 / Cute 可爱 / Cue 点名，提示
+X - Extra 额外 / Kiss 亲吻 / Twitter 推特
+M - Meter 米 / Min., Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节 / Medium 中 / Mega 百万，10的6次方
+SQM - Sq.m, Square Meter 平方米
+CBM - Cu.m, Cubic Meter 立方米
+KM - Kilometer 千米，公里
+CM - Centimeter 厘米
+MM - Millimeter 毫米
+Yd. - Yard 码，1码 = 3英尺 = 0.9144米
+Ft. - Foot 英尺，呎，1英尺 ＝ 12英寸，1英尺 = 0.3048米
+In. - Inch 英寸，1英寸 = 2.54厘米
+Gal - Gallon 加仑，1美制加仑 = 3.785411784升
+L - Liter 升 / Layer 层 / Level 级别 / Large 大 / Long 长
+ML - Milliliter 毫升
+A - Ampere 安培
+V - Volt 伏特 / Version 版本 / Video 视频
+W - Watt 瓦，瓦特，1瓦特 = 1安培 x 1伏特 / Week 周 / Wan(拼音) 万
+KW - Kilowatt 千瓦
+P - Power 匹，马力，1马力 = 0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加 / Peta 千万亿，10的15次方 / Priority 优先级
+HP - Horse Power 马力
+H - Hr., Hour 小时
+S - Sec., Second 秒 / Service 服务 / Small 小 / Super 超级
+I - i, Item 项，件
+b - bit 位，比特
+B - Byte 字节 ，1 Byte = 8 bits / Billion 十亿
+KB - Kilobyte 千字节，1 KB = 1024 Bytes
+MB - Megabyte 兆字节，1 MB = 1024 KB
+GB - Gigabyte 吉字节，1 GB = 1024 MB
+TB - Terabyte 太字节，1 TB = 1024 GB
+PB - Petabyte 拍字节，1 PB = 1024 TB
+Jan - January 一月
+Feb - February 二月
+Mar - March 三月
+Apr - April 四月
+May - May 五月
+Jun - June 六月
+Jul - July 七月
+Aug - August 八月
+Sep - September 九月
+Oct - October 十月
+Nov - November 十一月
+Dec - December 十二月
+MON - Mon, Monday 星期一
+TUE - Tue, Tuesday 星期二
+WED - Wed, Wednesday 星期三
+THU - Thu, Thursday 星期四
+FRI - Fri, Friday 星期五
+SAT - Sat, Saturday 星期六
+SUN - Sun, Sunday 星期日
 ```
+
+## 学术
 
 ```markdown
 OA - Online Assessment 在线测评
@@ -628,72 +593,253 @@ PolyU - The Hong Kong Polytechnic University 香港理工大学
 WCU - Wild Chicken University 野鸡大学
 ```
 
+## 职场
+
 ```markdown
-MAX - Maximum 最大
-MIN - Minimum 最小
-IMP - Import 进口，导入
-EXP - Export 出口，导出 / Experience 经验 / Exploit 漏洞利用
-TM - Trademark 商标
-R - Registered 已注册
-No. - Numéro 编号(法语)
-C - Center 中心 / Core 核心 / Carry 支撑，主力 / Cao 操(拼音)
-G - g, Gram 克 / Gigabyte 吉字节 / Generation 代，世代 / Giga 十亿，10的9次方 / Gravity 重力加速度(9.8米每平方秒)
-K - k, Kilo 千 / Kilobyte 千字节
-KG - Kilogram 千克，公斤
-T - Ton 吨 / Terabyte 太字节 / Tera 万亿，10的12次方 / Tier 梯队
-MT - Metric Ton 公吨，1000千克
-N - Number (任意)数量 / No 否
-Y - Year 年 / Yes 是
-Q - Quarter 季度 / Cute 可爱 / Cue 点名，提示
-X - Extra 额外 / Kiss 亲吻 / Twitter 推特
-M - Meter 米 / Min., Minute 分钟 / Month 月 / Million 百万 / Megabyte 兆字节 / Medium 中 / Mega 百万，10的6次方
-SQM - Sq.m, Square Meter 平方米
-CBM - Cu.m, Cubic Meter 立方米
-KM - Kilometer 千米，公里
-CM - Centimeter 厘米
-MM - Millimeter 毫米
-Yd. - Yard 码，1码 = 3英尺 = 0.9144米
-Ft. - Foot 英尺，呎，1英尺 ＝ 12英寸，1英尺 = 0.3048米
-In. - Inch 英寸，1英寸 = 2.54厘米
-Gal - Gallon 加仑，1美制加仑 = 3.785411784升
-L - Liter 升 / Layer 层 / Level 级别 / Large 大 / Long 长
-ML - Milliliter 毫升
-A - Ampere 安培
-V - Volt 伏特 / Version 版本 / Video 视频
-W - Watt 瓦，瓦特，1瓦特 = 1安培 x 1伏特 / Week 周 / Wan(拼音) 万
-KW - Kilowatt 千瓦
-P - Power 匹，马力，1马力 = 0.735千瓦 / Page 页 / People 人 / Petabyte 拍字节 / Plus 加 / Peta 千万亿，10的15次方 / Priority 优先级
-HP - Horse Power 马力
-H - Hr., Hour 小时
-S - Sec., Second 秒 / Service 服务 / Small 小 / Super 超级
-I - i, Item 项，件
-b - bit 位，比特
-B - Byte 字节 ，1 Byte = 8 bits / Billion 十亿
-KB - Kilobyte 千字节，1 KB = 1024 Bytes
-MB - Megabyte 兆字节，1 MB = 1024 KB
-GB - Gigabyte 吉字节，1 GB = 1024 MB
-TB - Terabyte 太字节，1 TB = 1024 GB
-PB - Petabyte 拍字节，1 PB = 1024 TB
-Jan - January 一月
-Feb - February 二月
-Mar - March 三月
-Apr - April 四月
-May - May 五月
-Jun - June 六月
-Jul - July 七月
-Aug - August 八月
-Sep - September 九月
-Oct - October 十月
-Nov - November 十一月
-Dec - December 十二月
-MON - Mon, Monday 星期一
-TUE - Tue, Tuesday 星期二
-WED - Wed, Wednesday 星期三
-THU - Thu, Thursday 星期四
-FRI - Fri, Friday 星期五
-SAT - Sat, Saturday 星期六
-SUN - Sun, Sunday 星期日
+HR - Human Resources 人力资源
+HRBP - Human Resources Business Partner 人力资源业务合作伙伴，企业派驻到各个业务或事业部的人力资源管理者
+HRM - Human Resource Manager 人力资源经理
+HRD - Human Resource Development 人力资源开发 / Human Resource Director 人力资源总监
+HCM - Human Capital Management 人力资本管理，对员工的技能、知识和能力进行投资、管理和评估
+PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
+PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
+PO - Product Owner 产品负责人 / Purchase Order 采购订单
+RM - Relationship Manager 客户关系经理，客户经理
+SM - Scrum Master 敏捷专家，敏捷教练，熟悉敏捷开发模式及敏捷实施流程的人员
+ST - Scrum Team 敏捷团队
+TL - Technique Leader, Teach Lead 技术带头人 / Team Leader, Team Lead 团队负责人
+PB - Product Backlog 产品待办列表，在每个Sprint(冲刺周期)之前，团队从中选择要处理的任务
+SB - Sprint Backlog 迭代待办列表，团队在当前Sprint(冲刺周期)中要完成的任务
+BS - Brainstorming 头脑风暴
+TB - Team Building 团队建设
+PE - Property Executive 物业主管
+OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
+CEO - Chief Executive Officer 首席执行官
+COO - Chief Operated Officer 首席运营官
+CFO - Chief Finacial Officer 首席财务官
+CTO - Chief Technology Officer 首席技术官
+CIO - Chief Information Officer 首席信息官
+CMO - Chief Marketing Officer 首席营销官
+CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官 / Chief Satisfaction Officer 首席满意度官
+CHO - Chief Happiness Officer 首席快乐官
+CISO - Chief Information Security Officer 首席信息安全官
+CPO - Chief Privacy Officer 首席隐私官 / Chief Product Officer 首席产品官
+CUO - Chief User Officer 首席用户官
+CPUO - Chief Product and User Officer 首席产品和用户官
+CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
+DPO - Data Protection Officer 数据保护官
+VP - Vice President 副总裁
+SVP - Senior Vice President 高级副总裁
+AVP - Assistant Vice President 助理副总裁
+GM - General Manager 总经理
+BM - Branch Manager 部门经理
+GTM - Go To Market 市场推广
+MD - Marketing Director 市场总监 / Managing Director 董事总经理(投行)
+AD - Assistant Director 助理总监 / Advertising 广告
+OP - Operations 运营 / Operator 操作员
+TS - Technical Support 技术支持
+TAM - Technical Account Management 技术支持客户经理
+JD - Job Description 职位描述
+CV - Curriculum Vitae 个人履历
+HC - Headcount 人头数，招聘人数，职员人数
+Q&A - Question and Answer 问与答
+R&D - RD, Research and Development 研究和开发
+C&B - Compensation and Benefits 薪酬和福利
+EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员工的心理和行为问题，提高工作绩效
+PIP - Performance Improvement Plan 绩效改进计划
+FMLA - Family and Medical Leave Act 家庭和医疗休假法案，美国联邦法律，允许员工因家庭或个人健康原因请假
+RE - Redefines 重新定义
+GE - Greatly Exceeds 超出大部分
+EE - Exceeds 超出
+MA - Meets All 符合所有
+MM - Meets Most 符合大部分
+MS - Meets Some 符合部分
+CPA - Certified Public Accountant 注册会计师
+CFA - Chartered Financial Analyst 注册金融分析师
+FRM - Financial Risk Manager 金融风险管理师
+ACCA - Association of Chartered Certified Accountants 特许公认会计师公会
+PMP - Project Management Professional 项目管理专业认证
+PMI - Project Management Institute 项目管理协会
+CDMP - Certified for Data Management Professional 数据管理专业认证
+CDGA - Certified Data Governance Associate 数据治理助理认证
+CDGP - Certified Data Governance Professional 数据治理专业认证
+ACP - Alibaba Cloud Certified Professional 阿里云云计算专业认证
+ACE - Alibaba Cloud Certified Expert 阿里云云计算专家级
+SAP - (Amazon Web Services) Solutions Architect Professional (AWS)解决方案架构师专家级
+DAMA - Data Management Association 国际数据管理协会
+DCMM - Data Management Capability Maturity Assessment Model 数据管理能力成熟度评估模型
+CMM - Capability Maturity Model 能力成熟度模型
+CMMI - Capability Maturity Model Integration 能力成熟度模型集成
+IDEAL - Information Security Management Maturity Model 信息安全管理成熟度模型
+SW-CMM - Software Capability Maturity Model 软件能力成熟度模型
+SAMM - Software Assurance Maturity Model 软件保证成熟度模型
+PERT - Program Evaluation Review Technique 计划评审技术
+TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
+SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架构
+CCNA - Cisco Certified Network Associate 思科认证网络工程师
+CCNP - Cisco Certified Network Professional 思科认证网络专业人员
+CCIE - Cisco Certified Internetwork Expert 思科认证互联网专家
+RHCE - Red Hat Certified Engineer 红帽认证工程师
+RHCA - Red Hat Certified Architect 红帽认证架构师
+OCP - Oracle Certified Professional 甲骨文认证专业人员
+ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
+ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
+CISSP - Certified Information Systems Security Professional 信息系统安全专业认证
+AIO - All In One 一体化
+OSG - Official Study Guide 官方学习指南
+CBK - Common Body of Knowledge 公共知识体系
+CISM - Certified Information Security Manager 注册信息安全经理
+CISA - Certified Information Systems Auditor 注册信息系统审计师
+CCSP - Certified Cloud Security Professional 注册云安全专家
+CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
+CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
+CAISP - Certified AI Security Professional 人工智能安全认证专家
+OSCP - Offensive Security Certified Professional 渗透测试专家认证
+CCSP - Classified Protection of Cybersecurity 网络安全等级保护
+MLPS - Multi-Level Protection Scheme 多级保护方案
 ```
+
+```markdown
+OA - Office Automation 办公自动化
+RPA - Robotic Process Automation 机器人流程自动化
+PLM - Product Lifecycle Management 产品生命周期管理
+ERP - Enterprise Resource Planning 企业资源计划，管理人、财、货
+MES - Manufacturing Execution System 制造执行系统，管理车间
+SCM - Supply Chain Management 供应链管理
+KB - Knowledge Base 知识库
+CRM - Customer Relationship Management 客户关系管理
+SCRM - Social Customer Relationship Management 社会化客户关系管理
+SRM - Supplier Relationship Management 供应商关系管理
+KM - Knowledge Management 知识管理
+CAD - Computer Aided Design 计算机辅助设计
+BIM - Building Information Modeling 建筑信息模型
+GIS - Geographic Information System 地理信息系统
+QA - Quality Assurance 质量保证，测试
+QC - Quality Control 质量控制
+COO - Code of Conduct 行为规范
+QMS - Quality Management System 质量管理系统
+CMS - Content Management System 内容管理系统
+OSS - Operation Support System 运营支持系统
+BOSS - Business Operation Support System 业务运营支持系统
+DSS - Decision Support System 决策支持系统
+MIS - Management Information System 管理信息系统
+LLC - Limited Liability Company 有限责任公司
+BOM - Bill of Material 物料清单
+BOP - Bill of Process 工艺流程清单
+ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
+OEM - Original Equipment Manufacturer 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
+OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
+MRP - Material Requirements Planning 物料需求计划
+MOQ - Minimum Order Quantity 最小订货量
+COO - Country of Origin 原产国
+BOP - Balance of Payments 国际收支
+COD - Cash On Delivery 货到付款
+POD - Port of Destination 目的港
+DDU - Delivered Duty Unpaid 未完税交货
+DDP - Delivered Duty Paid 完税后交货
+FOB - Free On Board 离岸价，船上交货
+POL - Port of Loading 装货港
+POS - Point of Sale 销售点终端
+PW - Packed Weight 包装重量
+ITO - Information Technology Outsourcing 信息技术外包
+KPO - Knowledge Process Outsourcing 知识流程外包
+HRO - Human Resources Outsourcing 人力资源外包
+BPO - Business Process Outsourcing 业务流程外包
+RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
+```
+
+## 管理
+
+```markdown
+APS - Advanced Planning and Scheduling 高级计划与排程
+CPDM - Collaborative Product Definition Management 协同产品定义管理
+WMS - Warehouse Management System 仓库管理系统
+WCS - Warehouse Control System 仓库控制系统
+PLC - Programmable Logic Controller 可编程逻辑控制器
+DCS - Distributed Control System 分布式控制系统
+TCM - Total Cost Management 全面成本管理
+TQM - Total Quality Management 全面质量管理
+SQC - Statistical Quality Control 统计质量控制
+SPC - Statistical Process Control 统计过程控制
+FMEA - Failure Mode and Effects Analysis 故障模式及影响分析
+AQL - Acceptable Quality Level 可接受质量水平
+GMP - Good Manufacturing Practice 良好生产规范
+PPM - Parts Per Million 百万分之几(零件不良率)
+CAPA - Corrective and Preventive Action 纠正和预防措施
+SCADA - Supervisory Control And Data Acquisition 数据采集与监视控制系统
+EAM - Enterprise Asset Management 企业资产管理
+CMMS - Computerized Maintenance Management System 计算机化的设备维修管理系统
+BOT - Build, Operate, Transfer 建设、经营、转让，政府基建商业模式
+MTS - Make to Stock 按库存生产
+ATO - Assemble to Order 按订单装配
+MTO - Make to Order 按订单生产
+ETO - Engineer to Order 按订单设计
+CTO - Configure to Order 按订单配置
+SOW - Statement of Work 工作说明书
+SME - Subject Matter Expert 主题专家，领域专家
+CCB - Change Control Board 变更控制委员会
+COE - Center of Excellence 卓越中心 / Center of Expertise 专家中心
+SSC - Shared Service Center 共享服务中心
+SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
+```
+
+```markdown
+PP - Project Planning 项目计划
+WP - Work Planning 工作计划
+SD - Service Delivery 服务交付
+MA - Measurement and Analysis 度量和分析
+PPQA - Process and Product Quality Assurance 过程和产质量量保证
+REQM - Requirements Management 需求管理
+SAM - Supplier Agreement Management 供应商协议管理
+OPP - Organizational Process Performance 组织级过程绩效
+QPM - Quantitative Project Management 量化的项目管理
+CAR - Causal Analysis and Resolution 因果分析和决议
+OPM - Organizational Performance Management 组织级绩效管理
+DPG - Digital Project Governance 数字项目治理
+CAT - Computer-Adaptive Testing 计算机自适应测试
+CPE - Continuing Professional Education 持续专业教育
+CPD - Continuing Professional Development 持续专业发展
+COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
+COSO - Committee of Sponsoring Organizations of the Treadway Commission 特雷德韦委员会赞助组织委员会
+ISMS - Information Security Management System 信息安全管理体系
+AUP - Acceptable Use Policy 可接受使用策略
+CIRT - Computer Incident Response Team 计算机安全事件响应团队
+SoD - Segregation of Duties 职责分离
+RA - Risk Assessment 风险评估
+EF - Exposure Factor 暴露因子
+SLE - Single Loss Expectancy 单一损失期望
+SOC - Single Occurance Costs 单次发生成本
+ARO - Annualized Rate of Occurrence 年度发生率
+ALE - Annualized Loss Expectancy 年度损失期望
+EAC - Estimated Annual Cost 年度成本估算
+HIPAA - Health Insurance Portability and Accountability Act 健康保险便利和责任法案
+GLBA - Gramm-Leach-Bliley Act 格雷姆-里奇-比利雷法案，允许商业和投资银行、证券公司和保险公司进行整合
+COPPA - Children's Online Privacy Protection Act 儿童在线隐私保护法案
+FERPA - Family Educational Rights and Privacy Act 家庭教育权利和隐私法案
+PIPEDA - Personal Information Protection and Electronic Documents Act 个人信息保护和电子文件法案(加拿大)
+```
+
+```markdown
+CIA - Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
+DAD - Disclosure, Alteration, Destruction 泄露、篡改、破坏
+CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
+ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
+BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
+PDCA - Plan, Do, Check, Action 计划、执行、检查、总结，持续改进的循环方法论
+SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程、输出、客户，组织系统模型
+SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
+RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
+VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊
+PASTA - Process for Attack Simulation and Threat Analysis 模拟攻击和威胁分析过程
+FRAP - Facilitated Risk Analysis Process 便利的风险分析过程
+OCTAVE - Operationally Critical Threat, Asset, and Vulnerability Evaluation 操作性关键威胁、资产和脆弱性评估
+CRAMM - Central Computing and Telecommunication Agency Risk Analysis and Management Method 中央计算和电信机构风险分析与管理方法
+VAST - Visual, Agile, and Simple Threat 可视化、敏捷和简单威胁
+STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
+SMART - Specific, Measurable, Achievable, Relevant, Time-bound 具体、可衡量、可实现、相关、时限，目标管理方法
+```
+
+## 商业
 
 ```markdown
 KA - Key Accounts 重点客户，大卖场
@@ -857,55 +1003,6 @@ FMCG - Fast Moving Consumer Goods 快速消费品，快消品
 ```
 
 ```markdown
-OA - Office Automation 办公自动化
-RPA - Robotic Process Automation 机器人流程自动化
-PLM - Product Lifecycle Management 产品生命周期管理
-ERP - Enterprise Resource Planning 企业资源计划，管理人、财、货
-MES - Manufacturing Execution System 制造执行系统，管理车间
-SCM - Supply Chain Management 供应链管理
-KB - Knowledge Base 知识库
-CRM - Customer Relationship Management 客户关系管理
-SCRM - Social Customer Relationship Management 社会化客户关系管理
-SRM - Supplier Relationship Management 供应商关系管理
-KM - Knowledge Management 知识管理
-CAD - Computer Aided Design 计算机辅助设计
-BIM - Building Information Modeling 建筑信息模型
-GIS - Geographic Information System 地理信息系统
-QA - Quality Assurance 质量保证，测试
-QC - Quality Control 质量控制
-COO - Code of Conduct 行为规范
-QMS - Quality Management System 质量管理系统
-CMS - Content Management System 内容管理系统
-OSS - Operation Support System 运营支持系统
-BOSS - Business Operation Support System 业务运营支持系统
-DSS - Decision Support System 决策支持系统
-MIS - Management Information System 管理信息系统
-LLC - Limited Liability Company 有限责任公司
-BOM - Bill of Material 物料清单
-BOP - Bill of Process 工艺流程清单
-ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
-OEM - Original Equipment Manufacturer 原始设备制造商，又称代工，品牌方负责研发、设计，委托制造方生产
-OBM - Original Brand Manufacturer 原始品牌制造商，品牌方自行研发、设计和生产
-MRP - Material Requirements Planning 物料需求计划
-MOQ - Minimum Order Quantity 最小订货量
-COO - Country of Origin 原产国
-BOP - Balance of Payments 国际收支
-COD - Cash On Delivery 货到付款
-POD - Port of Destination 目的港
-DDU - Delivered Duty Unpaid 未完税交货
-DDP - Delivered Duty Paid 完税后交货
-FOB - Free On Board 离岸价，船上交货
-POL - Port of Loading 装货港
-POS - Point of Sale 销售点终端
-PW - Packed Weight 包装重量
-ITO - Information Technology Outsourcing 信息技术外包
-KPO - Knowledge Process Outsourcing 知识流程外包
-HRO - Human Resources Outsourcing 人力资源外包
-BPO - Business Process Outsourcing 业务流程外包
-RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
-```
-
-```markdown
 COM - Company 公司
 EDU - Education 教育
 ORG - Organization 组织
@@ -1065,6 +1162,8 @@ TCL - The Creative Life 创意(感动)生活，中国家电企业
 HTC - High Tech Computer Corporation 宏达国际电子(台湾)
 ```
 
+## 医学
+
 ```markdown
 SOD - SuperOxide Dismutase 超氧化物歧化酶，抗氧化剂
 DNA - DeoxyriboNucleic Acid 脱氧核糖核酸，生物大分子，组成遗传指令，引导生物发育与生命机能运作
@@ -1096,6 +1195,8 @@ EOL - Encyclopedia of Life 生命百科全书
 NSDR - Non-Sleep Deep Rest 非睡眠深度休息
 PMR - Progressive Muscle Relaxation 渐进式肌肉放松
 ```
+
+## 科技
 
 ```markdown
 VCR - Video Cassette Recorder 录像机(视频片断)
@@ -1462,8 +1563,6 @@ UTC - Coordinated Universal Time 协调世界时间，世界统一时间
 GMT - Greenwich Mean Time 格林尼治标准时间
 CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
 ```
-
-## 英文缩写解释(术语)
 
 ```markdown
 RSVP - Resource Reservation Protocol 资源预留协议
@@ -2054,93 +2153,6 @@ RISC - Reduced Instruction Set Computer 精简指令集计算机，如MIPS、ARM
 CISC - Complex Instruction Set Computer 复杂指令集计算机，如AMD
 HDL - Hardware Description Language 硬件描述语言
 RTL - Register-Transfer Level 寄存器传输级
-APS - Advanced Planning and Scheduling 高级计划与排程
-CPDM - Collaborative Product Definition Management 协同产品定义管理
-WMS - Warehouse Management System 仓库管理系统
-WCS - Warehouse Control System 仓库控制系统
-PLC - Programmable Logic Controller 可编程逻辑控制器
-DCS - Distributed Control System 分布式控制系统
-TCM - Total Cost Management 全面成本管理
-TQM - Total Quality Management 全面质量管理
-SQC - Statistical Quality Control 统计质量控制
-SPC - Statistical Process Control 统计过程控制
-FMEA - Failure Mode and Effects Analysis 故障模式及影响分析
-AQL - Acceptable Quality Level 可接受质量水平
-GMP - Good Manufacturing Practice 良好生产规范
-PPM - Parts Per Million 百万分之几(零件不良率)
-CAPA - Corrective and Preventive Action 纠正和预防措施
-SCADA - Supervisory Control And Data Acquisition 数据采集与监视控制系统
-EAM - Enterprise Asset Management 企业资产管理
-CMMS - Computerized Maintenance Management System 计算机化的设备维修管理系统
-BOT - Build, Operate, Transfer 建设、经营、转让，政府基建商业模式
-MTS - Make to Stock 按库存生产
-ATO - Assemble to Order 按订单装配
-MTO - Make to Order 按订单生产
-ETO - Engineer to Order 按订单设计
-CTO - Configure to Order 按订单配置
-SOW - Statement of Work 工作说明书
-SME - Subject Matter Expert 主题专家，领域专家
-CCB - Change Control Board 变更控制委员会
-COE - Center of Excellence 卓越中心 / Center of Expertise 专家中心
-SSC - Shared Service Center 共享服务中心
-SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
-```
-
-```markdown
-PP - Project Planning 项目计划
-WP - Work Planning 工作计划
-SD - Service Delivery 服务交付
-MA - Measurement and Analysis 度量和分析
-PPQA - Process and Product Quality Assurance 过程和产质量量保证
-REQM - Requirements Management 需求管理
-SAM - Supplier Agreement Management 供应商协议管理
-OPP - Organizational Process Performance 组织级过程绩效
-QPM - Quantitative Project Management 量化的项目管理
-CAR - Causal Analysis and Resolution 因果分析和决议
-OPM - Organizational Performance Management 组织级绩效管理
-DPG - Digital Project Governance 数字项目治理
-CAT - Computer-Adaptive Testing 计算机自适应测试
-CPE - Continuing Professional Education 持续专业教育
-CPD - Continuing Professional Development 持续专业发展
-COBIT - Control Objectives for Information and Related Technology 信息及相关技术控制目标
-COSO - Committee of Sponsoring Organizations of the Treadway Commission 特雷德韦委员会赞助组织委员会
-ISMS - Information Security Management System 信息安全管理体系
-AUP - Acceptable Use Policy 可接受使用策略
-CIRT - Computer Incident Response Team 计算机安全事件响应团队
-SoD - Segregation of Duties 职责分离
-RA - Risk Assessment 风险评估
-EF - Exposure Factor 暴露因子
-SLE - Single Loss Expectancy 单一损失期望
-SOC - Single Occurance Costs 单次发生成本
-ARO - Annualized Rate of Occurrence 年度发生率
-ALE - Annualized Loss Expectancy 年度损失期望
-EAC - Estimated Annual Cost 年度成本估算
-HIPAA - Health Insurance Portability and Accountability Act 健康保险便利和责任法案
-GLBA - Gramm-Leach-Bliley Act 格雷姆-里奇-比利雷法案，允许商业和投资银行、证券公司和保险公司进行整合
-COPPA - Children's Online Privacy Protection Act 儿童在线隐私保护法案
-FERPA - Family Educational Rights and Privacy Act 家庭教育权利和隐私法案
-PIPEDA - Personal Information Protection and Electronic Documents Act 个人信息保护和电子文件法案(加拿大)
-```
-
-```markdown
-CIA - Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
-DAD - Disclosure, Alteration, Destruction 泄露、篡改、破坏
-CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
-ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
-BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
-PDCA - Plan, Do, Check, Action 计划、执行、检查、总结，持续改进的循环方法论
-SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程、输出、客户，组织系统模型
-SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
-RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
-VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊
-PASTA - Process for Attack Simulation and Threat Analysis 模拟攻击和威胁分析过程
-FRAP - Facilitated Risk Analysis Process 便利的风险分析过程
-OCTAVE - Operationally Critical Threat, Asset, and Vulnerability Evaluation 操作性关键威胁、资产和脆弱性评估
-CRAMM - Central Computing and Telecommunication Agency Risk Analysis and Management Method 中央计算和电信机构风险分析与管理方法
-VAST - Visual, Agile, and Simple Threat 可视化、敏捷和简单威胁
-STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
-SMART - Specific, Measurable, Achievable, Relevant, Time-bound 具体、可衡量、可实现、相关、时限，目标管理方法
-```
 
 <!-- 审查重复项 -->
 <!-- grep '^[a-zA-Z0-9]' abbreviations.md | awk -F' - ' '{count[$1]++; lines[$1]=lines[$1]"\n"$0} END {for (i in count) if (count[i]>1) print lines[i]}' -->
