@@ -2154,6 +2154,7 @@ RISC - Reduced Instruction Set Computer 精简指令集计算机，如MIPS、ARM
 CISC - Complex Instruction Set Computer 复杂指令集计算机，如AMD
 HDL - Hardware Description Language 硬件描述语言
 RTL - Register-Transfer Level 寄存器传输级
+```
 
 <!-- 审查重复项 -->
 <!-- grep '^[a-zA-Z0-9]' abbreviations.md | awk -F' - ' '{count[$1]++; lines[$1]=lines[$1]"\n"$0} END {for (i in count) if (count[i]>1) print lines[i]}' -->
