@@ -309,12 +309,13 @@ w/ - With 和...一起
 w/o - Without 没有
 dunno - Don't know 不知道
 kinda - A little bit 有点
+wrt - With Respect To 关于，关于...
+esc - Escape 逃脱，转义字符，退出
 etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
 viz. - videlicet 也就是(拉丁文)
 ext. - extension 扩展，电话分机 / external 外部的 / extra 额外的
-esc - Escape 逃脱，转义字符，退出
 ```
 
 ```markdown
