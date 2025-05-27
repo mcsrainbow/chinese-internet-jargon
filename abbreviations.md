@@ -883,6 +883,7 @@ GTK - GNU Image Manipulation Program (GIMP) ToolKit 图像处理工具包
 CLI - Command-Line Interface 命令行界面
 CLT - Command-Line Tool 命令行工具
 CMD - Command 命令
+DEL - Delete 删除
 TTY - TeleTYpewriter 电传打字机
 PTY - Pseudo TeleTYpe 伪终端
 PTS - Pseudo TeleTYpe Slave 伪终端从机
