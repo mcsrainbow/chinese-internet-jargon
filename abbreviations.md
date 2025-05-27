@@ -1735,7 +1735,8 @@ GxP - Good Practice 良好实践(系列) x = M Manufacturing 制造 / C Clinical
 MD5 - Message Digest Algorithm 5 消息摘要算法第5版
 BLOB - Binary Large Object 二进制大型对象
 DFD - Data Flow Diagram 数据流程图
-SSOT - Single Source of Truth 单一可信源
+SSOT - Single Source of Truth 单一可信源，确保所有信息的来源都是准确且一致的
+SPOT - Single Point of Truth 单一可信点，确保任何一个知识点在系统内都应当有一个唯一、明确、权威的表述
 SCA - Software Composition Analysis 软件组成分析
 SAST - Static Application Security Testing 静态应用安全测试
 DAST - Dynamic Application Security Testing 动态应用安全测试
