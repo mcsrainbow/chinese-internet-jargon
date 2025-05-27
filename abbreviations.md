@@ -310,6 +310,12 @@ w/o - Without 没有
 dunno - Don't know 不知道
 kinda - A little bit 有点
 wrt - With Respect To 关于，关于...
+fn - Function 功能
+ctrl - Control 控制
+alt - Alternate 替代
+win - Windows 窗口
+del - Delete 删除
+ins - Insert 插入
 esc - Escape 逃脱，转义字符，退出
 etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
@@ -377,6 +383,7 @@ MC - Microphone Controller 主持人
 VJ - Visual Jockey 影像骑师，跟拍摄影师
 FD - Floor Director 导演助手，现场导演
 FB - Facebook 脸书，社交网络应用
+INS - Instagram 图片社交应用
 IG - Instagram 图片社交应用
 OB - Out of Bounds 界外(高尔夫)
 SB - Season Best 赛季最好成绩
@@ -883,7 +890,6 @@ GTK - GNU Image Manipulation Program (GIMP) ToolKit 图像处理工具包
 CLI - Command-Line Interface 命令行界面
 CLT - Command-Line Tool 命令行工具
 CMD - Command 命令
-DEL - Delete 删除
 TTY - TeleTYpewriter 电传打字机
 PTY - Pseudo TeleTYpe 伪终端
 PTS - Pseudo TeleTYpe Slave 伪终端从机
