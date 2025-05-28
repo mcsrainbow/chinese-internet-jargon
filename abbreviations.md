@@ -1024,6 +1024,7 @@ GC - Greater China 大中华区，以华人为主的中国大陆、香港、澳�
 APEC - Asia-Pacific Economic Cooperation 亚太经济合作组织，亚太经合组织
 APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
 EMEA - Europe, Middle East and Africa 欧洲、中东和非洲地区
+UAE - United Arab Emirates 阿拉伯联合酋长国
 NA - North America 北美洲
 LATAM - Latin America 拉丁美洲
 IS - Islamic State 伊斯兰国 / Information Security 信息安全
