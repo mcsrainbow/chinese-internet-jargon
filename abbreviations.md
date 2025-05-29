@@ -476,6 +476,7 @@ SUN - Sun, Sunday 星期日
 ```markdown
 OA - Online Assessment 在线测评
 VO - Virtual Onsite 虚拟现场面试
+STAR - Situation, Task, Action, Result 情境、任务、行动、结果，结构化面试法
 NG - New Graduate 应届毕业生
 K-12: from Kindergarten to 12th grade 基础教育(美国)，从幼儿园到12年级(相当于中国的高三)
 STEAM - Science, Technology, Engineering, Art, Mathematics 由科学、技术、工程、艺术、数学等学科共同构成的跨学科课程
