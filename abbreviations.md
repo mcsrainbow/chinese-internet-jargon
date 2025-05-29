@@ -1459,16 +1459,21 @@ DMZ - Demilitarized Zone 隔离区，非军事化区，隔离内部受信任网�
 PS - Adobe Photoshop 图像处理软件
 APP - Application 应用程序
 TXT - Text 文本
+ADOC - AsciiDoc 文本格式
 DOC - Document 文档
 XLS - Excel Spreadsheet 电子表格(微软)
+CSV - Comma-Separated Values 逗号分割值
 PPT - PowerPoint 演示文稿(微软)
 PDF - Portable Document Format 便携式文档格式
+MD - Markdown 标记语言
 DAT - Data 数据
 WPS - Word Processing System / Writer, Presentation, Spreadsheets 文字处理系统(金山软件) / 文字、演示、表格
 BMP - Bitmap 位图，图形文件格式
 GIF - Graphics Interchange Format 图像互换格式，位图图形文件格式
+IMG - Image 系统镜像文件
 JPG - JPEG, Joint Photographic Experts Group 联合图像专家小组，有损图像压缩标准
 PNG - Portable Network Graphics 便携式网络图形，无损压缩的位图图形文件格式
+SVG - Scalable Vector Graphics 可缩放矢量图形，基于XML的矢量图形格式
 ICO - Icon 图标
 WebP - Google开发的旨在加快图片加载速度的图片格式，与JPEG格式相比，相同图片质量仅需约1/3文件大小，与PNG相比约1/2
 MPEG - Moving Picture Experts Group 动态影像专家小组，运动图像压缩算法
@@ -1498,6 +1503,7 @@ TS - TypeScript JavaScript的严格语法超集，提供了可选的静态类型
 ESM - ES Modules 模块化编程
 SSE - Server-Sent Events 服务器发送事件
 PY - Python 编程语言
+IPYNB - IPython NoteBook 交互式Python解释器笔记本
 WHL - Wheel 轮子，Python包格式
 SH - Shell 脚本编程语言
 GIL - Global Interpreter Lock 全局解释器锁(Python)
@@ -1511,6 +1517,8 @@ JSON - JavaScript Object Notation JavaScript对象表示法，轻量级的数据
 YAML - YML, YAML Ain't a Markup Language "YAML不是一种标记语言"的递归缩写，可读性高，用来表达数据序列化的格式
 XML - EXtensible Markup Language 可扩展标记语言
 TOML - Tom's Obvious, Minimal Language 汤姆的浅显的、极简的语言，配置文件格式
+TF - Terraform File Terraform配置文件
+TIFF - Tagged Image File Format 标签图像文件格式
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合
