@@ -1604,6 +1604,7 @@ ANN - Artificial Neural Network 人工神经网络
 NN - NameNode 名称节点
 DN - DataNode 数据节点
 CNN - Convolutional Neural Networks 卷积神经网络
+TF - TensorFlow 深度学习框架
 DM - Data Mining 数据挖掘
 DG - Data Governance 数据治理
 DL - Deep Learning 深度学习
