@@ -1577,6 +1577,7 @@ IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师�
 ASCII - American Standard Code for Information Interchange 美国信息交换标准代码
 UTF - Unicode Transformation Format 针对Unicode的可变长度字符编码
 GBK - Guójiā Biāozhǔn Kuòzhǎn 国家标准扩展(拼音)
+PUA - Private Use Areas 私有使用区域
 UTC - Coordinated Universal Time 协调世界时间，世界统一时间
 GMT - Greenwich Mean Time 格林尼治标准时间
 CST - China Standard Time 中国标准时间UTC+8:00 / Central Standard Time 中部标准时间(美国UTC-6:00/澳大利亚UTC+9:30) / Cuba Standard Time 古巴标准时间UTC-4:00
@@ -2121,6 +2122,7 @@ UTM - Unified Threat Management 统一威胁管理
 MAM - Mobile Application Management 移动应用管理
 MDM - Mobile Device Management 移动设备管理
 MDE - Microsoft Defender for Endpoint 端点安全平台
+PUA - Potentially Unwanted Applications 潜在有害应用程序
 DOM - Document Object Model 文档对象模型
 BOM - Browser Object Model 浏览器对象
 POM - Project Object Model 项目对象模型
