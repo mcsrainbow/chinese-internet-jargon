@@ -1239,6 +1239,8 @@ BBA - Benz, BMW, Audi 奔驰，宝马，奥迪
 EV - Electric Vehicle 电动汽车
 A/C - Air Conditioning 空气调节，空调
 PM - Particulate Matter 颗粒物
+4WD - Four-Wheel Drive 四轮驱动
+AWD - All-Wheel Drive 全轮驱动，全时四驱
 ETC - Electronic Toll Collection 不停车电子计费
 ABS - Anti-lock Braking System 防抱死制动系统
 AEB - Autonomous Emergency Braking 自动紧急制动
