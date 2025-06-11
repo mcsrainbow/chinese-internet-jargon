@@ -1701,6 +1701,7 @@ URN - Uniform Resource Name 统一资源名称
 ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
 K8S - Kubernetes 容器编排平台
 O11Y - Observability 可观测性
+N9E - Nightingale 夜莺监控系统
 CRD - Custom Resource Definition 自定义资源定义
 CM - ConfigMap 配置映射
 EV - Event 事件
