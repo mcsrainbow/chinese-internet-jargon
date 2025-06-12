@@ -895,6 +895,8 @@ TTY - TeleTYpewriter 电传打字机
 PTY - Pseudo TeleTYpe 伪终端
 PTS - Pseudo TeleTYpe Slave 伪终端从机
 IFS - Internal Field Separator 内部字段分隔符
+CWD - Current Working Directory 当前工作目录
+PWD - Print Working Directory 打印当前工作目录 / Password 密码
 UE/UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
