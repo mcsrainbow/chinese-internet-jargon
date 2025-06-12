@@ -1209,6 +1209,10 @@ PMR - Progressive Muscle Relaxation 渐进式肌肉放松
 ## 科技英文缩写
 
 ```markdown
+TRAE - The Real AI Engineer 真正的AI工程师，AI编程工具(字节跳动)
+```
+
+```markdown
 VCR - Video Cassette Recorder 录像机(视频片断)
 CD - Compact Disc 影音光盘
 VCD - Video Compact Disc 影音光盘
