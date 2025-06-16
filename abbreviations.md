@@ -1027,6 +1027,7 @@ GC - Greater China 大中华区，以华人为主的中国大陆、香港、澳�
 APEC - Asia-Pacific Economic Cooperation 亚太经济合作组织，亚太经合组织
 APAC - Asia-Pacific 亚太地区，亚洲及太平洋地区
 EMEA - Europe, Middle East and Africa 欧洲、中东和非洲地区
+AUKUS - Australia, United Kingdom, United States 澳大利亚、英国、美国，英美两国协助澳大利亚的军事外交安全联盟
 UAE - United Arab Emirates 阿拉伯联合酋长国
 NA - North America 北美洲
 LATAM - Latin America 拉丁美洲
@@ -1332,6 +1333,8 @@ DPU - Data Processing Unit 数据处理器
 NPU - Neural network Processing Unit 神经网络处理器
 TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
 IA - Intel Architecture 英特尔架构
+SEN - Sensor 传感器
+SMC - Sensor Module Controller 传感器模块控制器
 ```
 
 ```markdown
@@ -1647,6 +1650,7 @@ PROD - Production 生产(环境)
 PRD - Production 生产(环境)
 CaC - Configuration as Code 配置即代码
 IaC - Infrastructure as Code 基础设施即代码
+SaC - Security as Code 安全即代码
 CR - Change Request 变更请求 / Code Review 代码评审
 PR - Pull Request 合并请求(代码)
 MR - Merge Request 合并请求(代码) / MapReduce 映射规约(大数据)
