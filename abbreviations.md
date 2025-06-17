@@ -1533,6 +1533,7 @@ TOML - Tom's Obvious, Minimal Language 汤姆的浅显的、极简的语言，�
 TF - Terraform File Terraform配置文件
 TIFF - Tagged Image File Format 标签图像文件格式
 GGUF - GPT-Generated Unified Format GPT生成的(模型)统一格式
+UL - Underline 下划线
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合
