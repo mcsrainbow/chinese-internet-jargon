@@ -2067,6 +2067,7 @@ SNS - Simple Notification Service 简单消息服务
 ACK - Container Service for Kubernetes (阿里云)容器服务Kubernetes版
 ASK - Container Service for Kubernetes Serverless (阿里云)容器服务Kubernetes无服务器版
 ACS - Container Compute Service (阿里云)容器计算服务
+ACR - Container Registry (阿里云)容器镜像服务
 MSE - Microservices Engine 微服务引擎
 DMS - Data Management Service 数据管理服务
 DTS - Data Transmission Service 数据传输服务
