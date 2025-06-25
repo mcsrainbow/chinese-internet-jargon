@@ -704,6 +704,7 @@ CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防�
 CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
 CAISP - Certified AI Security Professional 人工智能安全认证专家
 OSCP - Offensive Security Certified Professional 渗透测试专家认证
+OSWE - Offensive Security Web Expert 高级Web渗透测试专家
 CCSP - Classified Protection of Cybersecurity 网络安全等级保护
 MLPS - Multi-Level Protection Scheme 多级保护方案
 ```
