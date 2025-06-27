@@ -1540,6 +1540,7 @@ OL - Overline 上划线
 VR - Virtual Reality 虚拟现实
 AR - Augmented Reality 增强现实
 MR - Mixed Reality 混合现实，虚拟现实与增强现实的结合
+ASMR - Autonomous Sensory Meridian Response 自主性感官经络反应，通过听觉、视觉、触觉等感官刺激，产生愉悦、放松、兴奋等感觉
 BI - Business Intelligence 商业智能
 BE - Business Enablement 商业赋能
 BA - Business Analyst 商业分析师 / Business Analysis 商业分析(围绕业务) / Business Analytics 商业分析(围绕数据)
