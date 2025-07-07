@@ -848,6 +848,7 @@ CRAMM - Central Computing and Telecommunication Agency Risk Analysis and Managem
 VAST - Visual, Agile, and Simple Threat 可视化、敏捷和简单威胁
 STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege 假冒、篡改、抵赖、信息泄露、拒绝服务、特权提升，威胁模型
 SMART - Specific, Measurable, Achievable, Relevant, Time-bound 具体、可衡量、可实现、相关、时限，目标管理方法
+RICE - Reach, Impact, Confidence, Effort 触达的广度、影响的深度、对需求的信心、工作量，分数 = Reach x Impact x Confidence / Effort，定量分析决定需求优先级
 ```
 
 ## 商业英文缩写
