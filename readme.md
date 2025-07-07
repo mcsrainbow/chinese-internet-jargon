@@ -3750,7 +3750,7 @@ T型人才 - T-shaped talent
 有效取样 - Effective sampling
 模拟信号 - Analog signal
 数字信号 - Digital signal
-射频信号 - Radio frequency signal 
+射频信号 - Radio frequency signal
 株式会社 - Stock company
 蒙氏教育 - Montessori education
 孕妇效应 - Maternal effect
