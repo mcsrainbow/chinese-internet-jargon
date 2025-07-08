@@ -612,6 +612,7 @@ HRD - Human Resource Development 人力资源开发 / Human Resource Director �
 HCM - Human Capital Management 人力资本管理，对员工的技能、知识和能力进行投资、管理和评估
 PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
+TPM - Technical Program Manager 技术项目经理
 PO - Product Owner 产品负责人 / Purchase Order 采购订单
 RM - Relationship Manager 客户关系经理，客户经理
 SM - Scrum Master 敏捷专家，敏捷教练，熟悉敏捷开发模式及敏捷实施流程的人员
@@ -2037,6 +2038,7 @@ SIM - Subscriber Identity Module 用户身份模块
 SDN - Software Defined Network 软件定义网络
 SDWAN - Software Defined Wide Area Network 软件定义广域网
 SDP - Software Defined Perimeter 软件定义边界
+MSG - Microsegmentation 微隔离
 VT - Virtualization Technology 虚拟化技术
 VM - Virtual Machine 虚拟机
 KVM - Kernel-based Virtual Machine 基于内核的虚拟机 / Keyboard, Video, Mouse 键盘、显示器、鼠标，多计算机直连切换器
@@ -2108,6 +2110,11 @@ ABAC - Attribute-Based Access Control 基于属性的访问控制策略
 CQRS - Command Query Responsibility Segregation 命令和查询责任分离
 IDS - Intrusion Detection System 入侵检测系统
 IPS - Intrusion Prevention System 入侵防御系统
+HIDS - Host-Based Intrusion Detection System 基于主机的入侵检测系统
+NIDS - Network-Based Intrusion Detection System 基于网络的入侵检测系统
+HIPS - Host-Based Intrusion Prevention System 基于主机的入侵防御系统
+NIPS - Network-Based Intrusion Prevention System 基于网络的入侵防御系统
+NTA - Network Traffic Analysis 网络流量分析
 SCAP - Security Content Automation Protocol 安全内容自动化协议
 CVE - Common Vulnerabilities and Exposures 公共漏洞和暴露，通用漏洞披露
 CVSS - Common Vulnerability Scoring System 通用漏洞评分系统
