@@ -1379,6 +1379,7 @@ VAP - Virtual Access Point 虚拟接入点
 PSK - Pre-Shared Key 基于预先共享的密钥进行身份验证
 HTTP - HyperText Transfer Protocol 超文本传输协议
 HTTPS - HyperText Transfer Protocol Secure 超文本传输安全协议
+WebDAV - Web-based Distributed Authoring and Versioning 基于Web的分布式创作和版本控制
 Telnet - Telecommunications Network 电信网络
 SET - Secure Electronic Transaction 安全电子交易协议
 SPDY - Speedy 由Google开发的网络传输协议，最终演变为HTTP/2
