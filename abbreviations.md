@@ -668,8 +668,14 @@ CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
 ACCA - Association of Chartered Certified Accountants 特许公认会计师公会
-PMP - Project Management Professional 项目管理专业认证
 PMI - Project Management Institute 项目管理协会
+PMP - Project Management Professional 项目管理专业人士
+PgMP - Program Management Professional 项目集管理专业人士
+PMI-ACP - PMI Agile Certified Practitioner PMI敏捷管理专业人士认证
+PMI-PBA - PMI Professional in Business Analysis PMI商业分析专业人士
+PMI-RMP - PMI Risk Management Professional PMI风险管理专业人士
+PMI-PMOCP - PMI PMO Certified Professional PMI-PMO专业人士认证
+CAPM - Certified Associate in Project Management 项目管理助理认证
 CDMP - Certified for Data Management Professional 数据管理专业认证
 CDGA - Certified Data Governance Associate 数据治理助理认证
 CDGP - Certified Data Governance Professional 数据治理专业认证
