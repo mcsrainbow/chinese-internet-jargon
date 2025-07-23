@@ -1649,6 +1649,8 @@ EDI - Electronic Data Interchange 电子数据交换
 EDA - Electronic Design Automation 电子设计自动化 / Exploratory Data Analysis 探索性数据分析
 DevOps - Development and Operations 开发运维一体化，面向开发的运维
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
+FE - Frontend 前端
+BE - Backend 后端
 DORA - DevOps Research and Assessment DevOps研究与评估
 EXIN - Exam Institute for Information Science 国际信息科学考试学会
 I/O - Input/Output 输入/输出 / Inbound/Outbound 入站/出站
