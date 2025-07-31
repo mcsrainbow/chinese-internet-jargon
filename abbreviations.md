@@ -691,6 +691,8 @@ SW-CMM - Software Capability Maturity Model 软件能力成熟度模型
 SAMM - Software Assurance Maturity Model 软件保证成熟度模型
 PERT - Program Evaluation Review Technique 计划评审技术
 TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
+CAPEX - Capital Expenditure 资本性支出
+OPEX - Operating Expenditure 运营性支出
 SABSA - Sherwood Applied Business Security Architecture 舍伍德业务安全架构
 CCNA - Cisco Certified Network Associate 思科认证网络工程师
 CCNP - Cisco Certified Network Professional 思科认证网络专业人员
@@ -841,6 +843,8 @@ PIPEDA - Personal Information Protection and Electronic Documents Act 个人信�
 CIA - Confidentiality, Integrity, Availability 机密性、完整性、可用性，信息安全三要素
 DAD - Disclosure, Alteration, Destruction 泄露、篡改、破坏
 CAP - Consistency, Availability, Partition tolerance 一致性、可用性、分区容错性，三者不可得兼原则
+SOLID - Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion 单一职责、开闭原则、里氏替换、接口隔离、依赖反转
+SRP - Single Responsibility Principle 单一职责原则
 ACID - Actomicity, Consistent, Isolation, Durable 原子性、一致性、隔离性、持久性，事务的四个属性
 BASE - Basically Available, Soft state, Eventually consistent 基本可用、软状态、最终一致，权衡一致性和可用性的解决方案
 PDCA - Plan, Do, Check, Action 计划、执行、检查、总结，持续改进的循环方法论
@@ -1397,6 +1401,8 @@ SaaS - Software as a Service 软件即服务
 IDaaS - IDentity as a Service 身份即服务
 FaaS - Function as a Service 函数即服务
 DaaS - Data as a Service 数据即服务
+BaaS - Backend as a Service 后端即服务
+MaaS - Messaging as a Service 消息即服务
 KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
 DNS - Domain Name System 域名系统
 DoH - DNS over HTTPS 基于HTTPS的域名系统
@@ -1405,9 +1411,14 @@ HA - High Availability 高可用性
 SOA - Service-Oriented Architecture 面向服务的架构
 ROA - Resource Oriented Architecture 面向资源的架构
 REST - Representational State Transfer 表现层状态转化，应用程序接口设计规范
+IDL - Interface Definition Language 接口定义语言
+HATEOAS - Hypermedia as the Engine of Application State 超媒体作为应用状态的引擎，RESTful API设计规范
 SPA - Single-page Application 单页应用
 RPC - Remote Procedure Call 远程过程调用协议
 gRPC - gRPC Remote Procedure Call 远程过程调用协议(Google)
+EJB - Enterprise JavaBeans 企业级JavaBeans
+CORBA - Common Object Request Broker Architecture 公共对象请求代理体系结构
+IOE - IBM Oracle EMC 商业公司服务器、数据库、存储
 VPN - Virtual Private Network 虚拟专用网
 IKE - Internet Key Exchange 因特网密钥交换
 PPTP - Point-to-Point Tunneling Protocol 点对点隧道协议
@@ -1648,10 +1659,12 @@ DW - Data Warehouse 数据仓库
 EDI - Electronic Data Interchange 电子数据交换
 EDA - Electronic Design Automation 电子设计自动化 / Exploratory Data Analysis 探索性数据分析
 DevOps - Development and Operations 开发运维一体化，面向开发的运维
+CAMS - Culture, Automation, Measurement, Sharing 文化、自动化、度量、分享
 CI/CD - Continuous Integration, Continuous Delivery/Deployment 持续集成，持续交付/部署
 FE - Frontend 前端
 BE - Backend 后端
 DORA - DevOps Research and Assessment DevOps研究与评估
+OAM - Open Application Model 开放应用模型
 EXIN - Exam Institute for Information Science 国际信息科学考试学会
 I/O - Input/Output 输入/输出 / Inbound/Outbound 入站/出站
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
@@ -1683,6 +1696,7 @@ ITIL - Information Technology Infrastructure Library 信息技术基础构架库
 ITSM - Information Technology Service Management 信息技术服务管理
 APM - Application Performance Monitoring 应用性能监控
 ARMS - Application Real-Time Monitoring Service 应用实时监控服务
+PTS - Performance Testing Service 性能测试服务
 EMO - Emergency Management Organization 应急管理组织
 EOC - Emergency Operations Center 应急行动中心
 DR - Disaster Recovery 灾难恢复
@@ -2083,7 +2097,13 @@ ACK - Container Service for Kubernetes (阿里云)容器服务Kubernetes版
 ASK - Container Service for Kubernetes Serverless (阿里云)容器服务Kubernetes无服务器版
 ACS - Container Compute Service (阿里云)容器计算服务
 ACR - Container Registry (阿里云)容器镜像服务
+ASM - Aliyun Service Mesh 阿里云服务网格
+AHAS - Application High Availability Service (阿里云)应用高可用服务
+ECI - Elastic Container Instance 弹性容器实例
+EBM - Elastic Bare Metal 弹性裸金属
 MSE - Microservices Engine 微服务引擎
+SAE - Serverless App Engine 无服务器应用引擎
+DAPR - Distributed Application Runtime 分布式应用运行时
 DMS - Data Management Service 数据管理服务
 DTS - Data Transmission Service 数据传输服务
 CPFS - Cloud Paralleled File System 阿里云并行文件系统
@@ -2095,6 +2115,7 @@ DLRM - Deep Learning Recommendation Model 深度学习推荐模型
 EKS - Elastic Kubernetes Service 弹性Kubernetes服务
 EBS - Elastic Block Storage 弹性块存储
 EFS - Elastic File System 弹性文件系统
+DSS - Data Storage Segregation 数据存储隔离
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
 RAM - Resource Access Management 资源访问管理
@@ -2197,6 +2218,7 @@ TDD - Test-Driven Development 测试驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
 DDD - Domain-Driven Design 领域驱动设计
 MDE - Model-Driven Engineering 模型驱动工程
+EDA - Event-Driven Architecture 事件驱动架构
 SDLC - Software Development Life Cycle 软件开发生命周期
 MVC - Model-View-Controller 模型、视图和控制器，软件架构模式
 MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
