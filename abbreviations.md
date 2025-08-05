@@ -801,6 +801,11 @@ CCB - Change Control Board 变更控制委员会
 COE - Center of Excellence 卓越中心 / Center of Expertise 专家中心
 SSC - Shared Service Center 共享服务中心
 SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
+```
+
+```markdown
+PP - Project Planning 项目计划
+WP - Work Planning 工作计划
 WBS - Work Breakdown Structure 工作分解结构
 OBS - Organizational Breakdown Structure 组织分解结构
 RBS - Resource Breakdown Structure 资源分解结构
@@ -808,11 +813,6 @@ CWBS - Contract Work Breakdown Structure 合同(契约)工作分解结构
 PBS - Product Breakdown Structure 产品分解结构
 FBS - Function Breakdown Structure 功能分解结构
 CA - Control Account 控制账户
-```
-
-```markdown
-PP - Project Planning 项目计划
-WP - Work Planning 工作计划
 SD - Service Delivery 服务交付
 MA - Measurement and Analysis 度量和分析
 PPQA - Process and Product Quality Assurance 过程和产质量量保证
