@@ -801,6 +801,13 @@ CCB - Change Control Board 变更控制委员会
 COE - Center of Excellence 卓越中心 / Center of Expertise 专家中心
 SSC - Shared Service Center 共享服务中心
 SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
+WBS - Work Breakdown Structure 工作分解结构
+OBS - Organizational Breakdown Structure 组织分解结构
+RBS - Resource Breakdown Structure 资源分解结构
+CWBS - Contract Work Breakdown Structure 合同(契约)工作分解结构
+PBS - Product Breakdown Structure 产品分解结构
+FBS - Function Breakdown Structure 功能分解结构
+CA - Control Account 控制账户
 ```
 
 ```markdown
@@ -2205,9 +2212,7 @@ OOP - Object-Oriented Programming 面向对象程序设计
 JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
 LVS - Linux Virtual Server Linux虚拟服务器
 WAF - Web Application Firewall 网站应用防火墙
-WBS - Work Breakdown Structure 工作分解结构
 RBS - Risk Breakdown Structure 风险分解结构
-OBS - Organizational Breakdown Structure 组织分解结构
 RAM - Responsibility Assignment Matrix 责任分配矩阵
 BRD - Business Requirement Document 商业需求文档，概念阶段
 MRD - Market Requirement Document 市场需求文档，定位阶段
