@@ -1910,6 +1910,7 @@ UPS - Uninterruptible Power Supply 不间断电源
 HBA - Host Bus Adapter 主机总线适配器
 HUB - Hub 集线器
 NC - Network Computer 网络计算机
+VDI - Virtual Desktop Infrastructure 虚拟桌面基础设施
 NAS - Network Attached Storage 网络附接存储
 ETL - Extract, Transform, Load 提取，转换，加载，在加载前对数据进行清洗加工
 ELT - Extract, Load, Transform 提取，加载，转换，对加载后的数据进行处理
