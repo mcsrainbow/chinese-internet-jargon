@@ -689,6 +689,8 @@ CMMI - Capability Maturity Model Integration 能力成熟度模型集成
 IDEAL - Information Security Management Maturity Model 信息安全管理成熟度模型
 SW-CMM - Software Capability Maturity Model 软件能力成熟度模型
 SAMM - Software Assurance Maturity Model 软件保证成熟度模型
+CCSP - Classified Protection of Cybersecurity 网络安全等级保护
+MLPS - Multi-Level Protection Scheme 多级保护方案
 PERT - Program Evaluation Review Technique 计划评审技术
 TOGAF - The Open Group Architecture Framework 开放组体系结构框架，设计、规划、实施和管理企业信息技术架构的方法
 CAPEX - Capital Expenditure 资本性支出
@@ -712,11 +714,11 @@ CCSP - Certified Cloud Security Professional 注册云安全专家
 CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
 CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
 CAISP - Certified AI Security Professional 人工智能安全认证专家
-OSCP - Offensive Security Certified Professional 渗透测试专家认证
+OSCP - Offensive Security Certified Professional 渗透测试专业人士认证
+OSEP - Offensive Security Experienced Penetration Tester 资深渗透测试员
+OSCE - Offensive Security Certified Expert 渗透测试专家认证
 OSWE - Offensive Security Web Expert 高级Web渗透测试专家(白盒测试)
 OSWA - Offensive Security Web Assessor 高级Web渗透测试评估师(黑盒测试)
-CCSP - Classified Protection of Cybersecurity 网络安全等级保护
-MLPS - Multi-Level Protection Scheme 多级保护方案
 ```
 
 ```markdown
