@@ -676,6 +676,7 @@ PMI-PBA - PMI Professional in Business Analysis PMI商业分析专业人士
 PMI-RMP - PMI Risk Management Professional PMI风险管理专业人士
 PMI-PMOCP - PMI PMO Certified Professional PMI-PMO专业人士认证
 CAPM - Certified Associate in Project Management 项目管理助理认证
+IPMA - International Project Management Association 国际项目管理协会
 CDMP - Certified for Data Management Professional 数据管理专业认证
 CDGA - Certified Data Governance Associate 数据治理助理认证
 CDGP - Certified Data Governance Professional 数据治理专业认证
