@@ -847,6 +847,9 @@ GLBA - Gramm-Leach-Bliley Act 格雷姆-里奇-比利雷法案，允许商业和
 COPPA - Children's Online Privacy Protection Act 儿童在线隐私保护法案
 FERPA - Family Educational Rights and Privacy Act 家庭教育权利和隐私法案
 PIPEDA - Personal Information Protection and Electronic Documents Act 个人信息保护和电子文件法案(加拿大)
+EEFs - Enterprise Environment Factors 事业环境因素
+OPAs - Organizational Process Assets 组织过程资产
+PSCA - Produce, Stockpile, Communication, Application 生成、积累、交流、应用，知识管理循环模型
 ```
 
 ```markdown
@@ -861,7 +864,9 @@ PDCA - Plan, Do, Check, Action 计划、执行、检查、总结，持续改进�
 SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程、输出、客户，组织系统模型
 SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
 RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
-VUCA - Volatile, Uncertain, Complex, Ambiguous 不稳定、不确定、复杂、模糊
+VUCA - Volatility, Uncertainty, Complexity, Ambiguity 不稳定、不确定、复杂、模糊
+PESTLE - Political, Economic, Social, Technological, Legal, Environmental 政治、经济、社会、技术、法律、环境，宏观环境分析模型
+TECOP - Technological, Environmental, Commercial, Operational, Political 技术、环境、商业、运营、政治，宏观环境分析模型
 PASTA - Process for Attack Simulation and Threat Analysis 模拟攻击和威胁分析过程
 FRAP - Facilitated Risk Analysis Process 便利的风险分析过程
 OCTAVE - Operationally Critical Threat, Asset, and Vulnerability Evaluation 操作性关键威胁、资产和脆弱性评估
