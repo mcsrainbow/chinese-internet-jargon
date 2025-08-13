@@ -850,6 +850,7 @@ PIPEDA - Personal Information Protection and Electronic Documents Act 个人信�
 EEFs - Enterprise Environment Factors 事业环境因素
 OPAs - Organizational Process Assets 组织过程资产
 PSCA - Produce, Stockpile, Communication, Application 生成、积累、交流、应用，知识管理循环模型
+CCB - Change Control Board 变更控制委员会
 ```
 
 ```markdown
@@ -977,15 +978,16 @@ KPI - Key Performance Indicator 关键绩效指标
 KRI - Key Risk Indicator 关键风险指标
 OKR - Objectives and Key Results 目标与关键结果
 ROI - Return on Investment 投资回报率
+PBP - Payback Period 投资回收期
+IRR - Internal Rate of Return 内部收益率
+NPV - Net Present Value 净现值
+BCR - Benefit Cost Ratio 效益成本比
 ROSI - Return on Security Investment 安全投资回报率
 ROE - Return On Equity 净资产收益率 ，盈利能力指标，衡量相对于股东权益的投资回报
 CBA - Cost Benefit Analysis 成本效益分析
 BR - Base Rate 基准利率
 APR - Annual Percentage Rate 年利率
 LPR - Loan Prime Rate 贷款市场报价利率
-IRR - Internal Rate of Return 内部收益率
-NPV - Net Present Value 净现值
-PBP - Payback Period 投资回收期
 DAU - Daily Active Users 日活跃用户
 WAU - Weekly Active Users 周活跃用戶数
 MAU - Monthly Active Users 月活跃用户
@@ -1236,6 +1238,7 @@ GEO - Gene Expression Omnibus 高通量基因表达数据库
 EOL - Encyclopedia of Life 生命百科全书
 NSDR - Non-Sleep Deep Rest 非睡眠深度休息
 PMR - Progressive Muscle Relaxation 渐进式肌肉放松
+TVOC - Total Volatile Organic Compounds 总挥发性有机化合物
 ```
 
 ## 科技英文缩写
