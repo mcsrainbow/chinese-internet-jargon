@@ -864,7 +864,7 @@ BASE - Basically Available, Soft state, Eventually consistent 基本可用、软
 PDCA - Plan, Do, Check, Action 计划、执行、检查、总结，持续改进的循环方法论
 SIPOC - Supplier, Input, Process, Output, Customer 供应者、输入、流程、输出、客户，组织系统模型
 SWOT - Strengths, Weaknesses, Opportunities, Threats 优势、劣势、机会、威胁，竞争强弱危机分析模型
-RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁批准、咨询谁、告知谁，责任分配矩阵
+RACI - Responsible, Accountable, Consulted, Informed 谁执行、谁承担、咨询谁、告知谁，责任分配矩阵
 VUCA - Volatility, Uncertainty, Complexity, Ambiguity 不稳定、不确定、复杂、模糊
 PESTLE - Political, Economic, Social, Technological, Legal, Environmental 政治、经济、社会、技术、法律、环境，宏观环境分析模型
 TECOP - Technological, Environmental, Commercial, Operational, Political 技术、环境、商业、运营、政治，宏观环境分析模型
