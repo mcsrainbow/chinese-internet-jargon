@@ -307,6 +307,7 @@ sux - Sucks 糟透了
 b/c - Because 因为
 w/ - With 和...一起
 w/o - Without 没有
+y/o - years old 岁
 dunno - Don't know 不知道
 kinda - A little bit 有点
 wrt - With Respect To 关于，关于...
@@ -781,7 +782,9 @@ WCS - Warehouse Control System 仓库控制系统
 PLC - Programmable Logic Controller 可编程逻辑控制器
 DCS - Distributed Control System 分布式控制系统
 TCM - Total Cost Management 全面成本管理
+LCC - Life Cycle Cost 全生命周期成本
 TQM - Total Quality Management 全面质量管理
+DfX - Design for X 为X设计，X可以是任何东西，如成本、质量、可靠性、可制造性、可服务性等
 SQC - Statistical Quality Control 统计质量控制
 SPC - Statistical Process Control 统计过程控制
 FMEA - Failure Mode and Effects Analysis 故障模式及影响分析
@@ -851,6 +854,10 @@ EEFs - Enterprise Environment Factors 事业环境因素
 OPAs - Organizational Process Assets 组织过程资产
 PSCA - Produce, Stockpile, Communication, Application 生成、积累、交流、应用，知识管理循环模型
 CCB - Change Control Board 变更控制委员会
+MCDA - Multi-Criteria Decision Analysis 多准则决策分析
+CPM - Critical Path Method 关键路径法
+PDPC - Process Decision Program Chart 过程决策程序图
+DoD - Definition of Done 完成定义，任务完成的标准
 ```
 
 ```markdown
@@ -1100,6 +1107,7 @@ WTO - World Trade Organization 世界贸易组织
 MFN - Most Favored Nation (非歧视性)最惠国待遇(贸易原则)
 WHO - World Health Organization 世界卫生组织
 GPS - Global Positioning System 全球卫星定位系统(美国国防部)
+DoD - Department of Defense 国防部
 CNMD - Chinese National Missile Defence 中国国家导弹防御系统
 FDPR - Foreign Direct Product Rule 外国直接产品规则(美国)
 UN - United Nations 联合国
@@ -2242,6 +2250,7 @@ MVVM - Model-View-ViewModel 模型、视图、视图模型，软件架构模式
 SSH - Struts, Spring, Hibernate Java企业级开发框架组合
 PoC - Proof of Concept 概念验证
 MVP - Minimum Viable Product 最小可行产品
+MMR - Minimum Marketable Release 最小可发布版本
 BPM - Business Process Management 业务流程管理
 PDM - Product Data Management 产品数据管理
 CAM - Computer Aided Manufacturing 计算机辅助制造
