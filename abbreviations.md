@@ -858,6 +858,7 @@ MCDA - Multi-Criteria Decision Analysis 多准则决策分析
 CPM - Critical Path Method 关键路径法
 PDPC - Process Decision Program Chart 过程决策程序图
 DoD - Definition of Done 完成定义，任务完成的标准
+MoSCoW - Must Have, Should Have, Could Have, Won't Have 必须有、应该有、可以有、不必有，需求优先级排序方法
 ```
 
 ```markdown
@@ -1659,6 +1660,7 @@ YUM - Yellow dog Updater, Modified 已修改的黄狗更新程序，基于RPM的
 APT - Advanced Package Tool 高级包管理工具
 PyPI - Python Package Index Python软件包索引
 PIP - /pɪp/ Pip Installs Packages Python包管理工具
+PEP - Python Enhancement Proposals Python增强提案
 CPAN - Comprehensive Perl Archive Network Perl综合档案网，Perl程序库
 OLAP - OnLine Analysis Processing 联机分析处理
 OLTP - Online Transaction Processing 联机事务处理
