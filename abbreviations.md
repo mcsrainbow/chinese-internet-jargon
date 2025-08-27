@@ -615,9 +615,10 @@ PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Ma
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
 TPM - Technical Program Manager 技术项目经理
 PO - Product Owner 产品负责人 / Purchase Order 采购订单
-RM - Relationship Manager 客户关系经理，客户经理
-SM - Scrum Master 敏捷专家，敏捷教练，熟悉敏捷开发模式及敏捷实施流程的人员
+SM - Scrum Master 敏捷专家，敏捷教练
+DT - Development Team 开发团队
 ST - Scrum Team 敏捷团队
+RM - Relationship Manager 客户关系经理，客户经理
 TL - Technique Leader, Teach Lead 技术带头人 / Team Leader, Team Lead 团队负责人
 PB - Product Backlog 产品待办列表，在每个Sprint(冲刺周期)之前，团队从中选择要处理的任务
 SB - Sprint Backlog 迭代待办列表，团队在当前Sprint(冲刺周期)中要完成的任务
