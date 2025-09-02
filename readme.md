@@ -3225,8 +3225,8 @@ X号位 - Leader, Pusher, Fixer, Helper, Supporter
 社达 - Social darwinism
 炸鱼 - Smurfing
 豁免 - Exempt
-有氧 - Aerobic exercise
-无氧 - Anaerobic exercise
+有氧 - Cardio / Cardiovascular exercise
+无氧 - Anaerobic / Anaerobic exercise
 困囿 - Confined
 僭越 - Transgress
 平替 - Affordable alternatives
