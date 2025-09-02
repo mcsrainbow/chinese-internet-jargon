@@ -613,7 +613,7 @@ HRD - Human Resource Development 人力资源开发 / Human Resource Director �
 HCM - Human Capital Management 人力资本管理，对员工的技能、知识和能力进行投资、管理和评估
 PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
-TPM - Technical Program Manager 技术项目经理
+TPM - Technical Program Manager 技术项目集经理
 PO - Product Owner 产品负责人 / Purchase Order 采购订单
 SM - Scrum Master 敏捷专家，敏捷教练
 DT - Development Team 开发团队
@@ -1270,6 +1270,8 @@ KTV - Karaoke TV 卡拉OK(日英文杂名)，视唱空间
 MV - Music Video 音乐视频
 Vlog - Video blog 影像网络日志
 VOD - Video On Demand 视频点播
+DSLR - Digital Single-Lens Reflex 数码单反相机
+DSLM - Digital Single-Lens Mirrorless 无反光镜可换镜头相机，可换镜头相机
 AM - Amplitude Modulation Broadcast 调幅广播，利用幅度调制技术传输声音的无线电广播技术
 FM - Frequency Modulation Broadcast 调频广播，以频率调制技术来传送高保真声音的无线电广播技术
 PM - Phase Modulation 调相，相位调制，以载波的瞬时相位变化来表示信息的调制方式
@@ -1325,6 +1327,7 @@ DHT - Dedicated Hybrid Transmissions 专用混合动力变速箱
 SUV - Sport Utility Vehicle 运动型多用途车
 MPV - Multi-Purpose Vehicle 多功能休旅车
 PHEV - Plug-in Hybrid Electric Vehicle 插电式混合动力汽车，混动
+EREV - Extended-range Electric Vehicle 增程式电动汽车
 LRT - Light Rail Transit 轻轨运输系统
 BRT - Bus Rapid Transit 快速公交系统
 CRH - China Railway High-speed 中国铁路高速列车
