@@ -27,8 +27,6 @@ W/L - Win/Loss 赢/输
 FAM - Family 家人们
 STAN - Stand Up 站起来，支持
 PFP - Profile Picture 头像 / Picture for Proof 证明图片
-RFD - Request For Discussion 请求讨论
-RFI - Request For Information 请求资讯
 TCC - Teleconference Call 电话会议
 IAM - In A Meeting 会议中
 TLDR - TL;DR, Too Long; Didn't Read 太长了，没有阅读
@@ -812,6 +810,11 @@ SDC - Shared Deliver Center 共享交付中心(资源、能力、团队)
 ```
 
 ```markdown
+RFD - Request For Discussion 请求讨论
+RFI - Request For Information 请求资讯
+RFP - Request For Proposal 需求建议书，招标书
+RFQ - Request For Quote 报价请求
+FRQQ - Request For Qualification and Quote 资质与报价请求
 PP - Project Planning 项目计划
 WP - Work Planning 工作计划
 WBS - Work Breakdown Structure 工作分解结构
@@ -918,8 +921,6 @@ MO - Management Office 管理办公室
 BP - Business Plan 商业计划书
 BD - Business Development 商务拓展
 BAU - Business As Usual 正常营业
-RFP - Request For Proposal 需求建议书，招标书
-RFQ - Request For Quote 报价请求
 ITT - Invitation To Tender 招标
 SwA - Software Assurance 软件保证
 HQ - Headquarters 公司总部
