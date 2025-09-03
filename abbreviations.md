@@ -666,6 +666,7 @@ EE - Exceeds 超出
 MA - Meets All 符合所有
 MM - Meets Most 符合大部分
 MS - Meets Some 符合部分
+CMA - Certified Management Accountant 注册管理会计师
 CPA - Certified Public Accountant 注册会计师
 CFA - Chartered Financial Analyst 注册金融分析师
 FRM - Financial Risk Manager 金融风险管理师
