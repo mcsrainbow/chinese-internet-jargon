@@ -1704,6 +1704,7 @@ I/O - Input/Output 输入/输出 / Inbound/Outbound 入站/出站
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
 SDE - Software Development Engineer 软件开发工程师
 SRE - Site Reliability Engineering 站点可靠性工程 / Site Reliability Engineer 站点可靠性工程师
+MLE - Machine Learning Engineer 机器学习工程师
 DE - Data Engineering 数据工程 / Data Engineer 数据工程师
 DEV - Development 开发(环境)
 SIT - System Integration Testing 系统集成测试(环境)
