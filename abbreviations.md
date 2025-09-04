@@ -1860,6 +1860,8 @@ SHA - Secure Hash Algorithm 安全散列算法
 RSA - Rivest, Shamir, Adleman 非对称加密算法，李维斯特，萨莫尔，阿德曼
 DSA - Digital Signature Algorithm 数字签名算法
 ECC - Elliptic Curve Cryptography 椭圆曲线密码学
+ECB - Electronic Code Book 电子密码本模式
+CBC - Cipher Block Chaining 密码分组链接模式
 HMAC - Hash-based Message Authentication Code 基于哈希的消息认证码
 CMAC - Cipher-based Message Authentication Code 基于密码的消息认证码
 KDC - Key Distribution Center 密钥分发中心
