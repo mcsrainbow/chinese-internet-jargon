@@ -814,7 +814,7 @@ RFD - Request For Discussion 请求讨论
 RFI - Request For Information 请求资讯
 RFP - Request For Proposal 需求建议书，招标书
 RFQ - Request For Quote 报价请求
-FRQQ - Request For Qualification and Quote 资质与报价请求
+RFQQ - Request For Qualification and Quote 资质与报价请求
 PP - Project Planning 项目计划
 WP - Work Planning 工作计划
 WBS - Work Breakdown Structure 工作分解结构
