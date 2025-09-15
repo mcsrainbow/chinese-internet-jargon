@@ -1429,6 +1429,7 @@ SET - Secure Electronic Transaction 安全电子交易协议
 SPDY - Speedy 由Google开发的网络传输协议，最终演变为HTTP/2
 SSO - Single Sign-On 单点登录(认证服务)
 API - Application Programming Interface 应用程序接口
+CAPTCHA - Completely Automated Public Turing test to tell Computers and Humans Apart 完全自动化的公共图灵测试，区分计算机和人类
 IaaS - Infrastructure as a Service 基础设施即服务
 PaaS - Platform as a Service 平台即服务
 SaaS - Software as a Service 软件即服务
