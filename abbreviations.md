@@ -1723,7 +1723,7 @@ IaC - Infrastructure as Code 基础设施即代码
 SaC - Security as Code 安全即代码
 CR - Change Request 变更请求 / Code Review 代码评审
 PR - Pull Request 合并请求(代码)
-MR - Merge Request 合并请求(代码) / MapReduce 映射规约(大数据)
+MR - Merge Request 合并请求(代码)
 SVC - Service 服务
 SLA - Service-Level Agreement 服务水平协议，对用户的承诺和补偿范围
 SLO - Service-Level Objective 服务水平目标，达成承诺所需的性能目标
@@ -1981,6 +1981,8 @@ DFS - Distributed File System 分布式文件系统
 CDH - Cloudera Distributed Hadoop Hadoop的Cloudera发行版
 HDP - Hortonworks Data Platform Hadoop的Hortonworks发行版
 HDFS - Hadoop Distributed File System Hadoop分布式文件系统
+MR - MapReduce 映射规约(大数据)
+RDD - Resilient Distributed Dataset 弹性分布式数据集
 FAT - File Allocation Table 文件分配表，微软发明的文件系统
 NTFS - New Technology File System 微软(Windows NT)系列操作系统的默认文件系统
 HPFS - High Performance File System 高性能文件系统，IBM为OS/2操作系统提供的文件系统，是NTFS的原型
