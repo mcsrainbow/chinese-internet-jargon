@@ -1793,6 +1793,7 @@ RS - ReplicaSet 副本集
 STS - StatefulSet 状态集
 DS - DaemonSet 守护集
 HPA - Horizontal Pod Autoscaler 水平Pod自动扩容
+VPA - Vertical Pod Autoscaler 垂直Pod自动扩容
 PV - Persistent Volume 持久卷
 PVC - Persistent Volume Claim 持久卷声明
 SC - StorageClass 存储类
