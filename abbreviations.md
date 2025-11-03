@@ -417,7 +417,7 @@ K - k, Kilo 千 / Kilobyte 千字节
 KG - Kilogram 千克，公斤
 T - Ton 吨 / Terabyte 太字节 / Tera 万亿，10的12次方 / Tier 梯队
 MT - Metric Ton 公吨，1000千克
-N - Number (任意)数量 / No 否
+N - Number (任意)数量 / No 否 / And 和
 Y - Year 年 / Yes 是
 Q - Quarter 季度 / Cute 可爱 / Cue 点名，提示
 X - Extra 额外 / Kiss 亲吻 / Twitter 推特
@@ -1053,6 +1053,7 @@ CG - Computer-Generated 计算机生成(动画)
 TMT - Technology, Media, Telecom 科技、媒体、电信的总称，数字新媒体
 ACG - Animation, Comic, Game 动画、漫画、游戏的总称，娱乐领域
 FMCG - Fast Moving Consumer Goods 快速消费品，快消品
+BnB - Bed and Breakfast 床与早餐，民宿
 ```
 
 ```markdown
