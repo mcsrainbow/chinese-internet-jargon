@@ -2043,7 +2043,7 @@ ICMP - Internet Control Message Protocol 互联网控制消息协议
 IGMP - Internet Group Management Protocol 互联网组管理协议
 SMB - Server Message Block 服务器消息块，网络文件共享协议
 SMTP - Simple Mail Transfer Protocol 简单邮件传输协议
-EHLO - Extended Hello 扩展 Hello 协议，用于SMTP握手阶段，告知服务器客户端支持的邮件协议版本
+EHLO - Extended Hello 扩展 Hello，用于SMTP握手阶段，告知服务器客户端支持的邮件协议版本
 POP - Post Office Protocol 邮局协议
 DKIM - DomainKeys Identified Mail 域名密钥识别邮件
 DMARC - Domain-based Message Authentication, Reporting & Conformance 基于域的消息认证、报告和一致性，电子邮件认证、策略和报告协议
