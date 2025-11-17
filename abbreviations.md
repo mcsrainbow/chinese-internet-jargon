@@ -1579,8 +1579,10 @@ SSE - Server-Sent Events 服务器发送事件
 PY - Python 编程语言
 IPYNB - IPython NoteBook 交互式Python解释器笔记本
 WHL - Wheel 轮子，Python包格式
-SH - Shell 脚本编程语言
 GIL - Global Interpreter Lock 全局解释器锁(Python)
+SH - Shell 脚本编程语言
+OpenGL - Open Graphics Library 开放图形库
+GLSL - OpenGL Shading Language OpenGL着色器语言
 PHP - Hypertext Preprocessor 超文本预处理器，编程语言
 SPL - Standard PHP Library PHP标准库
 ASP - Active Server Page 动态服务器网页
