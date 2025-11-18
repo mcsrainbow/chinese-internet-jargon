@@ -748,6 +748,14 @@ BOSS - Business Operation Support System 业务运营支持系统
 DSS - Decision Support System 决策支持系统
 MIS - Management Information System 管理信息系统
 LLC - Limited Liability Company 有限责任公司
+LLP - Limited Liability Partnership 有限责任合伙公司
+Inc. - Incorporated 股份有限公司
+Corp. - Corporation 股份有限公司
+Ltd. - Limited 有限责任公司
+PLC - Public Limited Company 公众有限公司(英国)
+Co., Ltd. - Company Limited 有限公司(中国)
+Pte. Ltd. - Private Limited 私人有限公司(新加坡)
+Pty. Ltd. - Proprietary Limited 私人有限公司(澳大利亚)
 BOM - Bill of Material 物料清单
 BOP - Bill of Process 工艺流程清单
 ODM - Original Design Manufacturer 原始设计制造商，又称贴牌，品牌方委托制造方研发、设计和生产
