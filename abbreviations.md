@@ -1108,6 +1108,8 @@ CeFi - Centralized Finance 中心化金融
 DAPP - Decentralized Application 去中心化应用
 DEX - Decentralized Exchange 去中心化交易所
 CEX - Centralized Exchange 中心化交易所
+QDII - Qualified Domestic Institutional Investor 合格境内机构投资者
+QFII - Qualified Foreign Institutional Investor 合格境外机构投资者
 PnL - Profit and Loss 利润和损失
 NFT - Non-Fungible Token 非同质化代币
 PoW - Proof of Work 工作量证明
