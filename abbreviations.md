@@ -985,6 +985,7 @@ ASP - Average Selling Price 平均销售价格
 CAC - Customer Acquisition Cost 获取单个顾客的成本
 TCO - Total Cost of Ownership 总体拥有成本
 CTR - Click Through Rate 点击率
+AVD - Average View Duration 平均用户观看时长
 SMB - Small and Midsize Business 中小型企业市场
 WOM - Word-of-Mouth Marketing 口碑营销
 MKT - Marketing 营销
