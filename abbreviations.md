@@ -975,7 +975,8 @@ ARPU - Average Revenue Per User 每用户平均收入
 ARPPU - Average Revenue Per Paying User 每付费用户平均收益
 MRR - Monthly Recurring Revenue 每月经常性收入
 ARR - Annual Recurring Revenue 每年经常性收入
-CLV - Customer Lifetime Value 客户生命周期价值，单个客户在未来可能为该服务带来的收益总和
+LTV - Lifetime Value 生命周期价值，单个客户在未来可能为该服务带来的收益总和
+CLV - Customer Lifetime Value 客户生命周期价值
 KYC - Know Your Customer 了解你的客户
 CVR - Conversion Rate 转化率
 PCU - Peak Concurrent Users 最高并发用户
