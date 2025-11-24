@@ -599,6 +599,7 @@ HKBU - Hong Kong Baptist University 香港浸会大学
 CityU - City University of Hong Kong 香港城市大学
 PolyU - The Hong Kong Polytechnic University 香港理工大学
 WCU - Wild Chicken University 野鸡大学
+MOOC - Massive Open Online Course 大规模开放在线课程
 ```
 
 ## 职场英文缩写
