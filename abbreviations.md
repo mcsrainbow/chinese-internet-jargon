@@ -2185,6 +2185,7 @@ RAM - Resource Access Management 资源访问管理
 KMS - Key Management Service 密钥管理服务
 AKSK - Access Key ID, Secret Access Key 云服务接口的访问密钥
 SLS - Simple Log Service 简单日志服务
+NACOS - Naming and Configuration Service 命名和配置服务
 SCP - Service Control Policy 服务控制策略，基于组织的访问控制策略
 ACL - Access Control Lists 访问控制列表
 NAC - Network Access Control 网络访问控制
