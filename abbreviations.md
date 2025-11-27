@@ -2285,6 +2285,7 @@ MITM - Man-In-The-Middle 中间人攻击
 TOCTOU - Time-of-Check to Time-of-Use 数据状态在检查和使用之间发生变化的漏洞
 OOP - Object-Oriented Programming 面向对象程序设计
 JWT - JSON Web Token 基于JSON开放标准的跨域认证解决方案
+JWS - JSON Web Signature 基于JSON开放标准的数字签名解决方案
 LVS - Linux Virtual Server Linux虚拟服务器
 WAF - Web Application Firewall 网站应用防火墙
 RBS - Risk Breakdown Structure 风险分解结构
