@@ -1177,6 +1177,8 @@ FR - FdR, Federal Reserve 联邦储备局，美联储
 DOGE - Department of Government Efficiency 政府效率部(美国)
 SWIFT - Society for Worldwide Interbank Financial Telecommunication 全球银行间金融电讯协会，国际资金清算系统
 FDA - U.S. Food and Drug Administration 美国食品药品监督管理局
+NMPA - National Medical Products Administration 国家药品监督管理局(中国)
+CRO - Contract Research Organization 合同研究组织
 HHS - Health and Human Services 卫生与公众服务部(美国)
 CDC - Centers for Disease Control and Prevention 疾病控制与预防中心(美国)
 DOL - Department of Labor 劳工部(美国)
