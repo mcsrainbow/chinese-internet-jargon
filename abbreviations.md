@@ -316,6 +316,22 @@ win - Windows 窗口
 del - Delete 删除
 ins - Insert 插入
 esc - Escape 逃脱，转义字符，退出
+bin - Binary 二进制
+sbin - System Binary 系统二进制
+dev - Device 设备
+lib - Library 库
+src - Source 源码，源地址
+dest - Destination 目的地
+pid - Process ID 进程ID
+uid - User ID 用户ID
+gid - Group ID 组ID
+mnt - Mount 挂载
+opt - Optional 可选的
+proc - Process 进程
+srv - Service 服务
+sys - System 系统
+usr - User 用户
+var - Variable 变量
 etc. - et cetera 等等(拉丁文)
 e.g. - exempli gratia 例如(拉丁文)
 i.e. - id est 换句话说(拉丁文)
