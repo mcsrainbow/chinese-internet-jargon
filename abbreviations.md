@@ -1569,6 +1569,7 @@ XLS - Excel Spreadsheet 电子表格(微软)
 CSV - Comma-Separated Values 逗号分割值
 PPT - PowerPoint 演示文稿(微软)
 PDF - Portable Document Format 便携式文档格式
+OFD - Open Fixed-layout Document 开放固定版式文档
 CHM - Compiled HTML Help 编译后的HTML帮助文件
 MD - Markdown 标记语言
 DAT - Data 数据
