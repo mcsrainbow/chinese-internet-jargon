@@ -197,6 +197,7 @@ BOGO - Buy One, Get One 买一送一
 OCD - Obsessive Compulsive Disorder 强迫症
 TGIF - Thank God It's Friday 感谢上帝今天是星期五
 LET - Leaving Early Today 今天早点走
+MBA - Married But Available 已婚但可约
 BOT - Back On Topic 回到主题 / Bot 机器人
 BRB - Be Right Back 马上回来
 BRT - Be Right There 马上到
