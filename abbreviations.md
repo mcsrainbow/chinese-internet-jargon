@@ -1770,6 +1770,7 @@ MTTA - Mean Time To Acknowledge 平均响应时间，从系统产生告警到人
 MTTF - Mean Time To Failure 平均失效时间，系统平均正常运行多长时间后发生故障
 ITIL - Information Technology Infrastructure Library 信息技术基础构架库
 ITSM - Information Technology Service Management 信息技术服务管理
+SLSA - Supply-chain Levels for Software Artifacts 软件供应链等级框架
 APM - Application Performance Monitoring 应用性能监控
 ARMS - Application Real-Time Monitoring Service 应用实时监控服务
 PTS - Performance Testing Service 性能测试服务
