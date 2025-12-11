@@ -1379,6 +1379,7 @@ PiP - Picture in Picture 画中画
 SOD - Start of Delivery 开始交付
 NOA - Navigate on Autopilot 领航辅助驾驶
 FSD - Full Self-Driving 完全自动驾驶
+BEV - Bird's Eye View 鸟瞰视角，俯视视角
 CDC - Continuous Damping Control 连续阻尼控制，能自动识别道路状况的汽车减震系统
 PVC - Polyvinyl Chloride 聚氯乙烯，工程塑料，常用于板材、管材、门窗
 PU - Polyurethane 聚氨酯，人造皮革
