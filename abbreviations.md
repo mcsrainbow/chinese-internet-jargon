@@ -1553,6 +1553,7 @@ CMDB - Configuration Management Database 配置管理数据库，用于储存软
 CI - Configuration Item 配置项
 PG - PostgreSQL, Postgres 企业级开源关系数据库
 GP - GreenPlum 关系型分布式数据库，本质上由多个PostgreSQL数据库实例构成
+MVCC - Multi-Version Concurrency Control 多版本并发控制
 MPP - Massive Parallel Processing 海量并行处理
 ES - Elasticsearch 构建在Apache Lucene上的分布式搜索和分析引擎 / Elastic Stack 由Elastic公司开发的Elasticsearch相关产品套件
 ELK - Elasticsearch, Logstash, Kibana 日志分析、采集、可视化的产品组合
