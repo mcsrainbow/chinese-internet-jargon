@@ -798,6 +798,7 @@ KPO - Knowledge Process Outsourcing 知识流程外包
 HRO - Human Resources Outsourcing 人力资源外包
 BPO - Business Process Outsourcing 业务流程外包
 RPO - Recruitment Process Outsourcing 招聘流程外包，代理招聘
+VAT - Value Added Tax 增值税
 ```
 
 ## 管理英文缩写
