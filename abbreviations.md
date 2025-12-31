@@ -1859,6 +1859,8 @@ JRE - Java Runtime Environment Java运行时环境
 JVM - Java Virtual Machine Java虚拟机
 JMX - Java Management Extensions Java管理扩展
 SDK - Software Development Kit 软件开发工具包
+NPE - Null Pointer Exception 空指针异常
+OOM - Out of Memory 内存溢出
 NIO - Non-blocking I/O 同步非阻塞的I/O模型
 UUID - Universally Unique Identifier 通用唯一识别码
 DBMS - Database Management System 数据库管理系统
