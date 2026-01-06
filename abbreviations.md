@@ -630,7 +630,7 @@ HCM - Human Capital Management 人力资本管理，对员工的技能、知识�
 PM - Project Manager 项目经理 / Product Manager 产品经理 / Production Manager 生产经理
 PMO - Project Management Office 项目管理办公室，专门负责组织和协调项目管理活动的团队
 TPM - Technical Program Manager 技术项目集经理
-PO - Product Owner 产品负责人 / Purchase Order 采购订单
+PO - Product Owner 产品负责人
 SM - Scrum Master 敏捷专家，敏捷教练
 DT - Development Team 开发团队
 ST - Scrum Team 敏捷团队
@@ -676,6 +676,8 @@ C&B - Compensation and Benefits 薪酬和福利
 EAP - Employee Assistance Programs 员工帮助计划，预防和帮助解决员工的心理和行为问题，提高工作绩效
 PIP - Performance Improvement Plan 绩效改进计划
 FMLA - Family and Medical Leave Act 家庭和医疗休假法案，美国联邦法律，允许员工因家庭或个人健康原因请假
+PO - Purchase Order 采购订单
+PA - Purchase Approval 采购审批
 RE - Redefines 重新定义
 GE - Greatly Exceeds 超出大部分
 EE - Exceeds 超出
