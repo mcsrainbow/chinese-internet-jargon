@@ -1896,6 +1896,7 @@ SAST - Static Application Security Testing 静态应用安全测试
 DAST - Dynamic Application Security Testing 动态应用安全测试
 IAST - Interactive Application Security Testing 交互式应用安全测试
 RASP - Runtime Application Self-Protection 运行时应用自我保护
+ASM - Attack Surface Management 攻击面管理
 ATO - Authorization To Operate 授权运行
 DP - DisplayPort 显示端口(数字视频)
 DVI - Digital Visual Interface 数字视频接口
