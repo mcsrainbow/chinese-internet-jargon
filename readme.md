@@ -1706,7 +1706,7 @@ P人, C位, B超, 4S店, B端, C端, G端,
 避谶, 喽啰, 公允, 吊诡, 面首, 戒牒, 侘寂,
 粒子, 逃逸, 解离, 崩殂, 工件, 政治, 经济,
 社会, 中出, 空耳, 夺舍, 长机, 僚机, 断言,
-文科, 理科, 工科, 双开
+文科, 理科, 工科, 双开, 猎奇
 ```
 
 #### 三字搜集词汇列表
@@ -2343,6 +2343,7 @@ X号位 - 在团队中，通常1号位核心领导，2号位辅助推进，3号�
 理科 - 研究自然界物质结构及其运行现象的学科，侧重理论研究与实验验证，如数学、物理、化学、生物学、地理学等
 工科 - 以理科为基础，研究技术与工程应用的学科，侧重实践能力与技术创新，如机械工程、电气工程、土木工程、化学工程、计算机科学等
 双开 - 开除党籍、开除公职 / 相同应用登录两个不同帐号，无需注销切换，保持同时在线，互不干扰
+猎奇 - 古怪、离奇、不寻常的行为或事物
 ```
 
 #### 三字搜集词汇解释
@@ -3417,6 +3418,7 @@ X号位 - Leader, Pusher, Fixer, Helper, Supporter
 理科 - Natural and mathematical sciences
 工科 - Engineering and technology
 双开 - Be dismissed from public office and expelled from the Party / Dual login
+猎奇 - Weird and unusual behavior / ryouki (Japanese)
 ```
 
 #### 三字搜集词汇翻译
