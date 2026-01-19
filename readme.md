@@ -3418,7 +3418,7 @@ X号位 - Leader, Pusher, Fixer, Helper, Supporter
 理科 - Natural and mathematical sciences
 工科 - Engineering and technology
 双开 - Be dismissed from public office and expelled from the Party / Dual login
-猎奇 - Weird and unusual behavior / ryouki (Japanese)
+猎奇 - Weird and unusual behavior / ryouki (Japanese) / Novelty hunting
 ```
 
 #### 三字搜集词汇翻译
