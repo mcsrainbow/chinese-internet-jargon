@@ -738,11 +738,13 @@ CCSP - Certified Cloud Security Professional 注册云安全专家
 CEH - Certified Ethical Hacker 道德黑客，白帽黑客认证，黑客攻防专家认证
 CISP - Certified Information Security Professional 注册信息安全专业人员(中国)
 CAISP - Certified AI Security Professional 人工智能安全认证专家
+OSWA - Offensive Security Web Assessor 高级Web渗透测试评估师(黑盒测试)
+OSWE - Offensive Security Web Expert 高级Web渗透测试专家(白盒测试)
 OSCP - Offensive Security Certified Professional 渗透测试专业人士认证
 OSEP - Offensive Security Experienced Penetration Tester 资深渗透测试员
+OSED - Offensive Security Exploit Developer 渗透测试漏洞开发专家
 OSCE - Offensive Security Certified Expert 渗透测试专家认证
-OSWE - Offensive Security Web Expert 高级Web渗透测试专家(白盒测试)
-OSWA - Offensive Security Web Assessor 高级Web渗透测试评估师(黑盒测试)
+OSEE - Offensive Security Exploitation Expert 高级渗透测试专家(白盒测试)
 ```
 
 ```markdown
