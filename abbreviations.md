@@ -1439,6 +1439,7 @@ IRC - Internet Relay Chat 互联网中继聊天
 TG - Telegram 电报，支持双向加密的即时通信软件
 AD - Active Directory 活动目录(Windows服务器)
 AAD - Azure Active Directory 微软云活动目录
+ADFS - Active Directory Federation Services 活动目录联邦服务
 CS - Client-Server 客户端与服务器
 BS - Browser-Server 浏览器与服务器 / Basic Station 基站
 IDE - Integrated Development Environment 集成开发环境(软件开发)
