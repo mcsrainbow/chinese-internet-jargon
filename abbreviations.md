@@ -2183,6 +2183,7 @@ AOSP - Android Open Source Project 安卓开源项目
 GMS - Google Mobile Services 谷歌移动服务
 AWS - Amazon Web Services 亚马逊云计算服务
 VPC - Virtual Private Cloud 虚拟私有云
+AZ - Availability Zone 可用区
 VSW - Virtual Switch 虚拟交换机
 CEN - Cloud Enterprise Network 云企业网
 ECS - Elastic Compute Service/Server 弹性计算服务，云服务器 / Elastic Container Service 弹性容器编排服务
