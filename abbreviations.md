@@ -1635,7 +1635,7 @@ HTML - HyperText Markup Language 超文本标记语言
 XHTML - Extensible Hypertext Markup Language 可扩展超文本标记语言
 JSON - JavaScript Object Notation JavaScript对象表示法，轻量级的数据交换格式
 YAML - YML, YAML Ain't a Markup Language "YAML不是一种标记语言"的递归缩写，可读性高，用来表达数据序列化的格式
-XML - EXtensible Markup Language 可扩展标记语言
+XML - eXtensible Markup Language 可扩展标记语言
 TOML - Tom's Obvious, Minimal Language 汤姆的浅显的、极简的语言，配置文件格式
 TF - Terraform File Terraform配置文件
 TIFF - Tagged Image File Format 标签图像文件格式
