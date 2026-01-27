@@ -2342,4 +2342,4 @@ RTL - Register-Transfer Level 寄存器传输级
 ```
 
 <!-- 审查重复项 -->
-<!-- grep '^[a-zA-Z0-9]' abbreviations.md | awk -F' - ' '{count[$1]++; lines[$1]=lines[$1]"\n"$0} END {for (i in count) if (count[i]>1) print lines[i]}' -->
+<!-- ggrep '^[a-zA-Z0-9]' abbreviations.md | gawk -F' - ' '{count[$1]++; lines[$1]=lines[$1]"\n"$0} END {for (i in count) if (count[i]>1) print lines[i]}' -->

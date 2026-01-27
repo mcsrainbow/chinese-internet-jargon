@@ -4049,4 +4049,4 @@ T型人才 - T-shaped talent
 ```
 
 <!-- 查找重复词汇 -->
-<!-- grep ' - ' README.md | cut -d- -f1 | LC_ALL=C sort | LC_ALL=C uniq -c | LC_ALL=C sort | awk '($1 != 2){print}' -->
+<!-- ggrep ' - ' README.md | gcut -d- -f1 | gsort | guniq -c | gsort | gawk '($1 != 2){print}' -->
