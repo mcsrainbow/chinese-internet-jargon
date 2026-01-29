@@ -1706,7 +1706,8 @@ P人, C位, B超, 4S店, B端, C端, G端,
 避谶, 喽啰, 公允, 吊诡, 面首, 戒牒, 侘寂,
 粒子, 逃逸, 解离, 崩殂, 工件, 政治, 经济,
 社会, 中出, 空耳, 夺舍, 长机, 僚机, 断言,
-文科, 理科, 工科, 双开, 猎奇, 教条
+文科, 理科, 工科, 双开, 猎奇, 教条, 三农,
+犬儒
 ```
 
 #### 三字搜集词汇列表
@@ -2346,6 +2347,8 @@ X号位 - 在团队中，通常1号位核心领导，2号位辅助推进，3号�
 双开 - 开除党籍、开除公职 / 相同应用登录两个不同帐号，无需注销切换，保持同时在线，互不干扰
 猎奇 - 古怪、离奇、不寻常的行为或事物
 教条 - 又译为"信条"，被认为是绝对正确，不可争辩的一个或多个原则或信仰，常常由某个权威所制定
+三农 - 农业、农村、农民
+犬儒 - 源自古希腊学派，主张回归自然、清心寡欲、蔑视权贵与物质财富，因生活简朴如犬而得名
 ```
 
 #### 三字搜集词汇解释
@@ -3423,6 +3426,8 @@ X号位 - Leader, Pusher, Fixer, Helper, Supporter
 双开 - Be dismissed from public office and expelled from the Party / Dual login
 猎奇 - Weird and unusual behavior / ryouki (Japanese) / Novelty hunting
 教条 - Dogma
+三农 - Agriculture, rural areas, and farmers
+犬儒 - Cynic
 ```
 
 #### 三字搜集词汇翻译
