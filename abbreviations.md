@@ -1717,6 +1717,7 @@ NVM - Node.js Version Manager Node.js版本管理器
 NPM - Node Package Manager Node包管理器
 RPM - Red Hat Package Manager 红帽包管理器
 YUM - Yellow dog Updater, Modified 已修改的黄狗更新程序，基于RPM的包管理工具
+DNF - Dandified YUM 基于YUM的包管理工具
 APT - Advanced Package Tool 高级包管理工具
 PyPI - Python Package Index Python软件包索引
 PIP - /pɪp/ Pip Installs Packages Python包管理工具
