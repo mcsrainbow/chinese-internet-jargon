@@ -732,6 +732,7 @@ CISSP - Certified Information Systems Security Professional 信息系统安全�
 AIO - All In One 一体化
 OSG - Official Study Guide 官方学习指南
 CBK - Common Body of Knowledge 公共知识体系
+AMF - Annual Maintenance Fee 年度维护费
 CISM - Certified Information Security Manager 注册信息安全经理
 CISA - Certified Information Systems Auditor 注册信息系统审计师
 CCSP - Certified Cloud Security Professional 注册云安全专家
