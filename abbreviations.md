@@ -281,7 +281,7 @@ IQ - Intelligence Quotient 智力商数，智商
 EQ - Emotional Quotient 情感商数，情商
 AQ - Adversity Quotient 逆境商数，逆商
 FQ - Financial Quotient 金融智商，财商
-MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型：内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
+MBTI - Myers-Briggs Type Indicator 迈尔斯-布里格斯类型指标，由四组相反的先天偏好组成16种稳定的人格类型: 内向与外向(Introversion-Extraversion)、实感与直觉(Sensing-iNtuition)、思考与情感(Thinking-Feeling)、判断与感知(Judging-Perceiving)
 ```
 
 ```markdown
