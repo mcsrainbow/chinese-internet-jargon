@@ -1197,6 +1197,7 @@ FBI - Federal Bureau of Investigation 联邦调查局(美国)
 CIA - Central Intelligence Agency 中央情报局(美国)
 SIS - Secret Intelligence Service 英国秘密情报局，军情六处
 MI6 - Military Intelligence, Section 6 英国秘密情报局，军情六处
+NBO - British National (Overseas) visa 英国海外国民签证
 FWS - United States Fish and Wildlife Service 美国联邦野生动物服务局
 FR - FdR, Federal Reserve 联邦储备局，美联储
 DOGE - Department of Government Efficiency 政府效率部(美国)
