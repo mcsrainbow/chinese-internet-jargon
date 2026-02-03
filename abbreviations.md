@@ -726,6 +726,7 @@ CCIE - Cisco Certified Internetwork Expert 思科认证互联网专家
 RHCE - Red Hat Certified Engineer 红帽认证工程师
 RHCA - Red Hat Certified Architect 红帽认证架构师
 OCP - Oracle Certified Professional 甲骨文认证专业人员
+RAC - Real Application Cluster 实时应用集群
 ISACA - Information Systems Audit and Control Association 信息系统审计和控制协会
 ISC2 - International Information System Security Certification Consortium 国际信息系统安全认证联盟
 CISSP - Certified Information Systems Security Professional 信息系统安全专业认证
