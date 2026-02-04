@@ -1004,7 +1004,7 @@ MRR - Monthly Recurring Revenue 每月经常性收入
 ARR - Annual Recurring Revenue 每年经常性收入
 LTV - Lifetime Value 生命周期价值，单个客户在未来可能为该服务带来的收益总和
 CLV - Customer Lifetime Value 客户生命周期价值
-KYC - Know Your Customer 了解你的客户
+KYC - Know Your Customer 了解你的客户，实名认证
 CVR - Conversion Rate 转化率
 PCU - Peak Concurrent Users 最高并发用户
 DSR - Detail Seller Rating 卖家服务评级 / Daily Sales Report 日销售报告
