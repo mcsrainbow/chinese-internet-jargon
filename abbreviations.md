@@ -936,6 +936,8 @@ CE - Customer Engagement 客户参与
 VC - Venture Capital 风险投资
 PE - Private Equity 私募股权基金
 PE/PER - Price-to-Earning Ratio 市盈率
+LP - Limited Partner 有限合伙人，员工持股平台
+GP - General Partner 普通合伙人，实控人
 FA - Financial Advisor 财务顾问
 IPO - Initial Public Offering 首次公开募股
 ICO - Initial Coin Offering 首次代币发行
@@ -1303,6 +1305,7 @@ TVOC - Total Volatile Organic Compounds 总挥发性有机化合物
 
 ```markdown
 TRAE - The Real AI Engineer 真正的AI工程师，AI编程工具(字节跳动)
+N9N - 
 ```
 
 ```markdown
