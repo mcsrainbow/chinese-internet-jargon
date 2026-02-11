@@ -1854,6 +1854,10 @@ HPA - Horizontal Pod Autoscaler 水平Pod自动扩容
 VPA - Vertical Pod Autoscaler 垂直Pod自动扩容
 PV - Persistent Volume 持久卷
 PVC - Persistent Volume Claim 持久卷声明
+RWO - Read Write Once 只能被一个节点以读写方式挂载
+RWOP - Read Write Once Pod 只能被一个Pod以读写方式挂载
+ROX - Read Only Many 可以被多个节点以只读方式挂载
+RWX - Read Write Many 可以被多个节点以读写方式挂载
 SC - StorageClass 存储类
 HC - Helm Chart Helm模板
 ING - Ingress 入口
@@ -2050,6 +2054,7 @@ NTFS - New Technology File System 微软(Windows NT)系列操作系统的默认�
 HPFS - High Performance File System 高性能文件系统，IBM为OS/2操作系统提供的文件系统，是NTFS的原型
 NBU - NetBackup Symantec企业级备份管理软件
 VFS - Virtual File System 虚拟文件系统
+CoW - Copy on Write 写时复制，修改数据时，不在原地修改，而是先复制一份，在副本上修改，最后再切换指针
 FUSE - Filesystem in Userspace 用户空间文件系统
 EOF - End of File 标示文件的结束
 EOT - End of Transmission 标示通信的结束
