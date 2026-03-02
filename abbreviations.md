@@ -1838,6 +1838,7 @@ ADO - ActiveX Data Objects 活动数据对象
 URI - Uniform Resource Identifier 统一资源标识符
 URL - Uniform Resource Locator 统一资源定位符
 URN - Uniform Resource Name 统一资源名称
+SNI - Server Name Indication 服务器名称指示
 ARN - Amazon Resource Name 亚马逊资源名称 / Aliyun Resource Name 阿里云资源名称
 K8S - Kubernetes 容器编排平台
 O11Y - Observability 可观测性
