@@ -243,7 +243,6 @@ DYOR - Do Your Own Research 亲自研究，对自己负责
 FOMO - Fear of Missing Out 害怕错过
 FIRE - Financial Independence, Retire Early 财务独立，早日退休
 PUA - Pickup Artist 搭讪艺术家，通过刻意扭曲事实、持续精神打压等方式操纵他人怀疑自身价值，对操纵者百依百顺
-NPD - Narcissistic Personality Disorder 自恋型人格障碍，过度夸大自我的重要性，过度渴求别人的赞赏，缺乏同理他人行为的能力
 SM - Sadomasochism 性虐恋，施虐与受虐
 NTR - Ne To Ra Re(日文罗马拼音) 被他人强占配偶、对象
 JK - Jyoshi Koukousei 日本女高中生校服(日文罗马拼音)
@@ -1293,6 +1292,8 @@ PTSD - Post-Traumatic Stress Disorder 创伤后应激障碍
 AD - Alzheimer's Disease 阿尔茨海默病，老年痴呆，神经退化性疾病
 ED - Erectile Dysfunction 勃起功能障碍，阳痿
 ADHD - Attention Deficit Hyperactivity Disorder 注意缺陷多动障碍，神经发展障碍，表现为难以专注、过度活跃、做事不考虑后果
+NPD - Narcissistic Personality Disorder 自恋型人格障碍，过度夸大自我的重要性，过度渴求别人的赞赏，缺乏同理他人行为的能力
+BPD - Borderline Personality Disorder 边缘性人格障碍，表现为情绪不稳定、冲动、人际关系困难
 AED - Automated External Defibrillator 自动体外(心脏)除颤器
 GEO - Gene Expression Omnibus 高通量基因表达数据库
 EOL - Encyclopedia of Life 生命百科全书
