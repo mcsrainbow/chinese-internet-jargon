@@ -1148,7 +1148,7 @@
 水位 - Water level
 水准 - Standard / Level
 姿态 - Posture / Stance
-卡点 - Checkpoint / Milestone
+卡点 - Blocker / Bottleneck
 卡位 - Position / Slot
 头部 - Leading / Top
 腰部 - Mid-tier
