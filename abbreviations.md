@@ -1156,6 +1156,7 @@ MFN - Most Favored Nation (非歧视性)最惠国待遇(贸易原则)
 WHO - World Health Organization 世界卫生组织
 GPS - Global Positioning System 全球卫星定位系统(美国国防部)
 DoD - Department of Defense 国防部
+NATO - North Atlantic Treaty Organization 北约，北大西洋公约组织
 CNMD - Chinese National Missile Defence 中国国家导弹防御系统
 FDPR - Foreign Direct Product Rule 外国直接产品规则(美国)
 UN - United Nations 联合国
