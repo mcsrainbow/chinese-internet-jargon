@@ -643,14 +643,17 @@ PE - Property Executive 物业主管
 OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
 CEO - Chief Executive Officer 首席执行官
 COO - Chief Operated Officer 首席运营官
+CHRO - Chief Human Resource Officer 首席人力资源官
 CFO - Chief Finacial Officer 首席财务官
 CTO - Chief Technology Officer 首席技术官
 CIO - Chief Information Officer 首席信息官
+CLO - Chief Legal Officer 首席法律官
 CMO - Chief Marketing Officer 首席营销官
 CSO - Chief Security Officer 首席安全官 / Chief Strategy Officer 首席战略官 / Chief Satisfaction Officer 首席满意度官
+CRO - Chief Revenue Officer 首席营收官
 CHO - Chief Happiness Officer 首席快乐官
 CISO - Chief Information Security Officer 首席信息安全官
-CPO - Chief Privacy Officer 首席隐私官 / Chief Product Officer 首席产品官
+CPO - Chief Product Officer 首席产品官 / Chief Privacy Officer 首席隐私官
 CUO - Chief User Officer 首席用户官
 CPUO - Chief Product and User Officer 首席产品和用户官
 CDO - Chief Data Officer 首席数据官 / Chief Digital Officer 首席数字官
