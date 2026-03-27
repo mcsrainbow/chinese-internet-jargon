@@ -1441,6 +1441,7 @@ GPU - Graphics Processing Unit 图形处理器
 DPU - Data Processing Unit 数据处理器
 NPU - Neural network Processing Unit 神经网络处理器
 TPU - Tensor Processing Unit 张量处理器，为机器学习定制的芯片
+PPU - Parallel Processing Unit 并行处理器，针对大模型特有的稀疏性、量化和并行计算模式进行深度优化的NPU
 IA - Intel Architecture 英特尔架构
 SEN - Sensor 传感器
 SMC - Sensor Module Controller 传感器模块控制器
