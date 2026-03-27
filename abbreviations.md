@@ -1364,9 +1364,11 @@ AES - Autonomous Emergency Steering 自动紧急转向
 LDP - Lane Departure Prevention 车道偏离抑制
 SCM - Secondary Collision Mitigation 二次碰撞缓解
 LDW - Lane Departure Warning 车道偏离预警
+LKA - Lane Keeping Assist 车道保持辅助
 FCW - Forward Collision Warning 前向碰撞预警
 RCW - Rear Collision Warning 后向碰撞预警
 DOW - Door Open Warning 开门碰撞预警
+BSD - Blind Spot Detection 盲点监测
 TSA - Traffic Speed Alert 超速告警
 TSR - Traffic Sign Recognition 交通标志识别
 TLR - Traffic Light Recognition 交通信号灯识别
