@@ -1396,8 +1396,12 @@ RPM - Revolutions Per Minute 每分钟转速
 AUD - Audio 音频
 PiP - Picture in Picture 画中画
 SOD - Start of Delivery 开始交付
-NOA - Navigate on Autopilot 领航辅助驾驶
-FSD - Full Self-Driving 完全自动驾驶
+ADAS - Advanced Driver Assistance System 高级驾驶辅助系统
+FSD - Full Self-Driving 完全自动驾驶，不需要驾驶员干预
+NOA - Navigate on Autopilot 自动导航驾驶，基本不需要驾驶员干预
+NGP - Navigation Guided Pilot 导航引导驾驶，需要驾驶员干预
+NCA - Navigation Cruise Assist 领航巡航辅助，需要驾驶员干预
+FCA - Forward Collision-avoidance Assist 前向碰撞避免辅助，自动刹车系统
 BEV - Bird's Eye View 鸟瞰视角，俯视视角
 CDC - Continuous Damping Control 连续阻尼控制，能自动识别道路状况的汽车减震系统
 PVC - Polyvinyl Chloride 聚氯乙烯，工程塑料，常用于板材、管材、门窗
