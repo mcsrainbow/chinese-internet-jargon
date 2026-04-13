@@ -1104,7 +1104,9 @@ ORG - Organization 组织
 MIL - Military 军事
 INT - International 国际
 CN/CHN - China 中国
+CM - China Mainland 中国大陆
 HK/HKG - Hong Kong 香港
+MO/MAC - Macau 澳门
 HKD - Hong Kong Dollar 港元
 APJ - Asia-Pacific and Japan 亚太地区和日本
 GC - Greater China 大中华区，以华人为主的中国大陆、香港、澳门、台湾，以及新加坡、马来西亚等华人地区
@@ -1720,8 +1722,9 @@ IPD - Integrated Product Development 集成产品开发
 IoT - Internet of Things 物联网
 CPS - Cyber-Physical Systems 嵌入式设备和网络物理系统
 ISO - International Organization for Standardization 国际标准化组织
-ITU - International Telecommunication Union 国际电信联盟，国际电联
 IEC - International Electrotechnical Commission 国际电工委员会
+BSI - British Standards Institution 英国标准协会
+ITU - International Telecommunication Union 国际电信联盟，国际电联
 IEEE - Institute of Electrical and Electronics Engineers 电气电子工程师学会
 ASCII - American Standard Code for Information Interchange 美国信息交换标准代码
 UTF - Unicode Transformation Format 针对Unicode的可变长度字符编码
