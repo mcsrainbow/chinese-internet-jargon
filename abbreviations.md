@@ -1566,6 +1566,7 @@ ICT - Information and Communications Technology 信息及通信技术
 OT - Operational Technology 运营技术
 ICS - Industrial Control System 工业控制系统
 PC - Personal Computer 个人计算机
+PDA - Personal Digital Assistant 个人数码助理
 PIN - Personal Identification Number 个人识别码
 PII - Personal Identifiable Information 个人身份信息
 PHI - Protected Health Information 受保护的健康信息
