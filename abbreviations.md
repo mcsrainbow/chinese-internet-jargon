@@ -1531,6 +1531,8 @@ TLS - Transport Layer Security 传输层安全性协议
 SS - Shadowsocks 影梭，基于Socks5代理方式的加密传输协议
 SSR - ShadowsocksR 基于Shadowsocks的改进版本
 TFO - TCP Fast Open TCP快速打开，允许在TCP握手阶段就发送数据，提高传输效率，需要服务器支持
+TJ - Trojan 基于HTTPS协议的加密传输协议
+HY - Hysteria 基于QUIC协议的加密传输协议
 CA - Certificate Authority 证书授权
 PCA - Private Certificate Authority 私有证书授权
 DV - Domain Validation 域名验证(证书)
