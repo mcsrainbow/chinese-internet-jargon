@@ -1505,6 +1505,7 @@ FaaS - Function as a Service 函数即服务
 DaaS - Data as a Service 数据即服务
 BaaS - Backend as a Service 后端即服务
 MaaS - Messaging as a Service 消息即服务
+RaaS - Result as a Service 结果即服务，按效果付费的商业模式
 KISS - Keep It Simple, Stupid 保持简单和愚蠢，设计应注重简约的原则
 DNS - Domain Name System 域名系统
 DoH - DNS over HTTPS 基于HTTPS的域名系统
