@@ -1411,6 +1411,7 @@ NCA - Navigation Cruise Assist 领航巡航辅助，需要驾驶员干预
 FCA - Forward Collision-avoidance Assist 前向碰撞避免辅助，自动刹车系统
 BEV - Bird's Eye View 鸟瞰视角，俯视视角
 CDC - Continuous Damping Control 连续阻尼控制，能自动识别道路状况的汽车减震系统
+GT - Gran Turismo / Grand Touring 伟大旅程(高性能豪华旅行车)
 PVC - Polyvinyl Chloride 聚氯乙烯，工程塑料，常用于板材、管材、门窗
 PU - Polyurethane 聚氨酯，人造皮革
 PET - Polyethylene Terephthalate 聚对苯二甲酸乙二酯，聚酯，的确良，涤纶，常用于矿泉水瓶、碳酸饮料瓶、塑料绳、绝缘膜、包装
@@ -1793,6 +1794,7 @@ I/O - Input/Output 输入/输出 / Inbound/Outbound 入站/出站
 SWE - Software Engineering 软件工程 / Software Engineer 软件工程师
 SDE - Software Development Engineer 软件开发工程师
 SRE - Site Reliability Engineering 站点可靠性工程 / Site Reliability Engineer 站点可靠性工程师
+FDE - Forward Deployed Engineer 前沿部署工程师
 MLE - Machine Learning Engineer 机器学习工程师
 DE - Data Engineering 数据工程 / Data Engineer 数据工程师
 DEV - Development 开发(环境)
