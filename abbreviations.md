@@ -390,6 +390,7 @@ DPS - Damage Per Second 每秒产生伤害
 PVP - Player VS Player 玩家间对战
 PVE - Player VS Environment 玩家对战环境(副本)
 PVC - Player VS Computer 玩家对战电脑
+OP - Overpowered 过于强大
 IMAX - Image Maximum 巨幕(电影)
 IMDb - Internet Movie Database 互联网电影数据库
 DJ - Disc Jockey 碟片骑师
