@@ -903,6 +903,7 @@ CPM - Critical Path Method 关键路径法
 PDPC - Process Decision Program Chart 过程决策程序图
 DoD - Definition of Done 完成定义，任务完成的标准
 MoSCoW - Must Have, Should Have, Could Have, Won't Have 必须有、应该有、可以有、不必有，需求优先级排序方法
+MECE - Mutually Exclusive, Collectively Exhaustive 相互独立，完全穷尽，分类原则
 ```
 
 ```markdown
