@@ -1903,6 +1903,7 @@ i18n - internationalization 国际化与本地化
 CRI - Container Runtime Interface 容器运行时接口
 CNI - Container Network Interface 容器网络接口
 CSI - Container Storage Interface 容器存储接口
+DRA - Dynamic Resource Allocation 动态资源分配
 KEDA - Kubernetes Event-Driven Autoscaler 基于事件驱动的Kubernetes自动扩容
 eBPF - extened Berkeley Packet Filter 扩展的伯克利包过滤器，允许在操作系统内核中运行沙盒程序
 TEE - Trusted Execution Environment 可信执行环境
