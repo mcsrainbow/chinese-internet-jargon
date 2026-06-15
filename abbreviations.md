@@ -1109,6 +1109,9 @@ MIL - Military 军事
 INT - International 国际
 CN/CHN - China 中国
 CM - China Mainland 中国大陆
+SC - Simplified Chinese 简体中文
+TC - Traditional Chinese 繁体中文
+EN - English 英文
 HK/HKG - Hong Kong 香港
 MO/MAC - Macau 澳门
 HKD - Hong Kong Dollar 港元
