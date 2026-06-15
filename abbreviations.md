@@ -641,6 +641,7 @@ PB - Product Backlog 产品待办列表，在每个Sprint(冲刺周期)之前，
 SB - Sprint Backlog 迭代待办列表，团队在当前Sprint(冲刺周期)中要完成的任务
 BS - Brainstorming 头脑风暴
 TB - Team Building 团队建设
+DISC - Dominance, Influence, Steadiness, Conscientiousness 职业性格测试，支配性(领导者/力量型)，影响性(社交者/活泼型)，稳定性(支持者/和平型)，服从性(思考者/完美型)
 PE - Property Executive 物业主管
 OD - Outsourcing Dispacth 外包派遣 / Operations Director 运营总监
 CEO - Chief Executive Officer 首席执行官
