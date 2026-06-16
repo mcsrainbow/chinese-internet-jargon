@@ -208,6 +208,7 @@ BBT - Be Back Tomorrow 明天回来
 BOL - Best of luck 祝你好运
 BG - Background 背景
 BGM - Background Music 背景音乐
+OST - Original Sound Track 原始声音轨道
 BBQ - Barbecue 烧烤
 KB - Keyboard 键盘
 DIR - Direction 指导，方向
