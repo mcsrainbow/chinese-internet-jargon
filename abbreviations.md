@@ -1278,6 +1278,8 @@ CUCC - China Unicom Communications Corporation 中国联合网络通信集团，
 CTCC - China Telecom Communications Corporation 中国电信集团，中国电信
 TCL - The Creative Life 创意(感动)生活，中国家电企业
 HTC - High Tech Computer Corporation 宏达国际电子(台湾)
+HN - Hacker News 黑客新闻，科技和创业社交新闻站
+YC - Y Combinator 创业孵化器
 ```
 
 ## 医学英文缩写
