@@ -2372,6 +2372,7 @@ PRD - Product Requirement Document 产品需求文档，图纸阶段
 SOP - Standard Operating Procedure 标准操作流程
 FDD - Feature Driven Development 特性驱动开发
 TDD - Test-Driven Development 测试驱动开发
+SDD - Specification Driven Development 规范驱动开发
 BDD - Behavior-Driven Development 行为驱动开发
 DDD - Domain-Driven Design 领域驱动设计
 MDE - Model-Driven Engineering 模型驱动工程
