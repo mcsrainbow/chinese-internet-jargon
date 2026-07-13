@@ -1290,6 +1290,7 @@ DNA - DeoxyriboNucleic Acid 脱氧核糖核酸，生物大分子，组成遗传�
 RNA - RiboNucleic Acid 核糖核酸，生物大分子，在遗传编码、翻译、调控、基因表达等过程中发挥作用
 DHA - Docosahexaenoic Acid 二十二碳六烯酸，脑黄金，大脑和视网膜的重要组成成分
 ICU - Intensive Care Unit 重症监护室
+CPR - Cardiopulmonary Resuscitation 心肺复苏
 CCU - Coronary Care Unit 冠心病监护室
 CICU - Cardiac Intensive Care Unit 心脏重症监护室
 MICU - Medical Intensive Care Unit 内科重症监护室
