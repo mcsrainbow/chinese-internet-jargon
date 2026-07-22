@@ -2140,6 +2140,8 @@ OSI - Open System Interconnection Model 开放式系统互联模型
 IETF - Internet Engineering Task Force 互联网工程任务组
 RFC - Request for Comments 请求意见稿(互联网工程任务组发布)
 IANA - Internet Assigned Numbers Authority 互联网号码分配局
+ARPA - Address and Routing Parameter Area 地址和路由参数区域
+ICANN - Internet Corporation for Assigned Names and Numbers 互联网名称与数字地址分配机构
 CIDR - Classless Inter-Domain Routing 无类别域间路由，可提高路由效率的IP地址分配方法，使用网络/掩码的形式表示网段, 如192.168.1.0/255.255.255.0或192.168.1.0/24
 GC - Garbage Collection 垃圾回收
 RIP - Routing Information Protocol 路由信息协议
