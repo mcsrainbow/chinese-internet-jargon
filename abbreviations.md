@@ -1701,7 +1701,7 @@ AGI - Artificial General Intelligence 通用人工智能
 SGI - Super General Intelligence 超级通用人工智能
 SI - Smart Interaction 智能交互 / Sustainable Investment 可持续投资 / Super Intelligence 超级智能
 OPC - One Person Company 一人公司
-HITL - Human In The Loop 人在回路，人机协同，在自动化流程的关键节点里，有人介入审核、修正、做最终决策，而不是完全让系统自动跑
+HITL - Human-in-the-Loop 人在回路，人机协同，在自动化流程的关键节点里，有人介入审核、修正、做最终决策，而不是完全让系统自动跑
 GPQA - Graduate-Level Google-Proof Q&A Benchmark 研究生水平谷歌证明问答基准
 RAG - Retrieval Augmented Generation 检索增强生成
 SFT - Supervised Fine-Tuning 有监督微调(精调)，在预训练模型的基础上使用带标签的数据进行微调(精调)
