@@ -1711,6 +1711,7 @@ AST - Abstract Syntax Tree 抽象语法树
 LLM - Large Language Model 大型语言模型
 SLM - Small Language Model 小型语言模型
 LVM - Large Vision Model 大型视觉模型
+ELI5 - Explain Like I'm Five 用五岁小孩能理解的方式解释
 SMOTE - Synthetic Minority Over-sampling Technique 合成少数类过采样技术
 GAN - Generative Adversarial Network 生成对抗网络，非监督式学习的一种方法，通过两个神经网络相互博弈的方式进行学习
 GPT - Generative Pre-trained Transformer 基于Transformer的生成式预训练模型
