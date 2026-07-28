@@ -1280,6 +1280,7 @@ TCL - The Creative Life 创意(感动)生活，中国家电企业
 HTC - High Tech Computer Corporation 宏达国际电子(台湾)
 HN - Hacker News 黑客新闻，科技和创业社交新闻站
 YC - Y Combinator 创业孵化器
+SK - Seon-Kyung / Supreme Keep 鲜京集团(韩国)
 ```
 
 ## 医学英文缩写
@@ -2080,6 +2081,7 @@ RAM - Random Access Memory 随机存取存储器，内存
 VRAM - Video RAM 视频随机存取存储器，显存
 SRAM - Static RAM 静态随机存取存储器
 DRAM - Dynamic RAM 动态随机存取存储器
+HBM - High Bandwidth Memory 高带宽内存
 SDRAM - Synchronous Dynamic RAM 同步动态随机存取存储器
 DDR - DDR SDRAM, Double Data Rate Synchronous Dynamic Random Access Memory 双数据率同步动态随机存储器
 LPDDR - Low Power DDR SDRAM 低功耗双数据率同步动态随机存储器，用于移动设备
