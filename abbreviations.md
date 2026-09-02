@@ -1111,6 +1111,7 @@ MIL - Military 军事
 INT - International 国际
 CN/CHN - China 中国
 CM - China Mainland 中国大陆
+GBA - Greater Bay Area 大湾区，粤港澳大湾区
 SC - Simplified Chinese 简体中文
 TC - Traditional Chinese 繁体中文
 EN - English 英文
