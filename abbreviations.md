@@ -1701,6 +1701,7 @@ AIGC - AI Generated Content 人工智能生成内容
 GenAI - Generative AI 生成式人工智能，通过AI模型生成文本、图像、音频等内容，模仿和创造新内容
 AGI - Artificial General Intelligence 通用人工智能
 SGI - Super General Intelligence 超级通用人工智能
+RSI - Recursive Self-Improvement 递归自我改进 / Relative Strength Index 相对强弱指数，用于衡量价格变动的速度与幅度
 SI - Smart Interaction 智能交互 / Sustainable Investment 可持续投资 / Super Intelligence 超级智能
 OPC - One Person Company 一人公司
 HITL - Human-in-the-Loop 人在回路，人机协同，在自动化流程的关键节点里，有人介入审核、修正、做最终决策，而不是完全让系统自动跑
