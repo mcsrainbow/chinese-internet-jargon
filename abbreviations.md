@@ -2090,6 +2090,7 @@ DDR - DDR SDRAM, Double Data Rate Synchronous Dynamic Random Access Memory 双�
 LPDDR - Low Power DDR SDRAM 低功耗双数据率同步动态随机存储器，用于移动设备
 BYOK - Bring Your Own Key 自带密钥
 BYOD - Bring Your Own Device 自带设备
+PAYG - Pay-As-You-Go 按需付费
 FS - File System 文件系统
 NFS - Network File System 网络文件系统
 DFS - Distributed File System 分布式文件系统
