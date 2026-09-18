@@ -1648,6 +1648,7 @@ PCAP - Packet Capture 数据包捕获
 DMG - Disk Image 磁盘镜像
 PKG - Package 包
 TMP - TEMP, Temporary 临时
+BAK - Backup 备份
 CFG - CONF, Configuration 配置
 INI - Initial 初始化，配置
 PEM - Privacy-Enhanced Mail 隐私增强邮件，密钥文件格式
