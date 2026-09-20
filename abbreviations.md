@@ -35,6 +35,7 @@ FWIW - For What It's Worth 对其价值而言，无论如何，不管有没有�
 DOE - Depending On Experience 视工作经验而言
 B4 - Before 之前
 M8 - Mate 兄弟，哥们
+TMR - Tomorrow 明天
 FTE - Full-time Employee 全职雇员
 PTE - Part-time Employee 兼职雇员
 ASAP - As Soon As Possible 尽快
