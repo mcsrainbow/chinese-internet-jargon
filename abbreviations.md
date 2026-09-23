@@ -2288,6 +2288,7 @@ DSS - Data Storage Segregation 数据存储隔离
 RDS - Relational Database Service 关系型数据库服务
 IAM - Identity and Access Management 身份与访问管理
 RAM - Resource Access Management 资源访问管理
+RRSA - RAM Roles for Service Accounts 基于适用于服务账户的RAM角色
 KMS - Key Management Service 密钥管理服务
 AKSK - Access Key ID, Secret Access Key 云服务接口的访问密钥
 SLS - Simple Log Service 简单日志服务
