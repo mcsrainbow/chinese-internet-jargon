@@ -381,6 +381,7 @@ CF - Crossfire 穿越火线
 DNF - Dungeon & Fighter 地下城与勇士
 SNK - Shin Nihon Kikaku(日文罗马拼音) / New Japan Project 新日本企画，代表游戏"拳皇"、"侍魂"、"合金弹头"
 KOF - The King of Fighters 拳皇
+AC - Assassin's Creed 刺客信条
 HP - Health Points 生命值，血量
 MP - Magic Points 魔法值，蓝条
 AD - Attack Damage 伤害输出
@@ -414,6 +415,7 @@ LSD - Long Slow Distance 长时间用较慢的配速跑长距离
 AK - Автомат Калашникова 卡拉什尼科夫自动步枪(俄语)
 AR - Armalite Rifle 阿玛莱特步枪
 WMD - Weapons of Mass Destruction 大规模杀伤性武器，大杀器
+PJ - Private Jet 私人飞机
 AJ - Air Jordan 飞人乔丹，NIKE(耐克)旗下高端球鞋品牌
 GTR - Gran Turismo Racing 高性能(意大利语)赛车
 LV - Louis Vuitton 路易威登(法语)，法国奢侈品品牌
@@ -1093,6 +1095,7 @@ SMO - Social Media Optimization 社交媒体优化
 SOHO - Small Office Home Office 家居办公
 SNS - Social Networking Services 社会性网络服务
 SMS - Short Message Service 短消息服务
+RCS - Rich Communication Services 富通信服务
 OTA - Online Travel Agency 在线旅游机构
 FAQ - Frequently Asked Questions 常见问题解答
 TOC - Table of Content 内容目录
