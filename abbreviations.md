@@ -237,6 +237,8 @@ Bldg - Building 建筑物
 Dept - Department 部门
 PO - Post Office 邮局
 Approx. - Approximate 大约
+Sr. - Senior 高级的，年长的
+Jr. - Junior 初级的，年轻的
 RGDS - Regards 问候
 RPS - Rock Paper Scissors 石头剪刀布
 YOLO - You Only Live Once 你只活一次
