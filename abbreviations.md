@@ -991,7 +991,8 @@ PWD - Print Working Directory 打印当前工作目录 / Password 密码
 UE/UX - User Experience 用户体验
 UED - User Experience Design 用户体验设计
 VI - Visual Identity 企业视觉形象设计
-IP - Intellectual Property 知识产权
+IP - Intellectual Property 知识产权(内容/品牌/形象)
+IPR - Intellectual Property Rights 知识产权(法律权利)
 VIP - Very Important Person 非常重要人物
 SVIP - Super Very Important Person 超级非常重要人物
 VIC - Very Important Client 非常重要客户
