@@ -2343,6 +2343,7 @@ MO - Modus Operandi 惯用手法
 COTS - Commercial Off-The-Shelf 商用现成品或技术
 SASE - Secure Access Service Edge 安全访问服务边缘，零信任内网访问方案
 SIEM - Security Information And Event Management 安全信息和事件管理
+SOAR - Security Orchestration, Automation and Response 安全编排自动化与响应
 ISCM - Information Security Continuous Monitoring 信息安全持续监控
 CERT - Computer Emergency Response Team 计算机应急响应小组
 CSIRT - Computer Security Incident Response Team 计算机安全事件响应小组
@@ -2350,7 +2351,6 @@ RUM - Real-User Monitoring 真实用户监控
 EUM - End-User Experience Monitoring 最终用户体验监控
 CASB - Cloud Access Security Broker 云访问安全代理
 NGFW - Generation Firewall 下一代防火墙
-SOAR - Security Orchestration, Automation and Response 安全编排自动化与响应
 EDR - Endpoint Detection and Response 端点检测与响应
 MDR - Managed Detection and Response 托管检测与响应
 NDR - Network Detection and Response 网络检测与响应
